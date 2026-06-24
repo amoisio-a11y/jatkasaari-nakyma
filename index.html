@@ -1,0 +1,497 @@
+<!DOCTYPE html>
+<html lang="fi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Jätkäsaari · näkymä</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{
+  --ink:#0E1B24;        /* Itämeren tumma vesi */
+  --ink-2:#152A36;      /* paneeli */
+  --ink-3:#1C3543;      /* korotettu */
+  --fog:#EAF0F2;        /* teksti */
+  --fog-dim:#89A0AC;    /* vaimennettu */
+  --line:rgba(255,255,255,.07);
+  --tram:#00A862;       /* Helsingin ratikanvihreä — live/liikenne */
+  --amber:#F4B942;      /* aurinko/sää */
+  --soon:#FF6B45;       /* "kohta lähtee" */
+  --radius:16px;
+  --pad:clamp(14px,2.4vw,26px);
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{
+  background:
+    radial-gradient(1200px 700px at 85% -10%, #1b3a48 0%, transparent 55%),
+    radial-gradient(900px 600px at -10% 110%, #16313d 0%, transparent 50%),
+    var(--ink);
+  color:var(--fog);
+  font-family:"IBM Plex Sans",system-ui,sans-serif;
+  font-size:16px; line-height:1.45;
+  -webkit-font-smoothing:antialiased;
+  min-height:100vh;
+}
+.wrap{max-width:1160px;margin:0 auto;padding:clamp(16px,3vw,34px)}
+
+/* ---------- otsake ---------- */
+header.top{
+  display:flex;align-items:baseline;justify-content:space-between;
+  gap:16px;flex-wrap:wrap;margin-bottom:clamp(16px,2.6vw,28px);
+}
+.brand{display:flex;align-items:baseline;gap:14px}
+.brand h1{
+  font-family:"Space Grotesk",sans-serif;font-weight:700;
+  font-size:clamp(26px,4.6vw,44px);letter-spacing:-.02em;margin:0;line-height:1;
+}
+.brand .tick{width:10px;height:10px;border-radius:50%;background:var(--tram);
+  box-shadow:0 0 0 0 rgba(0,168,98,.6);animation:pulse 2.6s infinite;align-self:center}
+@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(0,168,98,.5)}70%{box-shadow:0 0 0 9px rgba(0,168,98,0)}100%{box-shadow:0 0 0 0 rgba(0,168,98,0)}}
+.brand .sub{color:var(--fog-dim);font-size:13px;letter-spacing:.14em;text-transform:uppercase}
+.clock{font-family:"Space Grotesk",sans-serif;text-align:right;line-height:1.05}
+.clock .t{font-size:clamp(22px,3.2vw,32px);font-weight:500;font-variant-numeric:tabular-nums;letter-spacing:.01em}
+.clock .d{color:var(--fog-dim);font-size:13px;text-transform:capitalize}
+
+/* ---------- kortit ---------- */
+.card{
+  background:linear-gradient(180deg,var(--ink-2),var(--ink-2) 60%,#13262f);
+  border:1px solid var(--line);border-radius:var(--radius);
+  padding:var(--pad);margin-bottom:clamp(14px,2vw,20px);
+}
+.card-head{display:flex;align-items:center;gap:12px;margin-bottom:16px}
+.card-head .eyebrow{
+  font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--fog-dim);
+}
+.card-head .rule{flex:1;height:1px;background:var(--line)}
+.card-head .meta{font-size:12px;color:var(--fog-dim);font-variant-numeric:tabular-nums}
+
+/* ---------- ratikat ---------- */
+.tram-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(12px,2vw,22px)}
+@media(max-width:620px){.tram-grid{grid-template-columns:1fr}}
+.stop h2{
+  font-family:"Space Grotesk",sans-serif;font-weight:500;font-size:18px;margin:0 0 12px;
+  display:flex;align-items:center;gap:9px;
+}
+.stop h2 .dot{width:7px;height:7px;border-radius:50%;background:var(--tram)}
+.dep{
+  display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:14px;
+  padding:11px 0;border-top:1px solid var(--line);
+}
+.dep:first-of-type{border-top:none}
+.badge{
+  min-width:38px;height:34px;padding:0 9px;border-radius:9px;
+  background:var(--tram);color:#04241a;
+  font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:17px;
+  display:flex;align-items:center;justify-content:center;letter-spacing:-.01em;
+}
+.dep .dest{color:var(--fog-dim);font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dep .min{
+  font-family:"Space Grotesk",sans-serif;font-weight:500;font-size:clamp(20px,3vw,26px);
+  font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap;
+}
+.dep .min small{font-size:13px;color:var(--fog-dim);font-weight:400;margin-left:3px}
+.dep .min.now{color:var(--soon)}
+.dep .min.soon{color:var(--tram)}
+.dep .min .live{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--tram);margin-left:6px;vertical-align:middle;animation:pulse 2s infinite}
+
+/* ---------- sää ---------- */
+.now-line{display:flex;align-items:center;gap:16px;margin-bottom:14px;flex-wrap:wrap}
+.now-temp{font-family:"Space Grotesk",sans-serif;font-size:clamp(34px,5vw,46px);font-weight:500;line-height:1;font-variant-numeric:tabular-nums}
+.now-ico{font-size:34px;line-height:1}
+.now-desc{color:var(--fog-dim);font-size:14px}
+.now-desc b{color:var(--fog);font-weight:500;display:block;font-size:15px}
+.hours{display:flex;gap:8px;overflow-x:auto;padding-bottom:6px;scrollbar-width:thin}
+.hours::-webkit-scrollbar{height:6px}
+.hours::-webkit-scrollbar-thumb{background:var(--line);border-radius:4px}
+.hour{
+  flex:0 0 auto;width:58px;text-align:center;padding:10px 6px;border-radius:12px;
+  background:var(--ink-3);border:1px solid var(--line);
+}
+.hour .h{font-size:12px;color:var(--fog-dim);font-variant-numeric:tabular-nums}
+.hour .i{font-size:22px;margin:4px 0;line-height:1}
+.hour .tp{font-family:"Space Grotesk",sans-serif;font-weight:500;font-variant-numeric:tabular-nums}
+.hour .pr{font-size:11px;color:#67B8FF;height:13px;font-variant-numeric:tabular-nums}
+
+/* ---------- uutiset ---------- */
+.news a{
+  display:grid;grid-template-columns:1fr auto;gap:6px 16px;align-items:baseline;
+  padding:12px 0;border-top:1px solid var(--line);text-decoration:none;color:var(--fog);
+}
+.news a:first-of-type{border-top:none}
+.news a:hover .ti,.news a:focus-visible .ti{color:var(--tram)}
+.news .ti{font-size:15px;line-height:1.35;transition:color .15s}
+.news .src{color:var(--fog-dim);font-size:12px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.news .src .name{color:var(--amber);text-transform:uppercase;letter-spacing:.06em;font-size:11px;margin-right:8px}
+
+/* ---------- tilaviestit ---------- */
+.msg{color:var(--fog-dim);font-size:14px;padding:6px 0}
+.msg.err{color:#FF9b80}
+.skeleton{color:var(--fog-dim);opacity:.6}
+
+footer{color:var(--fog-dim);font-size:12px;text-align:center;margin-top:8px;opacity:.7}
+
+@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-offset:3px;border-radius:6px}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header class="top">
+    <div class="brand">
+      <span class="tick" title="päivittyy automaattisesti"></span>
+      <h1>Jätkäsaari</h1>
+      <span class="sub">päivän näkymä</span>
+    </div>
+    <div class="clock">
+      <div class="t" id="clock-t">–</div>
+      <div class="d" id="clock-d">–</div>
+    </div>
+  </header>
+
+  <!-- RATIKAT -->
+  <section class="card">
+    <div class="card-head">
+      <span class="eyebrow">Raitiovaunut</span>
+      <span class="rule"></span>
+      <span class="meta" id="tram-meta"></span>
+    </div>
+    <div class="tram-grid">
+      <div class="stop">
+        <h2><span class="dot"></span>Kanariankatu</h2>
+        <div id="stop-kanariankatu"><div class="msg skeleton">Haetaan lähtöjä…</div></div>
+      </div>
+      <div class="stop">
+        <h2><span class="dot"></span>Tahitinkatu</h2>
+        <div id="stop-tahitinkatu"><div class="msg skeleton">Haetaan lähtöjä…</div></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SÄÄ -->
+  <section class="card">
+    <div class="card-head">
+      <span class="eyebrow">Sää · seuraavat 24 h</span>
+      <span class="rule"></span>
+      <span class="meta" id="wx-meta"></span>
+    </div>
+    <div class="now-line" id="wx-now"><div class="msg skeleton">Haetaan säätä…</div></div>
+    <div class="hours" id="wx-hours"></div>
+  </section>
+
+  <!-- UUTISET -->
+  <section class="card">
+    <div class="card-head">
+      <span class="eyebrow">Uutiset · Jätkäsaari</span>
+      <span class="rule"></span>
+      <span class="meta" id="news-meta"></span>
+    </div>
+    <div class="news" id="news"><div class="msg skeleton">Haetaan otsikoita…</div></div>
+  </section>
+
+  <footer id="foot"></footer>
+</div>
+
+<script>
+/* ============================================================
+   ASETUKSET — täytä nämä
+   ============================================================ */
+const CONFIG = {
+  // 1) Digitransit-avain (ilmainen): https://portal-api.digitransit.fi/
+  digitransitKey: "TÄHÄN_DIGITRANSIT_AVAIN",
+
+  // 2) Sijainti sääennustetta varten (Jätkäsaari)
+  lat: 60.156,
+  lon: 24.913,
+
+  // 3) Uutiset. Ensisijaisesti GitHub Actionin tuottama news.json samalta
+  //    origin-osoitteelta -> ei CORS-ongelmaa. Jätä tämä päälle jos käytät
+  //    uutisputkea. Tyhjennä ("") jos haluat hakea RSS:n suoraan selaimesta.
+  newsJson: "news.json",
+
+  // 3b) Varavaihtoehto: RSS suoraan selaimesta (toimii vain jos syöte sallii
+  //     CORS:n tai corsProxy on asetettu). name = otsikon perään näytettävä tunnus.
+  feeds: [
+    // { name: "HS",  url: "https://www.hs.fi/...rss..." },
+    // { name: "Yle", url: "https://feeds.yle.fi/..." },
+  ],
+
+  // 3c) CORS-välityspalvelin suoralle RSS-haulle. Esim. "https://corsproxy.io/?url="
+  corsProxy: "",
+
+  // Montako lähtöä per pysäkki ja montako otsikkoa
+  trams: { perStop: 4 },
+  newsMax: 12,
+
+  // Päivitysvälit (ms)
+  refresh: { trams: 30000, weather: 30*60000, news: 15*60000 }
+};
+
+const DT_ENDPOINT = "https://api.digitransit.fi/routing/v2/hsl/gtfs/v1";
+
+/* ============================================================
+   Apureita
+   ============================================================ */
+const $ = s => document.querySelector(s);
+const pad = n => String(n).padStart(2,"0");
+
+function relTimeFi(date){
+  const diff = (Date.now()-date.getTime())/1000;
+  if(diff < 60) return "juuri nyt";
+  if(diff < 3600) return Math.floor(diff/60)+" min sitten";
+  if(diff < 86400) return Math.floor(diff/3600)+" t sitten";
+  const d = Math.floor(diff/86400);
+  return d===1 ? "eilen" : d+" pv sitten";
+}
+
+/* ============================================================
+   KELLO
+   ============================================================ */
+const WEEKDAYS = ["su","ma","ti","ke","to","pe","la"];
+function tickClock(){
+  const now = new Date();
+  $("#clock-t").textContent = pad(now.getHours())+":"+pad(now.getMinutes());
+  $("#clock-d").textContent = WEEKDAYS[now.getDay()]+" "+now.getDate()+"."+(now.getMonth()+1)+".";
+}
+setInterval(tickClock,1000); tickClock();
+
+/* ============================================================
+   1) RAITIOVAUNUT  (Digitransit GraphQL)
+   ============================================================ */
+const STOP_FIELDS = `
+  gtfsId name vehicleMode
+  stoptimesWithoutPatterns(numberOfDepartures: 8, omitNonPickups: true) {
+    realtimeDeparture serviceDay realtime headsign
+    trip { route { shortName mode } }
+  }`;
+const TRAM_QUERY = `{
+  kanariankatu: stops(name: "Kanariankatu") { ${STOP_FIELDS} }
+  tahitinkatu:  stops(name: "Tahitinkatu")  { ${STOP_FIELDS} }
+}`;
+
+let tramCache = { kanariankatu: [], tahitinkatu: [] }; // talletetaan lähtöjen epoch-ajat
+
+function collectDepartures(stops){
+  const out = [];
+  (stops||[]).forEach(stop=>{
+    (stop.stoptimesWithoutPatterns||[]).forEach(st=>{
+      const route = st.trip && st.trip.route;
+      if(!route || route.mode !== "TRAM") return;          // vain ratikat
+      out.push({
+        line: route.shortName,
+        dest: st.headsign || "",
+        epoch: (st.serviceDay + st.realtimeDeparture) * 1000,
+        realtime: st.realtime
+      });
+    });
+  });
+  return out.sort((a,b)=>a.epoch-b.epoch).slice(0, CONFIG.trams.perStop);
+}
+
+function renderStop(id, deps){
+  const el = $("#stop-"+id);
+  if(!deps.length){ el.innerHTML = '<div class="msg">Ei lähtöjä lähiaikoina.</div>'; return; }
+  el.innerHTML = deps.map(d=>{
+    const mins = Math.round((d.epoch - Date.now())/60000);
+    let cls="", txt;
+    if(mins<=0){ cls="now"; txt='<span class="min '+cls+'">nyt</span>'; }
+    else { cls = mins<=3 ? "soon":""; txt='<span class="min '+cls+'">'+mins+'<small>min</small>'+(d.realtime?'<span class="live"></span>':'')+'</span>'; }
+    return `<div class="dep">
+        <span class="badge">${d.line}</span>
+        <span class="dest">${d.dest}</span>
+        ${txt}
+      </div>`;
+  }).join("");
+}
+
+// Laske minuutit uudelleen ilman uutta hakua (näyttää elävältä)
+function recomputeTrams(){
+  renderStop("kanariankatu", tramCache.kanariankatu);
+  renderStop("tahitinkatu",  tramCache.tahitinkatu);
+}
+
+async function fetchTrams(){
+  if(!CONFIG.digitransitKey || CONFIG.digitransitKey.startsWith("TÄHÄN")){
+    const m='<div class="msg err">Lisää Digitransit-avain asetuksiin.</div>';
+    $("#stop-kanariankatu").innerHTML=m; $("#stop-tahitinkatu").innerHTML=m; return;
+  }
+  try{
+    const res = await fetch(DT_ENDPOINT,{
+      method:"POST",
+      headers:{ "Content-Type":"application/json", "digitransit-subscription-key":CONFIG.digitransitKey },
+      body: JSON.stringify({ query: TRAM_QUERY })
+    });
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const json = await res.json();
+    if(json.errors) throw new Error(json.errors[0].message);
+    tramCache.kanariankatu = collectDepartures(json.data.kanariankatu);
+    tramCache.tahitinkatu  = collectDepartures(json.data.tahitinkatu);
+    recomputeTrams();
+    $("#tram-meta").textContent = "päivitetty "+pad(new Date().getHours())+":"+pad(new Date().getMinutes());
+  }catch(err){
+    const m='<div class="msg err">Lähtötietoja ei saatu. ('+err.message+')</div>';
+    $("#stop-kanariankatu").innerHTML=m; $("#stop-tahitinkatu").innerHTML=m;
+  }
+}
+
+/* ============================================================
+   2) SÄÄ  (Open-Meteo, ei avainta)
+   ============================================================ */
+const WMO = {
+  0:["Selkeää","☀️"],1:["Enimmäkseen selkeää","🌤️"],2:["Puolipilvistä","⛅"],3:["Pilvistä","☁️"],
+  45:["Sumua","🌫️"],48:["Huurresumua","🌫️"],
+  51:["Tihkua","🌦️"],53:["Tihkua","🌦️"],55:["Tihkua","🌧️"],
+  56:["Jäätävää tihkua","🌧️"],57:["Jäätävää tihkua","🌧️"],
+  61:["Vesisadetta","🌧️"],63:["Vesisadetta","🌧️"],65:["Rankkasadetta","🌧️"],
+  66:["Jäätävää sadetta","🌧️"],67:["Jäätävää sadetta","🌧️"],
+  71:["Lumisadetta","🌨️"],73:["Lumisadetta","🌨️"],75:["Runsasta lunta","🌨️"],77:["Lumijyväsiä","🌨️"],
+  80:["Sadekuuroja","🌦️"],81:["Sadekuuroja","🌧️"],82:["Rankkoja kuuroja","⛈️"],
+  85:["Lumikuuroja","🌨️"],86:["Lumikuuroja","🌨️"],
+  95:["Ukkosta","⛈️"],96:["Ukkosta ja rakeita","⛈️"],99:["Ukkosta ja rakeita","⛈️"]
+};
+const wmo = c => WMO[c] || ["",""];
+
+async function fetchWeather(){
+  const url = `https://api.open-meteo.com/v1/forecast?latitude=${CONFIG.lat}&longitude=${CONFIG.lon}`
+    + `&current=temperature_2m,weather_code,wind_speed_10m,apparent_temperature`
+    + `&hourly=temperature_2m,precipitation,weather_code&timezone=Europe%2FHelsinki&forecast_days=2`;
+  try{
+    const res = await fetch(url);
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const d = await res.json();
+
+    // Nyt
+    const cw = wmo(d.current.weather_code);
+    $("#wx-now").innerHTML =
+      `<span class="now-ico">${cw[1]}</span>
+       <span class="now-temp">${Math.round(d.current.temperature_2m)}°</span>
+       <span class="now-desc"><b>${cw[0]}</b>
+         tuntuu ${Math.round(d.current.apparent_temperature)}° · tuuli ${Math.round(d.current.wind_speed_10m)} m/s</span>`;
+
+    // Seuraavat 24 h (alkaen kuluvasta tunnista)
+    const times = d.hourly.time, nowH = new Date();
+    let start = times.findIndex(t => new Date(t) >= new Date(nowH.getFullYear(),nowH.getMonth(),nowH.getDate(),nowH.getHours()));
+    if(start<0) start=0;
+    let html="";
+    for(let i=start;i<start+24 && i<times.length;i++){
+      const t=new Date(times[i]); const w=wmo(d.hourly.weather_code[i]);
+      const p=d.hourly.precipitation[i];
+      html += `<div class="hour">
+        <div class="h">${pad(t.getHours())}</div>
+        <div class="i">${w[1]}</div>
+        <div class="tp">${Math.round(d.hourly.temperature_2m[i])}°</div>
+        <div class="pr">${p>0 ? p.toFixed(1)+" mm":""}</div>
+      </div>`;
+    }
+    $("#wx-hours").innerHTML = html;
+    $("#wx-meta").textContent = "lähde: Open-Meteo";
+  }catch(err){
+    $("#wx-now").innerHTML = '<div class="msg err">Säätä ei saatu. ('+err.message+')</div>';
+  }
+}
+
+/* ============================================================
+   3) UUTISET  (RSS / Atom)
+   ============================================================ */
+function parseFeed(xmlText, sourceName){
+  const doc = new DOMParser().parseFromString(xmlText,"text/xml");
+  if(doc.querySelector("parsererror")) return [];
+  const items=[];
+  // RSS
+  doc.querySelectorAll("item").forEach(it=>{
+    items.push({
+      title:(it.querySelector("title")?.textContent||"").trim(),
+      link:(it.querySelector("link")?.textContent||"").trim(),
+      date:new Date(it.querySelector("pubDate")?.textContent || it.querySelector("date")?.textContent || Date.now()),
+      src:sourceName
+    });
+  });
+  // Atom
+  if(!items.length){
+    doc.querySelectorAll("entry").forEach(en=>{
+      items.push({
+        title:(en.querySelector("title")?.textContent||"").trim(),
+        link:(en.querySelector("link")?.getAttribute("href")||"").trim(),
+        date:new Date(en.querySelector("updated")?.textContent || en.querySelector("published")?.textContent || Date.now()),
+        src:sourceName
+      });
+    });
+  }
+  return items;
+}
+
+async function fetchOneFeed(feed){
+  const url = (CONFIG.corsProxy||"") + encodeURIComponentMaybe(feed.url);
+  const res = await fetch(url);
+  if(!res.ok) throw new Error("HTTP "+res.status);
+  return parseFeed(await res.text(), feed.name||"");
+}
+// corsproxy.io ym. odottavat enkoodatun urlin; useimmat omat välityspalvelimet eivät.
+// Jos proxy päättyy "=" pidetään enkoodaus, muuten ei.
+function encodeURIComponentMaybe(u){
+  return (CONFIG.corsProxy && CONFIG.corsProxy.trim().endsWith("=")) ? encodeURIComponent(u) : u;
+}
+
+function renderNews(items, metaText){
+  const box = $("#news");
+  if(!items.length){ box.innerHTML = '<div class="msg">Ei otsikoita.</div>'; return; }
+  box.innerHTML = items.map(i=>`
+    <a href="${i.link}" target="_blank" rel="noopener">
+      <span class="ti">${i.title}</span>
+      <span class="src">${i.src?'<span class="name">'+i.src+'</span>':''}${relTimeFi(new Date(i.iso||i.date))}</span>
+    </a>`).join("");
+  $("#news-meta").textContent = metaText;
+}
+
+// Ensisijainen: lue GitHub Actionin tuottama news.json (sama origin, ei CORS)
+async function fetchNewsFromJson(){
+  const res = await fetch(CONFIG.newsJson, { cache:"no-store" });
+  if(!res.ok) throw new Error("HTTP "+res.status);
+  const data = await res.json();
+  const items = (data.items||[]).slice(0,CONFIG.newsMax);
+  const gen = data.generated ? " · päivitetty "+relTimeFi(new Date(data.generated)) : "";
+  renderNews(items, items.length+" otsikkoa"+gen);
+}
+
+// Varavaihtoehto: hae RSS suoraan selaimesta
+async function fetchNewsFromFeeds(){
+  if(!CONFIG.feeds.length){
+    $("#news").innerHTML = '<div class="msg">Lisää uutisputki (news.json) tai RSS-syötteet (CONFIG.feeds).</div>'; return;
+  }
+  const results = await Promise.allSettled(CONFIG.feeds.map(fetchOneFeed));
+  let items=[], failed=0;
+  results.forEach(r=> r.status==="fulfilled" ? items.push(...r.value) : failed++);
+  items = items.filter(i=>i.title && i.link).sort((a,b)=>b.date-a.date).slice(0,CONFIG.newsMax);
+  if(!items.length){
+    $("#news").innerHTML = '<div class="msg err">Otsikoita ei saatu (todennäköisesti CORS). '+failed+'/'+CONFIG.feeds.length+' syötettä epäonnistui.</div>';
+    return;
+  }
+  renderNews(items, (failed? failed+" syöte ei vastannut · ":"")+items.length+" otsikkoa");
+}
+
+async function fetchNews(){
+  try{
+    if(CONFIG.newsJson){ await fetchNewsFromJson(); }
+    else { await fetchNewsFromFeeds(); }
+  }catch(err){
+    // jos news.json puuttuu (esim. Action ei vielä ajanut), kokeillaan suoraa hakua
+    if(CONFIG.feeds.length){ await fetchNewsFromFeeds(); }
+    else { $("#news").innerHTML = '<div class="msg err">Uutisia ei saatu. ('+err.message+') Onko news.json olemassa?</div>'; }
+  }
+}
+
+/* ============================================================
+   Käynnistys + ajastimet
+   ============================================================ */
+fetchTrams(); fetchWeather(); fetchNews();
+setInterval(fetchTrams,   CONFIG.refresh.trams);
+setInterval(fetchWeather, CONFIG.refresh.weather);
+setInterval(fetchNews,    CONFIG.refresh.news);
+setInterval(recomputeTrams, 10000); // laske minuutit elävästi joka 10 s
+
+$("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo";
+</script>
+</body>
+</html>

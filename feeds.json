@@ -1,0 +1,4 @@
+[
+  { "name": "HS",  "url": "https://www.hs.fi/rss/tuoreimmat.xml" },
+  { "name": "Yle", "url": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET" }
+]
