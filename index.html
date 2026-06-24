@@ -9,15 +9,15 @@
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
 <style>
 :root{
-  --ink:#0E1B24;        /* Itämeren tumma vesi */
-  --ink-2:#152A36;      /* paneeli */
-  --ink-3:#1C3543;      /* korotettu */
-  --fog:#EAF0F2;        /* teksti */
-  --fog-dim:#89A0AC;    /* vaimennettu */
+  --ink:#0E1B24;
+  --ink-2:#152A36;
+  --ink-3:#1C3543;
+  --fog:#EAF0F2;
+  --fog-dim:#89A0AC;
   --line:rgba(255,255,255,.07);
-  --tram:#00A862;       /* Helsingin ratikanvihreä — live/liikenne */
-  --amber:#F4B942;      /* aurinko/sää */
-  --soon:#FF6B45;       /* "kohta lähtee" */
+  --tram:#00A862;
+  --amber:#F4B942;
+  --soon:#FF6B45;
   --radius:16px;
   --pad:clamp(14px,2.4vw,26px);
 }
@@ -61,6 +61,8 @@ header.top{
   padding:var(--pad);margin-bottom:clamp(14px,2vw,20px);
 }
 .card-head{display:flex;align-items:center;gap:12px;margin-bottom:16px}
+.card.tram-card .card-head{margin-bottom:8px}
+.card.tram-card{padding-top:12px;padding-bottom:12px}
 .card-head .eyebrow{
   font-size:12px;letter-spacing:.18em;text-transform:uppercase;color:var(--fog-dim);
 }
@@ -71,30 +73,30 @@ header.top{
 .tram-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(12px,2vw,22px)}
 @media(max-width:620px){.tram-grid{grid-template-columns:1fr}}
 .stop h2{
-  font-family:"Space Grotesk",sans-serif;font-weight:500;font-size:18px;margin:0 0 12px;
-  display:flex;align-items:center;gap:9px;
+  font-family:"Space Grotesk",sans-serif;font-weight:500;font-size:14px;margin:0 0 5px;
+  display:flex;align-items:center;gap:7px;color:var(--fog-dim);text-transform:uppercase;letter-spacing:.1em;
 }
-.stop h2 .dot{width:7px;height:7px;border-radius:50%;background:var(--tram)}
+.stop h2 .dot{width:6px;height:6px;border-radius:50%;background:var(--tram);flex-shrink:0}
 .dep{
-  display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:14px;
-  padding:11px 0;border-top:1px solid var(--line);
+  display:grid;grid-template-columns:auto 1fr auto;align-items:center;gap:10px;
+  padding:5px 0;border-top:1px solid var(--line);
 }
 .dep:first-of-type{border-top:none}
 .badge{
-  min-width:38px;height:34px;padding:0 9px;border-radius:9px;
+  min-width:32px;height:26px;padding:0 7px;border-radius:7px;
   background:var(--tram);color:#04241a;
-  font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:17px;
+  font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:14px;
   display:flex;align-items:center;justify-content:center;letter-spacing:-.01em;
 }
-.dep .dest{color:var(--fog-dim);font-size:14px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.dep .dest{color:var(--fog-dim);font-size:13px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .dep .min{
-  font-family:"Space Grotesk",sans-serif;font-weight:500;font-size:clamp(20px,3vw,26px);
+  font-family:"Space Grotesk",sans-serif;font-weight:500;font-size:18px;
   font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap;
 }
-.dep .min small{font-size:13px;color:var(--fog-dim);font-weight:400;margin-left:3px}
+.dep .min small{font-size:12px;color:var(--fog-dim);font-weight:400;margin-left:2px}
 .dep .min.now{color:var(--soon)}
 .dep .min.soon{color:var(--tram)}
-.dep .min .live{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--tram);margin-left:6px;vertical-align:middle;animation:pulse 2s infinite}
+.dep .min .live{display:inline-block;width:5px;height:5px;border-radius:50%;background:var(--tram);margin-left:5px;vertical-align:middle;animation:pulse 2s infinite}
 
 /* ---------- sää ---------- */
 .now-line{display:flex;align-items:center;gap:16px;margin-bottom:14px;flex-wrap:wrap}
@@ -151,8 +153,7 @@ a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-o
     </div>
   </header>
 
-  <!-- RATIKAT -->
-  <section class="card">
+  <section class="card tram-card">
     <div class="card-head">
       <span class="eyebrow">Raitiovaunut</span>
       <span class="rule"></span>
@@ -199,41 +200,19 @@ a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-o
    ASETUKSET — täytä nämä
    ============================================================ */
 const CONFIG = {
-  // 1) Digitransit-avain (ilmainen): https://portal-api.digitransit.fi/
-  digitransitKey: "09f01129a9d644888fa6d99884bd4a7e",
-
-  // 2) Sijainti sääennustetta varten (Jätkäsaari)
+  digitransitKey: "TÄHÄN_DIGITRANSIT_AVAIN",
   lat: 60.156,
   lon: 24.913,
-
-  // 3) Uutiset. Ensisijaisesti GitHub Actionin tuottama news.json samalta
-  //    origin-osoitteelta -> ei CORS-ongelmaa. Jätä tämä päälle jos käytät
-  //    uutisputkea. Tyhjennä ("") jos haluat hakea RSS:n suoraan selaimesta.
   newsJson: "news.json",
-
-  // 3b) Varavaihtoehto: RSS suoraan selaimesta (toimii vain jos syöte sallii
-  //     CORS:n tai corsProxy on asetettu). name = otsikon perään näytettävä tunnus.
-  feeds: [
-    // { name: "HS",  url: "https://www.hs.fi/...rss..." },
-    // { name: "Yle", url: "https://feeds.yle.fi/..." },
-  ],
-
-  // 3c) CORS-välityspalvelin suoralle RSS-haulle. Esim. "https://corsproxy.io/?url="
+  feeds: [],
   corsProxy: "",
-
-  // Montako lähtöä per pysäkki ja montako otsikkoa
   trams: { perStop: 4 },
   newsMax: 5,
-
-  // Päivitysvälit (ms)
   refresh: { trams: 30000, weather: 30*60000, news: 15*60000 }
 };
 
 const DT_ENDPOINT = "https://api.digitransit.fi/routing/v2/hsl/gtfs/v1";
 
-/* ============================================================
-   Apureita
-   ============================================================ */
 const $ = s => document.querySelector(s);
 const pad = n => String(n).padStart(2,"0");
 
@@ -258,7 +237,7 @@ function tickClock(){
 setInterval(tickClock,1000); tickClock();
 
 /* ============================================================
-   1) RAITIOVAUNUT  (Digitransit GraphQL)
+   1) RAITIOVAUNUT
    ============================================================ */
 const STOP_FIELDS = `
   gtfsId name vehicleMode
@@ -271,14 +250,14 @@ const TRAM_QUERY = `{
   tahitinkatu:  stops(name: "Tahitinkatu")  { ${STOP_FIELDS} }
 }`;
 
-let tramCache = { kanariankatu: [], tahitinkatu: [] }; // talletetaan lähtöjen epoch-ajat
+let tramCache = { kanariankatu: [], tahitinkatu: [] };
 
 function collectDepartures(stops){
   const out = [];
   (stops||[]).forEach(stop=>{
     (stop.stoptimesWithoutPatterns||[]).forEach(st=>{
       const route = st.trip && st.trip.route;
-      if(!route || route.mode !== "TRAM") return;          // vain ratikat
+      if(!route || route.mode !== "TRAM") return;
       out.push({
         line: route.shortName,
         dest: st.headsign || "",
@@ -306,7 +285,6 @@ function renderStop(id, deps){
   }).join("");
 }
 
-// Laske minuutit uudelleen ilman uutta hakua (näyttää elävältä)
 function recomputeTrams(){
   renderStop("kanariankatu", tramCache.kanariankatu);
   renderStop("tahitinkatu",  tramCache.tahitinkatu);
@@ -337,7 +315,7 @@ async function fetchTrams(){
 }
 
 /* ============================================================
-   2) SÄÄ  (Open-Meteo, ei avainta)
+   2) SÄÄ
    ============================================================ */
 const WMO = {
   0:["Selkeää","☀️"],1:["Enimmäkseen selkeää","🌤️"],2:["Puolipilvistä","⛅"],3:["Pilvistä","☁️"],
@@ -362,7 +340,6 @@ async function fetchWeather(){
     if(!res.ok) throw new Error("HTTP "+res.status);
     const d = await res.json();
 
-    // Nyt
     const cw = wmo(d.current.weather_code);
     $("#wx-now").innerHTML =
       `<span class="now-ico">${cw[1]}</span>
@@ -370,7 +347,6 @@ async function fetchWeather(){
        <span class="now-desc"><b>${cw[0]}</b>
          tuntuu ${Math.round(d.current.apparent_temperature)}° · tuuli ${Math.round(d.current.wind_speed_10m)} m/s</span>`;
 
-    // Seuraavat 24 h (alkaen kuluvasta tunnista)
     const times = d.hourly.time, nowH = new Date();
     let start = times.findIndex(t => new Date(t) >= new Date(nowH.getFullYear(),nowH.getMonth(),nowH.getDate(),nowH.getHours()));
     if(start<0) start=0;
@@ -393,13 +369,12 @@ async function fetchWeather(){
 }
 
 /* ============================================================
-   3) UUTISET  (RSS / Atom)
+   3) UUTISET
    ============================================================ */
 function parseFeed(xmlText, sourceName){
   const doc = new DOMParser().parseFromString(xmlText,"text/xml");
   if(doc.querySelector("parsererror")) return [];
   const items=[];
-  // RSS
   doc.querySelectorAll("item").forEach(it=>{
     items.push({
       title:(it.querySelector("title")?.textContent||"").trim(),
@@ -408,7 +383,6 @@ function parseFeed(xmlText, sourceName){
       src:sourceName
     });
   });
-  // Atom
   if(!items.length){
     doc.querySelectorAll("entry").forEach(en=>{
       items.push({
@@ -428,8 +402,6 @@ async function fetchOneFeed(feed){
   if(!res.ok) throw new Error("HTTP "+res.status);
   return parseFeed(await res.text(), feed.name||"");
 }
-// corsproxy.io ym. odottavat enkoodatun urlin; useimmat omat välityspalvelimet eivät.
-// Jos proxy päättyy "=" pidetään enkoodaus, muuten ei.
 function encodeURIComponentMaybe(u){
   return (CONFIG.corsProxy && CONFIG.corsProxy.trim().endsWith("=")) ? encodeURIComponent(u) : u;
 }
@@ -445,7 +417,6 @@ function renderNews(items, metaText){
   $("#news-meta").textContent = metaText;
 }
 
-// Ensisijainen: lue GitHub Actionin tuottama news.json (sama origin, ei CORS)
 async function fetchNewsFromJson(){
   const res = await fetch(CONFIG.newsJson, { cache:"no-store" });
   if(!res.ok) throw new Error("HTTP "+res.status);
@@ -455,7 +426,6 @@ async function fetchNewsFromJson(){
   renderNews(items, items.length+" otsikkoa"+gen);
 }
 
-// Varavaihtoehto: hae RSS suoraan selaimesta
 async function fetchNewsFromFeeds(){
   if(!CONFIG.feeds.length){
     $("#news").innerHTML = '<div class="msg">Lisää uutisputki (news.json) tai RSS-syötteet (CONFIG.feeds).</div>'; return;
@@ -476,7 +446,6 @@ async function fetchNews(){
     if(CONFIG.newsJson){ await fetchNewsFromJson(); }
     else { await fetchNewsFromFeeds(); }
   }catch(err){
-    // jos news.json puuttuu (esim. Action ei vielä ajanut), kokeillaan suoraa hakua
     if(CONFIG.feeds.length){ await fetchNewsFromFeeds(); }
     else { $("#news").innerHTML = '<div class="msg err">Uutisia ei saatu. ('+err.message+') Onko news.json olemassa?</div>'; }
   }
@@ -489,7 +458,7 @@ fetchTrams(); fetchWeather(); fetchNews();
 setInterval(fetchTrams,   CONFIG.refresh.trams);
 setInterval(fetchWeather, CONFIG.refresh.weather);
 setInterval(fetchNews,    CONFIG.refresh.news);
-setInterval(recomputeTrams, 10000); // laske minuutit elävästi joka 10 s
+setInterval(recomputeTrams, 10000);
 
 $("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo";
 </script>
