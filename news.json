@@ -1,6 +1,187 @@
 {
-  "generated": null,
-  "count": 0,
-  "failed": 0,
-  "items": []
+  "generated": "2026-06-24T09:00:10.310489+00:00",
+  "count": 30,
+  "failed": 2,
+  "items": [
+    {
+      "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa",
+      "link": "https://yle.fi/a/74-20231646?origin=rss",
+      "iso": "2026-06-23T16:01:29+00:00",
+      "src": "Yle"
+    },
+    {
+      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
+      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
+      "iso": "2026-06-23T06:57:39+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt",
+      "link": "https://yle.fi/a/74-20232322?origin=rss",
+      "iso": "2026-06-18T10:45:46+00:00",
+      "src": "Yle"
+    },
+    {
+      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
+      "iso": "2026-06-18T04:33:40+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Kesäkuun printtilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/kesakuun-printtilehti-jakelupisteissa/",
+      "iso": "2026-06-13T13:13:51+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
+      "iso": "2026-06-08T08:38:31+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Suosituimmat ruoat -juttusarjassa vuorossa Mr Pastrami ja Aangan",
+      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-ruoat-juttusarjassa-vuorossa-mr-pastrami-ja-aangan/",
+      "iso": "2026-06-08T04:34:00+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Yksinvaeltaja Aki Rahikka palaa aina Jätkäsaareen",
+      "link": "https://www.ruoholahdensanomat.fi/yksinvaeltaja-aki-rahikka-palaa-aina-jatkasaareen/",
+      "iso": "2026-05-30T04:32:13+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaari-tekoa etsitään jälleen",
+      "link": "https://www.ruoholahdensanomat.fi/jatkasaari-tekoa-etsitaan-jalleen/",
+      "iso": "2026-05-27T08:23:20+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Ruoholahden koulusta monitoimitalo",
+      "link": "https://www.ruoholahdensanomat.fi/ruoholahden-koulusta-monitoimitalo/",
+      "iso": "2026-05-22T08:42:06+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan 5.9.2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
+      "iso": "2026-05-19T15:51:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
+      "iso": "2026-05-19T13:00:21+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
+      "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
+      "iso": "2026-05-19T06:57:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
+      "iso": "2026-05-19T06:37:22+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Meri-Stadi -toimintaryhmä tuo merellisyyden mahdollisuuksia vahvemmin osaksi kaupunkilaisten arkea",
+      "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
+      "iso": "2026-05-19T05:55:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Toukokuun paperilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
+      "iso": "2026-05-15T05:51:46+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Henkilöauto kolaroi raitiovaunun kanssa Jätkäsaaressa",
+      "link": "https://yle.fi/a/74-20224256?origin=rss",
+      "iso": "2026-05-05T08:48:55+00:00",
+      "src": "Yle"
+    },
+    {
+      "title": "Jätkäsaareen valmistuu lähes 150 uutta Hitas- ja vuokra-asuntoa",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-valmistuu-lahes-150-uutta-hitas-ja-vuokra-asuntoa",
+      "iso": "2026-05-05T08:29:54+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kaupunki haluaa elämää Jätkä­saaren vanhoihin rakennuksiin",
+      "link": "https://www.ruoholahdensanomat.fi/kaupunki-haluaa-elamaa-jatkasaaren-vanhoihin-rakennuksiin/",
+      "iso": "2026-05-05T05:01:32+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Ravintolakierros jatkuu, vuorossa Primo ja Luckiefun",
+      "link": "https://www.ruoholahdensanomat.fi/ravintolakierros-jatkuu-vuorossa-primo-ja-luckiefun/",
+      "iso": "2026-04-29T09:54:27+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Myytävänä satamarakennus, kaupan päälle Suomen ainoa suojeltu puhelinkoppi Helsingin Jätkäsaaressa",
+      "link": "https://yle.fi/a/74-20220243?origin=rss",
+      "iso": "2026-04-25T14:11:34+00:00",
+      "src": "Yle"
+    },
+    {
+      "title": "Jätkäsaari-Ruoholahti -alueen asukastilaisuus – tutustu esitysaineistoon",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-ruoholahti-alueen-asukastilaisuus-tutustu-esitysaineistoon/",
+      "iso": "2026-04-08T19:53:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Helsingin satama uudistuu – tutustu Helsingin sataman lähivuosien suunnitelmiin",
+      "link": "https://kaupunginosat.fi/jatkasaari/helsingin-satama-uudistuu-tutustu-helsingin-sataman-lahivuosien-suunnitelmiin/",
+      "iso": "2026-04-08T07:05:29+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaari-seuran kevätkokoustapahtumassa tutustuttiin Docrates-sairaalaan",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-kevatkokoustapahtumassa-tutustuttiin-docrates-sairaalaan/",
+      "iso": "2026-03-20T06:09:54+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Sataman perintö näkyy yhä Jätkäsaaren vanhoissa rakennuksissa",
+      "link": "https://www.hel.fi/fi/uutiset/sataman-perinto-nakyy-yha-jatkasaaren-vanhoissa-rakennuksissa",
+      "iso": "2026-03-19T11:29:22+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kaupunginosayhdistysten mielipide Elielinaukion ja Asema-aukion asemakaavaehdotuksesta",
+      "link": "https://kaupunginosat.fi/jatkasaari/18-kaupunginosayhdistyksen-mielipide-elielinaukion-ja-asema-aukion-asemakaavaehdotuksesta/",
+      "iso": "2026-03-18T13:12:29+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saukonpaadenrannan toimistorakennuksia koskeva asemakaavamuutos on esillä Helsingin kaupunkiympäristölautakunnassa toukokuussa – vaikuta päättäjiin",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskeva-asemakaavamuutos-on-esilla-helsingin-kaupunkiymparistolautakunnassa-toukokuussa-vaikuta-paattajiin/",
+      "iso": "2026-03-18T10:41:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saarista satamaksi, satamasta kaupungiksi – näin syntyi Jätkäsaari",
+      "link": "https://www.hel.fi/fi/uutiset/saarista-satamaksi-satamasta-kaupungiksi-nain-syntyi-jatkasaari",
+      "iso": "2026-03-06T07:11:37+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Jätkäsaaren L3-makasiinin myyntiä jatketaan",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-l3-makasiinin-myyntia-jatketaan",
+      "iso": "2026-03-05T12:34:45+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Poliisi epäilee keski-ikäisen miehen sytyttäneen oman asuntonsa tuleen Helsingin Jätkäsaaressa",
+      "link": "https://yle.fi/a/74-20213720?origin=rss",
+      "iso": "2026-03-05T09:13:44+00:00",
+      "src": "Yle"
+    }
+  ]
 }
