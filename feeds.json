@@ -5,7 +5,8 @@
   { "name": "Kaupunginosat.fi", "url": "https://kaupunginosat.fi/jatkasaari/rss" },
   { "name": "Jäkäsaari-seura", "url": "https://kaupunginosat.fi/jatkasaari/category/uutiset/feed/" },
   { "name": "Rakennuslehti", "url": "https://www.rakennuslehti.fi/avainsanat/jatkasaari/rss" },
-  { "name": "Google News", "url": "https://news.google.com/rss/search?q=Jätkäsaari&hl=fi&gl=FI&ceid=FI:fi" },
+  { "name": "Google News 1", "url": "https://news.google.com/rss/search?q=Jätkäsaari OR Jätkäsaaren OR Jätkäsaaressa OR Jätkäsaareen OR Jätkäsaarta OR Jätkäsaaresta OR Jätkäsaarella&hl=fi&gl=FI&ceid=FI:fi" },
+  { "name": "Google News 2", "url": "https://news.google.com/rss/search?q=Ruoholahti OR Ruoholahden OR Ruoholahdessa OR Ruoholahteen OR Ruoholahtea OR Ruoholahdesta OR Ruoholahdella&hl=fi&gl=FI&ceid=FI:fi" },
   { "name": "Helsingin Uutiset", "url": "https://www.google.com/alerts/feeds/11717018959188992651/17391378584091387483" },
   { "name": "Jätkäsaari Ruoholahti", "url": "https://www.ruoholahdensanomat.fi/feed/" }
 ]
