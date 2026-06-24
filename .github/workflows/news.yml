@@ -1,6 +1,47 @@
-{
-  "generated": null,
-  "count": 0,
-  "failed": 0,
-  "items": []
-}
+name: Päivitä uutiset
+
+on:
+  schedule:
+    - cron: "*/15 * * * *"
+  workflow_dispatch:
+  push:
+    paths:
+      - "feeds.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: uutiset
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Hae repo
+        uses: actions/checkout@v4
+
+      - name: Asenna Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Asenna riippuvuudet
+        run: pip install -r requirements.txt
+
+      - name: Hae uutiset
+        run: python scripts/fetch_news.py
+
+      - name: Committaa jos muuttui
+        run: |
+          if [[ -n "$(git status --porcelain news.json)" ]]; then
+            git config user.name  "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add news.json
+            git commit -m "Päivitä uutiset $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          else
+            echo "Ei muutoksia – ei committia."
+          fi
