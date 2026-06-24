@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T18:23:11.750415+00:00",
+  "generated": "2026-06-24T19:36:00.687340+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -26,6 +26,12 @@
       "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
       "iso": "2026-06-23T06:57:39+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Helsinki | Jätkäsaaren turmaparkkihallin katolla liikutaan yhä luvatta - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YZU9GMG83TEtzY0t6TFBvSV80Y3FpNV9tTWg1UXFRUERPdGtKMmRGX09pbGRSNUZYM0Y4RkNPVFNpT1dYUDkxX0ZCa3NJbERsZW13emF6YVpSeTlWa3c?oc=5",
+      "iso": "2026-06-18T13:21:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
@@ -172,14 +178,8 @@
       "src": "Helsingin kaupunki"
     },
     {
-      "title": "Ratikka ja auto törmäsivät Jätkäsaaressa - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02M0wwQlZLUTZFZFdBSVIwczdVa1pTQnNLMjlobUEzeXZuYUcwclp6Mmx5d1JxNE9wVzlUQXBvOHlVRzNCWWtLSjd1WU54MEFZUDhmQnoxOHJrcGFL?oc=5",
-      "iso": "2026-05-05T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Raitiovaunuonnettomuus Helsingin Jätkäsaaressa - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9TdzJYWjRUNndzYnoyVGRiN3VLNUpFcUhfRGRxU29mNFg1SnpsQWVLYjd3TUl2eFVDZlprQ3MtYUszLUtwLXBVTVFYaDhJb09GZ3hyeUpCRklUZjlRMFdsTEliZnBER0pGQ0lFUTFmOXhCeUpZZFNYTkhLTQ?oc=5",
+      "title": "Henkilöauto kolaroi raitiovaunun kanssa Jätkäsaaressa - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0ydGwwclBCRFlSNlJRNUVaQ1A1Zi01cUlOUGJMdzRFbURzWEVKM1lvMkt2RkNnc3VlTWNOYW96M1Zzdw?oc=5",
       "iso": "2026-05-05T07:00:00+00:00",
       "src": "Google News"
     }
