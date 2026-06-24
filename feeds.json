@@ -1,4 +1,9 @@
 [
-  { "name": "HS",  "url": "https://www.hs.fi/rss/tuoreimmat.xml" },
-  { "name": "Yle", "url": "https://feeds.yle.fi/uutiset/v1/recent.rss?publisherIds=YLE_UUTISET" }
+  { "name": "Helsingin kaupunki",  "url": "https://www.hel.fi/fi/uutiset/rss?neighbourhoods%5B0%5D=423&amp;neighbourhoods%5B1%5D=473" },
+  { "name": "HS", "url": "https://rss.app/feeds/sr6sxiWSKxRAAlfj.xml" }
+  { "name": "Jätkäsaaren pysäköinti", "url": "https://rss.app/feeds/okzbRF0a0gAQdue8.xml" }
+  { "name": "Kaupunginosat.fi", "url": "https://kaupunginosat.fi/jatkasaari/rss" }
+  { "name": "Rakennuslehti", "url": "https://www.rakennuslehti.fi/avainsanat/jatkasaari/rss" }
+  { "name": "Yle", "url": "https://yle.fi/rss/t/18-127380/fi" }
+  { "name": "Jätkäsaari Ruoholahti", "url": "https://www.ruoholahdensanomat.fi/feed/" }
 ]
