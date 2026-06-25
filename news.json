@@ -1,8 +1,14 @@
 {
-  "generated": "2026-06-25T08:39:03.191853+00:00",
+  "generated": "2026-06-25T11:22:16.721675+00:00",
   "count": 30,
   "failed": 1,
   "items": [
+    {
+      "title": "Jätkäsaaressa ihmetyttäneet mysteeritolpat lähtevät liikkeelle – 67 järkälettä siirretään | Paikalliset - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlbjFxT2duamd6Skg2WkRRQnNoUk41eFJDM3M2d21vVFh0NkgzSV9WVUMxOGZxQnVnTXY3dFgyRXo5MDVlWlBDVnN0VFlzWTRjTU5IYWI3WGxrYTJFYnJEOA?oc=5",
+      "iso": "2026-06-25T08:32:36+00:00",
+      "src": "Google News"
+    },
     {
       "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
@@ -10,7 +16,13 @@
       "src": "Google News"
     },
     {
-      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu | Paikalliset - Helsingin Uutiset",
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
       "iso": "2026-06-24T11:47:43+00:00",
       "src": "Google News"
@@ -37,12 +49,6 @@
       "title": "Helsinki | Jätkäsaaren turmaparkkihallin katolla liikutaan yhä luvatta - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YZU9GMG83TEtzY0t6TFBvSV80Y3FpNV9tTWg1UXFRUERPdGtKMmRGX09pbGRSNUZYM0Y4RkNPVFNpT1dYUDkxX0ZCa3NJbERsZW13emF6YVpSeTlWa3c?oc=5",
       "iso": "2026-06-18T13:21:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Korelon ja Cledos käänsivät päät Jätkäsaaressa - Seiska.fi",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmlMNnFHeGp3WkNfUDFWNVhOVHNRQkc1eEw5YnFqeVVOYWh3YTY1RDR5RlpmS0RTcWhvekhIWjVOdUJvV3hIcWVqeDIyWDlCYXNScW9pemRfd2FSd2lGQzYxU3Qzdko5T0tkZ0NOYWdOeDM1RElXWDBOMHFjN2hrWW9QLXRMTTZHVXgw?oc=5",
-      "iso": "2026-06-18T12:37:37+00:00",
       "src": "Google News"
     },
     {
@@ -112,12 +118,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Pikatesti | 53 euron burgeriateria ei vakuuttanut - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcFpIUXFOZ01sTnJMS1o0bVR1UVdJV3RYR1hfMlU5RDJldlFPTUpxNU1JSlZVbC13RkpZXy1yTWdOOU9URjhqWmxoeHpQWWNiOERmRzZZTmtXUQ?oc=5",
-      "iso": "2026-05-25T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Ruoholahden koulusta monitoimitalo",
       "link": "https://www.ruoholahdensanomat.fi/ruoholahden-koulusta-monitoimitalo/",
       "iso": "2026-05-22T08:42:06+00:00",
@@ -154,12 +154,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Peurakaksikko ilahduttaa puistossa Helsingissä – poliisi ei aio vielä toimia - mtvuutiset.fi",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnVOWGg3cDNvZ0k3YXVzYkVzSVVra0dOeE1FTnR4MmwwM1JnUm9uQ2dlMkwzZ0xIdHA1UHVieUM5ZW4yd2tqSW1FMTZONDZhaWczdVczalQzOXZlME1KVjBlVjNOUW8zRkFqNGlTZndhUTkzWF9qbGQ1UFlwbE9FbExac2NMdkdNcUVOQllsYTJfOGotX1BhYkc3TGdOa3BDYVZmTzg2azdXY0ZjSTdfVTluYjl2RmItUkE?oc=5",
-      "iso": "2026-05-15T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Poliisi ei varmuudella voi ottaa kantaa, aiotaanko eläimiä siirtää pois Helsingin Jätkäsaaresta. Se toivoo kuitenkin kansalaisilta havaintoja eläimistä. 🔗 Lue lisää kaupunkipeuroista: https://www.mtvuutiset.fi/artikkeli/peurakaksikko-ilahduttaa-puistossa-helsingis - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNHl1WmVKS2NDUWtnOTl5Vk9VeWlLOTV5ZGlEZlJzNXlKUHFuajR5cV9jVl9hdlhqVm9aUnhNRHU1cV9LWDFDVnV3eVRYU0Y4QmRob1pLRUFZS0ptODJ2ODU5bzkxNWJBSC0wbUZjR2k3WEozWllja0xvekNvVEx3UGdleThySHZmSjlQQ0oxUGQ0S3pYZEhIQUpJNlowZGI0RDFMSGlBV1JkMV9GMmhKeVFGREZzbTZEekZGcVVOU3hqblU0SUZXUmFFUDBTVWphQnBQekVYSlZ5RnRuUzBoM0FyOXRqUUxfQXN3U1pBVzBaQQ?oc=5",
       "iso": "2026-05-15T07:00:00+00:00",
@@ -181,6 +175,12 @@
       "title": "HIFK kohtaa PPJ:n vieraissa Jätkäsaaressa – vierasliput HIFK:n verkkokaupasta - HIFK Fotboll",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmVVNDlDUWtxdVRtY3VEM1FfeTZIcnJWXzNiNzRzRUNRNkc3NU01ZkpLQVUtdEtacHZXdk9FNkM4em15UjBmN3BSdjdvT3pnaTQ5bDJNVFhQWDV3ei0zNUtYRnBzN2F6bThYcTBOMVJHMDNzeEk3dklFcGJCQnFzQ0EwcFZKSFpoTFFiSy1oT3FneHg0aWMydTJ2bnFMamI5SHpIaVFqV0VvUTY1TVJPWnRERFo?oc=5",
       "iso": "2026-05-08T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen ja Länsisatamaan pääsee maanantaista alkaen nopeammin - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTmItV1lLX1g2TWhscTk2VHNGSVlIWEJtMHhid1N4SmdENVlrRFNFck9oWDNZZVZhbmF6d2RuRC1lZDB0ODlOT19ZZHF4VkMxU3ljb0paOEpRckExMXFNLQ?oc=5",
+      "iso": "2026-05-07T07:00:00+00:00",
       "src": "Google News"
     }
   ]
