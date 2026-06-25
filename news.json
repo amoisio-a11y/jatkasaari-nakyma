@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-24T23:02:24.532803+00:00",
+  "generated": "2026-06-25T01:26:49.143999+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -74,12 +74,6 @@
       "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
       "iso": "2026-06-08T08:38:31+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Suosituimmat ruoat -juttusarjassa vuorossa Mr Pastrami ja Aangan",
@@ -182,6 +176,12 @@
       "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-valmistuu-lahes-150-uutta-hitas-ja-vuokra-asuntoa",
       "iso": "2026-05-05T08:29:54+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Henkilöauto kolaroi raitiovaunun kanssa Jätkäsaaressa - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0ydGwwclBCRFlSNlJRNUVaQ1A1Zi01cUlOUGJMdzRFbURzWEVKM1lvMkt2RkNnc3VlTWNOYW96M1Zzdw?oc=5",
+      "iso": "2026-05-05T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
