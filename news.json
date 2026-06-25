@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-25T11:22:16.721675+00:00",
+  "generated": "2026-06-25T13:35:54.709286+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -44,12 +44,6 @@
       "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
       "iso": "2026-06-23T06:57:39+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Helsinki | Jätkäsaaren turmaparkkihallin katolla liikutaan yhä luvatta - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YZU9GMG83TEtzY0t6TFBvSV80Y3FpNV9tTWg1UXFRUERPdGtKMmRGX09pbGRSNUZYM0Y4RkNPVFNpT1dYUDkxX0ZCa3NJbERsZW13emF6YVpSeTlWa3c?oc=5",
-      "iso": "2026-06-18T13:21:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTmItV1lLX1g2TWhscTk2VHNGSVlIWEJtMHhid1N4SmdENVlrRFNFck9oWDNZZVZhbmF6d2RuRC1lZDB0ODlOT19ZZHF4VkMxU3ljb0paOEpRckExMXFNLQ?oc=5",
       "iso": "2026-05-07T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen valmistuu lähes 150 uutta Hitas- ja vuokra-asuntoa",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-valmistuu-lahes-150-uutta-hitas-ja-vuokra-asuntoa",
+      "iso": "2026-05-05T08:29:54+00:00",
+      "src": "Helsingin kaupunki"
     }
   ]
 }
