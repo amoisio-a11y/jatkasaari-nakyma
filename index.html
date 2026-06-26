@@ -36,24 +36,6 @@ body{
 }
 .wrap{max-width:1160px;margin:0 auto;padding:clamp(16px,3vw,34px)}
 
-/* ---------- otsake ---------- */
-header.top{
-  display:flex;align-items:baseline;justify-content:space-between;
-  gap:16px;flex-wrap:wrap;margin-bottom:clamp(8px,1.4vw,14px);
-}
-.brand{display:flex;align-items:baseline;gap:10px}
-.brand h1{
-  font-family:"Space Grotesk",sans-serif;font-weight:700;
-  font-size:clamp(20px,3vw,28px);letter-spacing:-.02em;margin:0;line-height:1;
-}
-.brand .tick{width:8px;height:8px;border-radius:50%;background:var(--tram);
-  box-shadow:0 0 0 0 rgba(0,168,98,.6);animation:pulse 2.6s infinite;align-self:center}
-@keyframes pulse{0%{box-shadow:0 0 0 0 rgba(0,168,98,.5)}70%{box-shadow:0 0 0 9px rgba(0,168,98,0)}100%{box-shadow:0 0 0 0 rgba(0,168,98,0)}}
-.brand .sub{color:var(--fog-dim);font-size:12px;letter-spacing:.14em;text-transform:uppercase}
-.clock{font-family:"Space Grotesk",sans-serif;text-align:right;line-height:1.05}
-.clock .t{font-size:clamp(18px,2.4vw,24px);font-weight:500;font-variant-numeric:tabular-nums;letter-spacing:.01em}
-.clock .d{color:var(--fog-dim);font-size:12px;text-transform:capitalize}
-
 /* ---------- kortit ---------- */
 .card{
   background:linear-gradient(180deg,var(--ink-2),var(--ink-2) 60%,#13262f);
@@ -73,7 +55,6 @@ header.top{
 
 /* ---------- ratikat ---------- */
 .tram-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(12px,2vw,22px)}
-@media(max-width:620px){.tram-grid{grid-template-columns:1fr}}
 .stop h2{
   font-family:"Space Grotesk",sans-serif;font-weight:500;font-size:14px;margin:0 0 5px;
   display:flex;align-items:center;gap:7px;color:var(--fog-dim);text-transform:uppercase;letter-spacing:.1em;
@@ -129,7 +110,6 @@ header.top{
 .news .src{color:var(--fog-dim);font-size:12px;white-space:nowrap;font-variant-numeric:tabular-nums}
 .news .src .name{color:var(--amber);text-transform:uppercase;letter-spacing:.06em;font-size:11px;margin-right:8px}
 
-/* ---------- tilaviestit ---------- */
 .msg{color:var(--fog-dim);font-size:14px;padding:6px 0}
 .msg.err{color:#FF9b80}
 .skeleton{color:var(--fog-dim);opacity:.6}
@@ -142,18 +122,6 @@ a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-o
 </head>
 <body>
 <div class="wrap">
-
-  <header class="top">
-    <div class="brand">
-      <span class="tick" title="päivittyy automaattisesti"></span>
-      <h1>Jätkäsaari</h1>
-      <span class="sub">päivän näkymä</span>
-    </div>
-    <div class="clock">
-      <div class="t" id="clock-t">–</div>
-      <div class="d" id="clock-d">–</div>
-    </div>
-  </header>
 
   <section class="card tram-card">
     <div class="card-head">
@@ -208,8 +176,8 @@ const CONFIG = {
   newsJson: "news.json",
   feeds: [],
   corsProxy: "",
-  trams: { perStop: 4 },
-  newsMax: 5,
+  trams: { perStop: 3 },
+  newsMax: 10,
   refresh: { trams: 30000, weather: 30*60000, news: 15*60000 }
 };
 
@@ -226,17 +194,6 @@ function relTimeFi(date){
   const d = Math.floor(diff/86400);
   return d===1 ? "eilen" : d+" pv sitten";
 }
-
-/* ============================================================
-   KELLO
-   ============================================================ */
-const WEEKDAYS = ["su","ma","ti","ke","to","pe","la"];
-function tickClock(){
-  const now = new Date();
-  $("#clock-t").textContent = pad(now.getHours())+":"+pad(now.getMinutes());
-  $("#clock-d").textContent = WEEKDAYS[now.getDay()]+" "+now.getDate()+"."+(now.getMonth()+1)+".";
-}
-setInterval(tickClock,1000); tickClock();
 
 /* ============================================================
    1) RAITIOVAUNUT
@@ -453,14 +410,12 @@ async function fetchNews(){
   }
 }
 
-/* ============================================================
-   Käynnistys + ajastimet
-   ============================================================ */
 fetchTrams(); fetchWeather(); fetchNews();
 setInterval(fetchTrams,   CONFIG.refresh.trams);
 setInterval(fetchWeather, CONFIG.refresh.weather);
 setInterval(fetchNews,    CONFIG.refresh.news);
 setInterval(recomputeTrams, 10000);
+setInterval(renderVenues, 60000); // päivitä minuutin välein
 
 $("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo";
 </script>
