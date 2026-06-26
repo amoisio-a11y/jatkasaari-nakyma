@@ -116,6 +116,29 @@ body{
 
 footer{color:var(--fog-dim);font-size:12px;text-align:center;margin-top:8px;opacity:.7}
 
+/* ---------- häiriötiedotteet ---------- */
+.alert-card{
+  padding-top:12px;padding-bottom:12px;
+  border-color:rgba(255,107,69,.35);
+  background:linear-gradient(160deg,rgba(255,107,69,.08),rgba(255,107,69,.04));
+}
+.alert-card .card-head{margin-bottom:8px}
+.alert-eyebrow{color:var(--soon) !important}
+.alert-item{
+  padding:8px 0;border-top:1px solid rgba(255,107,69,.2);font-size:14px;line-height:1.45;
+}
+.alert-item:first-of-type{border-top:none}
+.alert-lines{
+  display:flex;gap:6px;flex-wrap:wrap;margin-bottom:4px;
+}
+.alert-badge{
+  font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:12px;
+  background:var(--soon);color:#fff;
+  padding:1px 7px;border-radius:5px;
+}
+.alert-header{font-weight:500;color:var(--fog);margin-bottom:2px}
+.alert-desc{color:var(--fog-dim);font-size:13px}
+
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}
 a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-offset:3px;border-radius:6px}
 </style>
@@ -139,6 +162,16 @@ a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-o
         <div id="stop-tahitinkatu"><div class="msg skeleton">Haetaan lähtöjä…</div></div>
       </div>
     </div>
+  </section>
+
+  <!-- HÄIRIÖTIEDOTTEET (piilotettu kun ei häiriöitä) -->
+  <section class="card alert-card" id="alert-card" style="display:none">
+    <div class="card-head">
+      <span class="eyebrow alert-eyebrow">⚠ Häiriötiedotteet</span>
+      <span class="rule"></span>
+      <span class="meta" id="alert-meta"></span>
+    </div>
+    <div id="alert-list"></div>
   </section>
 
   <!-- SÄÄ -->
@@ -274,7 +307,74 @@ async function fetchTrams(){
 }
 
 /* ============================================================
-   2) SÄÄ
+   2) HÄIRIÖTIEDOTTEET
+   Suodatetaan linjojen shortName perusteella: "7", "8", "9"
+   (kattaa automaattisesti 7A, 7B, 8A, 9A jne.)
+   ============================================================ */
+const ALERT_LINES = new Set(["7","8","9"]);
+
+const ALERT_QUERY = `{
+  alerts(severityLevel: [WARNING, SEVERE, INFO]) {
+    alertHeaderText(language: "fi")
+    alertDescriptionText(language: "fi")
+    effectiveStartDate
+    effectiveEndDate
+    entities {
+      __typename
+      ... on Route { shortName mode }
+    }
+  }
+}`;
+
+function alertAppliesToOurTrams(alert){
+  return (alert.entities||[]).some(e =>
+    e.__typename === "Route" &&
+    e.mode === "TRAM" &&
+    ALERT_LINES.has(e.shortName)
+  );
+}
+
+async function fetchAlerts(){
+  if(!CONFIG.digitransitKey || CONFIG.digitransitKey.startsWith("TÄHÄN")) return;
+  try{
+    const res = await fetch(DT_ENDPOINT,{
+      method:"POST",
+      headers:{ "Content-Type":"application/json", "digitransit-subscription-key":CONFIG.digitransitKey },
+      body: JSON.stringify({ query: ALERT_QUERY })
+    });
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const json = await res.json();
+    const now = Date.now()/1000;
+    const active = (json.data?.alerts||[]).filter(a=>{
+      const started = !a.effectiveStartDate || a.effectiveStartDate <= now;
+      const ended   = a.effectiveEndDate && a.effectiveEndDate < now;
+      return started && !ended && alertAppliesToOurTrams(a);
+    });
+    renderAlerts(active);
+  }catch(err){
+    // häiriöhaku epäonnistuu hiljaisesti — ei näytetä virhettä käyttäjälle
+    console.warn("Häiriöhaku epäonnistui:", err.message);
+  }
+}
+
+function renderAlerts(alerts){
+  const card = $("#alert-card");
+  if(!alerts.length){ card.style.display="none"; return; }
+  card.style.display="";
+  const lines = a => (a.entities||[])
+    .filter(e => e.__typename==="Route" && e.mode==="TRAM" && ALERT_LINES.has(e.shortName))
+    .map(e => `<span class="alert-badge">${e.shortName}</span>`)
+    .join("");
+  $("#alert-list").innerHTML = alerts.map(a=>`
+    <div class="alert-item">
+      <div class="alert-lines">${lines(a)}</div>
+      ${a.alertHeaderText ? `<div class="alert-header">${a.alertHeaderText}</div>` : ""}
+      ${a.alertDescriptionText ? `<div class="alert-desc">${a.alertDescriptionText}</div>` : ""}
+    </div>`).join("");
+  $("#alert-meta").textContent = alerts.length+" tiedote"+(alerts.length>1?"tta":"");
+}
+
+
    ============================================================ */
 const WMO = {
   0:["Selkeää","☀️"],1:["Enimmäkseen selkeää","🌤️"],2:["Puolipilvistä","⛅"],3:["Pilvistä","☁️"],
@@ -410,12 +510,12 @@ async function fetchNews(){
   }
 }
 
-fetchTrams(); fetchWeather(); fetchNews();
+fetchTrams(); fetchAlerts(); fetchWeather(); fetchNews();
 setInterval(fetchTrams,   CONFIG.refresh.trams);
+setInterval(fetchAlerts,  2*60000);
 setInterval(fetchWeather, CONFIG.refresh.weather);
 setInterval(fetchNews,    CONFIG.refresh.news);
 setInterval(recomputeTrams, 10000);
-setInterval(renderVenues, 60000); // päivitä minuutin välein
 
 $("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo";
 </script>
