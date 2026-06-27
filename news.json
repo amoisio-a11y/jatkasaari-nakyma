@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T14:12:51.835473+00:00",
+  "generated": "2026-06-27T15:39:51.879363+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -13,12 +13,6 @@
       "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
       "iso": "2026-06-26T11:58:47+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Korelon ja Cledos käänsivät päät Jätkäsaaressa - Seiska.fi",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmlMNnFHeGp3WkNfUDFWNVhOVHNRQkc1eEw5YnFqeVVOYWh3YTY1RDR5RlpmS0RTcWhvekhIWjVOdUJvV3hIcWVqeDIyWDlCYXNScW9pemRfd2FSd2lGQzYxU3Qzdko5T0tkZ0NOYWdOeDM1RElXWDBOMHFjN2hrWW9QLXRMTTZHVXgw?oc=5",
-      "iso": "2026-06-26T06:30:13+00:00",
       "src": "Google News"
     },
     {
@@ -70,6 +64,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa - STT Info",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
+      "iso": "2026-06-17T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
       "iso": "2026-06-16T07:00:00+00:00",
@@ -85,12 +85,6 @@
       "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
       "iso": "2026-06-12T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Neljä kirjastoa kiinni kesällä Helsingissä - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xdEYtQ3BIcl9UWGh4bm44aWt0VnFPXzBWdlZQeFFEOFhFRHRXNUlYNGJnZ1Iyd2ZmaFVDS3N6cEF3aDNtMU9vaXd6cDlKUGg5Uml3djdFSGZiR2hIemtacA?oc=5",
-      "iso": "2026-06-10T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -180,6 +174,12 @@
     {
       "title": "Peurakaksikko ilahduttaa puistossa Helsingissä – poliisi ei aio vielä toimia - mtvuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnVOWGg3cDNvZ0k3YXVzYkVzSVVra0dOeE1FTnR4MmwwM1JnUm9uQ2dlMkwzZ0xIdHA1UHVieUM5ZW4yd2tqSW1FMTZONDZhaWczdVczalQzOXZlME1KVjBlVjNOUW8zRkFqNGlTZndhUTkzWF9qbGQ1UFlwbE9FbExac2NMdkdNcUVOQllsYTJfOGotX1BhYkc3TGdOa3BDYVZmTzg2azdXY0ZjSTdfVTluYjl2RmItUkE?oc=5",
+      "iso": "2026-05-15T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Poliisi ei varmuudella voi ottaa kantaa, aiotaanko eläimiä siirtää pois Helsingin Jätkäsaaresta. Se toivoo kuitenkin kansalaisilta havaintoja eläimistä. 🔗 Lue lisää kaupunkipeuroista: https://www.mtvuutiset.fi/artikkeli/peurakaksikko-ilahduttaa-puistossa-helsingis - facebook.com",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNHl1WmVKS2NDUWtnOTl5Vk9VeWlLOTV5ZGlEZlJzNXlKUHFuajR5cV9jVl9hdlhqVm9aUnhNRHU1cV9LWDFDVnV3eVRYU0Y4QmRob1pLRUFZS0ptODJ2ODU5bzkxNWJBSC0wbUZjR2k3WEozWllja0xvekNvVEx3UGdleThySHZmSjlQQ0oxUGQ0S3pYZEhIQUpJNlowZGI0RDFMSGlBV1JkMV9GMmhKeVFGREZzbTZEekZGcVVOU3hqblU0SUZXUmFFUDBTVWphQnBQekVYSlZ5RnRuUzBoM0FyOXRqUUxfQXN3U1pBVzBaQQ?oc=5",
       "iso": "2026-05-15T07:00:00+00:00",
       "src": "Google News"
     }
