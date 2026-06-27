@@ -118,23 +118,32 @@ footer{color:var(--fog-dim);font-size:12px;text-align:center;margin-top:8px;opac
 
 /* ---------- häiriötiedotteet ---------- */
 .alert-card{
-  padding-top:12px;padding-bottom:12px;
+  padding:0;
   border-color:rgba(255,107,69,.35);
   background:linear-gradient(160deg,rgba(255,107,69,.08),rgba(255,107,69,.04));
 }
-.alert-card .card-head{margin-bottom:8px}
-.alert-eyebrow{color:var(--soon) !important}
+.alert-toggle{
+  display:flex;align-items:center;gap:12px;
+  width:100%;padding:12px var(--pad);
+  background:none;border:none;cursor:pointer;color:inherit;text-align:left;
+}
+.alert-toggle:hover{background:rgba(255,107,69,.06)}
+.alert-eyebrow{color:var(--soon);font-size:12px;letter-spacing:.18em;text-transform:uppercase;white-space:nowrap}
+.alert-toggle .rule{flex:1;height:1px;background:var(--line)}
+.alert-toggle .meta{font-size:12px;color:var(--fog-dim);white-space:nowrap}
+.alert-chevron{
+  color:var(--soon);font-size:13px;transition:transform .2s;flex-shrink:0;
+}
+.alert-chevron.open{transform:rotate(90deg)}
+#alert-list{padding:0 var(--pad) 12px;}
 .alert-item{
   padding:8px 0;border-top:1px solid rgba(255,107,69,.2);font-size:14px;line-height:1.45;
 }
 .alert-item:first-of-type{border-top:none}
-.alert-lines{
-  display:flex;gap:6px;flex-wrap:wrap;margin-bottom:4px;
-}
+.alert-lines{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:4px}
 .alert-badge{
   font-family:"Space Grotesk",sans-serif;font-weight:700;font-size:12px;
-  background:var(--soon);color:#fff;
-  padding:1px 7px;border-radius:5px;
+  background:var(--soon);color:#fff;padding:1px 7px;border-radius:5px;
 }
 .alert-header{font-weight:500;color:var(--fog);margin-bottom:2px}
 .alert-desc{color:var(--fog-dim);font-size:13px}
@@ -164,14 +173,15 @@ a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-o
     </div>
   </section>
 
-  <!-- HÄIRIÖTIEDOTTEET (piilotettu kun ei häiriöitä) -->
+  <!-- HÄIRIÖTIEDOTTEET (piilotettu kun ei häiriöitä, sisältö avautuu klikkauksella) -->
   <section class="card alert-card" id="alert-card" style="display:none">
-    <div class="card-head">
-      <span class="eyebrow alert-eyebrow">⚠ Häiriötiedotteet</span>
+    <button class="alert-toggle" id="alert-toggle" aria-expanded="false">
+      <span class="alert-eyebrow">⚠ Häiriötiedotteet</span>
       <span class="rule"></span>
       <span class="meta" id="alert-meta"></span>
-    </div>
-    <div id="alert-list"></div>
+      <span class="alert-chevron" id="alert-chevron">▸</span>
+    </button>
+    <div id="alert-list" style="display:none"></div>
   </section>
 
   <!-- SÄÄ -->
@@ -371,8 +381,27 @@ function renderAlerts(alerts){
       ${a.alertHeaderText ? `<div class="alert-header">${a.alertHeaderText}</div>` : ""}
       ${a.alertDescriptionText ? `<div class="alert-desc">${a.alertDescriptionText}</div>` : ""}
     </div>`).join("");
-  $("#alert-meta").textContent = alerts.length+" tiedote"+(alerts.length>1?"tta":"");
+  $("#alert-meta").textContent = alerts.length+" häiriö"+(alerts.length>1?"tä":"");
+  // pidetään sisältö suljettuna jos se on jo kiinni; avataan vain kun häiriömäärä kasvaa
+  if(card._prevCount !== alerts.length){
+    setAlertOpen(false);
+    card._prevCount = alerts.length;
+  }
 }
+
+function setAlertOpen(open){
+  const list = $("#alert-list");
+  const chevron = $("#alert-chevron");
+  const toggle = $("#alert-toggle");
+  list.style.display = open ? "" : "none";
+  chevron.classList.toggle("open", open);
+  toggle.setAttribute("aria-expanded", open);
+}
+
+$("#alert-toggle").addEventListener("click", ()=>{
+  const isOpen = $("#alert-list").style.display !== "none";
+  setAlertOpen(!isOpen);
+});
 
 /* ============================================================
    3) SÄÄ
