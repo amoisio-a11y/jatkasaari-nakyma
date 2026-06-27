@@ -1,26 +1,8 @@
 {
-  "generated": "2026-06-26T23:46:51.607152+00:00",
+  "generated": "2026-06-27T02:53:04.707315+00:00",
   "count": 30,
   "failed": 1,
   "items": [
-    {
-      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
-      "iso": "2026-06-26T11:58:47+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaressa ihmetyttäneet mysteeritolpat lähtevät liikkeelle – 67 järkälettä siirretään | Paikalliset - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlbjFxT2duamd6Skg2WkRRQnNoUk41eFJDM3M2d21vVFh0NkgzSV9WVUMxOGZxQnVnTXY3dFgyRXo5MDVlWlBDVnN0VFlzWTRjTU5IYWI3WGxrYTJFYnJEOA?oc=5",
-      "iso": "2026-06-25T08:32:36+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
-      "iso": "2026-06-25T07:21:26+00:00",
-      "src": "Google News"
-    },
     {
       "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
@@ -34,28 +16,10 @@
       "src": "Google News"
     },
     {
-      "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
-      "iso": "2026-06-23T16:01:29+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-06-23T16:01:29+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
       "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
       "iso": "2026-06-23T06:57:39+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
-      "iso": "2026-06-18T10:45:46+00:00",
-      "src": "Google News"
     },
     {
       "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
@@ -64,28 +28,10 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
-      "iso": "2026-06-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
-      "iso": "2026-06-16T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kesäkuun printtilehti jakelupisteissä",
       "link": "https://www.ruoholahdensanomat.fi/kesakuun-printtilehti-jakelupisteissa/",
       "iso": "2026-06-13T13:13:51+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
-      "iso": "2026-06-12T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Helsinki | Helsingin ytimeen syntyy suurten konsulttiyhtiöiden keskittymä – ”Keskusta on taas haipissa” - HS.fi",
@@ -100,18 +46,6 @@
       "src": "Helsingin kaupunki"
     },
     {
-      "title": "Jätkäsaareen nousi 15 metrin korkuinen teos – uusi maamerkki näkyy kauas - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTFpmdWtiaWdrUmJvWGFQRFR5WFNhMDdmVHlBclhXaHA4aXE1MWxmSnZIYk1wbUxURGVWUW4zcVZBQkpURzAyd2I3YVN0Rm9wbWJwSUtxR21GOEZUTVY1RA?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Suosituimmat ruoat -juttusarjassa vuorossa Mr Pastrami ja Aangan",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-ruoat-juttusarjassa-vuorossa-mr-pastrami-ja-aangan/",
       "iso": "2026-06-08T04:34:00+00:00",
@@ -124,16 +58,16 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaareen suunnitellaan uutta puistoa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tc1N4S2cwaTR5aWRvM0lIME5NMHNUQW9PV190MFd2YjJHcmNkOTBRanVGZ2x0Y25xQ2JGWWRObG9VbWpNaXZjbktpWGhYX2s4N3NqZ0ZYUGlhMlpmMlV2Qg?oc=5",
-      "iso": "2026-05-29T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-27T08:23:20+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Pikatesti | 53 euron burgeriateria ei vakuuttanut - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kcFpIUXFOZ01sTnJMS1o0bVR1UVdJV3RYR1hfMlU5RDJldlFPTUpxNU1JSlZVbC13RkpZXy1yTWdOOU9URjhqWmxoeHpQWWNiOERmRzZZTmtXUQ?oc=5",
+      "iso": "2026-05-25T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Ruoholahden koulusta monitoimitalo",
@@ -178,10 +112,76 @@
       "src": "Google News"
     },
     {
-      "title": "Poliisi ei varmuudella voi ottaa kantaa, aiotaanko eläimiä siirtää pois Helsingin Jätkäsaaresta. Se toivoo kuitenkin kansalaisilta havaintoja eläimistä. 🔗 Lue lisää kaupunkipeuroista: https://www.mtvuutiset.fi/artikkeli/peurakaksikko-ilahduttaa-puistossa-helsingis - Facebook",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNHl1WmVKS2NDUWtnOTl5Vk9VeWlLOTV5ZGlEZlJzNXlKUHFuajR5cV9jVl9hdlhqVm9aUnhNRHU1cV9LWDFDVnV3eVRYU0Y4QmRob1pLRUFZS0ptODJ2ODU5bzkxNWJBSC0wbUZjR2k3WEozWllja0xvekNvVEx3UGdleThySHZmSjlQQ0oxUGQ0S3pYZEhIQUpJNlowZGI0RDFMSGlBV1JkMV9GMmhKeVFGREZzbTZEekZGcVVOU3hqblU0SUZXUmFFUDBTVWphQnBQekVYSlZ5RnRuUzBoM0FyOXRqUUxfQXN3U1pBVzBaQQ?oc=5",
-      "iso": "2026-05-15T07:00:00+00:00",
+      "title": "Toukokuun paperilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
+      "iso": "2026-05-15T05:51:46+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "HIFK kohtaa PPJ:n vieraissa Jätkäsaaressa – vierasliput HIFK:n verkkokaupasta - HIFK Fotboll",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmVVNDlDUWtxdVRtY3VEM1FfeTZIcnJWXzNiNzRzRUNRNkc3NU01ZkpLQVUtdEtacHZXdk9FNkM4em15UjBmN3BSdjdvT3pnaTQ5bDJNVFhQWDV3ei0zNUtYRnBzN2F6bThYcTBOMVJHMDNzeEk3dklFcGJCQnFzQ0EwcFZKSFpoTFFiSy1oT3FneHg0aWMydTJ2bnFMamI5SHpIaVFqV0VvUTY1TVJPWnRERFo?oc=5",
+      "iso": "2026-05-08T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen valmistuu lähes 150 uutta Hitas- ja vuokra-asuntoa",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-valmistuu-lahes-150-uutta-hitas-ja-vuokra-asuntoa",
+      "iso": "2026-05-05T08:29:54+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kaupunki haluaa elämää Jätkä­saaren vanhoihin rakennuksiin",
+      "link": "https://www.ruoholahdensanomat.fi/kaupunki-haluaa-elamaa-jatkasaaren-vanhoihin-rakennuksiin/",
+      "iso": "2026-05-05T05:01:32+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Ravintolakierros jatkuu, vuorossa Primo ja Luckiefun",
+      "link": "https://www.ruoholahdensanomat.fi/ravintolakierros-jatkuu-vuorossa-primo-ja-luckiefun/",
+      "iso": "2026-04-29T09:54:27+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaari-Ruoholahti -alueen asukastilaisuus – tutustu esitysaineistoon",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-ruoholahti-alueen-asukastilaisuus-tutustu-esitysaineistoon/",
+      "iso": "2026-04-08T19:53:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Helsingin satama uudistuu – tutustu Helsingin sataman lähivuosien suunnitelmiin",
+      "link": "https://kaupunginosat.fi/jatkasaari/helsingin-satama-uudistuu-tutustu-helsingin-sataman-lahivuosien-suunnitelmiin/",
+      "iso": "2026-04-08T07:05:29+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Hylje hädässä Helsingissä – Turvautui ihmiseen, ei hyvä idea - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBxazl0SUFiT3RuVWQwVVlUQ241VTBrYzRzaHc5THo5N3A3SXdrVkJNdlhVNVBabzhnRjE3SFAyQm9CY3k2Y1JOWGhqNC1yYjBWdEc4MjdQSTAyak51Q3BFV0s5b1lCb09RT25HclRwRXhGbWtPTWNEX0h1QQ?oc=5",
+      "iso": "2026-04-03T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Scandic kasvaa pääkaupunkiseudulla - Scandic Hotels Group",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbTVaQVdwR01FaTRKNlNnbk4wd1hwUXJhRW1sbmtKQmlnSTY3T3gzVlp2M0VGNGNiYkNqSXJFbXpRWmdIMWgwLXNyMUljRm1IYmo0YzRGbGFHTzBoWW9hdTA2QW15Q2lReGZMTWxta25NY19fWnRMY3N3UURyUEdCcEdJWXpORFVHRy15ZFlHUTZfdkF4OVFqd3QzY2NONXlzd0JmbXJxdnhQVzY1eE9CYnc5Z1MzaUk?oc=5",
+      "iso": "2026-04-01T15:16:15+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinkiläisiä askarrutti ydinvoiman turvallisuus, kun Helen esitteli suunnitelmiaan Ruoholahdessa - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE10Umk2R2VyNmFvVzMtcVVYM2MtTnA4U05XdTlHRl91UjNic2U3N2xiU0xjWGVHbzdGSjB4bjdyYm85Zw?oc=5",
+      "iso": "2026-03-25T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaari-seuran kevätkokoustapahtumassa tutustuttiin Docrates-sairaalaan",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-kevatkokoustapahtumassa-tutustuttiin-docrates-sairaalaan/",
+      "iso": "2026-03-20T06:09:54+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Sataman perintö näkyy yhä Jätkäsaaren vanhoissa rakennuksissa",
+      "link": "https://www.hel.fi/fi/uutiset/sataman-perinto-nakyy-yha-jatkasaaren-vanhoissa-rakennuksissa",
+      "iso": "2026-03-19T11:29:22+00:00",
+      "src": "Helsingin kaupunki"
     }
   ]
 }
