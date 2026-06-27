@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-27T16:46:33.495125+00:00",
+  "generated": "2026-06-27T18:00:59.871305+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -70,12 +70,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
-      "iso": "2026-06-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
       "iso": "2026-06-16T07:00:00+00:00",
@@ -94,6 +88,12 @@
       "src": "Google News"
     },
     {
+      "title": "Neljä kirjastoa kiinni kesällä Helsingissä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1xdEYtQ3BIcl9UWGh4bm44aWt0VnFPXzBWdlZQeFFEOFhFRHRXNUlYNGJnZ1Iyd2ZmaFVDS3N6cEF3aDNtMU9vaXd6cDlKUGg5Uml3djdFSGZiR2hIemtacA?oc=5",
+      "iso": "2026-06-10T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Helsinki | Helsingin ytimeen syntyy suurten konsulttiyhtiöiden keskittymä – ”Keskusta on taas haipissa” - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWpNTU1FaXRkSUtlX0gtMi11aGZHQkhrSmh1b0VSeEVlTHVfOHl2QkM5cmVkdXlYSGNiMDB5ZUs1YUNyTkNYRVRkNHZuUHlsb256TkJKVjNUUQ?oc=5",
       "iso": "2026-06-10T07:00:00+00:00",
@@ -108,12 +108,6 @@
     {
       "title": "Jätkäsaareen nousi 15 metrin korkuinen teos – uusi maamerkki näkyy kauas - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTFpmdWtiaWdrUmJvWGFQRFR5WFNhMDdmVHlBclhXaHA4aXE1MWxmSnZIYk1wbUxURGVWUW4zcVZBQkpURzAyd2I3YVN0Rm9wbWJwSUtxR21GOEZUTVY1RA?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
       "iso": "2026-06-08T07:00:00+00:00",
       "src": "Google News"
     },
@@ -182,6 +176,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
       "iso": "2026-05-19T05:55:00+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Peurakaksikko ilahduttaa puistossa Helsingissä – poliisi ei aio vielä toimia - mtvuutiset.fi",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnVOWGg3cDNvZ0k3YXVzYkVzSVVra0dOeE1FTnR4MmwwM1JnUm9uQ2dlMkwzZ0xIdHA1UHVieUM5ZW4yd2tqSW1FMTZONDZhaWczdVczalQzOXZlME1KVjBlVjNOUW8zRkFqNGlTZndhUTkzWF9qbGQ1UFlwbE9FbExac2NMdkdNcUVOQllsYTJfOGotX1BhYkc3TGdOa3BDYVZmTzg2azdXY0ZjSTdfVTluYjl2RmItUkE?oc=5",
+      "iso": "2026-05-15T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
