@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T00:11:26.567119+00:00",
+  "generated": "2026-06-28T04:51:01.368384+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -19,12 +19,6 @@
       "title": "Korelon ja Cledos käänsivät päät Jätkäsaaressa - Seiska.fi",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZmlMNnFHeGp3WkNfUDFWNVhOVHNRQkc1eEw5YnFqeVVOYWh3YTY1RDR5RlpmS0RTcWhvekhIWjVOdUJvV3hIcWVqeDIyWDlCYXNScW9pemRfd2FSd2lGQzYxU3Qzdko5T0tkZ0NOYWdOeDM1RElXWDBOMHFjN2hrWW9QLXRMTTZHVXgw?oc=5",
       "iso": "2026-06-26T06:30:13+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaressa ihmetyttäneet mysteeritolpat lähtevät liikkeelle – 67 järkälettä siirretään | Paikalliset - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlbjFxT2duamd6Skg2WkRRQnNoUk41eFJDM3M2d21vVFh0NkgzSV9WVUMxOGZxQnVnTXY3dFgyRXo5MDVlWlBDVnN0VFlzWTRjTU5IYWI3WGxrYTJFYnJEOA?oc=5",
-      "iso": "2026-06-25T08:32:36+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnVOWGg3cDNvZ0k3YXVzYkVzSVVra0dOeE1FTnR4MmwwM1JnUm9uQ2dlMkwzZ0xIdHA1UHVieUM5ZW4yd2tqSW1FMTZONDZhaWczdVczalQzOXZlME1KVjBlVjNOUW8zRkFqNGlTZndhUTkzWF9qbGQ1UFlwbE9FbExac2NMdkdNcUVOQllsYTJfOGotX1BhYkc3TGdOa3BDYVZmTzg2azdXY0ZjSTdfVTluYjl2RmItUkE?oc=5",
       "iso": "2026-05-15T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Toukokuun paperilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
+      "iso": "2026-05-15T05:51:46+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
