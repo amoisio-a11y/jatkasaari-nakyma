@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-28T20:59:14.158058+00:00",
+  "generated": "2026-06-28T22:09:17.088817+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -13,12 +13,6 @@
       "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
       "iso": "2026-06-26T11:58:47+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren siltaremontti etenee – luvassa asfaltointitöitä - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
-      "iso": "2026-06-26T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -52,6 +46,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Helsinki | Jätkäsaaren turmaparkkihallin katolla liikutaan yhä luvatta - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5YZU9GMG83TEtzY0t6TFBvSV80Y3FpNV9tTWg1UXFRUERPdGtKMmRGX09pbGRSNUZYM0Y4RkNPVFNpT1dYUDkxX0ZCa3NJbERsZW13emF6YVpSeTlWa3c?oc=5",
+      "iso": "2026-06-18T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
@@ -62,12 +62,6 @@
       "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
       "iso": "2026-06-18T04:33:40+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
-      "iso": "2026-06-17T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
@@ -102,12 +96,6 @@
     {
       "title": "Jätkäsaareen nousi 15 metrin korkuinen teos – uusi maamerkki näkyy kauas - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTFpmdWtiaWdrUmJvWGFQRFR5WFNhMDdmVHlBclhXaHA4aXE1MWxmSnZIYk1wbUxURGVWUW4zcVZBQkpURzAyd2I3YVN0Rm9wbWJwSUtxR21GOEZUTVY1RA?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
       "iso": "2026-06-08T07:00:00+00:00",
       "src": "Google News"
     },
@@ -181,6 +169,18 @@
       "title": "Poliisi ei varmuudella voi ottaa kantaa, aiotaanko eläimiä siirtää pois Helsingin Jätkäsaaresta. Se toivoo kuitenkin kansalaisilta havaintoja eläimistä. 🔗 Lue lisää kaupunkipeuroista: https://www.mtvuutiset.fi/artikkeli/peurakaksikko-ilahduttaa-puistossa-helsingis - facebook.com",
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQNHl1WmVKS2NDUWtnOTl5Vk9VeWlLOTV5ZGlEZlJzNXlKUHFuajR5cV9jVl9hdlhqVm9aUnhNRHU1cV9LWDFDVnV3eVRYU0Y4QmRob1pLRUFZS0ptODJ2ODU5bzkxNWJBSC0wbUZjR2k3WEozWllja0xvekNvVEx3UGdleThySHZmSjlQQ0oxUGQ0S3pYZEhIQUpJNlowZGI0RDFMSGlBV1JkMV9GMmhKeVFGREZzbTZEekZGcVVOU3hqblU0SUZXUmFFUDBTVWphQnBQekVYSlZ5RnRuUzBoM0FyOXRqUUxfQXN3U1pBVzBaQQ?oc=5",
       "iso": "2026-05-15T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Toukokuun paperilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
+      "iso": "2026-05-15T05:51:46+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Kauriit eksyivät keskelle Helsinkiä – näin kommentoi poliisi - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzMERYUTVVUjByWHk1andCXzFxTTJYS0ltQ3Z6elhKYVZwRmFtcnpwRlJpbXl5NmdOYUkyUTB3TU5yN3hLR3haUHVfQ05QRFA4enRWd1M5Nl9DRmxH?oc=5",
+      "iso": "2026-05-14T07:00:00+00:00",
       "src": "Google News"
     }
   ]
