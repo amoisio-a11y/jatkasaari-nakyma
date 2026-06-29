@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-29T06:23:18.830798+00:00",
+  "generated": "2026-06-29T11:31:19.075553+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -79,12 +79,6 @@
       "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
       "iso": "2026-06-12T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Helsingin ytimeen syntyy suurten konsulttiyhtiöiden keskittymä – ”Keskusta on taas haipissa” - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWpNTU1FaXRkSUtlX0gtMi11aGZHQkhrSmh1b0VSeEVlTHVfOHl2QkM5cmVkdXlYSGNiMDB5ZUs1YUNyTkNYRVRkNHZuUHlsb256TkJKVjNUUQ?oc=5",
-      "iso": "2026-06-10T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
       "iso": "2026-05-15T05:51:46+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Kauriit eksyivät keskelle Helsinkiä – näin kommentoi poliisi - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzMERYUTVVUjByWHk1andCXzFxTTJYS0ltQ3Z6elhKYVZwRmFtcnpwRlJpbXl5NmdOYUkyUTB3TU5yN3hLR3haUHVfQ05QRFA4enRWd1M5Nl9DRmxH?oc=5",
+      "iso": "2026-05-14T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
