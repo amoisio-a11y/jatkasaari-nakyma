@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T19:17:45.346728+00:00",
+  "generated": "2026-06-30T21:13:51.313432+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -112,12 +112,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaareen suunnitellaan uutta puistoa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tc1N4S2cwaTR5aWRvM0lIME5NMHNUQW9PV190MFd2YjJHcmNkOTBRanVGZ2x0Y25xQ2JGWWRObG9VbWpNaXZjbktpWGhYX2s4N3NqZ0ZYUGlhMlpmMlV2Qg?oc=5",
-      "iso": "2026-05-29T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-27T08:23:20+00:00",
@@ -181,6 +175,12 @@
       "title": "Kauriit eksyivät keskelle Helsinkiä – näin kommentoi poliisi - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzMERYUTVVUjByWHk1andCXzFxTTJYS0ltQ3Z6elhKYVZwRmFtcnpwRlJpbXl5NmdOYUkyUTB3TU5yN3hLR3haUHVfQ05QRFA4enRWd1M5Nl9DRmxH?oc=5",
       "iso": "2026-05-14T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "HIFK kohtaa PPJ:n vieraissa Jätkäsaaressa – vierasliput HIFK:n verkkokaupasta - HIFK Fotboll",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmVVNDlDUWtxdVRtY3VEM1FfeTZIcnJWXzNiNzRzRUNRNkc3NU01ZkpLQVUtdEtacHZXdk9FNkM4em15UjBmN3BSdjdvT3pnaTQ5bDJNVFhQWDV3ei0zNUtYRnBzN2F6bThYcTBOMVJHMDNzeEk3dklFcGJCQnFzQ0EwcFZKSFpoTFFiSy1oT3FneHg0aWMydTJ2bnFMamI5SHpIaVFqV0VvUTY1TVJPWnRERFo?oc=5",
+      "iso": "2026-05-08T07:00:00+00:00",
       "src": "Google News"
     }
   ]
