@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T06:09:54.257900+00:00",
+  "generated": "2026-06-30T10:00:41.278317+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -94,12 +94,6 @@
       "src": "Helsingin kaupunki"
     },
     {
-      "title": "Jätkäsaareen nousi 15 metrin korkuinen teos – uusi maamerkki näkyy kauas - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9JTFpmdWtiaWdrUmJvWGFQRFR5WFNhMDdmVHlBclhXaHA4aXE1MWxmSnZIYk1wbUxURGVWUW4zcVZBQkpURzAyd2I3YVN0Rm9wbWJwSUtxR21GOEZUTVY1RA?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Suosituimmat ruoat -juttusarjassa vuorossa Mr Pastrami ja Aangan",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-ruoat-juttusarjassa-vuorossa-mr-pastrami-ja-aangan/",
       "iso": "2026-06-08T04:34:00+00:00",
@@ -181,6 +175,12 @@
       "title": "Kauriit eksyivät keskelle Helsinkiä – näin kommentoi poliisi - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzMERYUTVVUjByWHk1andCXzFxTTJYS0ltQ3Z6elhKYVZwRmFtcnpwRlJpbXl5NmdOYUkyUTB3TU5yN3hLR3haUHVfQ05QRFA4enRWd1M5Nl9DRmxH?oc=5",
       "iso": "2026-05-14T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "HIFK kohtaa PPJ:n vieraissa Jätkäsaaressa – vierasliput HIFK:n verkkokaupasta - HIFK Fotboll",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmVVNDlDUWtxdVRtY3VEM1FfeTZIcnJWXzNiNzRzRUNRNkc3NU01ZkpLQVUtdEtacHZXdk9FNkM4em15UjBmN3BSdjdvT3pnaTQ5bDJNVFhQWDV3ei0zNUtYRnBzN2F6bThYcTBOMVJHMDNzeEk3dklFcGJCQnFzQ0EwcFZKSFpoTFFiSy1oT3FneHg0aWMydTJ2bnFMamI5SHpIaVFqV0VvUTY1TVJPWnRERFo?oc=5",
+      "iso": "2026-05-08T07:00:00+00:00",
       "src": "Google News"
     }
   ]
