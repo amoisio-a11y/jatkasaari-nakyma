@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-30T23:50:46.340155+00:00",
+  "generated": "2026-07-01T03:36:06.949352+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -64,12 +64,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
-      "iso": "2026-06-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
       "iso": "2026-06-16T07:00:00+00:00",
@@ -92,12 +86,6 @@
       "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
       "iso": "2026-06-08T08:38:31+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Suosituimmat ruoat -juttusarjassa vuorossa Mr Pastrami ja Aangan",
@@ -178,9 +166,21 @@
       "src": "Google News"
     },
     {
-      "title": "HIFK kohtaa PPJ:n vieraissa Jätkäsaaressa – vierasliput HIFK:n verkkokaupasta - HIFK Fotboll",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYmVVNDlDUWtxdVRtY3VEM1FfeTZIcnJWXzNiNzRzRUNRNkc3NU01ZkpLQVUtdEtacHZXdk9FNkM4em15UjBmN3BSdjdvT3pnaTQ5bDJNVFhQWDV3ei0zNUtYRnBzN2F6bThYcTBOMVJHMDNzeEk3dklFcGJCQnFzQ0EwcFZKSFpoTFFiSy1oT3FneHg0aWMydTJ2bnFMamI5SHpIaVFqV0VvUTY1TVJPWnRERFo?oc=5",
-      "iso": "2026-05-08T07:00:00+00:00",
+      "title": "Jätkäsaareen ja Länsisatamaan pääsee maanantaista alkaen nopeammin - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5GTmItV1lLX1g2TWhscTk2VHNGSVlIWEJtMHhid1N4SmdENVlrRFNFck9oWDNZZVZhbmF6d2RuRC1lZDB0ODlOT19ZZHF4VkMxU3ljb0paOEpRckExMXFNLQ?oc=5",
+      "iso": "2026-05-07T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen valmistuu lähes 150 uutta Hitas- ja vuokra-asuntoa",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-valmistuu-lahes-150-uutta-hitas-ja-vuokra-asuntoa",
+      "iso": "2026-05-05T08:29:54+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ratikka ja auto törmäsivät Jätkäsaaressa - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE02M0wwQlZLUTZFZFdBSVIwczdVa1pTQnNLMjlobUEzeXZuYUcwclp6Mmx5d1JxNE9wVzlUQXBvOHlVRzNCWWtLSjd1WU54MEFZUDhmQnoxOHJrcGFL?oc=5",
+      "iso": "2026-05-05T07:00:00+00:00",
       "src": "Google News"
     }
   ]
