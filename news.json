@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-01T23:23:44.706351+00:00",
+  "generated": "2026-07-02T01:31:55.973744+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -19,12 +19,6 @@
       "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
       "iso": "2026-06-26T08:55:14+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaressa ihmetyttäneet mysteeritolpat lähtevät liikkeelle – 67 järkälettä siirretään - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBlbjFxT2duamd6Skg2WkRRQnNoUk41eFJDM3M2d21vVFh0NkgzSV9WVUMxOGZxQnVnTXY3dFgyRXo5MDVlWlBDVnN0VFlzWTRjTU5IYWI3WGxrYTJFYnJEOA?oc=5",
-      "iso": "2026-06-25T08:32:36+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
       "iso": "2026-05-15T05:51:46+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Kauriit eksyivät keskelle Helsinkiä – näin kommentoi poliisi - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAzMERYUTVVUjByWHk1andCXzFxTTJYS0ltQ3Z6elhKYVZwRmFtcnpwRlJpbXl5NmdOYUkyUTB3TU5yN3hLR3haUHVfQ05QRFA4enRWd1M5Nl9DRmxH?oc=5",
+      "iso": "2026-05-14T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
