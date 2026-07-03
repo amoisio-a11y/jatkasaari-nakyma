@@ -1,8 +1,20 @@
 {
-  "generated": "2026-07-03T04:07:37.080564+00:00",
+  "generated": "2026-07-03T07:35:33.906561+00:00",
   "count": 30,
   "failed": 1,
   "items": [
+    {
+      "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
+      "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
+      "iso": "2026-07-03T07:12:31+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest-kutsuu-jalleen-kaikki-alueen-asukkaat-juhlimaan/",
+      "iso": "2026-07-03T06:58:18+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Kuvat näyttävät | Näin nosturialus siirtää Jätkäsaaren jättielementit mereen - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
@@ -19,6 +31,12 @@
       "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
       "iso": "2026-07-01T05:30:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
+      "iso": "2026-06-26T08:55:14+00:00",
       "src": "Google News"
     },
     {
@@ -164,24 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
       "iso": "2026-05-19T06:37:22+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Meri-Stadi -toimintaryhmä tuo merellisyyden mahdollisuuksia vahvemmin osaksi kaupunkilaisten arkea",
-      "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
-      "iso": "2026-05-19T05:55:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Peurakaksikko ilahduttaa puistossa Helsingissä – poliisi ei aio vielä toimia - mtvuutiset.fi",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNcnVOWGg3cDNvZ0k3YXVzYkVzSVVra0dOeE1FTnR4MmwwM1JnUm9uQ2dlMkwzZ0xIdHA1UHVieUM5ZW4yd2tqSW1FMTZONDZhaWczdVczalQzOXZlME1KVjBlVjNOUW8zRkFqNGlTZndhUTkzWF9qbGQ1UFlwbE9FbExac2NMdkdNcUVOQllsYTJfOGotX1BhYkc3TGdOa3BDYVZmTzg2azdXY0ZjSTdfVTluYjl2RmItUkE?oc=5",
-      "iso": "2026-05-15T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Toukokuun paperilehti jakelupisteissä",
-      "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
-      "iso": "2026-05-15T05:51:46+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
