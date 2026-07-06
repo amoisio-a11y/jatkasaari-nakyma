@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-06T09:43:24.752762+00:00",
+  "generated": "2026-07-06T13:31:45.876159+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -56,12 +56,6 @@
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
-      "iso": "2026-06-24T11:47:43+00:00",
-      "src": "Google News"
     },
     {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
@@ -181,6 +175,12 @@
       "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
       "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
       "iso": "2026-05-19T06:37:22+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Meri-Stadi -toimintaryhmä tuo merellisyyden mahdollisuuksia vahvemmin osaksi kaupunkilaisten arkea",
+      "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
+      "iso": "2026-05-19T05:55:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
