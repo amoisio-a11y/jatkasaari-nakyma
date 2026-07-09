@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T21:06:52.966062+00:00",
+  "generated": "2026-07-09T22:43:08.746181+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -49,12 +49,6 @@
       "title": "Tässä ovat Helsingin suosikkialueet – kaupunginosien välillä huimat erot - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0c1NiTTJ0UzVsT05TdmNzSlNTZHo5Q2ZzMWRoVGs2aVRQakpTR0l3ZTQ1SzZYSk1DTk1XcERGMTU2dFpMcUZDTzBFS3ZNazBxTkJNU0lISktTcTdjNU1MOVJjWU0?oc=5",
       "iso": "2026-06-29T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
-      "iso": "2026-06-26T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-19T06:57:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
+      "iso": "2026-05-19T06:37:22+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
