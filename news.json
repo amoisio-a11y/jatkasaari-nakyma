@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-09T15:48:20.287103+00:00",
+  "generated": "2026-07-09T17:53:32.096049+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 1,
   "items": [
     {
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
@@ -64,6 +64,12 @@
       "src": "Google News"
     },
     {
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
       "iso": "2026-06-23T07:00:00+00:00",
@@ -124,6 +130,12 @@
       "src": "Google News"
     },
     {
+      "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
+      "iso": "2026-06-08T08:38:31+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
       "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
       "iso": "2026-06-08T07:00:00+00:00",
@@ -169,18 +181,6 @@
       "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-19T06:57:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
-      "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
-      "iso": "2026-05-19T06:37:22+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Meri-Stadi -toimintaryhmä tuo merellisyyden mahdollisuuksia vahvemmin osaksi kaupunkilaisten arkea",
-      "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
-      "iso": "2026-05-19T05:55:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
