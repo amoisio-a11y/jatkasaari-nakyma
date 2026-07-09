@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-09T02:45:16.969029+00:00",
+  "generated": "2026-07-09T06:41:48.890999+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -78,12 +78,6 @@
     {
       "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
-      "iso": "2026-06-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "HBL: Samassa paikassa kuollut jo neljä ihmistä – Turvatoimet lykkääntyvät jälleen - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
       "src": "Google News"
     },
@@ -181,6 +175,12 @@
       "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
       "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
       "iso": "2026-05-19T06:37:22+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Meri-Stadi -toimintaryhmä tuo merellisyyden mahdollisuuksia vahvemmin osaksi kaupunkilaisten arkea",
+      "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
+      "iso": "2026-05-19T05:55:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
