@@ -1,8 +1,20 @@
 {
-  "generated": "2026-07-10T02:48:18.147007+00:00",
+  "generated": "2026-07-10T06:43:09.658114+00:00",
   "count": 30,
   "failed": 1,
   "items": [
+    {
+      "title": "Jätkäsaaren laiturielementtien siirto alkanut",
+      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
+      "iso": "2026-07-10T06:05:09+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
+      "iso": "2026-07-09T16:06:59+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
@@ -169,18 +181,6 @@
       "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan 5.9.2026",
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
       "iso": "2026-05-19T15:51:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
-      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
-      "iso": "2026-05-19T13:00:21+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
-      "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
-      "iso": "2026-05-19T06:57:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
