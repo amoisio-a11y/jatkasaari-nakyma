@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T15:19:54.652085+00:00",
+  "generated": "2026-07-10T17:17:32.858711+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -8,12 +8,6 @@
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
       "iso": "2026-07-10T06:05:09+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-07-09T16:06:59+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
@@ -181,6 +175,12 @@
       "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-19T06:57:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
+      "iso": "2026-05-19T06:37:22+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
