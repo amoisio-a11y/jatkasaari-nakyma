@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-10T23:38:53.646540+00:00",
+  "generated": "2026-07-11T01:08:07.380888+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -55,12 +55,6 @@
       "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
       "iso": "2026-07-01T05:30:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Tässä ovat Helsingin suosikkialueet – kaupunginosien välillä huimat erot - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0c1NiTTJ0UzVsT05TdmNzSlNTZHo5Q2ZzMWRoVGs2aVRQakpTR0l3ZTQ1SzZYSk1DTk1XcERGMTU2dFpMcUZDTzBFS3ZNazBxTkJNU0lISktTcTdjNU1MOVJjWU0?oc=5",
-      "iso": "2026-06-29T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-19T06:57:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
+      "iso": "2026-05-19T06:37:22+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
