@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-12T17:33:28.690942+00:00",
+  "generated": "2026-07-12T18:37:57.792989+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -58,6 +58,12 @@
       "src": "Google News"
     },
     {
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
+      "iso": "2026-06-26T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
       "iso": "2026-06-25T07:00:00+00:00",
@@ -82,14 +88,14 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
+      "title": "HBL: Samassa paikassa kuollut jo neljä ihmistä – Turvatoimet lykkääntyvät jälleen - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "HBL: Samassa paikassa kuollut jo neljä ihmistä – Turvatoimet lykkääntyvät jälleen - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
+      "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
       "src": "Google News"
     },
@@ -175,12 +181,6 @@
       "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
       "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
       "iso": "2026-05-19T13:00:21+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
-      "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
-      "iso": "2026-05-19T06:57:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
