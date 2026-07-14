@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-14T00:08:19.962531+00:00",
+  "generated": "2026-07-14T03:32:35.323253+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -7,12 +7,6 @@
       "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
       "iso": "2026-07-13T10:08:52+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Varhaiskasvatuksen lastenhoitaja, vahvistettu henkilöstömäärä, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81Z1lUbUozeU5ISDBWaWQzTnVLTnB2d2l0WGl4WmwzT0R5YnpRLUlZN3h5a0plLS1TUWxINEJWWnBTQXRvbU9OeXRTc3Q3ODBQSXlQVF94eU1kMmkwNGIzc18zbWhMT0Uwb3h0bWZuYjVCVmtYRURpaHh4ZGQwdw?oc=5",
-      "iso": "2026-07-13T06:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -124,12 +118,6 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
-      "iso": "2026-06-16T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kesäkuun printtilehti jakelupisteissä",
       "link": "https://www.ruoholahdensanomat.fi/kesakuun-printtilehti-jakelupisteissa/",
       "iso": "2026-06-13T13:13:51+00:00",
@@ -181,6 +169,18 @@
       "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan 5.9.2026",
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
       "iso": "2026-05-19T15:51:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
+      "iso": "2026-05-19T13:00:21+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
+      "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
+      "iso": "2026-05-19T06:57:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
