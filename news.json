@@ -1,14 +1,8 @@
 {
-  "generated": "2026-07-14T14:47:34.359788+00:00",
+  "generated": "2026-07-14T16:12:20.757573+00:00",
   "count": 30,
   "failed": 1,
   "items": [
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-07-13T10:08:52+00:00",
-      "src": "Google News"
-    },
     {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
@@ -84,6 +78,12 @@
     {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
+      "iso": "2026-06-23T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
       "iso": "2026-06-23T07:00:00+00:00",
       "src": "Google News"
     },
