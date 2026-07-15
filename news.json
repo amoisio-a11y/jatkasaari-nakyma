@@ -1,14 +1,8 @@
 {
-  "generated": "2026-07-15T08:26:56.330786+00:00",
+  "generated": "2026-07-15T10:21:13.745173+00:00",
   "count": 30,
   "failed": 1,
   "items": [
-    {
-      "title": "Varhaiskasvatuksen lastenhoitaja, vahvistettu henkilöstömäärä, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81Z1lUbUozeU5ISDBWaWQzTnVLTnB2d2l0WGl4WmwzT0R5YnpRLUlZN3h5a0plLS1TUWxINEJWWnBTQXRvbU9OeXRTc3Q3ODBQSXlQVF94eU1kMmkwNGIzc18zbWhMT0Uwb3h0bWZuYjVCVmtYRURpaHh4ZGQwdw?oc=5",
-      "iso": "2026-07-13T06:00:00+00:00",
-      "src": "Google News"
-    },
     {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
@@ -52,7 +46,7 @@
       "src": "Google News"
     },
     {
-      "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
+      "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - epressi.com",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
       "iso": "2026-07-01T05:30:00+00:00",
       "src": "Google News"
@@ -181,6 +175,12 @@
       "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-19T06:57:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
+      "iso": "2026-05-19T06:37:22+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
