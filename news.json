@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-15T23:40:24.607880+00:00",
+  "generated": "2026-07-16T01:07:54.923471+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -19,12 +19,6 @@
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
       "iso": "2026-07-07T12:48:13+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Rankkasade sai Etelä-Helsingin tulvimaan – useisiin liiketiloihin pääsi valumaan vettä - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01dUROVUVVaERPc1RDWGxvZFBEVnY2SzZIWm9EQWg4VDJtN01tNk45VThZTExfQzlDQUVwMFgzelp5dw?oc=5",
-      "iso": "2026-07-05T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
       "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
       "iso": "2026-05-19T13:00:21+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
+      "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
+      "iso": "2026-05-19T06:57:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
