@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-16T01:07:54.923471+00:00",
+  "generated": "2026-07-16T04:25:21.954902+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -124,12 +124,6 @@
       "src": "Google News"
     },
     {
-      "title": "Helsinki | Helsingin ytimeen syntyy suurten konsulttiyhtiöiden keskittymä – ”Keskusta on taas haipissa” - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWpNTU1FaXRkSUtlX0gtMi11aGZHQkhrSmh1b0VSeEVlTHVfOHl2QkM5cmVkdXlYSGNiMDB5ZUs1YUNyTkNYRVRkNHZuUHlsb256TkJKVjNUUQ?oc=5",
-      "iso": "2026-06-10T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
       "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
       "iso": "2026-06-08T08:38:31+00:00",
@@ -181,6 +175,12 @@
       "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
       "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
       "iso": "2026-05-19T06:57:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
+      "iso": "2026-05-19T06:37:22+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
