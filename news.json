@@ -1,31 +1,13 @@
 {
-  "generated": "2026-07-17T10:49:26.534096+00:00",
+  "generated": "2026-07-17T12:07:38.682640+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 3,
   "items": [
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-07-16T11:30:36+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Varhaiskasvatuksen lastenhoitaja, vahvistettu henkilöstömäärä, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81Z1lUbUozeU5ISDBWaWQzTnVLTnB2d2l0WGl4WmwzT0R5YnpRLUlZN3h5a0plLS1TUWxINEJWWnBTQXRvbU9OeXRTc3Q3ODBQSXlQVF94eU1kMmkwNGIzc18zbWhMT0Uwb3h0bWZuYjVCVmtYRURpaHh4ZGQwdw?oc=5",
-      "iso": "2026-07-13T06:00:00+00:00",
-      "src": "Google News"
-    },
     {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
       "iso": "2026-07-10T06:05:09+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
-      "iso": "2026-07-07T12:48:13+00:00",
-      "src": "Google News"
     },
     {
       "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
@@ -46,28 +28,10 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Kuvat näyttävät | Näin nosturialus siirtää Jätkäsaaren jättielementit mereen - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
-      "iso": "2026-07-02T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
-      "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
-      "iso": "2026-06-23T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
@@ -76,34 +40,10 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
-      "iso": "2026-06-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "HBL: Samassa paikassa kuollut jo neljä ihmistä – Turvatoimet lykkääntyvät jälleen - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
-      "iso": "2026-06-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
       "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
       "iso": "2026-06-18T04:33:40+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa | HSL Helsingin seudun liikenne - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
-      "iso": "2026-06-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
-      "iso": "2026-06-16T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Kesäkuun printtilehti jakelupisteissä",
@@ -112,22 +52,10 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
-      "iso": "2026-06-12T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
       "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
       "iso": "2026-06-08T08:38:31+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
-      "iso": "2026-06-08T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Suosituimmat ruoat -juttusarjassa vuorossa Mr Pastrami ja Aangan",
@@ -182,6 +110,78 @@
       "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
       "iso": "2026-05-19T05:55:00+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Toukokuun paperilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/toukokuun-paperilehti-jakelupisteissa/",
+      "iso": "2026-05-15T05:51:46+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaareen valmistuu lähes 150 uutta Hitas- ja vuokra-asuntoa",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-valmistuu-lahes-150-uutta-hitas-ja-vuokra-asuntoa",
+      "iso": "2026-05-05T08:29:54+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Jätkäsaari-Ruoholahti -alueen asukastilaisuus – tutustu esitysaineistoon",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-ruoholahti-alueen-asukastilaisuus-tutustu-esitysaineistoon/",
+      "iso": "2026-04-08T19:53:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Helsingin satama uudistuu – tutustu Helsingin sataman lähivuosien suunnitelmiin",
+      "link": "https://kaupunginosat.fi/jatkasaari/helsingin-satama-uudistuu-tutustu-helsingin-sataman-lahivuosien-suunnitelmiin/",
+      "iso": "2026-04-08T07:05:29+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaari-seuran kevätkokoustapahtumassa tutustuttiin Docrates-sairaalaan",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-kevatkokoustapahtumassa-tutustuttiin-docrates-sairaalaan/",
+      "iso": "2026-03-20T06:09:54+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Sataman perintö näkyy yhä Jätkäsaaren vanhoissa rakennuksissa",
+      "link": "https://www.hel.fi/fi/uutiset/sataman-perinto-nakyy-yha-jatkasaaren-vanhoissa-rakennuksissa",
+      "iso": "2026-03-19T11:29:22+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kaupunginosayhdistysten mielipide Elielinaukion ja Asema-aukion asemakaavaehdotuksesta",
+      "link": "https://kaupunginosat.fi/jatkasaari/18-kaupunginosayhdistyksen-mielipide-elielinaukion-ja-asema-aukion-asemakaavaehdotuksesta/",
+      "iso": "2026-03-18T13:12:29+00:00",
+      "src": "Jäkäsaari-seura"
+    },
+    {
+      "title": "Saarista satamaksi, satamasta kaupungiksi – näin syntyi Jätkäsaari",
+      "link": "https://www.hel.fi/fi/uutiset/saarista-satamaksi-satamasta-kaupungiksi-nain-syntyi-jatkasaari",
+      "iso": "2026-03-06T07:11:37+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Jätkäsaaren L3-makasiinin myyntiä jatketaan",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-l3-makasiinin-myyntia-jatketaan",
+      "iso": "2026-03-05T12:34:45+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kiertotalouskorttelin rakentaminen käynnistyi Jätkäsaaressa",
+      "link": "https://www.hel.fi/fi/uutiset/kiertotalouskorttelin-rakentaminen-kaynnistyi-jatkasaaressa",
+      "iso": "2026-02-05T08:19:54+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Millaisen kahvila-ravintolan sinä haluaisit Saukonnokanaltaalle?",
+      "link": "https://kaupunginosat.fi/jatkasaari/millaisen-kahvila-ravintolan-sina-haluaisit-saukonnokanaltaalle/",
+      "iso": "2026-02-02T07:50:46+00:00",
+      "src": "Jäkäsaari-seura"
+    },
+    {
+      "title": "Näin Jätkäsaaren rakentaminen etenee vuonna 2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/nain-jatkasaaren-rakentaminen-etenee-vuonna-2026/",
+      "iso": "2026-01-20T14:25:34+00:00",
+      "src": "Jäkäsaari-seura"
     }
   ]
 }
