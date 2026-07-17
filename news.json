@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-17T06:37:03.951932+00:00",
+  "generated": "2026-07-17T08:57:49.479795+00:00",
   "count": 30,
   "failed": 1,
   "items": [
@@ -49,12 +49,6 @@
       "title": "Kuvat näyttävät | Näin nosturialus siirtää Jätkäsaaren jättielementit mereen - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
       "iso": "2026-07-02T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
-      "iso": "2026-06-26T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Länsisataman alueella tehdään vedenalaista louhintaa",
       "link": "https://kaupunginosat.fi/jatkasaari/lansisataman-alueella-alkaa-vedenalainen-louhinta/",
       "iso": "2026-05-19T06:37:22+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Meri-Stadi -toimintaryhmä tuo merellisyyden mahdollisuuksia vahvemmin osaksi kaupunkilaisten arkea",
+      "link": "https://kaupunginosat.fi/jatkasaari/meri-stadi-toimintaryhma-tuo-merellisyyden-mahdollisuuksia-vahvemmin-osaksi-kaupunkilaisten-arkea/",
+      "iso": "2026-05-19T05:55:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
