@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T18:51:28.261762+00:00",
+  "generated": "2026-07-20T20:19:17.396211+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -130,6 +130,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
+      "iso": "2026-06-12T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Helsinki | Helsingin ytimeen syntyy suurten konsulttiyhtiöiden keskittymä – ”Keskusta on taas haipissa” - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWpNTU1FaXRkSUtlX0gtMi11aGZHQkhrSmh1b0VSeEVlTHVfOHl2QkM5cmVkdXlYSGNiMDB5ZUs1YUNyTkNYRVRkNHZuUHlsb256TkJKVjNUUQ?oc=5",
       "iso": "2026-06-10T07:00:00+00:00",
@@ -175,12 +181,6 @@
       "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan 5.9.2026",
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
       "iso": "2026-05-19T15:51:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
-      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
-      "iso": "2026-05-19T13:00:21+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
