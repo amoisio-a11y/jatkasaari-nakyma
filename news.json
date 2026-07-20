@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-20T13:04:07.466961+00:00",
+  "generated": "2026-07-20T15:20:57.789059+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -28,6 +28,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
+      "iso": "2026-07-07T12:48:13+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
       "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
       "iso": "2026-07-03T07:12:31+00:00",
@@ -49,6 +55,12 @@
       "title": "Kuvat näyttävät | Näin nosturialus siirtää Jätkäsaaren jättielementit mereen - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
       "iso": "2026-07-02T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
+      "iso": "2026-06-26T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -169,18 +181,6 @@
       "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan 5.9.2026",
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
       "iso": "2026-05-19T15:51:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
-      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
-      "iso": "2026-05-19T13:00:21+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Vuoden Jätkäsaari-tekoa etsitään jälleen",
-      "link": "https://kaupunginosat.fi/jatkasaari/vuoden-jatkasaari-tekoa-etsitaan-jalleen/",
-      "iso": "2026-05-19T06:57:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
