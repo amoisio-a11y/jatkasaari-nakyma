@@ -1,8 +1,14 @@
 {
-  "generated": "2026-07-22T22:15:42.260203+00:00",
+  "generated": "2026-07-22T23:29:09.735220+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Poliisioperaatio Jätkäsaaressa - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XM0VYRE1UWXBFT1RyclN4SE9OWk9RVTZVLWNMN0lzcHFwTHFQTVpiTnNNX1B3YlM5TVYzb2FMM0RrX2ppUGtaMFZDem12SWZvd1ktQzR1MGFZTzdU?oc=5",
+      "iso": "2026-07-22T23:21:15+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWpNTU1FaXRkSUtlX0gtMi11aGZHQkhrSmh1b0VSeEVlTHVfOHl2QkM5cmVkdXlYSGNiMDB5ZUs1YUNyTkNYRVRkNHZuUHlsb256TkJKVjNUUQ?oc=5",
       "iso": "2026-06-10T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
-      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
-      "iso": "2026-06-08T08:38:31+00:00",
-      "src": "Helsingin kaupunki"
     }
   ]
 }
