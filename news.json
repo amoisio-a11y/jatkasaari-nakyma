@@ -1,8 +1,14 @@
 {
-  "generated": "2026-07-22T07:21:05.478164+00:00",
+  "generated": "2026-07-22T09:18:19.658518+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
+      "iso": "2026-07-22T04:04:00+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
@@ -175,12 +181,6 @@
       "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan 5.9.2026",
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
       "iso": "2026-05-19T15:51:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Saukonpaadenrannan toimistorakennuksia koskevan asemakaavamuutoksen käsittely on lykkääntynyt syksyyn",
-      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevan-asemakaavamuutoksen-kasittely-on-lykkaantynyt-syksyyn/",
-      "iso": "2026-05-19T13:00:21+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
