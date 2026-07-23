@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-23T13:51:28.134339+00:00",
+  "generated": "2026-07-23T15:53:38.300763+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
       "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
@@ -70,12 +70,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -94,12 +88,6 @@
       "src": "Google News"
     },
     {
-      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
-      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
-      "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
       "iso": "2026-06-26T07:00:00+00:00",
@@ -116,12 +104,6 @@
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
-      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
-      "iso": "2026-06-23T11:43:20+00:00",
-      "src": "Rööri"
     },
     {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
@@ -182,6 +164,24 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
       "iso": "2026-06-12T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
+      "iso": "2026-06-08T08:38:31+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Jättimäiset mysteeritolpat ihmetyttävät Jätkäsaaressa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1YdDNWbkw0R2xFOWlJeElRNy1LRTdVVy1CbU9uYVJ5S3dQRUZuYlZJR0c3RHR2Wi04b2tfTVotaEV4Sy1fQktZUmxqUmFETzJOdVl4MHhvY1RxZFZZc0RuTw?oc=5",
+      "iso": "2026-06-08T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Suosituimmat ruoat -juttusarjassa vuorossa Mr Pastrami ja Aangan",
+      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-ruoat-juttusarjassa-vuorossa-mr-pastrami-ja-aangan/",
+      "iso": "2026-06-08T04:34:00+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
