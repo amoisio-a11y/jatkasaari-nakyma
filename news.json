@@ -1,8 +1,14 @@
 {
-  "generated": "2026-07-23T01:04:09.871044+00:00",
+  "generated": "2026-07-23T04:33:06.980985+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa – Poliisi vaitonainen - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
+      "iso": "2026-07-23T03:25:22+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Poliisioperaatio Jätkäsaaressa - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XM0VYRE1UWXBFT1RyclN4SE9OWk9RVTZVLWNMN0lzcHFwTHFQTVpiTnNNX1B3YlM5TVYzb2FMM0RrX2ppUGtaMFZDem12SWZvd1ktQzR1MGFZTzdU?oc=5",
@@ -175,12 +181,6 @@
       "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
       "iso": "2026-06-12T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Helsingin ytimeen syntyy suurten konsulttiyhtiöiden keskittymä – ”Keskusta on taas haipissa” - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1JQWpNTU1FaXRkSUtlX0gtMi11aGZHQkhrSmh1b0VSeEVlTHVfOHl2QkM5cmVkdXlYSGNiMDB5ZUs1YUNyTkNYRVRkNHZuUHlsb256TkJKVjNUUQ?oc=5",
-      "iso": "2026-06-10T07:00:00+00:00",
       "src": "Google News"
     }
   ]
