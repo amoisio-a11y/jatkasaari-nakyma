@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T04:31:39.038533+00:00",
+  "generated": "2026-07-24T06:11:59.185612+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -12,7 +12,7 @@
     {
       "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
-      "iso": "2026-07-22T23:19:00+00:00",
+      "iso": "2026-07-22T23:21:18+00:00",
       "src": "Google News"
     },
     {
@@ -38,6 +38,12 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
       "iso": "2026-07-17T10:56:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Agni Kuokkanen: Through the Shadow",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
+      "iso": "2026-07-17T00:00:00+00:00",
+      "src": "Kaapelitehdas"
     },
     {
       "title": "Varhaiskasvatuksen lastenhoitaja, vahvistettu henkilöstömäärä, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
@@ -94,6 +100,12 @@
       "src": "Google News"
     },
     {
+      "title": "Salla Kalsi: Kaksoiskuvia",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/salla-kalsi-kaksoiskuvia",
+      "iso": "2026-06-30T00:00:00+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
       "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
       "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
       "iso": "2026-06-29T05:11:24+00:00",
@@ -104,12 +116,6 @@
       "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
       "iso": "2026-06-26T09:44:36+00:00",
       "src": "Korttelikeskus Ruohis"
-    },
-    {
-      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
-      "iso": "2026-06-26T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
       "iso": "2026-06-16T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Kesäkuun printtilehti jakelupisteissä",
-      "link": "https://www.ruoholahdensanomat.fi/kesakuun-printtilehti-jakelupisteissa/",
-      "iso": "2026-06-13T13:13:51+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
