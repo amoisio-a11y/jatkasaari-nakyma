@@ -8,6 +8,7 @@
   { "name": "Korttelikeskus Ruohis", "url": "https://korttelikeskusruohis.fi/feed/" },
   { "name": "Kaapelitehdas", "url": "https://amoisio-a11y.github.io/gatsby-rss-example/uutiset.xml" },
   { "name": "Kaapelitehdas", "url": "https://amoisio-a11y.github.io/gatsby-rss-example/tapahtumat.xml" },  
+  { "name": "Helsingin konservatorio", "url": "https://amoisio-a11y.github.io/lightspeed-cache-rss-example/feed.xml" },  
   { "name": "Google News", "url": "https://news.google.com/rss/search?q=J%C3%A4tk%C3%A4saari+OR+J%C3%A4tk%C3%A4saaren+OR+J%C3%A4tk%C3%A4saaressa+OR+J%C3%A4tk%C3%A4saareen+OR+J%C3%A4tk%C3%A4saarta+OR+J%C3%A4tk%C3%A4saaresta+OR+J%C3%A4tk%C3%A4saarella&hl=fi-FI&gl=FI&ceid=FI:fi" },
   { "name": "Google News", "url": "https://news.google.com/rss/search?q=Ruoholahti+OR+Ruoholahden+OR+Ruoholahdessa+OR+Ruoholahteen+OR+Ruoholahtea+OR+Ruoholahdesta+OR+Ruoholahdella&hl=fi-FI&gl=FI&ceid=FI:fi" },
   { "name": "Jätkäsaari Ruoholahti", "url": "https://www.ruoholahdensanomat.fi/feed/" }
