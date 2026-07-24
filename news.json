@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-24T07:17:17.136303+00:00",
+  "generated": "2026-07-24T09:43:45.766973+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -106,6 +106,12 @@
       "src": "Helsingin konservatorio"
     },
     {
+      "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
+      "iso": "2026-07-01T00:00:00+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
       "title": "Salla Kalsi: Kaksoiskuvia",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/salla-kalsi-kaksoiskuvia",
       "iso": "2026-06-30T00:00:00+00:00",
@@ -122,6 +128,12 @@
       "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
       "iso": "2026-06-26T09:44:36+00:00",
       "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
+      "iso": "2026-06-26T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
@@ -170,18 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "HBL: Samassa paikassa kuollut jo neljä ihmistä – Turvatoimet lykkääntyvät jälleen - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
-      "iso": "2026-06-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
-      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
-      "iso": "2026-06-18T04:33:40+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
