@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-26T00:14:17.437217+00:00",
+  "generated": "2026-07-26T03:58:07.640786+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -106,12 +106,6 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
-      "iso": "2026-07-01T00:00:00+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
       "title": "Salla Kalsi: Kaksoiskuvia",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/salla-kalsi-kaksoiskuvia",
       "iso": "2026-06-30T00:00:00+00:00",
@@ -146,6 +140,12 @@
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
+      "iso": "2026-06-24T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
