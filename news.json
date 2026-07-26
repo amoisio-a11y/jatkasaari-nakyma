@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T18:27:29.172354+00:00",
+  "generated": "2026-07-26T18:31:14.360899+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Kaapelitehtaan historiakäytävä",
@@ -148,12 +148,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -178,10 +172,16 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
-      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
-      "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
+      "iso": "2026-06-24T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
