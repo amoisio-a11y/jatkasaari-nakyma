@@ -1,42 +1,84 @@
 {
-  "generated": "2026-07-26T17:18:54.578690+00:00",
+  "generated": "2026-07-26T18:27:29.172354+00:00",
   "count": 30,
   "failed": 0,
   "items": [
     {
-      "title": "Suomen Taiteilijat ry: 58. vuosinäyttely",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/suomen-taiteilijat-ry-58-vuosinayttely",
-      "iso": "2026-08-11T00:00:00+00:00",
+      "title": "Kaapelitehtaan historiakäytävä",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/kaapelitehtaan-historiakaytava",
+      "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Groove & Afrobeat Open Jam Session",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/groove-ja-afrobeat-open-jam-session",
-      "iso": "2026-08-07T00:00:00+00:00",
+      "title": "Jörn Donner -galleria",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/jorn-donner-galleria",
+      "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Swagykarp SM-turnaus",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/swagykarp-sm-turnaus",
-      "iso": "2026-08-02T00:00:00+00:00",
+      "title": "Yksi - Muotoiluinstituutin valokuvaajien ryhmänäyttely",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/yksi-muotoiluinstituutin-valokuvaajien-ryhmanayttely",
+      "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
     {
-      "title": "MUU matinea: Veijo Peso - Juhani Saksikäsi",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/muu-matinea-veijo-peso-juhani-saksikasi",
-      "iso": "2026-08-01T00:00:00+00:00",
+      "title": "Agni Kuokkanen: Through the Shadow",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
+      "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Marie-José Dings: Värien virrassa",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/mariejose-dings-varien-virrassa",
-      "iso": "2026-07-28T00:00:00+00:00",
+      "title": "Salla Kalsi: Kaksoiskuvia",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/salla-kalsi-kaksoiskuvia",
+      "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Viivan lumo",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/viivan-lumo",
-      "iso": "2026-07-27T00:00:00+00:00",
+      "title": "Film Still – Malla Hukkasen valokuvia elokuvista",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/film-still-malla-hukkasen-valokuvia-elokuvista",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Huimaa! Sirkuksen taikaa ja tarinoita",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/huimaa-sirkuksen-taikaa-ja-tarinoita",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Kaapelitehtaan Kesäpäivä",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/kaapelitehtaan-kesapaiva",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Kolmas soitto",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/kolmas-soitto",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Kuohuvat kymmenet – ravintolavalokuvia 1960- ja 1970-luvuilta",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/kuohuvat-kymmenet-ravintolavalokuvia-1960-ja-1970-luvuilta",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Makuasioita",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/makuasioita",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Photofuss: Kontakti",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/photoofuss-kontakti",
+      "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
     {
@@ -74,12 +116,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
       "iso": "2026-07-17T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Agni Kuokkanen: Through the Shadow",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
-      "iso": "2026-07-17T00:00:00+00:00",
-      "src": "Kaapelitehdas"
     },
     {
       "title": "Varhaiskasvatuksen lastenhoitaja, vahvistettu henkilöstömäärä, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
@@ -142,45 +178,9 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
-      "iso": "2026-07-01T00:00:00+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Salla Kalsi: Kaksoiskuvia",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/salla-kalsi-kaksoiskuvia",
-      "iso": "2026-06-30T00:00:00+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
       "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
       "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
       "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
-    },
-    {
-      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
-      "iso": "2026-06-26T09:44:36+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
-      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
-      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
-      "iso": "2026-06-25T06:44:36+00:00",
-      "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
-      "iso": "2026-06-24T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
-      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
-      "iso": "2026-06-23T11:43:20+00:00",
       "src": "Rööri"
     }
   ]
