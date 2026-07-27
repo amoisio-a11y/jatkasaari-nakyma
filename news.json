@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-27T17:58:51.570519+00:00",
+  "generated": "2026-07-27T19:40:32.745841+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -136,12 +136,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
-      "iso": "2026-07-07T12:48:13+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
       "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
       "iso": "2026-07-03T07:12:31+00:00",
@@ -182,6 +176,12 @@
       "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
       "iso": "2026-07-01T05:00:00+00:00",
       "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
+      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
+      "iso": "2026-06-29T05:11:24+00:00",
+      "src": "Rööri"
     }
   ]
 }
