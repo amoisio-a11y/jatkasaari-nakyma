@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-26T23:01:58.301088+00:00",
+  "generated": "2026-07-27T00:11:59.779200+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Kaapelitehtaan historiakäytävä",
@@ -148,6 +148,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
+      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
+      "iso": "2026-07-02T11:57:21+00:00",
+      "src": "Rööri"
+    },
+    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -172,16 +178,10 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
-      "iso": "2026-06-26T09:44:36+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
-      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
-      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
-      "iso": "2026-06-25T06:44:36+00:00",
-      "src": "Helsingin kaupunki"
+      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
+      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
+      "iso": "2026-06-29T05:11:24+00:00",
+      "src": "Rööri"
     }
   ]
 }
