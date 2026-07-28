@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-28T11:35:20.042408+00:00",
+  "generated": "2026-07-28T13:19:36.658759+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 4,
   "items": [
     {
       "title": "Makuasioita",
@@ -94,46 +94,10 @@
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
-      "iso": "2026-07-23T03:22:55+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
-      "iso": "2026-07-22T23:19:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
-      "iso": "2026-07-22T06:59:12+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
-      "iso": "2026-07-22T04:04:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
       "iso": "2026-07-18T06:04:33+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Vettä vuotava talo Helsingissä sai tuomion: Pysäköintihallin ei kuulukaan pitää vettä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
-      "iso": "2026-07-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Varhaiskasvatuksen lastenhoitaja, vahvistettu henkilöstömäärä, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE81Z1lUbUozeU5ISDBWaWQzTnVLTnB2d2l0WGl4WmwzT0R5YnpRLUlZN3h5a0plLS1TUWxINEJWWnBTQXRvbU9OeXRTc3Q3ODBQSXlQVF94eU1kMmkwNGIzc18zbWhMT0Uwb3h0bWZuYjVCVmtYRURpaHh4ZGQwdw?oc=5",
-      "iso": "2026-07-13T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
@@ -154,34 +118,70 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Kuvat näyttävät | Näin nosturialus siirtää Jätkäsaaren jättielementit mereen - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
-      "iso": "2026-07-02T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
-      "iso": "2026-07-01T05:30:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Nuorisokuoromme Strasbourgissa",
       "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
       "iso": "2026-07-01T05:00:00+00:00",
       "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
+      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
+      "iso": "2026-06-23T06:57:39+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Pia Kärjes-Peltola aloittaa Helsingin Konservatorion vt rehtori-toimitusjohtajana",
+      "link": "https://www.konservatorio.fi/uutiset/pia-karjes-peltola-aloittaa-helsingin-konservatorion-vt-rehtori-toimitusjohtajana/",
+      "iso": "2026-06-22T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
+      "iso": "2026-06-18T04:33:40+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Lukuvuoden 2026-2027 alkuun liittyvää informaatiota",
+      "link": "https://www.konservatorio.fi/uutiset/lukuvuoden-2026-2027-alkuun-liittyvaa-informaatiota/",
+      "iso": "2026-06-17T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Kesäkuun printtilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/kesakuun-printtilehti-jakelupisteissa/",
+      "iso": "2026-06-13T13:13:51+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Helsingin Konservatorioon on valittu 37 uutta ammatillisen koulutuksen opiskelijaa",
+      "link": "https://www.konservatorio.fi/uutiset/helsingin-konservatorioon-on-valittu-37-uutta-ammatillisen-koulutuksen-opiskelijaa/",
+      "iso": "2026-06-11T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Uudet oppilaat on valittu",
+      "link": "https://www.konservatorio.fi/uutiset/uudet-oppilaat-on-valittu/",
+      "iso": "2026-06-09T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
+      "iso": "2026-06-08T08:38:31+00:00",
+      "src": "Helsingin kaupunki"
     }
   ]
 }
