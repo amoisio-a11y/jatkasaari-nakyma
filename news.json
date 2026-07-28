@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-28T17:09:51.485812+00:00",
+  "generated": "2026-07-28T18:45:19.722085+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -154,6 +154,12 @@
       "src": "Kaapelitehdas"
     },
     {
+      "title": "Joukkoliikenne | Ratikkaliikenne katkeaa isosta osasta Töölöä, korvaavaa bussia ei järjestetä - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0TDM0Uk1WVVQxWXE5X1RoVlNRV1otYWktTFRKc09JYWdINGxBaUMxdllSOGpHR1RYZUItVHBiNUwzN1ktNm45ejRIenUyTy1Kb3NhdjV3Z014X2RKY2c?oc=5",
+      "iso": "2026-07-25T05:33:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
       "iso": "2026-07-23T03:22:55+00:00",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
       "iso": "2026-07-22T04:04:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
-      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
-      "iso": "2026-07-18T06:04:33+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
