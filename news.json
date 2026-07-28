@@ -1,11 +1,77 @@
 {
-  "generated": "2026-07-28T13:19:36.658759+00:00",
+  "generated": "2026-07-28T15:42:16.136374+00:00",
   "count": 30,
-  "failed": 4,
+  "failed": 0,
   "items": [
+    {
+      "title": "Marie-José Dings: Värien virrassa",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/mariejose-dings-varien-virrassa",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Viivan lumo",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/viivan-lumo",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Swagykarp SM-turnaus",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/swagykarp-sm-turnaus",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "MUU matinea: Veijo Peso - Juhani Saksikäsi",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/muu-matinea-veijo-peso-juhani-saksikasi",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Groove & Afrobeat Open Jam Session",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/groove-ja-afrobeat-open-jam-session",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Suomen Taiteilijat ry: 58. vuosinäyttely",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/suomen-taiteilijat-ry-58-vuosinayttely",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Vapaa Taidekoulu: Unikuvia",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/vapaa-taidekoulu-unikuvia",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Taiteen perusopetusta 4-6-vuotiaille",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/taiteen-perusopetusta-4-6-vuotiaille",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Taiteen perusopetusta 7-9-vuotiaille",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/taiteen-perusopetusta-7-9-vuotiaille",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Taiteen perusopetusta 9-12-vuotiaille",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/taiteen-perusopetusta-9-12-vuotiaille",
+      "iso": "2026-07-28T14:34:21+00:00",
+      "src": "Kaapelitehdas"
+    },
     {
       "title": "Makuasioita",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/makuasioita",
+      "iso": "2026-07-28T08:49:45+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Z Walsh: Feminine Man",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/z-walsh-feminine-man",
       "iso": "2026-07-28T08:49:45+00:00",
       "src": "Kaapelitehdas"
     },
@@ -18,12 +84,6 @@
     {
       "title": "Spartak Khachanov: The Impersonal",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/spartak-khachanov-the-impersonal",
-      "iso": "2026-07-28T08:49:45+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Z Walsh: Feminine Man",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/z-walsh-feminine-man",
       "iso": "2026-07-28T08:49:45+00:00",
       "src": "Kaapelitehdas"
     },
@@ -52,30 +112,6 @@
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Agni Kuokkanen: Through the Shadow",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Film Still – Malla Hukkasen valokuvia elokuvista",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/film-still-malla-hukkasen-valokuvia-elokuvista",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Huimaa! Sirkuksen taikaa ja tarinoita",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/huimaa-sirkuksen-taikaa-ja-tarinoita",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Kaapelitehtaan Kesäpäivä",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/kaapelitehtaan-kesapaiva",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
       "title": "Kolmas soitto",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/kolmas-soitto",
       "iso": "2026-07-26T18:22:37+00:00",
@@ -88,100 +124,64 @@
       "src": "Kaapelitehdas"
     },
     {
+      "title": "Huimaa! Sirkuksen taikaa ja tarinoita",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/huimaa-sirkuksen-taikaa-ja-tarinoita",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Film Still – Malla Hukkasen valokuvia elokuvista",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/film-still-malla-hukkasen-valokuvia-elokuvista",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Kaapelitehtaan Kesäpäivä",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/kaapelitehtaan-kesapaiva",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
       "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
       "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
     {
+      "title": "Agni Kuokkanen: Through the Shadow",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
+      "iso": "2026-07-23T03:22:55+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
+      "iso": "2026-07-22T23:19:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
+      "iso": "2026-07-22T06:59:12+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
+      "iso": "2026-07-22T04:04:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
       "iso": "2026-07-18T06:04:33+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren laiturielementtien siirto alkanut",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
-      "iso": "2026-07-10T06:05:09+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
-      "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
-      "iso": "2026-07-03T07:12:31+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan",
-      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest-kutsuu-jalleen-kaikki-alueen-asukkaat-juhlimaan/",
-      "iso": "2026-07-03T06:58:18+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
-      "iso": "2026-07-02T07:25:24+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Nuorisokuoromme Strasbourgissa",
-      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
-      "iso": "2026-07-01T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
-      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
-      "iso": "2026-06-25T06:44:36+00:00",
-      "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
-      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
-      "iso": "2026-06-23T06:57:39+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Pia Kärjes-Peltola aloittaa Helsingin Konservatorion vt rehtori-toimitusjohtajana",
-      "link": "https://www.konservatorio.fi/uutiset/pia-karjes-peltola-aloittaa-helsingin-konservatorion-vt-rehtori-toimitusjohtajana/",
-      "iso": "2026-06-22T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
-      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
-      "iso": "2026-06-18T04:33:40+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Lukuvuoden 2026-2027 alkuun liittyvää informaatiota",
-      "link": "https://www.konservatorio.fi/uutiset/lukuvuoden-2026-2027-alkuun-liittyvaa-informaatiota/",
-      "iso": "2026-06-17T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Kesäkuun printtilehti jakelupisteissä",
-      "link": "https://www.ruoholahdensanomat.fi/kesakuun-printtilehti-jakelupisteissa/",
-      "iso": "2026-06-13T13:13:51+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Helsingin Konservatorioon on valittu 37 uutta ammatillisen koulutuksen opiskelijaa",
-      "link": "https://www.konservatorio.fi/uutiset/helsingin-konservatorioon-on-valittu-37-uutta-ammatillisen-koulutuksen-opiskelijaa/",
-      "iso": "2026-06-11T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Uudet oppilaat on valittu",
-      "link": "https://www.konservatorio.fi/uutiset/uudet-oppilaat-on-valittu/",
-      "iso": "2026-06-09T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jätkäsaaren uusi valotaideteos on valmistunut – veneet kohoavat kahdella aukiolla",
-      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-uusi-valotaideteos-on-valmistunut-veneet-kohoavat-kahdella-aukiolla",
-      "iso": "2026-06-08T08:38:31+00:00",
-      "src": "Helsingin kaupunki"
     }
   ]
 }
