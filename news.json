@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-28T21:31:26.872574+00:00",
+  "generated": "2026-07-28T22:42:14.468732+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Viivan lumo",
@@ -160,12 +160,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
       "iso": "2026-07-01T05:30:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Nuorisokuoromme Strasbourgissa",
+      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
+      "iso": "2026-07-01T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
     }
   ]
 }
