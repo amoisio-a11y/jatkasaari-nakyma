@@ -1,8 +1,32 @@
 {
-  "generated": "2026-07-29T07:31:13.109724+00:00",
+  "generated": "2026-07-29T10:17:47.481151+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
+      "iso": "2026-07-29T09:07:07+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Makuasioita",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/makuasioita",
+      "iso": "2026-07-29T09:07:07+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Photofuss: Kontakti",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/photoofuss-kontakti",
+      "iso": "2026-07-29T09:07:07+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Spartak Khachanov: The Impersonal",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/spartak-khachanov-the-impersonal",
+      "iso": "2026-07-29T09:07:07+00:00",
+      "src": "Kaapelitehdas"
+    },
     {
       "title": "Marie-José Dings: Värien virrassa",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/mariejose-dings-varien-virrassa",
@@ -22,12 +46,6 @@
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Agni Kuokkanen: Through the Shadow",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
       "title": "Jörn Donner -galleria",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/jorn-donner-galleria",
       "iso": "2026-07-26T18:22:37+00:00",
@@ -36,6 +54,12 @@
     {
       "title": "Yksi - Muotoiluinstituutin valokuvaajien ryhmänäyttely",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/yksi-muotoiluinstituutin-valokuvaajien-ryhmanayttely",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Agni Kuokkanen: Through the Shadow",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
       "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
@@ -158,30 +182,6 @@
       "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
       "iso": "2026-07-01T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
-      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
-      "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
-    },
-    {
-      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
-      "iso": "2026-06-26T09:44:36+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
-      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
-      "iso": "2026-06-26T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
-      "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
