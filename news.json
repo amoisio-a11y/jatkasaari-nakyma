@@ -1,36 +1,12 @@
 {
-  "generated": "2026-07-29T01:10:01.617545+00:00",
+  "generated": "2026-07-29T04:30:59.587283+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
-    {
-      "title": "Viivan lumo",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/viivan-lumo",
-      "iso": "2026-07-28T14:34:21+00:00",
-      "src": "Kaapelitehdas"
-    },
     {
       "title": "Marie-José Dings: Värien virrassa",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/mariejose-dings-varien-virrassa",
       "iso": "2026-07-28T14:34:21+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Makuasioita",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/makuasioita",
-      "iso": "2026-07-28T08:49:45+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Photofuss: Kontakti",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/photoofuss-kontakti",
-      "iso": "2026-07-28T08:49:45+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Spartak Khachanov: The Impersonal",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/spartak-khachanov-the-impersonal",
-      "iso": "2026-07-28T08:49:45+00:00",
       "src": "Kaapelitehdas"
     },
     {
@@ -46,6 +22,12 @@
       "src": "Kaapelitehdas"
     },
     {
+      "title": "Agni Kuokkanen: Through the Shadow",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
       "title": "Jörn Donner -galleria",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/jorn-donner-galleria",
       "iso": "2026-07-26T18:22:37+00:00",
@@ -54,12 +36,6 @@
     {
       "title": "Yksi - Muotoiluinstituutin valokuvaajien ryhmänäyttely",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/yksi-muotoiluinstituutin-valokuvaajien-ryhmanayttely",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Agni Kuokkanen: Through the Shadow",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
       "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
@@ -90,12 +66,6 @@
     {
       "title": "Kuohuvat kymmenet – ravintolavalokuvia 1960- ja 1970-luvuilta",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/kuohuvat-kymmenet-ravintolavalokuvia-1960-ja-1970-luvuilta",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
       "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
@@ -160,12 +130,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -181,6 +145,42 @@
       "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
       "iso": "2026-07-01T05:30:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Nuorisokuoromme Strasbourgissa",
+      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
+      "iso": "2026-07-01T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
+      "iso": "2026-06-26T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
+      "iso": "2026-06-25T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
+      "iso": "2026-06-24T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
+      "iso": "2026-06-23T07:00:00+00:00",
       "src": "Google News"
     }
   ]
