@@ -1,7 +1,7 @@
 {
-  "generated": "2026-07-29T22:28:35.750956+00:00",
+  "generated": "2026-07-29T23:33:14.789051+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Viivan lumo",
@@ -100,52 +100,10 @@
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Joukkoliikenne | Ratikkaliikenne katkeaa isosta osasta Töölöä, korvaavaa bussia ei järjestetä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0TDM0Uk1WVVQxWXE5X1RoVlNRV1otYWktTFRKc09JYWdINGxBaUMxdllSOGpHR1RYZUItVHBiNUwzN1ktNm45ejRIenUyTy1Kb3NhdjV3Z014X2RKY2c?oc=5",
-      "iso": "2026-07-25T05:33:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
-      "iso": "2026-07-23T03:22:55+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
-      "iso": "2026-07-22T23:19:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Poliisioperaatio Jätkäsaaressa - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XM0VYRE1UWXBFT1RyclN4SE9OWk9RVTZVLWNMN0lzcHFwTHFQTVpiTnNNX1B3YlM5TVYzb2FMM0RrX2ppUGtaMFZDem12SWZvd1ktQzR1MGFZTzdU?oc=5",
-      "iso": "2026-07-22T23:19:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
-      "iso": "2026-07-22T06:59:12+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
-      "iso": "2026-07-22T04:04:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
       "iso": "2026-07-18T06:04:33+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Vettä vuotava talo Helsingissä sai tuomion: Pysäköintihallin ei kuulukaan pitää vettä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
-      "iso": "2026-07-17T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
@@ -178,10 +136,52 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Kuvat näyttävät | Näin nosturialus siirtää Jätkäsaaren jättielementit mereen - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
-      "iso": "2026-07-02T07:00:00+00:00",
-      "src": "Google News"
+      "title": "Nuorisokuoromme Strasbourgissa",
+      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
+      "iso": "2026-07-01T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
+      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
+      "iso": "2026-06-29T05:11:24+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
+      "iso": "2026-06-26T09:44:36+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
+      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
+      "iso": "2026-06-23T11:43:20+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
+      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
+      "iso": "2026-06-23T06:57:39+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Pia Kärjes-Peltola aloittaa Helsingin Konservatorion vt rehtori-toimitusjohtajana",
+      "link": "https://www.konservatorio.fi/uutiset/pia-karjes-peltola-aloittaa-helsingin-konservatorion-vt-rehtori-toimitusjohtajana/",
+      "iso": "2026-06-22T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
+      "iso": "2026-06-18T04:33:40+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
