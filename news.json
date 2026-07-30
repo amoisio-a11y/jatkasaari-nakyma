@@ -1,38 +1,8 @@
 {
-  "generated": "2026-07-30T01:02:39.223023+00:00",
+  "generated": "2026-07-30T04:20:18.266914+00:00",
   "count": 30,
   "failed": 0,
   "items": [
-    {
-      "title": "Viivan lumo",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/viivan-lumo",
-      "iso": "2026-07-29T14:30:01+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Lea Kömi: Muistamisen tila – Nukkekoti",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/lea-komi-muistamisen-tila-nukkekoti",
-      "iso": "2026-07-29T09:07:07+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Makuasioita",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/makuasioita",
-      "iso": "2026-07-29T09:07:07+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Photofuss: Kontakti",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/photoofuss-kontakti",
-      "iso": "2026-07-29T09:07:07+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Spartak Khachanov: The Impersonal",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/spartak-khachanov-the-impersonal",
-      "iso": "2026-07-29T09:07:07+00:00",
-      "src": "Kaapelitehdas"
-    },
     {
       "title": "Marie-José Dings: Värien virrassa",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/mariejose-dings-varien-virrassa",
@@ -52,6 +22,12 @@
       "src": "Kaapelitehdas"
     },
     {
+      "title": "Agni Kuokkanen: Through the Shadow",
+      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
+      "iso": "2026-07-26T18:22:37+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
       "title": "Jörn Donner -galleria",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/jorn-donner-galleria",
       "iso": "2026-07-26T18:22:37+00:00",
@@ -60,12 +36,6 @@
     {
       "title": "Yksi - Muotoiluinstituutin valokuvaajien ryhmänäyttely",
       "link": "https://www.kaapelitehdas.fi/tapahtumat/yksi-muotoiluinstituutin-valokuvaajien-ryhmanayttely",
-      "iso": "2026-07-26T18:22:37+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Agni Kuokkanen: Through the Shadow",
-      "link": "https://www.kaapelitehdas.fi/tapahtumat/agni-kuokkanen-through-the-shadow",
       "iso": "2026-07-26T18:22:37+00:00",
       "src": "Kaapelitehdas"
     },
@@ -106,7 +76,7 @@
       "src": "Google News"
     },
     {
-      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - iltalehti.fi",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
       "iso": "2026-07-23T03:22:55+00:00",
       "src": "Google News"
@@ -182,6 +152,36 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
       "iso": "2026-07-02T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
+      "iso": "2026-07-01T05:30:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Nuorisokuoromme Strasbourgissa",
+      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
+      "iso": "2026-07-01T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
+      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
+      "iso": "2026-06-29T05:11:24+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
+      "iso": "2026-06-26T09:44:36+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
     }
   ]
 }
