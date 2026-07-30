@@ -1,5 +1,5 @@
 {
-  "generated": "2026-07-30T09:41:13.468593+00:00",
+  "generated": "2026-07-30T11:33:11.777696+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -14,12 +14,6 @@
       "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
       "iso": "2026-07-28T07:00:16+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Joukkoliikenne | Ratikkaliikenne katkeaa isosta osasta Töölöä, korvaavaa bussia ei järjestetä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0TDM0Uk1WVVQxWXE5X1RoVlNRV1otYWktTFRKc09JYWdINGxBaUMxdllSOGpHR1RYZUItVHBiNUwzN1ktNm45ejRIenUyTy1Kb3NhdjV3Z014X2RKY2c?oc=5",
-      "iso": "2026-07-25T05:33:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
@@ -138,6 +132,12 @@
     {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
+      "iso": "2026-06-23T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
       "iso": "2026-06-23T07:00:00+00:00",
       "src": "Google News"
     },
