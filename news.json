@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-01T14:12:56.432830+00:00",
+  "generated": "2026-08-01T15:27:49.382720+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -40,7 +40,7 @@
       "src": "Google News"
     },
     {
-      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - helen.fi",
+      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
       "iso": "2026-07-22T04:04:00+00:00",
       "src": "Google News"
@@ -112,12 +112,6 @@
       "src": "Korttelikeskus Ruohis"
     },
     {
-      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
-      "iso": "2026-06-25T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
       "iso": "2026-06-17T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Lukuvuoden 2026-2027 alkuun liittyvää informaatiota",
+      "link": "https://www.konservatorio.fi/uutiset/lukuvuoden-2026-2027-alkuun-liittyvaa-informaatiota/",
+      "iso": "2026-06-17T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
     }
   ]
 }
