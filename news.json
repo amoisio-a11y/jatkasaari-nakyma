@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-01T15:27:49.382720+00:00",
+  "generated": "2026-08-01T16:29:21.385262+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
@@ -70,12 +70,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -100,16 +94,10 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
-      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
-      "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
-    },
-    {
-      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
-      "iso": "2026-06-26T09:44:36+00:00",
-      "src": "Korttelikeskus Ruohis"
+      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
+      "iso": "2026-06-25T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
@@ -122,12 +110,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
       "iso": "2026-06-24T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
-      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
-      "iso": "2026-06-23T11:43:20+00:00",
-      "src": "Rööri"
     },
     {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
@@ -182,6 +164,24 @@
       "link": "https://www.konservatorio.fi/uutiset/lukuvuoden-2026-2027-alkuun-liittyvaa-informaatiota/",
       "iso": "2026-06-17T05:00:00+00:00",
       "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
+      "iso": "2026-06-16T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Kesäkuun printtilehti jakelupisteissä",
+      "link": "https://www.ruoholahdensanomat.fi/kesakuun-printtilehti-jakelupisteissa/",
+      "iso": "2026-06-13T13:13:51+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
+      "iso": "2026-06-12T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
