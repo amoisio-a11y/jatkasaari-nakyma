@@ -556,7 +556,7 @@ setInterval(recomputeTrams, 10000);
 async function testShipApi(){
   const now = new Date();
   const from = now.toISOString().slice(0,19)+"Z";
-  const to = new Date(now.getTime() + 24*60*60*1000).toISOString().slice(0,19)+"Z";
+  const to = new Date(now.getTime() + 48*60*60*1000).toISOString().slice(0,19)+"Z";
   const url = `https://meri.digitraffic.fi/api/port-call/v1/port-calls`
     + `?locode=FIHEL&from=${from}&to=${to}`;
   console.log("🚢 Haetaan laiva-aikatauluja:", url);
@@ -564,10 +564,17 @@ async function testShipApi(){
     const res = await fetch(url, {
       headers: { "Digitraffic-User": "JatkasaariDashboard/1.0" }
     });
-    console.log("HTTP status:", res.status);
     const data = await res.json();
-    console.log("Tyypit ja avaimet:", typeof data, Object.keys(data));
-    console.log("Raaka vastaus:", JSON.stringify(data).slice(0, 2000));
+    const calls = data.portCalls || [];
+    console.log("Päivitetty:", data.dataUpdatedTime);
+    console.log("Satamakäyntejä yhteensä:", calls.length);
+    // Portialuekoodit — nähdään Länsisataman oikea koodi
+    const areaCodes = [...new Set(
+      calls.flatMap(d => (d.portAreaDetails||[]).map(a => a.portAreaCode))
+    )];
+    console.log("Portialuekoodit:", areaCodes);
+    // 3 esimerkkiä
+    console.log("Esimerkit:", JSON.stringify(calls.slice(0,3), null, 2));
   } catch(err) {
     console.error("❌ Virhe:", err.message);
   }
