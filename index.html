@@ -161,7 +161,9 @@ footer{color:var(--fog-dim);font-size:12px;text-align:center;margin-top:8px;opac
 .ship-time{font-family:"Space Grotesk",sans-serif;font-size:15px;font-weight:500;
   font-variant-numeric:tabular-nums;text-align:right;white-space:nowrap}
 .ship-now{color:var(--tram)}
+.ship-arrived-label{font-size:11px;font-weight:400;opacity:.8}
 .ship-soon{color:var(--amber)}
+.ship-mins{font-size:11px;font-weight:400;opacity:.8}
 .ship-ok{color:var(--fog)}
 
 @media(prefers-reduced-motion:reduce){*{animation:none!important}}
@@ -214,7 +216,7 @@ a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-o
   <!-- UUTISET -->
   <section class="card">
     <div class="card-head">
-      <span class="eyebrow">Uutiset · Jätkäsaari</span>
+      <span class="eyebrow">Uutiset Jätkäsaaresta ja lähialueilta</span>
       <span class="rule"></span>
       <span class="meta" id="news-meta"></span>
     </div>
@@ -630,11 +632,14 @@ function renderShips(arrivals){
     const minsAway = Math.round((a.arrTime - Date.now())/60000);
     const arrived = minsAway <= 0;
     const timeStr = formatShipTime(a.arrTime);
-    const minsTxt = arrived
-      ? '<span class="ship-now">saapunut</span>'
-      : minsAway < 60
-        ? `<span class="ship-soon">${minsAway} min</span>`
-        : `<span class="ship-ok">${timeStr}</span>`;
+    let minsTxt;
+    if(arrived){
+      minsTxt = `<span class="ship-now">${timeStr} <span class="ship-arrived-label">saapunut</span></span>`;
+    } else if(minsAway < 60){
+      minsTxt = `<span class="ship-soon">${timeStr} <span class="ship-mins">(${minsAway} min)</span></span>`;
+    } else {
+      minsTxt = `<span class="ship-ok">${timeStr}</span>`;
+    }
     const realtimeDot = a.isRealtime ? '<span class="live"></span>' : '';
     return `<div class="ship-row">
       <span class="ship-name">${a.name}</span>
