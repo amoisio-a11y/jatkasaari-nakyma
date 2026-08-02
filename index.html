@@ -564,17 +564,10 @@ async function testShipApi(){
     const res = await fetch(url, {
       headers: { "Digitraffic-User": "JatkasaariDashboard/1.0" }
     });
-    console.log("HTTP status:", res.status, res.statusText);
-    if(!res.ok) throw new Error("HTTP "+res.status);
+    console.log("HTTP status:", res.status);
     const data = await res.json();
-    console.log("Kokonaismäärä:", data.length);
-    // Tulostetaan portAreaCode-arvot jotta nähdään oikea suodatinnimi
-    const areaCodes = [...new Set(
-      data.flatMap(d => (d.portAreaDetails||[]).map(a => a.portAreaCode))
-    )];
-    console.log("Portialuekoodit:", areaCodes);
-    // Tulostetaan 3 ensimmäistä raakamuodossa
-    console.log("Esimerkit (3 kpl):", data.slice(0,3));
+    console.log("Tyypit ja avaimet:", typeof data, Object.keys(data));
+    console.log("Raaka vastaus:", JSON.stringify(data).slice(0, 2000));
   } catch(err) {
     console.error("❌ Virhe:", err.message);
   }
