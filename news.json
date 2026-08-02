@@ -1,10 +1,16 @@
 {
-  "generated": "2026-08-02T17:33:56.237524+00:00",
+  "generated": "2026-08-02T18:41:18.764738+00:00",
   "count": 30,
   "failed": 0,
   "items": [
     {
-      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
+      "title": "Iso operaatio Helsingin Jätkäsaaressa - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
+      "iso": "2026-08-02T18:13:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - koneporssi.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVJV0JsSzRIa0JzdjRpSUFvZFFCY0tsOGRKc0g1RXktMlVQdjRaeWpmOXZ4Yjd6ZDNPZW9hbktHZlFWekk4SnBRdzlNbEFscWJWenhkYjJWMVhRUXdjOF9nSVREaTl4OEd3VXEtMHhneDYxRE5OdVh6aHpiYXBpeE1RbnR5RkRYV2ZqWEdHUm9QUQ?oc=5",
       "iso": "2026-07-30T07:03:30+00:00",
       "src": "Google News"
@@ -50,6 +56,12 @@
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
       "iso": "2026-07-18T06:04:33+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
+      "iso": "2026-07-16T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
@@ -142,12 +154,6 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-06-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
       "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
       "iso": "2026-06-23T06:57:39+00:00",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
-      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
-      "iso": "2026-06-18T04:33:40+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
