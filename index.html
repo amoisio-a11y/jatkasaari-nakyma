@@ -213,14 +213,14 @@ a:focus-visible,[tabindex]:focus-visible{outline:2px solid var(--tram);outline-o
    ASETUKSET — täytä nämä
    ============================================================ */
 const CONFIG = {
-  digitransitKey: "09f01129a9d644888fa6d99884bd4a7e",
+  digitransitKey: "TÄHÄN_DIGITRANSIT_AVAIN",
   lat: 60.156,
   lon: 24.913,
   newsJson: "news.json",
   feeds: [],
   corsProxy: "",
   trams: { perStop: 3 },
-  newsMax: 20,
+  newsMax: 10,
   refresh: { trams: 30000, weather: 30*60000, news: 15*60000 }
 };
 
@@ -318,10 +318,10 @@ async function fetchTrams(){
 
 /* ============================================================
    2) HÄIRIÖTIEDOTTEET
-   Suodatetaan linjojen shortName perusteella: "1", "5", "7", "8", "9"
+   Suodatetaan linjojen shortName perusteella: "7", "8", "9"
    (kattaa automaattisesti 7A, 7B, 8A, 9A jne.)
    ============================================================ */
-const ALERT_LINES = new Set(["1", "5", "7", "8", "8H", "8T", "9", "9N", "9H"]);
+const ALERT_LINES = new Set(["7","8","9"]);
 
 const ALERT_QUERY = `{
   alerts(severityLevel: [WARNING, SEVERE, INFO]) {
@@ -546,6 +546,41 @@ setInterval(fetchAlerts,  2*60000);
 setInterval(fetchWeather, CONFIG.refresh.weather);
 setInterval(fetchNews,    CONFIG.refresh.news);
 setInterval(recomputeTrams, 10000);
+
+/* ============================================================
+   TESTI: Länsisataman laiva-aikataulu (Digitraffic marine API)
+   Avaa selaimen konsoli (F12) ja katso tuloste.
+   Jos näet CORS-virheen, tarvitaan GitHub Action -putki.
+   Jos näet JSON-dataa, voidaan rakentaa suoraan selaimeen.
+   ============================================================ */
+async function testShipApi(){
+  const now = new Date();
+  const from = now.toISOString();
+  const to = new Date(now.getTime() + 24*60*60*1000).toISOString();
+  const url = `https://meri.digitraffic.fi/api/port-call/v1/port-calls`
+    + `?locode=FIHEL&portAreaCode=LANSISATAMA&from=${from}&to=${to}`;
+  console.log("🚢 Haetaan laiva-aikatauluja:", url);
+  try {
+    const res = await fetch(url, {
+      headers: { "Digitraffic-User": "JatkasaariDashboard/1.0" }
+    });
+    console.log("HTTP status:", res.status, res.statusText);
+    if(!res.ok) throw new Error("HTTP "+res.status);
+    const data = await res.json();
+    console.log("Vastaus (raaka):", data);
+    // Suodatetaan saapuvat alukset
+    const arrivals = (data || [])
+      .filter(d => d.portAreaDetails?.some(a => a.ata || a.eta))
+      .slice(0, 5);
+    console.log("Saapuvat alukset (max 5):", arrivals);
+  } catch(err) {
+    console.error("❌ Virhe:", err.message);
+    if(err.message.includes("Failed to fetch") || err.message.includes("NetworkError")){
+      console.warn("→ Todennäköisesti CORS-ongelma. Tarvitaan GitHub Action -putki.");
+    }
+  }
+}
+testShipApi();
 
 $("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo";
 </script>
