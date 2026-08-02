@@ -592,15 +592,15 @@ async function fetchShips(){
         if(area.portAreaCode !== "LS") return;
         const eta = area.eta ? new Date(area.eta) : null;
         const ata = area.ata ? new Date(area.ata) : null;
-        // ata = jo saapunut, eta = tulossa — näytetään vain tulevat tai juuri saapuneet (< 30 min sitten)
+        // Käytetään ata:ta jos saatavilla (toteutunut), muuten eta (arvioitu)
         const arrTime = ata || eta;
         if(!arrTime) return;
-        if(ata && (now - ata.getTime()) > 30*60*1000) return; // yli 30 min sitten saapunut, ohita
+        // Hylätään jos saapumisaika on yli 30 min menneisyydessä
+        if((now - arrTime.getTime()) > 30*60*1000) return;
         arrivals.push({
           name: call.vesselName || "–",
           arrTime,
           isRealtime: !!ata,
-          from: (call.portCallDetails||{}).previousPort || "",
           berth: area.berthName || "",
         });
       });
