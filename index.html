@@ -321,7 +321,7 @@ async function fetchTrams(){
    Suodatetaan linjojen shortName perusteella: "1", "5", "7", "8", "9"
    (kattaa automaattisesti 7A, 7B, 8A, 9A jne.)
    ============================================================ */
-const ALERT_LINES = new Set(["1", "5", "7","8","9"]);
+const ALERT_LINES = new Set(["1", "5", "7", "8", "8H", "8T", "9", "9N", "9H"]);
 
 const ALERT_QUERY = `{
   alerts(severityLevel: [WARNING, SEVERE, INFO]) {
