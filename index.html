@@ -574,44 +574,24 @@ async function fetchNews(){
 }
 
 /* ============================================================
-   5) LÄNSISATAMAN LAIVA-AIKATAULU (Digitraffic / Portnet)
-   portAreaCode "LS" = Länsisatama, ei vaadi avainta.
+   5) LÄNSISATAMAN LAIVA-AIKATAULU
+   Luetaan ships.json, jonka GitHub Action tuottaa porttraffic.fi:stä
+   (Traficomin Portnet-käyttöliittymä). Ei suoraa selainhakua — CORS estää.
    ============================================================ */
 async function fetchShips(){
-  // Haetaan ILMAN aikarajausta — from/to suodattaa portCallTimestampin
-  // (kirjausajan) eikä eta:n perusteella, joten se hylkää tulevia vuoroja.
-  // Suodatus tehdään itse eta-kentän perusteella.
-  const url = "https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL";
   try{
-    const res = await fetch(url, { headers:{ "Digitraffic-User":"JatkasaariDashboard/1.0" } });
+    const res = await fetch("ships.json", { cache:"no-store" });
     if(!res.ok) throw new Error("HTTP "+res.status);
     const data = await res.json();
     const now = Date.now();
-
-    // Kerää kaikki Länsisataman tulevat saapumiset
-    const arrivals = [];
-    (data.portCalls||[]).forEach(call => {
-      (call.portAreaDetails||[]).forEach(area => {
-        if(area.portAreaCode !== "LS") return;
-        const eta = area.eta ? new Date(area.eta) : null;
-        const ata = area.ata ? new Date(area.ata) : null;
-        // Käytetään ata:ta jos saatavilla (toteutunut), muuten eta (arvioitu)
-        const arrTime = ata || eta;
-        if(!arrTime) return;
-        // Hylätään jos saapumisaika on yli 30 min menneisyydessä
-        if((now - arrTime.getTime()) > 30*60*1000) return;
-        arrivals.push({
-          name: call.vesselName || "–",
-          arrTime,
-          isRealtime: !!ata,
-          berth: area.berthName || "",
-        });
-      });
-    });
-
-    // Uusin ensin, näytetään seuraavat 4
+    const arrivals = (data.arrivals||[])
+      .map(a => ({ ...a, arrTime: new Date(a.arrTime) }))
+      .filter(a => (now - a.arrTime.getTime()) <= 30*60*1000); // pois yli 30 min sitten saapuneet
     arrivals.sort((a,b) => a.arrTime - b.arrTime);
     renderShips(arrivals.slice(0,4));
+    if(data.generated){
+      $("#ships-meta").textContent = "päivitetty "+formatShipTime(new Date(data.generated));
+    }
   }catch(err){
     $("#ships-list").innerHTML = '<div class="msg err">Laiva-aikataulua ei saatu. ('+err.message+')</div>';
   }
@@ -661,33 +641,7 @@ setInterval(fetchNews,    CONFIG.refresh.news);
 setInterval(recomputeTrams, 10000);
 setInterval(fetchShips,   5*60000);
 
-/* ============================================================
-   TESTI: porttraffic.fi CORS-testi
-   ============================================================ */
-async function testPortTraffic(){
-  const now = new Date();
-  const to = new Date(now.getTime() + 3*86400000);
-  const fmt = d => pad(d.getDate())+"."+pad(d.getMonth()+1)+"."+d.getFullYear();
-  const url = `https://www.porttraffic.fi/rest/search/port=FIHEL&agentId=-1&startDte=${fmt(now)}&endDte=${fmt(to)}`;
-  console.log("🚢 Testataan porttraffic.fi:", url);
-  try{
-    const res = await fetch(url);
-    console.log("HTTP status:", res.status);
-    const data = await res.json();
-    const topics = data.topicList?.topics || [];
-    console.log("Rivejä yhteensä:", topics.length);
-    // Länsiterminaali 2:n laivat tunnetusti: Megastar, MyStar, Victoria I, Finlandia
-    const lt2 = ["Megastar","MyStar","Victoria I","Finlandia"];
-    const filtered = topics.filter(t => lt2.includes(t.vesselNme));
-    console.log("Länsiterminaali 2 -ehdokkaat:", filtered.length);
-    console.log(JSON.stringify(filtered.slice(0,8), null, 2));
-  }catch(err){
-    console.error("❌ CORS tms. virhe:", err.message);
-  }
-}
-testPortTraffic();
-
-$("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo · laivat: Digitraffic/Portnet";
+$("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo · laivat: Portnet (porttraffic.fi)";
 </script>
 </body>
 </html>
