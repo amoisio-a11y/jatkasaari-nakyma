@@ -626,7 +626,7 @@ function renderShips(arrivals){
     const realtimeDot = a.isRealtime ? '<span class="live"></span>' : '';
     return `<div class="ship-row">
       <span class="ship-name">${a.name}</span>
-      <span class="ship-berth">${a.berth}</span>
+      <span class="ship-berth">${a.agent || ""}</span>
       <span class="ship-time">${minsTxt}${realtimeDot}</span>
     </div>`;
   }).join("");
