@@ -321,7 +321,7 @@ async function fetchTrams(){
    Suodatetaan linjojen shortName perusteella: "7", "8", "9"
    (kattaa automaattisesti 7A, 7B, 8A, 9A jne.)
    ============================================================ */
-const ALERT_LINES = new Set(["7","8","9"]);
+const ALERT_LINES = new Set(["5","7","8","8T","8H","9","9T","9H","9N"]);
 
 const ALERT_QUERY = `{
   alerts(severityLevel: [WARNING, SEVERE, INFO]) {
@@ -554,28 +554,26 @@ setInterval(recomputeTrams, 10000);
    Jos näet JSON-dataa, voidaan rakentaa suoraan selaimeen.
    ============================================================ */
 async function testShipApi(){
-  // Kokeillaan ensin ilman aikarajaa
-  const urls = [
-    "https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL",
-    "https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL&portAreaCode=LANSISATAMA",
-    "https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL&portAreaCode=WEST",
-    "https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL&portAreaCode=LT2",
-  ];
-  for(const url of urls){
-    try {
-      console.log("🚢 Kokeillaan:", url);
-      const res = await fetch(url, { headers: { "Digitraffic-User": "JatkasaariDashboard/1.0" } });
-      const data = await res.json();
-      const calls = data.portCalls || [];
-      const areaCodes = [...new Set(calls.flatMap(d => (d.portAreaDetails||[]).map(a => a.portAreaCode)))];
-      console.log(`  → ${calls.length} käyntiä, portialuekoodit: [${areaCodes.join(", ")}]`);
-      if(calls.length > 0){
-        console.log("  → Esimerkki:", JSON.stringify(calls[0], null, 2));
-        break;
-      }
-    } catch(err) {
-      console.error("  → Virhe:", err.message);
-    }
+  const url = "https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL";
+  console.log("🚢 Haetaan:", url);
+  try {
+    const res = await fetch(url, { headers: { "Digitraffic-User": "JatkasaariDashboard/1.0" } });
+    const data = await res.json();
+    const calls = data.portCalls || [];
+    console.log("Käyntejä yhteensä:", calls.length);
+    // Kaikki uniikit portialueet
+    const areas = {};
+    calls.forEach(d => (d.portAreaDetails||[]).forEach(a => {
+      areas[a.portAreaCode] = a.portAreaName;
+    }));
+    console.log("Kaikki portialueet:", JSON.stringify(areas, null, 2));
+    // Näytetään Länsisataman käynnit (kokeillaan LS ja LT)
+    ["LS","LT","LT2","WEST","L2"].forEach(code => {
+      const hits = calls.filter(d => (d.portAreaDetails||[]).some(a => a.portAreaCode === code));
+      if(hits.length) console.log(`portAreaCode "${code}": ${hits.length} käyntiä`);
+    });
+  } catch(err) {
+    console.error("❌ Virhe:", err.message);
   }
 }
 testShipApi();
