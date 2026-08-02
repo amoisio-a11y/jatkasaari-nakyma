@@ -661,6 +661,32 @@ setInterval(fetchNews,    CONFIG.refresh.news);
 setInterval(recomputeTrams, 10000);
 setInterval(fetchShips,   5*60000);
 
+/* ============================================================
+   TESTI: porttraffic.fi CORS-testi
+   ============================================================ */
+async function testPortTraffic(){
+  const now = new Date();
+  const to = new Date(now.getTime() + 3*86400000);
+  const fmt = d => pad(d.getDate())+"."+pad(d.getMonth()+1)+"."+d.getFullYear();
+  const url = `https://www.porttraffic.fi/rest/search/port=FIHEL&agentId=-1&startDte=${fmt(now)}&endDte=${fmt(to)}`;
+  console.log("🚢 Testataan porttraffic.fi:", url);
+  try{
+    const res = await fetch(url);
+    console.log("HTTP status:", res.status);
+    const data = await res.json();
+    const topics = data.topicList?.topics || [];
+    console.log("Rivejä yhteensä:", topics.length);
+    // Länsiterminaali 2:n laivat tunnetusti: Megastar, MyStar, Victoria I, Finlandia
+    const lt2 = ["Megastar","MyStar","Victoria I","Finlandia"];
+    const filtered = topics.filter(t => lt2.includes(t.vesselNme));
+    console.log("Länsiterminaali 2 -ehdokkaat:", filtered.length);
+    console.log(JSON.stringify(filtered.slice(0,8), null, 2));
+  }catch(err){
+    console.error("❌ CORS tms. virhe:", err.message);
+  }
+}
+testPortTraffic();
+
 $("#foot").textContent = "Jätkäsaari · ratikat: Digitransit/HSL · sää: Open-Meteo · laivat: Digitraffic/Portnet";
 </script>
 </body>
