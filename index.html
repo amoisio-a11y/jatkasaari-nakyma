@@ -578,7 +578,13 @@ async function fetchNews(){
    portAreaCode "LS" = Länsisatama, ei vaadi avainta.
    ============================================================ */
 async function fetchShips(){
-  const url = "https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL";
+  const now = new Date();
+  // Haetaan 3 päivää eteenpäin varmistaaksemme kaikki tulevat vuorot
+  const from = new Date(now); from.setHours(0,0,0,0);
+  const to   = new Date(now); to.setDate(to.getDate()+3); to.setHours(23,59,59,0);
+  const url = `https://meri.digitraffic.fi/api/port-call/v1/port-calls?locode=FIHEL`
+    + `&from=${from.toISOString().slice(0,19)}Z`
+    + `&to=${to.toISOString().slice(0,19)}Z`;
   try{
     const res = await fetch(url, { headers:{ "Digitraffic-User":"JatkasaariDashboard/1.0" } });
     if(!res.ok) throw new Error("HTTP "+res.status);
