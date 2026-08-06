@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-06T04:09:40.141639+00:00",
+  "generated": "2026-08-06T06:44:50.243931+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
@@ -13,6 +13,12 @@
       "title": "Iso operaatio Helsingin Jätkäsaaressa - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
       "iso": "2026-08-02T18:13:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVJV0JsSzRIa0JzdjRpSUFvZFFCY0tsOGRKc0g1RXktMlVQdjRaeWpmOXZ4Yjd6ZDNPZW9hbktHZlFWekk4SnBRdzlNbEFscWJWenhkYjJWMVhRUXdjOF9nSVREaTl4OEd3VXEtMHhneDYxRE5OdVh6aHpiYXBpeE1RbnR5RkRYV2ZqWEdHUm9QUQ?oc=5",
+      "iso": "2026-07-30T07:03:30+00:00",
       "src": "Google News"
     },
     {
@@ -28,7 +34,7 @@
       "src": "Google News"
     },
     {
-      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - iltalehti.fi",
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
       "iso": "2026-07-23T07:00:00+00:00",
       "src": "Google News"
@@ -50,12 +56,6 @@
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
       "iso": "2026-07-18T06:04:33+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Vettä vuotava talo Helsingissä sai tuomion: Pysäköintihallin ei kuulukaan pitää vettä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
-      "iso": "2026-07-17T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
@@ -88,12 +88,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -118,25 +112,13 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
-      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
-      "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
-    },
-    {
-      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
-      "iso": "2026-06-26T09:44:36+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
-      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - verkkouutiset.fi",
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
       "iso": "2026-06-26T07:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - verkkouutiset.fi",
+      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
       "iso": "2026-06-25T07:00:00+00:00",
       "src": "Google News"
@@ -152,12 +134,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
       "iso": "2026-06-24T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
-      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
-      "iso": "2026-06-23T11:43:20+00:00",
-      "src": "Rööri"
     },
     {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
@@ -182,6 +158,30 @@
       "link": "https://www.konservatorio.fi/uutiset/pia-karjes-peltola-aloittaa-helsingin-konservatorion-vt-rehtori-toimitusjohtajana/",
       "iso": "2026-06-22T05:00:00+00:00",
       "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Toimintaa Lähteellä: Mielenterveyden ammattilaiset rakentavat Lapinlahteen uutta yhteisöä",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-mielenterveyden-ammattilaiset-rakentavat-lapinlahteen-uutta-yhteisoa/",
+      "iso": "2026-06-18T13:18:40+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
+      "iso": "2026-06-18T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "HBL: Samassa paikassa kuollut jo neljä ihmistä – Turvatoimet lykkääntyvät jälleen - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
+      "iso": "2026-06-18T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
+      "iso": "2026-06-18T04:33:40+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
