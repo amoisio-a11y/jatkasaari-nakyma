@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-08T13:33:12.155223+00:00",
+  "generated": "2026-08-08T14:17:57.798458+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -118,6 +118,12 @@
       "src": "Helsingin konservatorio"
     },
     {
+      "title": "Tässä ovat Helsingin suosikkialueet – kaupunginosien välillä huimat erot - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0c1NiTTJ0UzVsT05TdmNzSlNTZHo5Q2ZzMWRoVGs2aVRQakpTR0l3ZTQ1SzZYSk1DTk1XcERGMTU2dFpMcUZDTzBFS3ZNazBxTkJNU0lISktTcTdjNU1MOVJjWU0?oc=5",
+      "iso": "2026-06-29T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
       "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
       "iso": "2026-06-29T05:11:24+00:00",
@@ -176,12 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-mielenterveyden-ammattilaiset-rakentavat-lapinlahteen-uutta-yhteisoa/",
       "iso": "2026-06-18T13:18:40+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
-      "iso": "2026-06-18T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
