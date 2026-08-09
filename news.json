@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T11:44:43.680737+00:00",
+  "generated": "2026-08-09T12:16:38.016572+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 3,
   "items": [
     {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
@@ -20,12 +20,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
       "iso": "2026-08-02T18:13:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Vielä ehtii – Ruoholahdesta veneellä suoraan Suomenlinnaan",
-      "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
-      "iso": "2026-07-28T07:00:16+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
@@ -52,18 +46,6 @@
       "src": "Google News"
     },
     {
-      "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
-      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
-      "iso": "2026-07-18T06:04:33+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren laiturielementtien siirto alkanut",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
-      "iso": "2026-07-10T06:05:09+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
       "iso": "2026-07-07T12:48:13+00:00",
@@ -80,18 +62,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest-kutsuu-jalleen-kaikki-alueen-asukkaat-juhlimaan/",
       "iso": "2026-07-03T06:58:18+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
-    },
-    {
-      "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
-      "iso": "2026-07-02T07:25:24+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Kuvat näyttävät | Näin nosturialus siirtää Jätkäsaaren jättielementit mereen - HS.fi",
@@ -112,18 +82,6 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
-      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
-      "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
-    },
-    {
-      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
-      "iso": "2026-06-26T09:44:36+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
       "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
@@ -136,12 +94,6 @@
       "src": "Google News"
     },
     {
-      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
-      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
-      "iso": "2026-06-23T11:43:20+00:00",
-      "src": "Rööri"
-    },
-    {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
       "iso": "2026-06-23T07:00:00+00:00",
@@ -152,12 +104,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
       "iso": "2026-06-23T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
-      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
-      "iso": "2026-06-23T06:57:39+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Pia Kärjes-Peltola aloittaa Helsingin Konservatorion vt rehtori-toimitusjohtajana",
@@ -182,6 +128,60 @@
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Pro Lapinlahti mielenterveysseura ry on huolissaan sairaalapuistossa käynnissä olevista maisematöistä",
+      "link": "https://lapinlahdenlahde.fi/uutiset/pro-lapinlahti-yhdistys-on-huolissaan-sairaalapuistossa-kaynnissa-olevissa-maisematoista/",
+      "iso": "2026-06-17T09:17:56+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa - sttinfo.fi",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
+      "iso": "2026-06-17T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Lukuvuoden 2026-2027 alkuun liittyvää informaatiota",
+      "link": "https://www.konservatorio.fi/uutiset/lukuvuoden-2026-2027-alkuun-liittyvaa-informaatiota/",
+      "iso": "2026-06-17T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Jätkäsaaren asuntokauppa kaksinkertaistui – \"Alue alkaa rauhoittua\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBnWnRkNm9DbmZEdDh3X05MckhMc2lmZFo2SVJHRy1hMzVCZW9YOEI5RUs5amF6RDNrbFVCV29CWVFPM2FnaHBwRVM2S1pSc0FQYVdyUWRaMUFvVFI3Z29DWA?oc=5",
+      "iso": "2026-06-16T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki suunnittelee uutta uimahallia Jätkäsaareen ja kahdeksaa peruskorjausta - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBLNjBDbk5wNVczZ2hTeGQxU1VRTk1xVm1fSHVid3JVQW1nVllxR3hyVlNkTFRPSkIyV05KU0JUdmR4ZWVvajVIT0VVdnpLc0loSGx0REIzMVI1LV9MTk40Ug?oc=5",
+      "iso": "2026-06-12T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsingin Konservatorioon on valittu 37 uutta ammatillisen koulutuksen opiskelijaa",
+      "link": "https://www.konservatorio.fi/uutiset/helsingin-konservatorioon-on-valittu-37-uutta-ammatillisen-koulutuksen-opiskelijaa/",
+      "iso": "2026-06-11T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Ihmisiä Lähteellä: Pasi Mäkinen",
+      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-pasi-makinen/",
+      "iso": "2026-06-10T08:02:26+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Helsinki kunnostaa kirjastojaan kesällä - sttinfo.fi",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUTZUMnp1cWhneDhoZXMybnBJQV85enVid0pISUl0U05ndFVtVU9jdFZ5S2dpaUVGYkdNSGpTcnhVclNFaXc2NHJCSlJuWVNtS2RCUm1RRFVCOExScEdLeEl3cmtWRWsxNWJiT0pzRkFoaEJGSko1UXh4TENuUjUybnBxRWFxWEJPQ3Y5UGVMQlQzUy0wdFZGc1FGb1AteC13Sng2TUtIUUZWY0lY?oc=5",
+      "iso": "2026-06-10T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Uudet oppilaat on valittu",
+      "link": "https://www.konservatorio.fi/uutiset/uudet-oppilaat-on-valittu/",
+      "iso": "2026-06-09T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
     }
   ]
 }
