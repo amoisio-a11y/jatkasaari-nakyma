@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-09T22:39:59.445116+00:00",
+  "generated": "2026-08-09T23:05:18.909168+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
     {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
@@ -88,6 +88,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
+      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
+      "iso": "2026-07-02T11:57:21+00:00",
+      "src": "Rööri"
+    },
+    {
       "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
       "iso": "2026-07-02T07:25:24+00:00",
@@ -112,6 +118,18 @@
       "src": "Helsingin konservatorio"
     },
     {
+      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
+      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
+      "iso": "2026-06-29T05:11:24+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
+      "iso": "2026-06-26T09:44:36+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
@@ -122,6 +140,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
       "iso": "2026-06-24T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
+      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
+      "iso": "2026-06-23T11:43:20+00:00",
+      "src": "Rööri"
     },
     {
       "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
@@ -157,30 +181,6 @@
       "title": "Jätkäsaaren parkkitaloon luvattiin uusia turvatoimia kuolemien jälkeen – päätöksiä luvassa syksyllä, kertoo omistaja nyt - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTFBVSFUxay1pLU9nSWxHb01LY0ZGUldBZDByckpudWhUN2JLS0hjZU5Wb3VCcFR0cXh0eGxxbENzRE5PUQ?oc=5",
       "iso": "2026-06-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "HBL: Samassa paikassa kuollut jo neljä ihmistä – Turvatoimet lykkääntyvät jälleen - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1TRmdyMzZNTW9UMmN3LU40WHByY1F5emJHR253VWlMWlJCaEJIN0E2YnhES3V4SzQ3Z1pNVS1EdU5ycHhkNXBvUHdoNmprNV9xNk95bEZ6bXFndnZkdGVIQkVZeTdvU2dNU2x4bWQwMnNzUjJJNGMzRkc2RQ?oc=5",
-      "iso": "2026-06-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
-      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
-      "iso": "2026-06-18T04:33:40+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Pro Lapinlahti mielenterveysseura ry on huolissaan sairaalapuistossa käynnissä olevista maisematöistä",
-      "link": "https://lapinlahdenlahde.fi/uutiset/pro-lapinlahti-yhdistys-on-huolissaan-sairaalapuistossa-kaynnissa-olevissa-maisematoista/",
-      "iso": "2026-06-17T09:17:56+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Ratikkaliikenne Runeberginkadulla katkeaa elokuun lopussa - sttinfo.fi",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnhwY2o1TE1nM3FHTmdtcW9TTl81S29feVFkQjBLV2E5aktGSzFYNEgwUUtnNFB6d0RxTElIT081cXNiUm5EVDRtd1dTUHdIdEJ3R25yTlBxbFJZcG5ya3kyU3NjcnlvbldTS1lyMXRfVEtWSWxQTnhpRlRvQU1qcXdBNFJkdVBMeXlTYTM3OHlzcTk3bVQ3WHlyN0xHRkFobk5uYk5McElQNVdLRzE2RzdIc20ycWg3SmlBdDBNVQ?oc=5",
-      "iso": "2026-06-17T07:00:00+00:00",
       "src": "Google News"
     }
   ]
