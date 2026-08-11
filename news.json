@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T02:20:09.130159+00:00",
+  "generated": "2026-08-11T03:59:31.427352+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -118,12 +118,6 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Tässä ovat Helsingin suosikkialueet – kaupunginosien välillä huimat erot - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFA0c1NiTTJ0UzVsT05TdmNzSlNTZHo5Q2ZzMWRoVGs2aVRQakpTR0l3ZTQ1SzZYSk1DTk1XcERGMTU2dFpMcUZDTzBFS3ZNazBxTkJNU0lISktTcTdjNU1MOVJjWU0?oc=5",
-      "iso": "2026-06-29T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
       "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
       "iso": "2026-06-29T05:11:24+00:00",
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
       "iso": "2026-06-23T06:57:39+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Pia Kärjes-Peltola aloittaa Helsingin Konservatorion vt rehtori-toimitusjohtajana",
+      "link": "https://www.konservatorio.fi/uutiset/pia-karjes-peltola-aloittaa-helsingin-konservatorion-vt-rehtori-toimitusjohtajana/",
+      "iso": "2026-06-22T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
     }
   ]
 }
