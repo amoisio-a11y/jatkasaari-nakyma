@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-11T09:41:30.391375+00:00",
+  "generated": "2026-08-11T10:34:44.972868+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -18,7 +18,7 @@
     {
       "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45a3VXWENuVlJOcFBxZndoZFFlNzdGbVhQcGxSb0RsamY4MEhia2NadkpWNFNxMGMtN1JoT1ktZVpqOURIb2Y2cDBvNzF3ZV9QandORGhNTFJwQQ?oc=5",
-      "iso": "2026-08-03T09:00:00+00:00",
+      "iso": "2026-08-03T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -40,14 +40,14 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
       "iso": "2026-07-23T07:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
+      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
       "iso": "2026-07-23T07:00:00+00:00",
       "src": "Google News"
     },
@@ -79,12 +79,6 @@
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
       "iso": "2026-07-07T12:48:13+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Rankkasade sai Etelä-Helsingin tulvimaan – useisiin liiketiloihin pääsi valumaan vettä - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01dUROVUVVaERPc1RDWGxvZFBEVnY2SzZIWm9EQWg4VDJtN01tNk45VThZTExfQzlDQUVwMFgzelp5dw?oc=5",
-      "iso": "2026-07-05T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
       "iso": "2026-06-23T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
+      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
+      "iso": "2026-06-23T06:57:39+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
