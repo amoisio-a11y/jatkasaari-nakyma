@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T13:19:48.946585+00:00",
+  "generated": "2026-08-12T14:35:12.817239+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -106,12 +106,6 @@
       "src": "Google News"
     },
     {
-      "title": "Rankkasade sai Etelä-Helsingin tulvimaan – useisiin liiketiloihin pääsi valumaan vettä - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01dUROVUVVaERPc1RDWGxvZFBEVnY2SzZIWm9EQWg4VDJtN01tNk45VThZTExfQzlDQUVwMFgzelp5dw?oc=5",
-      "iso": "2026-07-05T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
       "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
       "iso": "2026-07-03T07:12:31+00:00",
@@ -142,7 +136,7 @@
       "src": "Google News"
     },
     {
-      "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - epressi.com",
+      "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
       "iso": "2026-07-01T07:00:00+00:00",
       "src": "Google News"
@@ -182,6 +176,12 @@
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
+      "iso": "2026-06-24T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
