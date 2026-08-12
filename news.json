@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-12T07:23:21.813105+00:00",
+  "generated": "2026-08-12T08:46:58.168283+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Koulut alkoivat – Ruoholahden yksikössä viimeistä kertaa vähään aikaan",
+      "link": "https://www.ruoholahdensanomat.fi/koulut-alkoivat-ruoholahden-yksikossa-viimeista-kertaa-vahaan-aikaan/",
+      "iso": "2026-08-12T07:24:18+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17467914",
@@ -82,12 +88,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Vettä vuotava talo Helsingissä sai tuomion: Pysäköintihallin ei kuulukaan pitää vettä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
-      "iso": "2026-07-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
       "iso": "2026-07-10T06:05:09+00:00",
@@ -160,6 +160,18 @@
       "src": "Korttelikeskus Ruohis"
     },
     {
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
+      "iso": "2026-06-26T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
+      "iso": "2026-06-25T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
@@ -170,18 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
       "iso": "2026-06-24T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-06-23T16:17:58+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
-      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
-      "iso": "2026-06-23T11:43:20+00:00",
-      "src": "Rööri"
     }
   ]
 }
