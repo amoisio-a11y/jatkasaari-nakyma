@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T05:56:20.280454+00:00",
+  "generated": "2026-08-12T07:23:21.813105+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -52,7 +52,7 @@
       "src": "Google News"
     },
     {
-      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - iltalehti.fi",
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
       "iso": "2026-07-23T07:00:00+00:00",
       "src": "Google News"
@@ -82,6 +82,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Vettä vuotava talo Helsingissä sai tuomion: Pysäköintihallin ei kuulukaan pitää vettä - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
+      "iso": "2026-07-17T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jätkäsaaren laiturielementtien siirto alkanut",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
       "iso": "2026-07-10T06:05:09+00:00",
@@ -91,6 +97,12 @@
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
       "iso": "2026-07-07T12:48:13+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Rankkasade sai Etelä-Helsingin tulvimaan – useisiin liiketiloihin pääsi valumaan vettä - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01dUROVUVVaERPc1RDWGxvZFBEVnY2SzZIWm9EQWg4VDJtN01tNk45VThZTExfQzlDQUVwMFgzelp5dw?oc=5",
+      "iso": "2026-07-05T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -160,28 +172,16 @@
       "src": "Google News"
     },
     {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
+      "iso": "2026-06-23T16:17:58+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
       "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
       "iso": "2026-06-23T11:43:20+00:00",
       "src": "Rööri"
-    },
-    {
-      "title": "Näin vanha satama-allas muotoutuu saunomis- ja uintipaikaksi Helsingin Jätkäsaaressa - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9mTFpVM201RnhIeWhmM0xfY2ZwdjIxX1dIVTJGam1jVzlCNTdUcWVrczBYRjZuR3hXam5rUURoVE5rZw?oc=5",
-      "iso": "2026-06-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-06-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
-      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
-      "iso": "2026-06-23T06:57:39+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
