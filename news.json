@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-13T21:13:33.954912+00:00",
+  "generated": "2026-08-13T22:04:45.000540+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
       "title": "Pallo-Pojat kaatoi MyPan Helsingin Jätkäsaaressa | Urheilu - Kouvolan Sanomat",
@@ -14,12 +14,6 @@
       "link": "https://www.ruoholahdensanomat.fi/koulut-alkoivat-ruoholahden-yksikossa-viimeista-kertaa-vahaan-aikaan/",
       "iso": "2026-08-12T07:24:18+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Syksy on hyvä aika harrastaa – erityisesti aikuisille!",
-      "link": "https://www.konservatorio.fi/uutiset/syksy-on-hyva-aika-harrastaa-erityisesti-aikuisille/",
-      "iso": "2026-08-12T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     },
     {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
@@ -82,7 +76,7 @@
       "src": "Google News"
     },
     {
-      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - helsinginuutiset.fi",
+      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
       "iso": "2026-07-22T07:00:00+00:00",
       "src": "Google News"
@@ -100,7 +94,7 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - helsinginuutiset.fi",
+      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
       "iso": "2026-07-07T12:48:13+00:00",
       "src": "Google News"
@@ -142,12 +136,6 @@
       "src": "Google News"
     },
     {
-      "title": "Nuorisokuoromme Strasbourgissa",
-      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
-      "iso": "2026-07-01T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
       "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
       "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
       "iso": "2026-06-29T05:11:24+00:00",
@@ -160,13 +148,13 @@
       "src": "Korttelikeskus Ruohis"
     },
     {
-      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - Verkkouutiset",
+      "title": "SDP:n Tytti Tuppuraisen asumisjärjestelyä ihmetellään – ”Miten perustelette” - verkkouutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOUxCVGYtQnRDRzlvaU90M01zSlJQTDR1UkFjODBINW93T0ZJOWRENjhQUFFZalItcDFyMFFOZ3VGX2xlWFQySWI1Q1BiNWhMdldwRzBNSU15cmFRNXZSTngtR2FFeEFGSllSdlE3dEo1UlRZYXpGTjR6NjJEMDdEYVZvM1NxamlwY2ljTjN4YldhUzdlOFNNa2szZmltcDZnd0I3X2tn?oc=5",
       "iso": "2026-06-26T07:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - Verkkouutiset",
+      "title": "IL: Kymmeniä Helsingin Hitas-asuntoja päätyi suurituloisille - verkkouutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
       "iso": "2026-06-25T07:00:00+00:00",
       "src": "Google News"
@@ -178,10 +166,22 @@
       "src": "Helsingin kaupunki"
     },
     {
-      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - helsinginuutiset.fi",
+      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
       "iso": "2026-06-24T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
+      "iso": "2026-06-23T16:17:58+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
+      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
+      "iso": "2026-06-23T11:43:20+00:00",
+      "src": "Rööri"
     }
   ]
 }
