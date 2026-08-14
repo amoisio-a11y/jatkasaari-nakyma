@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-14T20:14:50.205127+00:00",
+  "generated": "2026-08-14T20:48:18.432698+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -88,7 +88,7 @@
       "src": "Google News"
     },
     {
-      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
+      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - helen.fi",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
       "iso": "2026-07-22T07:00:00+00:00",
       "src": "Google News"
@@ -108,7 +108,13 @@
     {
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
-      "iso": "2026-07-07T07:00:00+00:00",
+      "iso": "2026-07-07T12:48:13+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Rankkasade sai Etelä-Helsingin tulvimaan – useisiin liiketiloihin pääsi valumaan vettä - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE01dUROVUVVaERPc1RDWGxvZFBEVnY2SzZIWm9EQWg4VDJtN01tNk45VThZTExfQzlDQUVwMFgzelp5dw?oc=5",
+      "iso": "2026-07-05T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPNDYxek5uRlZJVUVkWkx1SlU2UFphV3ZEQTMxTkFSODBkTTE2RFBZalZWTVA0b29FajJWelFrQU50Yk9DMWt6ckZXZHFKVldpRFRsUEU5dk1uMmxnbk5OcGJqczJtX002TmtJYUNnNkxzNUJGNUtPQlJyZUIzQzUwbnQwaHVZYVdQdkxUSnZ4WXlmV1U1VlE?oc=5",
       "iso": "2026-06-25T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
-      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
-      "iso": "2026-06-25T06:44:36+00:00",
-      "src": "Helsingin kaupunki"
     }
   ]
 }
