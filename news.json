@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T05:26:43.583058+00:00",
+  "generated": "2026-08-15T05:51:21.745393+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -61,6 +61,12 @@
       "title": "Iso operaatio Helsingin Jätkäsaaressa - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
       "iso": "2026-08-02T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVJV0JsSzRIa0JzdjRpSUFvZFFCY0tsOGRKc0g1RXktMlVQdjRaeWpmOXZ4Yjd6ZDNPZW9hbktHZlFWekk4SnBRdzlNbEFscWJWenhkYjJWMVhRUXdjOF9nSVREaTl4OEd3VXEtMHhneDYxRE5OdVh6aHpiYXBpeE1RbnR5RkRYV2ZqWEdHUm9QUQ?oc=5",
+      "iso": "2026-07-30T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
       "iso": "2026-06-25T06:44:36+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Ruoholahden liikenne menee uusiksi – tämä kaikki muuttuu - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8zWlQ3dUVoN1hkcWFQelZPTlhoaVVSb2x2aHhfOV8yb1p4ZzhJUVlfWmdCbXlXSm1xZ1FIc2F1Y0YySjgxVlNvMXFjVzQ5cWdyclhxQnFhQ1pIQjJ6WVU4Sg?oc=5",
-      "iso": "2026-06-24T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
