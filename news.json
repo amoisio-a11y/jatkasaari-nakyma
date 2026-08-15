@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-15T05:51:21.745393+00:00",
+  "generated": "2026-08-15T06:33:02.904182+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -64,12 +64,6 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVJV0JsSzRIa0JzdjRpSUFvZFFCY0tsOGRKc0g1RXktMlVQdjRaeWpmOXZ4Yjd6ZDNPZW9hbktHZlFWekk4SnBRdzlNbEFscWJWenhkYjJWMVhRUXdjOF9nSVREaTl4OEd3VXEtMHhneDYxRE5OdVh6aHpiYXBpeE1RbnR5RkRYV2ZqWEdHUm9QUQ?oc=5",
-      "iso": "2026-07-30T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Vielä ehtii – Ruoholahdesta veneellä suoraan Suomenlinnaan",
       "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
       "iso": "2026-07-28T07:00:16+00:00",
@@ -90,6 +84,12 @@
     {
       "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
+      "iso": "2026-07-22T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
       "iso": "2026-07-22T07:00:00+00:00",
       "src": "Google News"
     },
