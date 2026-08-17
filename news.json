@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-17T15:58:47.052696+00:00",
+  "generated": "2026-08-17T16:35:03.240690+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -13,6 +13,18 @@
       "title": "Saukonpaadenrannan asemakaavan käsittely siirtyy keväälle 2027",
       "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-asemakaavan-kasittely-siirtyy-kevaalle-2027/",
       "iso": "2026-08-17T14:34:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saukonlaiturin alueen katujen rakentaminen alkaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonlaiturin-alueen-katujen-rakentaminen-alkaa/",
+      "iso": "2026-08-17T07:19:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Helsingin satama tiedottaa: LJ6-laiturin korjaus alkaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/helsingin-satama-tiedottaa-lj6-laiturin-korjaus-alkaa/",
+      "iso": "2026-08-17T07:05:00+00:00",
       "src": "Kaupunginosat.fi"
     },
     {
@@ -170,18 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9BclZMNFJLb1plenZleEIyQmdiclNtR2VFZkRXODZoZkFkWmh4R1Y5OHI5WWtYUHVQNE40RlF1MGFDN245SVZBZVJtZTN1YWY4QndaRnlzdkkwSzZf?oc=5",
       "iso": "2026-07-02T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Länsisataman uudistus etenee – 23,9 miljoonan euron laituriurakka käyntiin Jätkäsaaressa - ePressi",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM0d6d1dhc3hCZ3lMcnRQbW1Bb3BOLVQweDF0cGV1RWtVY0VxUHdHeHk4ZkhrNzBnUHo1aTVyYTNrOHNGeEJHUklJZ29qbVRqc2lqNUM3YjhQV3lXbFkwUWRKeTFCWHMxOFVNMndmaE9GZUplWHB2RVEwQXNtMFNFb1ZIeUpibmtaajVEeFBZMnRocG00R2N4YjB3aE5IYU84Q3pwMXFSbk92eExXVTdBT2lheVhhSVFPQ1JYSm0zVzlEbmVYak9wN3pmWV9EbHcweVZNTTFuVlA1SC1xS2g3dXpFdw?oc=5",
-      "iso": "2026-07-01T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Nuorisokuoromme Strasbourgissa",
-      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
-      "iso": "2026-07-01T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
