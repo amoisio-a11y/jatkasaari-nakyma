@@ -1,8 +1,20 @@
 {
-  "generated": "2026-08-17T14:01:18.221181+00:00",
+  "generated": "2026-08-17T14:43:58.871027+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
+      "iso": "2026-08-17T14:35:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saukonpaadenrannan asemakaavan käsittely siirtyy keväälle 2027",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-asemakaavan-kasittely-siirtyy-kevaalle-2027/",
+      "iso": "2026-08-17T14:34:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Kalastus | Jos Eemeli Peltonen ei kalastaisi, hän tuijottaisi helposti puhelinta - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xeUlNRFBhaTdxbEdqUEV2dUx5bGE3RGxWNUdfX1FGQk9CcUQ0bXZVdnZweG1OUDYtcG9oZWwzanAzUVNlSksybWlSUnJ2UHJ1MzhmbzdfLUFvTnFDTGc?oc=5",
@@ -100,7 +112,7 @@
       "src": "Google News"
     },
     {
-      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - Helen",
+      "title": "Helen purkaa hiilenpurkulaitteita Ruoholahdessa - helen.fi",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNal9QbkMtV29Wb0hETnRZQzlxOVpWelhuRnBJZkdaS0MybllmX0RHdGVTU3UtQTF3UmVPeGQwbm4tQUp5ZTN0elpWeGdlUnMxeFliU29CaFJwXzZRWGx0VklRR3BGUGRFX2EzY0Vka1RHdlVNVjhIQ3gyTjhnV01mV0MzVjd5X2ZY?oc=5",
       "iso": "2026-07-22T07:00:00+00:00",
       "src": "Google News"
@@ -170,18 +182,6 @@
       "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
       "iso": "2026-07-01T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
-      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
-      "iso": "2026-06-29T05:11:24+00:00",
-      "src": "Rööri"
-    },
-    {
-      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
-      "iso": "2026-06-26T09:44:36+00:00",
-      "src": "Korttelikeskus Ruohis"
     }
   ]
 }
