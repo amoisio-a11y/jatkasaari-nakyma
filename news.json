@@ -1,8 +1,20 @@
 {
-  "generated": "2026-08-19T13:30:37.915420+00:00",
+  "generated": "2026-08-19T14:17:00.676387+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Ihmisiä Lähteellä: Meleena Mailand",
+      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-meleena-mailand/",
+      "iso": "2026-08-19T13:36:39+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Syksy saapuu ja musiikki soi!",
+      "link": "https://www.konservatorio.fi/uutiset/syksy-saapuu-ja-musiikki-soi/",
+      "iso": "2026-08-19T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
     {
       "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
@@ -64,7 +76,7 @@
       "src": "Google News"
     },
     {
-      "title": "Panimoliitto on huolissaan juomamyynnin suunnasta - Verkkouutiset",
+      "title": "Panimoliitto on huolissaan juomamyynnin suunnasta - verkkouutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWVsaExJUDN6V1Q4M0w4dFo0LWpTbmRKeWlGMW1HUHZMTjhIdXZuYXVENEVJR0FEa0l1QkNjenZGbVlvb0F4NDZvX0padEVJZXh2UDh3RUVMdFRiWkt6eFRiRktGb21oSlRiR2tfeDFXcktrQ2NMdzdITURqZGZsUzdMN1VWci1P?oc=5",
       "iso": "2026-08-14T09:26:03+00:00",
       "src": "Google News"
@@ -170,18 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
       "iso": "2026-07-03T07:12:31+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan",
-      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest-kutsuu-jalleen-kaikki-alueen-asukkaat-juhlimaan/",
-      "iso": "2026-07-03T06:58:18+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
-      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
-      "iso": "2026-07-02T11:57:21+00:00",
-      "src": "Rööri"
     }
   ]
 }
