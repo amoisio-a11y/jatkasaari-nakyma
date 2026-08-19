@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-19T14:17:00.676387+00:00",
+  "generated": "2026-08-19T15:01:18.807231+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Ihmisiä Lähteellä: Meleena Mailand",
@@ -16,22 +16,10 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
-      "iso": "2026-08-18T17:49:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Uimaan kolmen vuoden päästä – uinti- ja liikuntakeskuksen rakentaminen käyntiin",
       "link": "https://www.ruoholahdensanomat.fi/uimaan-kolmen-vuoden-paasta-uinti-ja-liikuntakeskuksen-rakentaminen-kayntiin/",
       "iso": "2026-08-18T10:38:46+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren uinti- ja liikuntakeskuksen rakentaminen alkaa syyskuussa - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMUJBdjNQb1U3WnFJbDFIMXlUQkp5UVBQZy1kNktEenROSXNqa1BVR2pNd0dWVW53TzFiaEhMWW43UzZPbHRDYllYVHdNLVI0aXZHMWNQRGVtQTJEcVlEYkI2WUwtMTEzektFNEE1RW90aHZaS3p4NWNVcHhFa0NGM2lXYWRzeXFUcnJuYmVsellVd2pGQ2VpUFNkdm9Yemp4bWdKTGQtTDJ4bTBSOGV3Q0pyOEZfdnpjR2NNOHlobzhNUkloZVlFZHNVOWV3NUlIckNZ?oc=5",
-      "iso": "2026-08-18T10:10:41+00:00",
-      "src": "Google News"
     },
     {
       "title": "Kaapelitehtaalla seinät heräävät henkiin – Taiteiden yönä avautuu uusi graffitigalleria ja audiokierros pääsee yleisön testiin",
@@ -64,30 +52,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Kalastus | Jos Eemeli Peltonen ei kalastaisi, hän tuijottaisi helposti puhelinta - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8xeUlNRFBhaTdxbEdqUEV2dUx5bGE3RGxWNUdfX1FGQk9CcUQ0bXZVdnZweG1OUDYtcG9oZWwzanAzUVNlSksybWlSUnJ2UHJ1MzhmbzdfLUFvTnFDTGc?oc=5",
-      "iso": "2026-08-16T12:47:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "PPJ niukasti parempi Jätkäsaaressa - mypa.fi",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSVREd1BaczFDQ1NUXzdfaUM3REtwZVB1ZlJmUTltYk1IYlVmZ2VtWDRaa1dNZTlLYjVROW96LUtDNHVpSFA2U2dKckZ6QUItcF91N0FDYnA2T2tPUzZmU2NONzdJTk9p?oc=5",
-      "iso": "2026-08-14T17:46:07+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Panimoliitto on huolissaan juomamyynnin suunnasta - verkkouutiset.fi",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWVsaExJUDN6V1Q4M0w4dFo0LWpTbmRKeWlGMW1HUHZMTjhIdXZuYXVENEVJR0FEa0l1QkNjenZGbVlvb0F4NDZvX0padEVJZXh2UDh3RUVMdFRiWkt6eFRiRktGb21oSlRiR2tfeDFXcktrQ2NMdzdITURqZGZsUzdMN1VWci1P?oc=5",
-      "iso": "2026-08-14T09:26:03+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Pallo-​Pojat kaatoi MyPan Helsingin Jätkä­saa­ressa - Kouvolan Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ZnRDa3dLZnVVc0ItR1ZBY2tOSERma3ppQllGanNhcWRrXzUzNzIzeTZvRi15RHhMck1pWmZhYzlJaHdnd2N2VVZBVjdHQUVqT09MWjVsMWJMQQ?oc=5",
-      "iso": "2026-08-13T17:52:54+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Koulut alkoivat – Ruoholahden yksikössä viimeistä kertaa vähään aikaan",
       "link": "https://www.ruoholahdensanomat.fi/koulut-alkoivat-ruoholahden-yksikossa-viimeista-kertaa-vahaan-aikaan/",
       "iso": "2026-08-12T07:24:18+00:00",
@@ -118,46 +82,10 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45a3VXWENuVlJOcFBxZndoZFFlNzdGbVhQcGxSb0RsamY4MEhia2NadkpWNFNxMGMtN1JoT1ktZVpqOURIb2Y2cDBvNzF3ZV9QandORGhNTFJwQQ?oc=5",
-      "iso": "2026-08-03T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Iso operaatio Helsingin Jätkäsaaressa - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
-      "iso": "2026-08-02T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVJV0JsSzRIa0JzdjRpSUFvZFFCY0tsOGRKc0g1RXktMlVQdjRaeWpmOXZ4Yjd6ZDNPZW9hbktHZlFWekk4SnBRdzlNbEFscWJWenhkYjJWMVhRUXdjOF9nSVREaTl4OEd3VXEtMHhneDYxRE5OdVh6aHpiYXBpeE1RbnR5RkRYV2ZqWEdHUm9QUQ?oc=5",
-      "iso": "2026-07-30T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Vielä ehtii – Ruoholahdesta veneellä suoraan Suomenlinnaan",
       "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
       "iso": "2026-07-28T07:00:16+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
-      "iso": "2026-07-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Poliisioperaatio Jätkäsaaressa - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1XM0VYRE1UWXBFT1RyclN4SE9OWk9RVTZVLWNMN0lzcHFwTHFQTVpiTnNNX1B3YlM5TVYzb2FMM0RrX2ppUGtaMFZDem12SWZvd1ktQzR1MGFZTzdU?oc=5",
-      "iso": "2026-07-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
-      "iso": "2026-07-22T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
@@ -172,16 +100,88 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
-      "iso": "2026-07-07T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
       "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
       "iso": "2026-07-03T07:12:31+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest-kutsuu-jalleen-kaikki-alueen-asukkaat-juhlimaan/",
+      "iso": "2026-07-03T06:58:18+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
+      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
+      "iso": "2026-07-02T11:57:21+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
+      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
+      "iso": "2026-07-02T07:25:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Nuorisokuoromme Strasbourgissa",
+      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
+      "iso": "2026-07-01T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
+      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
+      "iso": "2026-06-29T05:11:24+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
+      "iso": "2026-06-26T09:44:36+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
+      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
+      "iso": "2026-06-23T11:43:20+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Puistoruokailu tuo yli sata lasta päivittäin leikkipuistoon",
+      "link": "https://www.ruoholahdensanomat.fi/puistoruokailu-tuo-yli-sata-lasta-paivittain-leikkipuistoon/",
+      "iso": "2026-06-23T06:57:39+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Pia Kärjes-Peltola aloittaa Helsingin Konservatorion vt rehtori-toimitusjohtajana",
+      "link": "https://www.konservatorio.fi/uutiset/pia-karjes-peltola-aloittaa-helsingin-konservatorion-vt-rehtori-toimitusjohtajana/",
+      "iso": "2026-06-22T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Toimintaa Lähteellä: Mielenterveyden ammattilaiset rakentavat Lapinlahteen uutta yhteisöä",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-mielenterveyden-ammattilaiset-rakentavat-lapinlahteen-uutta-yhteisoa/",
+      "iso": "2026-06-18T13:18:40+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Sonckin talon korkein tarjous lähes 300000 euroa",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-korkein-tarjous-lahes-300000-euroa/",
+      "iso": "2026-06-18T04:33:40+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Pro Lapinlahti mielenterveysseura ry on huolissaan sairaalapuistossa käynnissä olevista maisematöistä",
+      "link": "https://lapinlahdenlahde.fi/uutiset/pro-lapinlahti-yhdistys-on-huolissaan-sairaalapuistossa-kaynnissa-olevissa-maisematoista/",
+      "iso": "2026-06-17T09:17:56+00:00",
+      "src": "Lapinlahden lähde"
     }
   ]
 }
