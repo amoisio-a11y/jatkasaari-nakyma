@@ -1,8 +1,20 @@
 {
-  "generated": "2026-08-20T11:55:17.754946+00:00",
+  "generated": "2026-08-20T13:33:50.530001+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
+      "iso": "2026-08-20T12:23:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Naapurustokahvit Jätkäsaaren kirjastolla ja senioreiden kahvihetket syksyllä 2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/naapurustokahvit-jatkasaaren-kirjastolla-ja-senioreiden-kahvihetket-syksylla-2026/",
+      "iso": "2026-08-20T12:19:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Paikalliset menovinkit Taiteiden yöhön",
       "link": "https://www.ruoholahdensanomat.fi/paikalliset-menovinkit-taiteiden-yohon/",
@@ -34,6 +46,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Jätkäsaareen rakennetaan 114 miljoonan uinti- ja liikuntakeskus – katolle oma juoksurata - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaVc0RmVuQU84T1FSNU5KTlM4RWd3MFNUcHl3VVowOV9FNjZxTmxKdDdHZ19xV3NKdnRLRmdxVGxzck55T3cxZkVXRWlzamRhLVVGM1djekkzS1c3eDZQYQ?oc=5",
+      "iso": "2026-08-18T10:30:50+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jätkäsaaren uinti- ja liikuntakeskuksen rakentaminen alkaa syyskuussa - STT Info",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMUJBdjNQb1U3WnFJbDFIMXlUQkp5UVBQZy1kNktEenROSXNqa1BVR2pNd0dWVW53TzFiaEhMWW43UzZPbHRDYllYVHdNLVI0aXZHMWNQRGVtQTJEcVlEYkI2WUwtMTEzektFNEE1RW90aHZaS3p4NWNVcHhFa0NGM2lXYWRzeXFUcnJuYmVsellVd2pGQ2VpUFNkdm9Yemp4bWdKTGQtTDJ4bTBSOGV3Q0pyOEZfdnpjR2NNOHlobzhNUkloZVlFZHNVOWV3NUlIckNZ?oc=5",
       "iso": "2026-08-18T10:10:41+00:00",
@@ -44,12 +62,6 @@
       "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehtaalla-seinat-heraavat-henkiin-taiteiden-yona-avautuu-uusi-graffitigalleria-ja-audiokierros-paasee-yleison-testiin",
       "iso": "2026-08-18T00:00:00+00:00",
       "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
-      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
-      "iso": "2026-08-17T14:35:00+00:00",
-      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Saukonpaadenrannan asemakaavan käsittely siirtyy keväälle 2027",
@@ -169,18 +181,6 @@
       "title": "Vettä vuotava talo Helsingissä sai tuomion: Pysäköintihallin ei kuulukaan pitää vettä - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5JQWc3OHluUlh4VFo1bENLQmpJWEZuTmsyai13NVR6Y3UySkVyeC1VOXN5SmZwWDl0Zm1CWjZmSDVZTEg1V2VPOUxKZnVabE9nbnZuR0VYZF9yMnJuSXc?oc=5",
       "iso": "2026-07-17T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren laiturielementtien siirto alkanut",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
-      "iso": "2026-07-10T06:05:09+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
-      "iso": "2026-07-07T07:00:00+00:00",
       "src": "Google News"
     }
   ]
