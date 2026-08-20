@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-20T04:09:15.363816+00:00",
+  "generated": "2026-08-20T04:52:22.516654+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Paikalliset menovinkit Taiteiden yöhön",
+      "link": "https://www.ruoholahdensanomat.fi/paikalliset-menovinkit-taiteiden-yohon/",
+      "iso": "2026-08-20T04:24:03+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Ihmisiä Lähteellä: Meleena Mailand",
       "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-meleena-mailand/",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03LUx1TjFwcGktM3l5THIzRjZJM0FDUnc1LVVoQ0NBYTNoVXI4SXN1elc5b2xTcHlIdTl6d1ZCSUUwMTZ6TVdxRUhNdHFkTGlVdUNBMkhXa1ZTYXJoSEdTdw?oc=5",
       "iso": "2026-07-07T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
-      "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
-      "iso": "2026-07-03T07:12:31+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
