@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T13:31:47.493492+00:00",
+  "generated": "2026-08-21T14:19:05.452220+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -8,6 +8,12 @@
       "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
       "iso": "2026-08-21T10:51:57+00:00",
       "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Musiikkiharrastuksen ehtii aloittaa vielä tänä syksynä",
+      "link": "https://www.konservatorio.fi/uutiset/musiikkiharrastuksen-ehtii-aloittaa-viela-tana-syksyna/",
+      "iso": "2026-08-21T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
     },
     {
       "title": "Jätkäsaaressa puuhataan 12 miljoonan euron tonttikauppaa – \"Korkeatasoisia asuntoja\" - Helsingin Uutiset",
@@ -175,12 +181,6 @@
       "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
       "iso": "2026-07-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kivihiiliajan viimeiset merkit katoavat Ruoholahdesta – Helen purkaa vanhat laitteet - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE53eGNKbVhkb3JPSHc1bVdQSVd2b3NtM01RMkhVSzlxdWEtYlJ2c2tiaEhodTF5MXpSTmVPYUdsWTItVWw2UEloaUtOQ183eTQwSmVxU3lfQkJGeGNzNHR5WA?oc=5",
-      "iso": "2026-07-22T07:00:00+00:00",
       "src": "Google News"
     }
   ]
