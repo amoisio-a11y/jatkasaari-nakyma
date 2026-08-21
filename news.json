@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-21T16:30:26.384822+00:00",
+  "generated": "2026-08-21T17:03:18.945542+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Itämeripäivän etkot – rantaseikkailu Lapinlahdella",
+      "link": "https://www.ruoholahdensanomat.fi/itameripaivan-etkot-rantaseikkailu-lapinlahdella/",
+      "iso": "2026-08-21T16:35:52+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Country White avaa uuden lifestyle-liikkeen korttelikeskus Ruohikseen",
       "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
@@ -52,7 +58,7 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
+      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - hs.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
       "iso": "2026-08-18T17:49:00+00:00",
       "src": "Google News"
@@ -148,7 +154,7 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
+      "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - hs.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45a3VXWENuVlJOcFBxZndoZFFlNzdGbVhQcGxSb0RsamY4MEhia2NadkpWNFNxMGMtN1JoT1ktZVpqOURIb2Y2cDBvNzF3ZV9QandORGhNTFJwQQ?oc=5",
       "iso": "2026-08-03T07:00:00+00:00",
       "src": "Google News"
@@ -174,12 +180,6 @@
     {
       "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
-      "iso": "2026-07-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
       "iso": "2026-07-23T07:00:00+00:00",
       "src": "Google News"
     }
