@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-21T13:29:44.383198Z",
+  "generated": "2026-08-21T14:05:43.290775Z",
   "arrivals": [
     {
       "name": "Megastar",
@@ -29,12 +29,12 @@
     {
       "name": "MyStar",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-08-21T12:34:00Z"
+      "arrTime": "2026-08-21T12:35:00Z"
     },
     {
       "name": "Victoria I",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-08-21T12:58:00Z"
+      "arrTime": "2026-08-21T13:00:00Z"
     },
     {
       "name": "Megastar",
