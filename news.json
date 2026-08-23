@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-23T09:29:36.161784+00:00",
+  "generated": "2026-08-23T09:54:14.057160+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Itämeripäivän etkot – rantaseikkailu Lapinlahdella",
@@ -20,12 +20,6 @@
       "link": "https://www.konservatorio.fi/uutiset/musiikkiharrastuksen-ehtii-aloittaa-viela-tana-syksyna/",
       "iso": "2026-08-21T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jätkäsaaressa puuhataan 12 miljoonan euron tonttikauppaa – \"Korkeatasoisia asuntoja\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uTHJHeXQ3YW8xQlVfSTZ1b1RmYlNROW85QmU2bENNV3Q1RzhMbTl1Xy1qU2g0SXFHS2RZdVBGSkRJSEpPUzhWRWtHMVB4ZmFQUGcyNEdLUTgwX09GQ19EWg?oc=5",
-      "iso": "2026-08-20T16:50:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
@@ -58,28 +52,10 @@
       "src": "Helsingin konservatorio"
     },
     {
-      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
-      "iso": "2026-08-18T17:49:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Uimaan kolmen vuoden päästä – uinti- ja liikuntakeskuksen rakentaminen käyntiin",
       "link": "https://www.ruoholahdensanomat.fi/uimaan-kolmen-vuoden-paasta-uinti-ja-liikuntakeskuksen-rakentaminen-kayntiin/",
       "iso": "2026-08-18T10:38:46+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaareen rakennetaan 114 miljoonan uinti- ja liikuntakeskus – katolle oma juoksurata - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaVc0RmVuQU84T1FSNU5KTlM4RWd3MFNUcHl3VVowOV9FNjZxTmxKdDdHZ19xV3NKdnRLRmdxVGxzck55T3cxZkVXRWlzamRhLVVGM1djekkzS1c3eDZQYQ?oc=5",
-      "iso": "2026-08-18T10:30:50+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren uinti- ja liikuntakeskuksen rakentaminen alkaa syyskuussa - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMUJBdjNQb1U3WnFJbDFIMXlUQkp5UVBQZy1kNktEenROSXNqa1BVR2pNd0dWVW53TzFiaEhMWW43UzZPbHRDYllYVHdNLVI0aXZHMWNQRGVtQTJEcVlEYkI2WUwtMTEzektFNEE1RW90aHZaS3p4NWNVcHhFa0NGM2lXYWRzeXFUcnJuYmVsellVd2pGQ2VpUFNkdm9Yemp4bWdKTGQtTDJ4bTBSOGV3Q0pyOEZfdnpjR2NNOHlobzhNUkloZVlFZHNVOWV3NUlIckNZ?oc=5",
-      "iso": "2026-08-18T10:10:41+00:00",
-      "src": "Google News"
     },
     {
       "title": "Kaapelitehtaalla seinät heräävät henkiin – Taiteiden yönä avautuu uusi graffitigalleria ja audiokierros pääsee yleisön testiin",
@@ -104,24 +80,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/helsingin-satama-tiedottaa-lj6-laiturin-korjaus-alkaa/",
       "iso": "2026-08-17T07:05:00+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Panimoliitto on huolissaan juomamyynnin suunnasta - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWVsaExJUDN6V1Q4M0w4dFo0LWpTbmRKeWlGMW1HUHZMTjhIdXZuYXVENEVJR0FEa0l1QkNjenZGbVlvb0F4NDZvX0padEVJZXh2UDh3RUVMdFRiWkt6eFRiRktGb21oSlRiR2tfeDFXcktrQ2NMdzdITURqZGZsUzdMN1VWci1P?oc=5",
-      "iso": "2026-08-15T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "PPJ niukasti parempi Jätkäsaaressa - mypa.fi",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSVREd1BaczFDQ1NUXzdfaUM3REtwZVB1ZlJmUTltYk1IYlVmZ2VtWDRaa1dNZTlLYjVROW96LUtDNHVpSFA2U2dKckZ6QUItcF91N0FDYnA2T2tPUzZmU2NONzdJTk9p?oc=5",
-      "iso": "2026-08-14T17:46:07+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Pallo-​Pojat kaatoi MyPan Helsingin Jätkä­saa­ressa - Kouvolan Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA4ZnRDa3dLZnVVc0ItR1ZBY2tOSERma3ppQllGanNhcWRrXzUzNzIzeTZvRi15RHhMck1pWmZhYzlJaHdnd2N2VVZBVjdHQUVqT09MWjVsMWJMQQ?oc=5",
-      "iso": "2026-08-13T17:52:54+00:00",
-      "src": "Google News"
     },
     {
       "title": "Koulut alkoivat – Ruoholahden yksikössä viimeistä kertaa vähään aikaan",
@@ -154,34 +112,76 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45a3VXWENuVlJOcFBxZndoZFFlNzdGbVhQcGxSb0RsamY4MEhia2NadkpWNFNxMGMtN1JoT1ktZVpqOURIb2Y2cDBvNzF3ZV9QandORGhNTFJwQQ?oc=5",
-      "iso": "2026-08-03T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Iso operaatio Helsingin Jätkäsaaressa - is.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
-      "iso": "2026-08-02T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVJV0JsSzRIa0JzdjRpSUFvZFFCY0tsOGRKc0g1RXktMlVQdjRaeWpmOXZ4Yjd6ZDNPZW9hbktHZlFWekk4SnBRdzlNbEFscWJWenhkYjJWMVhRUXdjOF9nSVREaTl4OEd3VXEtMHhneDYxRE5OdVh6aHpiYXBpeE1RbnR5RkRYV2ZqWEdHUm9QUQ?oc=5",
-      "iso": "2026-07-30T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Vielä ehtii – Ruoholahdesta veneellä suoraan Suomenlinnaan",
       "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
       "iso": "2026-07-28T07:00:16+00:00",
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
-      "iso": "2026-07-23T07:00:00+00:00",
-      "src": "Google News"
+      "title": "Suosituimmat annokset Casa Maressa ja BasBas Kulmassa",
+      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-casa-maressa-ja-basbas-kulmassa/",
+      "iso": "2026-07-18T06:04:33+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaaren laiturielementtien siirto alkanut",
+      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-laiturielementtien-siirto-alkanut/",
+      "iso": "2026-07-10T06:05:09+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Laiturielementtien asennus Länsisatamassa on alkanut",
+      "link": "https://kaupunginosat.fi/jatkasaari/laiturielementtien-asennus-alkaa-lansisatamassa/",
+      "iso": "2026-07-03T07:12:31+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Hyvän tuulen fest kutsuu jälleen kaikki alueen asukkaat juhlimaan",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest-kutsuu-jalleen-kaikki-alueen-asukkaat-juhlimaan/",
+      "iso": "2026-07-03T06:58:18+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaaren kierrätyspäivät syksyllä 2026",
+      "link": "https://jatkasaarenroori.fi/2026/07/02/jatkasaaren-kierratyspaivat-syksylla-2026/",
+      "iso": "2026-07-02T11:57:21+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Jätkäsaaren identiteetti muovautuu – nämä asiat vaikuttavat",
+      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-identiteetti-muovautuu-nama-asiat-vaikuttavat/",
+      "iso": "2026-07-02T07:25:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Nuorisokuoromme Strasbourgissa",
+      "link": "https://www.konservatorio.fi/uutiset/nuorisokuoromme-strasbourgissa/",
+      "iso": "2026-07-01T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti on jälleen käytössä",
+      "link": "https://jatkasaarenroori.fi/2026/06/29/hietasaarenkujan-roori-kontti-on-jalleen-kaytossa-2/",
+      "iso": "2026-06-29T05:11:24+00:00",
+      "src": "Rööri"
+    },
+    {
+      "title": "Ruohis Pop-up Art Galleryssa avautuu uusi näyttely: Kesän kerrokset",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-galleryssa-avautuu-uusi-nayttely-kesan-kerrokset/",
+      "iso": "2026-06-26T09:44:36+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Jättimäisten laiturielementtien asennus alkaa Länsisataman eteläkärjessä",
+      "link": "https://www.hel.fi/fi/uutiset/jattimaisten-laiturielementtien-asennus-alkaa-lansisataman-etelakarjessa",
+      "iso": "2026-06-25T06:44:36+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Hietasaarenkujan Rööri-kontti pois käytöstä",
+      "link": "https://jatkasaarenroori.fi/2026/06/23/hietasaarenkuja-roori-kontti-pois-kaytosta/",
+      "iso": "2026-06-23T11:43:20+00:00",
+      "src": "Rööri"
     }
   ]
 }
