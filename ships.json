@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T17:53:24.216731Z",
+  "generated": "2026-08-23T18:09:57.432116Z",
   "arrivals": [
     {
       "name": "Megastar",
@@ -39,7 +39,7 @@
     {
       "name": "Finlandia",
       "agent": "Eckerö Line Ab Oy",
-      "arrTime": "2026-08-23T18:00:00Z"
+      "arrTime": "2026-08-23T17:57:00Z"
     },
     {
       "name": "MyStar",
