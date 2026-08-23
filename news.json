@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-23T21:45:29.916883+00:00",
+  "generated": "2026-08-23T22:00:07.385293+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -154,6 +154,12 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
+      "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45a3VXWENuVlJOcFBxZndoZFFlNzdGbVhQcGxSb0RsamY4MEhia2NadkpWNFNxMGMtN1JoT1ktZVpqOURIb2Y2cDBvNzF3ZV9QandORGhNTFJwQQ?oc=5",
+      "iso": "2026-08-03T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Iso operaatio Helsingin Jätkäsaaressa - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
       "iso": "2026-08-02T07:00:00+00:00",
@@ -174,12 +180,6 @@
     {
       "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
-      "iso": "2026-07-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
       "iso": "2026-07-23T07:00:00+00:00",
       "src": "Google News"
     }
