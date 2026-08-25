@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-25T11:01:42.579163+00:00",
+  "generated": "2026-08-25T11:42:43.302395+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Toimintaa Lähteellä: Kriisityövapaaehtoisen jokainen työvuoro on erilainen",
@@ -20,12 +20,6 @@
       "link": "https://www.ruoholahdensanomat.fi/itameripaivan-etkot-rantaseikkailu-lapinlahdella/",
       "iso": "2026-08-21T16:35:52+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Country White avaa uuden lifestyle-liikkeen korttelikeskus Ruohikseen",
-      "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
-      "iso": "2026-08-21T10:51:57+00:00",
-      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Musiikkiharrastuksen ehtii aloittaa vielä tänä syksynä",
@@ -148,12 +142,6 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Korttelikeskus Ruohiksen uusi ravintola sekä sisustamisen ja muodin liike vahvistavat alueen elinvoimaa",
-      "link": "https://korttelikeskusruohis.fi/korttelikeskus-ruohiksen-uusi-ravintola-seka-sisustamisen-ja-muodin-liike-vahvistavat-alueen-elinvoimaa/",
-      "iso": "2026-08-11T07:52:07+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa",
       "iso": "2026-08-08T13:01:45+00:00",
@@ -182,6 +170,18 @@
       "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
       "iso": "2026-07-28T07:00:16+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
+      "iso": "2026-07-23T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
+      "iso": "2026-07-23T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
