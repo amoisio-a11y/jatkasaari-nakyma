@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-26T13:33:20.968935+00:00",
+  "generated": "2026-08-26T14:26:02.698816+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -118,12 +118,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Panimoliitto on huolissaan juomamyynnin suunnasta - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWVsaExJUDN6V1Q4M0w4dFo0LWpTbmRKeWlGMW1HUHZMTjhIdXZuYXVENEVJR0FEa0l1QkNjenZGbVlvb0F4NDZvX0padEVJZXh2UDh3RUVMdFRiWkt6eFRiRktGb21oSlRiR2tfeDFXcktrQ2NMdzdITURqZGZsUzdMN1VWci1P?oc=5",
-      "iso": "2026-08-15T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "PPJ niukasti parempi Jätkäsaaressa - mypa.fi",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSVREd1BaczFDQ1NUXzdfaUM3REtwZVB1ZlJmUTltYk1IYlVmZ2VtWDRaa1dNZTlLYjVROW96LUtDNHVpSFA2U2dKckZ6QUItcF91N0FDYnA2T2tPUzZmU2NONzdJTk9p?oc=5",
       "iso": "2026-08-14T17:46:07+00:00",
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
       "iso": "2026-07-28T07:00:16+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
+      "iso": "2026-07-23T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
