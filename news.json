@@ -1,8 +1,14 @@
 {
-  "generated": "2026-08-27T01:04:54.571082+00:00",
+  "generated": "2026-08-27T11:12:10.198931+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
+    {
+      "title": "Lukijamatka telakalle jäänmurtajaa katsomaan",
+      "link": "https://www.ruoholahdensanomat.fi/lukijamatka-telakalle-jaanmurtajaa-katsomaan/",
+      "iso": "2026-08-27T09:31:41+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Toimintaa Lähteellä: Kriisityövapaaehtoisen jokainen työvuoro on erilainen",
       "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-kriisityovapaaehtoisen-jokainen-tyovuoro-on-erilainen/",
@@ -20,12 +26,6 @@
       "link": "https://www.ruoholahdensanomat.fi/itameripaivan-etkot-rantaseikkailu-lapinlahdella/",
       "iso": "2026-08-21T16:35:52+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Country White avaa uuden lifestyle-liikkeen korttelikeskus Ruohikseen",
-      "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
-      "iso": "2026-08-21T10:51:57+00:00",
-      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Musiikkiharrastuksen ehtii aloittaa vielä tänä syksynä",
@@ -59,7 +59,7 @@
     },
     {
       "title": "Ihmisiä Lähteellä: Meleena Mailand",
-      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-meleena-mailand/",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/ihmisia-lahteella-meleena-mailand/",
       "iso": "2026-08-19T13:36:39+00:00",
       "src": "Lapinlahden lähde"
     },
@@ -68,12 +68,6 @@
       "link": "https://www.konservatorio.fi/uutiset/syksy-saapuu-ja-musiikki-soi/",
       "iso": "2026-08-19T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
-      "iso": "2026-08-18T17:49:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Uimaan kolmen vuoden päästä – uinti- ja liikuntakeskuksen rakentaminen käyntiin",
@@ -91,6 +85,12 @@
       "title": "Jätkäsaaren uinti- ja liikuntakeskuksen rakentaminen alkaa syyskuussa - STT Info",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPMUJBdjNQb1U3WnFJbDFIMXlUQkp5UVBQZy1kNktEenROSXNqa1BVR2pNd0dWVW53TzFiaEhMWW43UzZPbHRDYllYVHdNLVI0aXZHMWNQRGVtQTJEcVlEYkI2WUwtMTEzektFNEE1RW90aHZaS3p4NWNVcHhFa0NGM2lXYWRzeXFUcnJuYmVsellVd2pGQ2VpUFNkdm9Yemp4bWdKTGQtTDJ4bTBSOGV3Q0pyOEZfdnpjR2NNOHlobzhNUkloZVlFZHNVOWV3NUlIckNZ?oc=5",
       "iso": "2026-08-18T10:10:41+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
+      "iso": "2026-08-18T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -148,12 +148,6 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Korttelikeskus Ruohiksen uusi ravintola sekä sisustamisen ja muodin liike vahvistavat alueen elinvoimaa",
-      "link": "https://korttelikeskusruohis.fi/korttelikeskus-ruohiksen-uusi-ravintola-seka-sisustamisen-ja-muodin-liike-vahvistavat-alueen-elinvoimaa/",
-      "iso": "2026-08-11T07:52:07+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa",
       "iso": "2026-08-08T13:01:45+00:00",
@@ -172,16 +166,22 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaaressa 23,9 miljoonan euron laituriurakka käyntiin - Konepörssi.com",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaWVJV0JsSzRIa0JzdjRpSUFvZFFCY0tsOGRKc0g1RXktMlVQdjRaeWpmOXZ4Yjd6ZDNPZW9hbktHZlFWekk4SnBRdzlNbEFscWJWenhkYjJWMVhRUXdjOF9nSVREaTl4OEd3VXEtMHhneDYxRE5OdVh6aHpiYXBpeE1RbnR5RkRYV2ZqWEdHUm9QUQ?oc=5",
-      "iso": "2026-07-30T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Vielä ehtii – Ruoholahdesta veneellä suoraan Suomenlinnaan",
       "link": "https://www.ruoholahdensanomat.fi/viela-ehtii-ruoholahdesta-veneella-suoraan-suomenlinnaan/",
       "iso": "2026-07-28T07:00:16+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Poliisioperaatio Helsingin Jätkäsaaressa - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMZkk5LVdlQmJYbGVnck00TnR6SjBqYTEzVy1YWU5ZemtScklQa1lMVDdFR2dnUHk4cGppR09mNkpfRk41V0NuSVlpTjY4N0dncGxjaXpLZU9EY1VWak11TjhSZHZTNUNLN3laQjJsa1dRNG94YTZNclF3NA?oc=5",
+      "iso": "2026-07-23T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Poliisilla oli operaatio Jätkäsaaressa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBoa0VrU3FmMHo5WEZfQks2NmVmM1I5UWpRcWtaZlRUSV9wd3kxVk5yczhnbVdIM3pFQWxCaTRrTjB5VldfdVplZ0xTV0xoVHZpRkR5N3puZExheTJ1eFE?oc=5",
+      "iso": "2026-07-23T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
