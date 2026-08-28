@@ -1,13 +1,19 @@
 {
-  "generated": "2026-08-28T05:23:59.097620+00:00",
+  "generated": "2026-08-28T17:36:15.684496+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
-      "title": "Ruohis Pop-Up Art Gallery: Taiteen viettely",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-gallery-taiteen-viettely/",
-      "iso": "2026-08-27T11:33:33+00:00",
-      "src": "Korttelikeskus Ruohis"
+      "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
+      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
+      "iso": "2026-08-28T10:33:37+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Helsingin kantakaupungissa suojellaan useita kymmeniä rakennuksia",
+      "link": "https://www.hel.fi/fi/uutiset/helsingin-kantakaupungissa-suojellaan-useita-kymmenia-rakennuksia",
+      "iso": "2026-08-28T08:08:42+00:00",
+      "src": "Helsingin kaupunki"
     },
     {
       "title": "Lukijamatka telakalle jäänmurtajaa katsomaan",
@@ -16,10 +22,22 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin kaupunki",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
+      "iso": "2026-08-26T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Toimintaa Lähteellä: Kriisityövapaaehtoisen jokainen työvuoro on erilainen",
       "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-kriisityovapaaehtoisen-jokainen-tyovuoro-on-erilainen/",
       "iso": "2026-08-25T09:08:45+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Street Food Siesta tuo yli 13 ruokavaunua Helsinkiin - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hem4yaDJGdDhuc3plUGxtR2FIVzN5M0E1NEpETXdRb1RyTE1BbjFDaDkyWnZsLUpZX3RpTjVNVnpIenVsVjNqeEE5TmMzRDdpb1h3UUlnaHFWb1g4TTI0bQ?oc=5",
+      "iso": "2026-08-24T16:01:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "”Täällä voi olla oma itsensä” – kesäkurssilaisten kokemuksia Pro Lapinlahti mielenterveysseura ry:n toiminnasta",
@@ -32,12 +50,6 @@
       "link": "https://www.ruoholahdensanomat.fi/itameripaivan-etkot-rantaseikkailu-lapinlahdella/",
       "iso": "2026-08-21T16:35:52+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Country White avaa uuden lifestyle-liikkeen korttelikeskus Ruohikseen",
-      "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
-      "iso": "2026-08-21T10:51:57+00:00",
-      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Musiikkiharrastuksen ehtii aloittaa vielä tänä syksynä",
@@ -160,12 +172,6 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Korttelikeskus Ruohiksen uusi ravintola sekä sisustamisen ja muodin liike vahvistavat alueen elinvoimaa",
-      "link": "https://korttelikeskusruohis.fi/korttelikeskus-ruohiksen-uusi-ravintola-seka-sisustamisen-ja-muodin-liike-vahvistavat-alueen-elinvoimaa/",
-      "iso": "2026-08-11T07:52:07+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa",
       "iso": "2026-08-08T13:01:45+00:00",
@@ -175,12 +181,6 @@
       "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45a3VXWENuVlJOcFBxZndoZFFlNzdGbVhQcGxSb0RsamY4MEhia2NadkpWNFNxMGMtN1JoT1ktZVpqOURIb2Y2cDBvNzF3ZV9QandORGhNTFJwQQ?oc=5",
       "iso": "2026-08-03T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Iso operaatio Helsingin Jätkäsaaressa - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5UMWpnQlJHU3hJam1KMzdRVktpbUZON3dUd2phMThKQVh5N3BvUHVDZVVaekJ6XzZMRS11ZzdoR0FvWXpLdldfQ2NsWjdaYmVqaE5PTGRKUW05ZUZm?oc=5",
-      "iso": "2026-08-02T07:00:00+00:00",
       "src": "Google News"
     }
   ]
