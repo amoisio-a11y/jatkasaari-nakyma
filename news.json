@@ -1,7 +1,7 @@
 {
-  "generated": "2026-08-28T17:36:15.684496+00:00",
+  "generated": "2026-08-29T01:10:38.437116+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
     {
       "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
@@ -14,6 +14,12 @@
       "link": "https://www.hel.fi/fi/uutiset/helsingin-kantakaupungissa-suojellaan-useita-kymmenia-rakennuksia",
       "iso": "2026-08-28T08:08:42+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruohis Pop-Up Art Gallery: Taiteen viettely",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-gallery-taiteen-viettely/",
+      "iso": "2026-08-27T11:33:33+00:00",
+      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Lukijamatka telakalle jäänmurtajaa katsomaan",
@@ -52,16 +58,16 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Country White avaa uuden lifestyle-liikkeen korttelikeskus Ruohikseen",
+      "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
+      "iso": "2026-08-21T10:51:57+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Musiikkiharrastuksen ehtii aloittaa vielä tänä syksynä",
       "link": "https://www.konservatorio.fi/uutiset/musiikkiharrastuksen-ehtii-aloittaa-viela-tana-syksyna/",
       "iso": "2026-08-21T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jätkäsaaressa puuhataan 12 miljoonan euron tonttikauppaa – \"Korkeatasoisia asuntoja\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uTHJHeXQ3YW8xQlVfSTZ1b1RmYlNROW85QmU2bENNV3Q1RzhMbTl1Xy1qU2g0SXFHS2RZdVBGSkRJSEpPUzhWRWtHMVB4ZmFQUGcyNEdLUTgwX09GQ19EWg?oc=5",
-      "iso": "2026-08-20T16:50:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
@@ -74,6 +80,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/naapurustokahvit-jatkasaaren-kirjastolla-ja-senioreiden-kahvihetket-syksylla-2026/",
       "iso": "2026-08-20T12:19:00+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaaressa puuhataan 12 miljoonan euron tonttikauppaa – \"Korkeatasoisia asuntoja\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uTHJHeXQ3YW8xQlVfSTZ1b1RmYlNROW85QmU2bENNV3Q1RzhMbTl1Xy1qU2g0SXFHS2RZdVBGSkRJSEpPUzhWRWtHMVB4ZmFQUGcyNEdLUTgwX09GQ19EWg?oc=5",
+      "iso": "2026-08-20T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Paikalliset menovinkit Taiteiden yöhön",
@@ -170,18 +182,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17467914",
       "iso": "2026-08-11T13:00:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa",
-      "iso": "2026-08-08T13:01:45+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Pikatesti | Ruoholahden metroaseman kyljessä on pieni kahvila, josta saa kaupungin parhaat gluteenittomat keksit - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE45a3VXWENuVlJOcFBxZndoZFFlNzdGbVhQcGxSb0RsamY4MEhia2NadkpWNFNxMGMtN1JoT1ktZVpqOURIb2Y2cDBvNzF3ZV9QandORGhNTFJwQQ?oc=5",
-      "iso": "2026-08-03T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
