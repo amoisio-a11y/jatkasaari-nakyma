@@ -1,8 +1,20 @@
 {
-  "generated": "2026-08-30T11:14:18.382919+00:00",
+  "generated": "2026-08-30T15:21:57.120060+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
+      "iso": "2026-08-30T14:14:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Raitiovaunulinjan 8 korvaava suora bussiyhteys tarvitaan",
+      "link": "https://kaupunginosat.fi/jatkasaari/raitiovaunulinjan-8-korvaava-suora-bussiyhteys-tarvitaan/",
+      "iso": "2026-08-30T14:08:51+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
@@ -68,12 +80,6 @@
       "link": "https://www.konservatorio.fi/uutiset/musiikkiharrastuksen-ehtii-aloittaa-viela-tana-syksyna/",
       "iso": "2026-08-21T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
-      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
-      "iso": "2026-08-20T12:23:00+00:00",
-      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Naapurustokahvit Jätkäsaaren kirjastolla ja senioreiden kahvihetket syksyllä 2026",
@@ -176,12 +182,6 @@
       "link": "https://www.konservatorio.fi/uutiset/syksy-on-hyva-aika-harrastaa-erityisesti-aikuisille/",
       "iso": "2026-08-12T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17467914",
-      "iso": "2026-08-11T13:00:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
