@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-29T22:19:49.513280+00:00",
+  "generated": "2026-08-30T00:33:02.053510+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -26,12 +26,6 @@
       "link": "https://www.ruoholahdensanomat.fi/lukijamatka-telakalle-jaanmurtajaa-katsomaan/",
       "iso": "2026-08-27T09:31:41+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
-      "iso": "2026-08-26T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Toimintaa Lähteellä: Kriisityövapaaehtoisen jokainen työvuoro on erilainen",
@@ -160,12 +154,6 @@
       "src": "Google News"
     },
     {
-      "title": "PPJ niukasti parempi Jätkäsaaressa - mypa.fi",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5oSVREd1BaczFDQ1NUXzdfaUM3REtwZVB1ZlJmUTltYk1IYlVmZ2VtWDRaa1dNZTlLYjVROW96LUtDNHVpSFA2U2dKckZ6QUItcF91N0FDYnA2T2tPUzZmU2NONzdJTk9p?oc=5",
-      "iso": "2026-08-14T17:46:07+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Koulut alkoivat – Ruoholahden yksikössä viimeistä kertaa vähään aikaan",
       "link": "https://www.ruoholahdensanomat.fi/koulut-alkoivat-ruoholahden-yksikossa-viimeista-kertaa-vahaan-aikaan/",
       "iso": "2026-08-12T07:24:18+00:00",
@@ -181,6 +169,18 @@
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17467914",
       "iso": "2026-08-11T13:00:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Korttelikeskus Ruohiksen uusi ravintola sekä sisustamisen ja muodin liike vahvistavat alueen elinvoimaa",
+      "link": "https://korttelikeskusruohis.fi/korttelikeskus-ruohiksen-uusi-ravintola-seka-sisustamisen-ja-muodin-liike-vahvistavat-alueen-elinvoimaa/",
+      "iso": "2026-08-11T07:52:07+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa",
+      "iso": "2026-08-08T13:01:45+00:00",
       "src": "Jätkäsaaren pysäköinti"
     }
   ]
