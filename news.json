@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-31T03:34:11.366499+00:00",
+  "generated": "2026-08-31T10:05:39.274970+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -14,6 +14,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/raitiovaunulinjan-8-korvaava-suora-bussiyhteys-tarvitaan/",
       "iso": "2026-08-30T14:08:51+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Naapuripäivät Ruohiksessa 10.-12.9.",
+      "link": "https://korttelikeskusruohis.fi/naapuripaivat-ruohiksessa-10-12-9/",
+      "iso": "2026-08-28T12:15:51+00:00",
+      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/koulut-alkoivat-ruoholahden-yksikossa-viimeista-kertaa-vahaan-aikaan/",
       "iso": "2026-08-12T07:24:18+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Syksy on hyvä aika harrastaa – erityisesti aikuisille!",
-      "link": "https://www.konservatorio.fi/uutiset/syksy-on-hyva-aika-harrastaa-erityisesti-aikuisille/",
-      "iso": "2026-08-12T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
