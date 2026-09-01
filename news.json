@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-01T06:32:09.793323+00:00",
+  "generated": "2026-09-01T12:01:29.621899+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Jaettu puutarha – yhteisöviljelykerhon näyttely kertoo monimuotoisuudesta",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/jaettu-puutarha-yhteisoviljelykerhon-nayttely-kertoo-monimuotoisuudesta/",
+      "iso": "2026-09-01T11:15:47+00:00",
+      "src": "Lapinlahden lähde"
+    },
     {
       "title": "Kolmekymppinen paikallinen",
       "link": "https://www.ruoholahdensanomat.fi/kolmekymppinen-paikallinen/",
@@ -76,16 +82,16 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "Street Food Siesta tuo yli 13 ruokavaunua Helsinkiin - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hem4yaDJGdDhuc3plUGxtR2FIVzN5M0E1NEpETXdRb1RyTE1BbjFDaDkyWnZsLUpZX3RpTjVNVnpIenVsVjNqeEE5TmMzRDdpb1h3UUlnaHFWb1g4TTI0bQ?oc=5",
-      "iso": "2026-08-24T16:01:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "”Täällä voi olla oma itsensä” – kesäkurssilaisten kokemuksia Pro Lapinlahti mielenterveysseura ry:n toiminnasta",
       "link": "https://lapinlahdenlahde.fi/artikkelit/taalla-voi-olla-oma-itsensa-kesakurssilaisten-kokemuksia-pro-lapinlahti-mielenterveysseura-ryn-toiminnasta/",
       "iso": "2026-08-24T12:35:29+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Street Food Siesta tuo yli 13 ruokavaunua Helsinkiin - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hem4yaDJGdDhuc3plUGxtR2FIVzN5M0E1NEpETXdRb1RyTE1BbjFDaDkyWnZsLUpZX3RpTjVNVnpIenVsVjNqeEE5TmMzRDdpb1h3UUlnaHFWb1g4TTI0bQ?oc=5",
+      "iso": "2026-08-24T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Itämeripäivän etkot – rantaseikkailu Lapinlahdella",
@@ -154,6 +160,12 @@
       "src": "Google News"
     },
     {
+      "title": "Jätkäsaareen rakennetaan 114 miljoonan uinti- ja liikuntakeskus – katolle oma juoksurata - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaVc0RmVuQU84T1FSNU5KTlM4RWd3MFNUcHl3VVowOV9FNjZxTmxKdDdHZ19xV3NKdnRLRmdxVGxzck55T3cxZkVXRWlzamRhLVVGM1djekkzS1c3eDZQYQ?oc=5",
+      "iso": "2026-08-18T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kaapelitehtaalla seinät heräävät henkiin – Taiteiden yönä avautuu uusi graffitigalleria ja audiokierros pääsee yleisön testiin",
       "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehtaalla-seinat-heraavat-henkiin-taiteiden-yona-avautuu-uusi-graffitigalleria-ja-audiokierros-paasee-yleison-testiin",
       "iso": "2026-08-18T00:00:00+00:00",
@@ -170,18 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/saukonlaiturin-alueen-katujen-rakentaminen-alkaa/",
       "iso": "2026-08-17T07:19:00+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Helsingin satama tiedottaa: LJ6-laiturin korjaus alkaa",
-      "link": "https://kaupunginosat.fi/jatkasaari/helsingin-satama-tiedottaa-lj6-laiturin-korjaus-alkaa/",
-      "iso": "2026-08-17T07:05:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Panimoliitto on huolissaan juomamyynnin suunnasta - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWVsaExJUDN6V1Q4M0w4dFo0LWpTbmRKeWlGMW1HUHZMTjhIdXZuYXVENEVJR0FEa0l1QkNjenZGbVlvb0F4NDZvX0padEVJZXh2UDh3RUVMdFRiWkt6eFRiRktGb21oSlRiR2tfeDFXcktrQ2NMdzdITURqZGZsUzdMN1VWci1P?oc=5",
-      "iso": "2026-08-15T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
