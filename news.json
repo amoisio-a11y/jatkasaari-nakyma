@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-01T12:01:29.621899+00:00",
+  "generated": "2026-09-01T16:39:32.346482+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -68,12 +68,6 @@
       "link": "https://www.ruoholahdensanomat.fi/lukijamatka-telakalle-jaanmurtajaa-katsomaan/",
       "iso": "2026-08-27T09:31:41+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
-      "iso": "2026-08-26T07:00:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Toimintaa Lähteellä: Kriisityövapaaehtoisen jokainen työvuoro on erilainen",
@@ -160,12 +154,6 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaareen rakennetaan 114 miljoonan uinti- ja liikuntakeskus – katolle oma juoksurata - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaVc0RmVuQU84T1FSNU5KTlM4RWd3MFNUcHl3VVowOV9FNjZxTmxKdDdHZ19xV3NKdnRLRmdxVGxzck55T3cxZkVXRWlzamRhLVVGM1djekkzS1c3eDZQYQ?oc=5",
-      "iso": "2026-08-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kaapelitehtaalla seinät heräävät henkiin – Taiteiden yönä avautuu uusi graffitigalleria ja audiokierros pääsee yleisön testiin",
       "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehtaalla-seinat-heraavat-henkiin-taiteiden-yona-avautuu-uusi-graffitigalleria-ja-audiokierros-paasee-yleison-testiin",
       "iso": "2026-08-18T00:00:00+00:00",
@@ -182,6 +170,18 @@
       "link": "https://kaupunginosat.fi/jatkasaari/saukonlaiturin-alueen-katujen-rakentaminen-alkaa/",
       "iso": "2026-08-17T07:19:00+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Helsingin satama tiedottaa: LJ6-laiturin korjaus alkaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/helsingin-satama-tiedottaa-lj6-laiturin-korjaus-alkaa/",
+      "iso": "2026-08-17T07:05:00+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Panimoliitto on huolissaan juomamyynnin suunnasta - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNWVsaExJUDN6V1Q4M0w4dFo0LWpTbmRKeWlGMW1HUHZMTjhIdXZuYXVENEVJR0FEa0l1QkNjenZGbVlvb0F4NDZvX0padEVJZXh2UDh3RUVMdFRiWkt6eFRiRktGb21oSlRiR2tfeDFXcktrQ2NMdzdITURqZGZsUzdMN1VWci1P?oc=5",
+      "iso": "2026-08-15T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
