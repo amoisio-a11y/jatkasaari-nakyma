@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-03T00:40:54.924506+00:00",
+  "generated": "2026-09-03T05:05:20.505778+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -37,6 +37,12 @@
       "title": "Jättimäinen urakka Jätkäsaaressa etenee – uinti- ja liikuntakeskuksen rakentaminen alkaa | Paikalliset - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ueHFKbU9uSG1kVGVEaHpXX0U2Wk81cVg0cHpPdlRVYmFWaUt5RHlVdGV2WWZNVlBCNl8zeWo5NGR0bEtCOWJBbTBjdUkxTEJlNmNlZ0ZfdklHVEh3YmxGLQ?oc=5",
       "iso": "2026-09-02T06:37:11+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 3 PES-Arkkitehdit Oy - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVZudllMWWdOMU92bnNEbzFnV0VDRDdzcUh2MDhDSzFVRDZJcEZXYndDMDViNDFwTzNhZUVxMnZmZTlOU3Z0TENqMnFFTVlPZ05hNVpHSnZLZWRwaGlDY2hfbVMtR1FYMjZUekJ1SzVlQjZsZTh1Qmd1VzNuM2c3N3NpSkwyVmYtc0dSbXJhNDd4UER6VWRRcGNpMmszdXBmTXVaTzZR?oc=5",
+      "iso": "2026-09-02T06:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -172,16 +178,10 @@
       "src": "Google News"
     },
     {
-      "title": "Kaapelitehtaalla seinät heräävät henkiin – Taiteiden yönä avautuu uusi graffitigalleria ja audiokierros pääsee yleisön testiin",
-      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehtaalla-seinat-heraavat-henkiin-taiteiden-yona-avautuu-uusi-graffitigalleria-ja-audiokierros-paasee-yleison-testiin",
-      "iso": "2026-08-18T00:00:00+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Saukonpaadenrannan asemakaavan käsittely siirtyy keväälle 2027",
-      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-asemakaavan-kasittely-siirtyy-kevaalle-2027/",
-      "iso": "2026-08-17T14:34:00+00:00",
-      "src": "Kaupunginosat.fi"
+      "title": "Jätkäsaareen rakennetaan 114 miljoonan uinti- ja liikuntakeskus – katolle oma juoksurata - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaVc0RmVuQU84T1FSNU5KTlM4RWd3MFNUcHl3VVowOV9FNjZxTmxKdDdHZ19xV3NKdnRLRmdxVGxzck55T3cxZkVXRWlzamRhLVVGM1djekkzS1c3eDZQYQ?oc=5",
+      "iso": "2026-08-18T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
