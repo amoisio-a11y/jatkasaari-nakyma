@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-03T20:29:11.618262+00:00",
+  "generated": "2026-09-03T22:45:58.183969+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
     {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
@@ -26,6 +26,18 @@
       "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskeva-varaus-umpeutuu-31-12-2026/",
       "iso": "2026-09-02T13:30:10+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Ruohis- Viinatunnelin salat-kierroksen ennakkoilmoittautuminen",
+      "link": "https://korttelikeskusruohis.fi/ruohis-viinatunnelin-salat-kierroksen-ennakkoilmoittautuminen/",
+      "iso": "2026-09-02T11:50:21+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "YIT käynnistää noin 94 miljoonan euron urakan Jätkäsaaressa - Rakennuslehti",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2pLMi1Gd2VUWTB2NWoxQnR1VWo3dG9mcDhGaERVSEc4YjdNRm1yRGFjNkdGVnZYV21LOVc4OUdTMDR5cjg0QWlPUk9mZGR3V0Y0Y245eVRQeVhfNUtrZUF3MURNYVNKYVBESVFhejlBYktTMkJfTG9NMVRtTGl2czlySmEwMURNQVZPcVEzREpuM2V2RDZ6TEN5RjZqQQ?oc=5",
+      "iso": "2026-09-02T07:03:32+00:00",
+      "src": "Google News"
     },
     {
       "title": "Jättimäinen urakka Jätkäsaaressa etenee – uinti- ja liikuntakeskuksen rakentaminen alkaa - Helsingin Uutiset",
@@ -76,6 +88,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Naapuripäivät Ruohiksessa 10.-12.9.",
+      "link": "https://korttelikeskusruohis.fi/naapuripaivat-ruohiksessa-10-12-9/",
+      "iso": "2026-08-28T12:15:51+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
       "iso": "2026-08-28T10:33:37+00:00",
@@ -86,6 +104,12 @@
       "link": "https://www.hel.fi/fi/uutiset/helsingin-kantakaupungissa-suojellaan-useita-kymmenia-rakennuksia",
       "iso": "2026-08-28T08:08:42+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruohis Pop-Up Art Gallery: Taiteen viettely",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-gallery-taiteen-viettely/",
+      "iso": "2026-08-27T11:33:33+00:00",
+      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Lukijamatka telakalle jäänmurtajaa katsomaan",
@@ -116,6 +140,12 @@
       "link": "https://www.ruoholahdensanomat.fi/itameripaivan-etkot-rantaseikkailu-lapinlahdella/",
       "iso": "2026-08-21T16:35:52+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Country White avaa uuden lifestyle-liikkeen korttelikeskus Ruohikseen",
+      "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
+      "iso": "2026-08-21T10:51:57+00:00",
+      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Musiikkiharrastuksen ehtii aloittaa vielä tänä syksynä",
@@ -152,36 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/uimaan-kolmen-vuoden-paasta-uinti-ja-liikuntakeskuksen-rakentaminen-kayntiin/",
       "iso": "2026-08-18T10:38:46+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
-      "iso": "2026-08-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaareen rakennetaan 114 miljoonan uinti- ja liikuntakeskus – katolle oma juoksurata - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9QaVc0RmVuQU84T1FSNU5KTlM4RWd3MFNUcHl3VVowOV9FNjZxTmxKdDdHZ19xV3NKdnRLRmdxVGxzck55T3cxZkVXRWlzamRhLVVGM1djekkzS1c3eDZQYQ?oc=5",
-      "iso": "2026-08-18T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kaapelitehtaalla seinät heräävät henkiin – Taiteiden yönä avautuu uusi graffitigalleria ja audiokierros pääsee yleisön testiin",
-      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehtaalla-seinat-heraavat-henkiin-taiteiden-yona-avautuu-uusi-graffitigalleria-ja-audiokierros-paasee-yleison-testiin",
-      "iso": "2026-08-18T00:00:00+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Saukonpaadenrannan asemakaavan käsittely siirtyy keväälle 2027",
-      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-asemakaavan-kasittely-siirtyy-kevaalle-2027/",
-      "iso": "2026-08-17T14:34:00+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Saukonlaiturin alueen katujen rakentaminen alkaa",
-      "link": "https://kaupunginosat.fi/jatkasaari/saukonlaiturin-alueen-katujen-rakentaminen-alkaa/",
-      "iso": "2026-08-17T07:19:00+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
