@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-04T00:45:11.494473+00:00",
+  "generated": "2026-09-04T05:09:17.598315+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -37,6 +37,12 @@
       "title": "YIT käynnistää noin 94 miljoonan euron urakan Jätkäsaaressa - Rakennuslehti",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2pLMi1Gd2VUWTB2NWoxQnR1VWo3dG9mcDhGaERVSEc4YjdNRm1yRGFjNkdGVnZYV21LOVc4OUdTMDR5cjg0QWlPUk9mZGR3V0Y0Y245eVRQeVhfNUtrZUF3MURNYVNKYVBESVFhejlBYktTMkJfTG9NMVRtTGl2czlySmEwMURNQVZPcVEzREpuM2V2RDZ6TEN5RjZqQQ?oc=5",
       "iso": "2026-09-02T07:03:32+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jättimäinen urakka Jätkäsaaressa etenee – uinti- ja liikuntakeskuksen rakentaminen alkaa - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1ueHFKbU9uSG1kVGVEaHpXX0U2Wk81cVg0cHpPdlRVYmFWaUt5RHlVdGV2WWZNVlBCNl8zeWo5NGR0bEtCOWJBbTBjdUkxTEJlNmNlZ0ZfdklHVEh3YmxGLQ?oc=5",
+      "iso": "2026-09-02T06:37:11+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/uimaan-kolmen-vuoden-paasta-uinti-ja-liikuntakeskuksen-rakentaminen-kayntiin/",
       "iso": "2026-08-18T10:38:46+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Helsinki | Tältä näyttää Jätkäsaareen nouseva uusi uinti- ja liikuntakeskus - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9FUXJieXBfOUlLeEVLRTZJbVZLZ2cwX2U0SXlONzhkbkF3aVR1SVpwRS1oSXdwUUI4OWNSV25mN0VJS2t3c2QzZzc3aFF5WW9HbktoZjJzR1doRDFXQlE?oc=5",
-      "iso": "2026-08-18T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
