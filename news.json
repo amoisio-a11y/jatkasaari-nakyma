@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-05T00:05:07.154032+00:00",
+  "generated": "2026-09-05T04:26:59.507508+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -74,6 +74,12 @@
       "link": "https://www.ruoholahdensanomat.fi/kolmekymppinen-paikallinen/",
       "iso": "2026-09-01T03:55:45+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Toimistotalot uhkaavat peittää ikonisen siltanäkymän Jätkäsaaressa – käsittely lykkääntyi - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yR3F3Q01YSE9ZcjhYV0gyN2JHeklIXzhQR2VXS0JqR1pWTG5QdDVnWWJycEpDUVRua2xITW9TMnNaZF9ZRmNCdGcwVWRyTnlndHV4ZVlsN1ItUjBYU1RrMA?oc=5",
+      "iso": "2026-09-01T03:30:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
@@ -176,12 +182,6 @@
       "link": "https://www.konservatorio.fi/uutiset/syksy-saapuu-ja-musiikki-soi/",
       "iso": "2026-08-19T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Uimaan kolmen vuoden päästä – uinti- ja liikuntakeskuksen rakentaminen käyntiin",
-      "link": "https://www.ruoholahdensanomat.fi/uimaan-kolmen-vuoden-paasta-uinti-ja-liikuntakeskuksen-rakentaminen-kayntiin/",
-      "iso": "2026-08-18T10:38:46+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
