@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-05T04:26:59.507508+00:00",
+  "generated": "2026-09-05T08:30:11.003668+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RdmJsTU9VeTM3b0VZaGNsU1JjR0RRd0FFcXhfR1VoeDBnNVVLNlBEX0xMY0duN0I4Snh0NnlDaHBlQQ?oc=5",
+      "iso": "2026-09-05T07:30:35+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Hyvän tuulen fest on taas täällä",
       "link": "https://www.ruoholahdensanomat.fi/hyvan-tuulen-fest-on-taas-taalla/",
@@ -16,7 +22,7 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Nuori poika pyysi Miljaa halaamaan Ruoholahdessa – tilanne muuttui ahdistavaksi - Ilta-Sanomat",
+      "title": "Nuori poika pyysi Miljaa halaamaan Ruoholahdessa – tilanne muuttui ahdistavaksi - is.fi",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzckFudXBWTzVZd3FKZ1JrSDd0eWtQb3BXblF4bUJ3ZXM1d2ROZ040S0xhR2ZkZGNvM3ZTMDFTU2dWTzFjQkxMX3VRQUdxdC1zcFVfSUVURlV6Z2cy?oc=5",
       "iso": "2026-09-02T16:16:00+00:00",
       "src": "Google News"
@@ -38,6 +44,12 @@
       "link": "https://korttelikeskusruohis.fi/ruohis-viinatunnelin-salat-kierroksen-ennakkoilmoittautuminen/",
       "iso": "2026-09-02T11:50:21+00:00",
       "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Varhaiskasvatuksen lastenhoitaja, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eWU2MXVuRzZ2YUJOdzdPNjdGcFBuN2lNV1QxdW81ODhybVV5bXNGa3ZENmVHOWJOSXd0UkVDUFBaOXVMSkxVdVA0WEV6OHRoZ21qelVVX0pnTll1a2pqa3Noc3djOVdJYWZDNEg2SjF5OUJjZHB5alc0S05nUQ?oc=5",
+      "iso": "2026-09-02T10:26:59+00:00",
+      "src": "Google News"
     },
     {
       "title": "YIT käynnistää noin 94 miljoonan euron urakan Jätkäsaaressa - Rakennuslehti",
@@ -170,18 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/paikalliset-menovinkit-taiteiden-yohon/",
       "iso": "2026-08-20T04:24:03+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Ihmisiä Lähteellä: Meleena Mailand",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/ihmisia-lahteella-meleena-mailand/",
-      "iso": "2026-08-19T13:36:39+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Syksy saapuu ja musiikki soi!",
-      "link": "https://www.konservatorio.fi/uutiset/syksy-saapuu-ja-musiikki-soi/",
-      "iso": "2026-08-19T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
