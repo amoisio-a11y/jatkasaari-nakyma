@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-07T00:21:05.536197+00:00",
+  "generated": "2026-09-07T05:01:34.932853+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
+    {
+      "title": "Festit kesäisessä Hyväntoivonpuistossa",
+      "link": "https://www.ruoholahdensanomat.fi/festit-kesaisessa-hyvantoivonpuistossa/",
+      "iso": "2026-09-07T03:50:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Hyvän tuulen festiä vietettiin hyväntuulisissa tunnelmissa",
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-festia-vietettiin-hyvantuulisissa-tunnelmissa/",
@@ -52,6 +58,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Ruohis- Viinatunnelin salat-kierroksen ennakkoilmoittautuminen",
+      "link": "https://korttelikeskusruohis.fi/ruohis-viinatunnelin-salat-kierroksen-ennakkoilmoittautuminen/",
+      "iso": "2026-09-02T11:50:21+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Varhaiskasvatuksen lastenhoitaja, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eWU2MXVuRzZ2YUJOdzdPNjdGcFBuN2lNV1QxdW81ODhybVV5bXNGa3ZENmVHOWJOSXd0UkVDUFBaOXVMSkxVdVA0WEV6OHRoZ21qelVVX0pnTll1a2pqa3Noc3djOVdJYWZDNEg2SjF5OUJjZHB5alc0S05nUQ?oc=5",
       "iso": "2026-09-02T10:26:59+00:00",
@@ -64,13 +76,13 @@
       "src": "Google News"
     },
     {
-      "title": "YIT käynnistää Jätkäsaaren uinti- ja liikuntakeskuksen rakennustyöt Helsingissä – arvo YIT:lle 94 miljoonaa euroa - news.cision.com",
+      "title": "YIT käynnistää Jätkäsaaren uinti- ja liikuntakeskuksen rakennustyöt Helsingissä – arvo YIT:lle 94 miljoonaa euroa - Cision News",
       "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTBTb3U4UGphbHBzY2FQVm5YU1VycFJVR3A5NDJQcVN3NEt2cVVZdExYWTBoMGt4MTl2bTYyOXdqdE1CSWZpQTNLWGtuTDVvblhtZkk3ZWcwN0hjZE5ucHNMWUp5NW1KbzdYUWZoaGhjU3VfRzZ1Q0ZYakc3WUViNllUekpDY3NKUkxTd2RJTDhsR3htVkRicllJUDZybGsyM3JrTllGRmJNSmNPNjdVSFkwSlpjc2RISThydzlwbDdPTkU1UGlkajlDU29sa05tT2JHemxwSjBtb2lLc0k4?oc=5",
       "iso": "2026-09-02T06:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 3 PES-Arkkitehdit Oy - news.cision.com",
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 3 PES-Arkkitehdit Oy - Cision News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVZudllMWWdOMU92bnNEbzFnV0VDRDdzcUh2MDhDSzFVRDZJcEZXYndDMDViNDFwTzNhZUVxMnZmZTlOU3Z0TENqMnFFTVlPZ05hNVpHSnZLZWRwaGlDY2hfbVMtR1FYMjZUekJ1SzVlQjZsZTh1Qmd1VzNuM2c3N3NpSkwyVmYtc0dSbXJhNDd4UER6VWRRcGNpMmszdXBmTXVaTzZR?oc=5",
       "iso": "2026-09-02T06:00:00+00:00",
       "src": "Google News"
@@ -88,12 +100,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Toimistotalot uhkaavat peittää ikonisen siltanäkymän Jätkäsaaressa – käsittely lykkääntyi - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yR3F3Q01YSE9ZcjhYV0gyN2JHeklIXzhQR2VXS0JqR1pWTG5QdDVnWWJycEpDUVRua2xITW9TMnNaZF9ZRmNCdGcwVWRyTnlndHV4ZVlsN1ItUjBYU1RrMA?oc=5",
-      "iso": "2026-09-01T03:30:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468247",
       "iso": "2026-08-31T15:18:05+00:00",
@@ -106,6 +112,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Naapuripäivät Ruohiksessa 10.-12.9.",
+      "link": "https://korttelikeskusruohis.fi/naapuripaivat-ruohiksessa-10-12-9/",
+      "iso": "2026-08-28T12:15:51+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
       "iso": "2026-08-28T10:33:37+00:00",
@@ -116,6 +128,12 @@
       "link": "https://www.hel.fi/fi/uutiset/helsingin-kantakaupungissa-suojellaan-useita-kymmenia-rakennuksia",
       "iso": "2026-08-28T08:08:42+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Ruohis Pop-Up Art Gallery: Taiteen viettely",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-gallery-taiteen-viettely/",
+      "iso": "2026-08-27T11:33:33+00:00",
+      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Lukijamatka telakalle jäänmurtajaa katsomaan",
@@ -148,6 +166,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Country White avaa uuden lifestyle-liikkeen korttelikeskus Ruohikseen",
+      "link": "https://korttelikeskusruohis.fi/country-white-avaa-uuden-lifestyle-liikkeen-korttelikeskus-ruohikseen/",
+      "iso": "2026-08-21T10:51:57+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Musiikkiharrastuksen ehtii aloittaa vielä tänä syksynä",
       "link": "https://www.konservatorio.fi/uutiset/musiikkiharrastuksen-ehtii-aloittaa-viela-tana-syksyna/",
       "iso": "2026-08-21T05:00:00+00:00",
@@ -158,30 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/naapurustokahvit-jatkasaaren-kirjastolla-ja-senioreiden-kahvihetket-syksylla-2026/",
       "iso": "2026-08-20T12:19:00+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaaressa puuhataan 12 miljoonan euron tonttikauppaa – \"Korkeatasoisia asuntoja\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uTHJHeXQ3YW8xQlVfSTZ1b1RmYlNROW85QmU2bENNV3Q1RzhMbTl1Xy1qU2g0SXFHS2RZdVBGSkRJSEpPUzhWRWtHMVB4ZmFQUGcyNEdLUTgwX09GQ19EWg?oc=5",
-      "iso": "2026-08-20T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Paikalliset menovinkit Taiteiden yöhön",
-      "link": "https://www.ruoholahdensanomat.fi/paikalliset-menovinkit-taiteiden-yohon/",
-      "iso": "2026-08-20T04:24:03+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Ihmisiä Lähteellä: Meleena Mailand",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/ihmisia-lahteella-meleena-mailand/",
-      "iso": "2026-08-19T13:36:39+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Syksy saapuu ja musiikki soi!",
-      "link": "https://www.konservatorio.fi/uutiset/syksy-saapuu-ja-musiikki-soi/",
-      "iso": "2026-08-19T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
