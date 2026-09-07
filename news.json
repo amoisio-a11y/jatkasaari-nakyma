@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-07T05:01:34.932853+00:00",
+  "generated": "2026-09-07T10:16:51.762317+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -58,7 +58,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Ruohis- Viinatunnelin salat-kierroksen ennakkoilmoittautuminen",
+      "title": "Ruohis – Viinatunnelin salat -kierroksen ennakkoilmoittautuminen",
       "link": "https://korttelikeskusruohis.fi/ruohis-viinatunnelin-salat-kierroksen-ennakkoilmoittautuminen/",
       "iso": "2026-09-02T11:50:21+00:00",
       "src": "Korttelikeskus Ruohis"
@@ -67,12 +67,6 @@
       "title": "Varhaiskasvatuksen lastenhoitaja, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eWU2MXVuRzZ2YUJOdzdPNjdGcFBuN2lNV1QxdW81ODhybVV5bXNGa3ZENmVHOWJOSXd0UkVDUFBaOXVMSkxVdVA0WEV6OHRoZ21qelVVX0pnTll1a2pqa3Noc3djOVdJYWZDNEg2SjF5OUJjZHB5alc0S05nUQ?oc=5",
       "iso": "2026-09-02T10:26:59+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "YIT käynnistää noin 94 miljoonan euron urakan Jätkäsaaressa - Rakennuslehti",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2pLMi1Gd2VUWTB2NWoxQnR1VWo3dG9mcDhGaERVSEc4YjdNRm1yRGFjNkdGVnZYV21LOVc4OUdTMDR5cjg0QWlPUk9mZGR3V0Y0Y245eVRQeVhfNUtrZUF3MURNYVNKYVBESVFhejlBYktTMkJfTG9NMVRtTGl2czlySmEwMURNQVZPcVEzREpuM2V2RDZ6TEN5RjZqQQ?oc=5",
-      "iso": "2026-09-02T07:03:32+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/naapurustokahvit-jatkasaaren-kirjastolla-ja-senioreiden-kahvihetket-syksylla-2026/",
       "iso": "2026-08-20T12:19:00+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaaressa puuhataan 12 miljoonan euron tonttikauppaa – \"Korkeatasoisia asuntoja\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5uTHJHeXQ3YW8xQlVfSTZ1b1RmYlNROW85QmU2bENNV3Q1RzhMbTl1Xy1qU2g0SXFHS2RZdVBGSkRJSEpPUzhWRWtHMVB4ZmFQUGcyNEdLUTgwX09GQ19EWg?oc=5",
+      "iso": "2026-08-20T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
