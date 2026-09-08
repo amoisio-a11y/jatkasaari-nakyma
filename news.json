@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-08T14:07:17.162818+00:00",
+  "generated": "2026-09-08T17:55:54.392074+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -16,7 +16,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
+      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - hs.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
       "iso": "2026-09-08T09:06:00+00:00",
       "src": "Google News"
@@ -26,6 +26,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:28:41+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Hyvän tuulen fest kokosi ennätysmäärän kävijöitä Jätkäsaaressa",
+      "link": "https://www.hel.fi/fi/uutiset/hyvan-tuulen-fest-kokosi-ennatysmaaran-kavijoita-jatkasaaressa",
+      "iso": "2026-09-08T06:52:06+00:00",
+      "src": "Helsingin kaupunki"
     },
     {
       "title": "Eläköön Helsinki Lied!",
@@ -175,12 +181,6 @@
       "title": "Toimintaa Lähteellä: Kriisityövapaaehtoisen jokainen työvuoro on erilainen",
       "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-kriisityovapaaehtoisen-jokainen-tyovuoro-on-erilainen/",
       "iso": "2026-08-25T09:08:45+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "”Täällä voi olla oma itsensä” – kesäkurssilaisten kokemuksia Pro Lapinlahti mielenterveysseura ry:n toiminnasta",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/taalla-voi-olla-oma-itsensa-kesakurssilaisten-kokemuksia-pro-lapinlahti-mielenterveysseura-ryn-toiminnasta/",
-      "iso": "2026-08-24T12:35:29+00:00",
       "src": "Lapinlahden lähde"
     }
   ]
