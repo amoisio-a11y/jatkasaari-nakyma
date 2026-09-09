@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-09T11:08:30.322676+00:00",
+  "generated": "2026-09-09T15:06:45.651207+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -28,7 +28,7 @@
       "src": "Google News"
     },
     {
-      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - helsinginuutiset.fi",
+      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:28:41+00:00",
       "src": "Google News"
@@ -124,6 +124,12 @@
       "src": "Google News"
     },
     {
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 2 PES-Arkkitehdit Oy - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHlvWkFOWWNmZkhnbXExYVhYTnNEeHFIUVpvZV9zcy1qaFZHQXZwRFVnQ05XMWxyTU9HRGVaUkZIZWNBSnF5ckM3dEE2c2JKckJlejdfX21NS01DVXgwSmliaGhrNHgxaGpzOHF0ZXh4Qk9OMGpHTi1tVVVjNGJnaHhwbGRKbnpHV3dUVXY2UDFyWXNhTmlYa3hIOVl0ajJ2Y0RRQWtn?oc=5",
+      "iso": "2026-09-02T06:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jaettu puutarha – yhteisöviljelykerhon näyttely kertoo monimuotoisuudesta",
       "link": "https://lapinlahdenlahde.fi/artikkelit/jaettu-puutarha-yhteisoviljelykerhon-nayttely-kertoo-monimuotoisuudesta/",
       "iso": "2026-09-01T11:15:47+00:00",
@@ -176,12 +182,6 @@
       "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-gallery-taiteen-viettely/",
       "iso": "2026-08-27T11:33:33+00:00",
       "src": "Korttelikeskus Ruohis"
-    },
-    {
-      "title": "Lukijamatka telakalle jäänmurtajaa katsomaan",
-      "link": "https://www.ruoholahdensanomat.fi/lukijamatka-telakalle-jaanmurtajaa-katsomaan/",
-      "iso": "2026-08-27T09:31:41+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
