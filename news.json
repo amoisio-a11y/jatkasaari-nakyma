@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-08T22:59:50.572741+00:00",
+  "generated": "2026-09-09T01:10:51.384072+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
     {
       "title": "Kaikuja sairaalasta: Ensimmäinen lobotomialeikkaus",
@@ -28,12 +28,6 @@
       "src": "Google News"
     },
     {
-      "title": "Hyvän tuulen fest kokosi ennätysmäärän kävijöitä Jätkäsaaressa",
-      "link": "https://www.hel.fi/fi/uutiset/hyvan-tuulen-fest-kokosi-ennatysmaaran-kavijoita-jatkasaaressa",
-      "iso": "2026-09-08T06:52:06+00:00",
-      "src": "Helsingin kaupunki"
-    },
-    {
       "title": "Eläköön Helsinki Lied!",
       "link": "https://www.konservatorio.fi/uutiset/elakoon-helsinki-lied/",
       "iso": "2026-09-08T05:00:00+00:00",
@@ -58,7 +52,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja - yle.fi",
+      "title": "Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RdmJsTU9VeTM3b0VZaGNsU1JjR0RRd0FFcXhfR1VoeDBnNVVLNlBEX0xMY0duN0I4Snh0NnlDaHBlQQ?oc=5",
       "iso": "2026-09-05T07:30:35+00:00",
       "src": "Google News"
@@ -94,6 +88,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Ruohis – Viinatunnelin salat -kierroksen ennakkoilmoittautuminen",
+      "link": "https://korttelikeskusruohis.fi/ruohis-viinatunnelin-salat-kierroksen-ennakkoilmoittautuminen/",
+      "iso": "2026-09-02T11:50:21+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Varhaiskasvatuksen lastenhoitaja, päiväkoti Jaala, Jätkäsaari - Helsingin kaupunki",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03eWU2MXVuRzZ2YUJOdzdPNjdGcFBuN2lNV1QxdW81ODhybVV5bXNGa3ZENmVHOWJOSXd0UkVDUFBaOXVMSkxVdVA0WEV6OHRoZ21qelVVX0pnTll1a2pqa3Noc3djOVdJYWZDNEg2SjF5OUJjZHB5alc0S05nUQ?oc=5",
       "iso": "2026-09-02T10:26:59+00:00",
@@ -114,6 +114,12 @@
     {
       "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 3 PES-Arkkitehdit Oy - Cision News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVZudllMWWdOMU92bnNEbzFnV0VDRDdzcUh2MDhDSzFVRDZJcEZXYndDMDViNDFwTzNhZUVxMnZmZTlOU3Z0TENqMnFFTVlPZ05hNVpHSnZLZWRwaGlDY2hfbVMtR1FYMjZUekJ1SzVlQjZsZTh1Qmd1VzNuM2c3N3NpSkwyVmYtc0dSbXJhNDd4UER6VWRRcGNpMmszdXBmTXVaTzZR?oc=5",
+      "iso": "2026-09-02T06:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 2 PES-Arkkitehdit Oy - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHlvWkFOWWNmZkhnbXExYVhYTnNEeHFIUVpvZV9zcy1qaFZHQXZwRFVnQ05XMWxyTU9HRGVaUkZIZWNBSnF5ckM3dEE2c2JKckJlejdfX21NS01DVXgwSmliaGhrNHgxaGpzOHF0ZXh4Qk9OMGpHTi1tVVVjNGJnaHhwbGRKbnpHV3dUVXY2UDFyWXNhTmlYa3hIOVl0ajJ2Y0RRQWtn?oc=5",
       "iso": "2026-09-02T06:00:00+00:00",
       "src": "Google News"
     },
@@ -142,6 +148,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Naapuripäivät Ruohiksessa 10.-12.9.",
+      "link": "https://korttelikeskusruohis.fi/naapuripaivat-ruohiksessa-10-12-9/",
+      "iso": "2026-08-28T12:15:51+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
       "iso": "2026-08-28T10:33:37+00:00",
@@ -154,6 +166,12 @@
       "src": "Helsingin kaupunki"
     },
     {
+      "title": "Ruohis Pop-Up Art Gallery: Taiteen viettely",
+      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-gallery-taiteen-viettely/",
+      "iso": "2026-08-27T11:33:33+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Lukijamatka telakalle jäänmurtajaa katsomaan",
       "link": "https://www.ruoholahdensanomat.fi/lukijamatka-telakalle-jaanmurtajaa-katsomaan/",
       "iso": "2026-08-27T09:31:41+00:00",
@@ -164,24 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-kriisityovapaaehtoisen-jokainen-tyovuoro-on-erilainen/",
       "iso": "2026-08-25T09:08:45+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "”Täällä voi olla oma itsensä” – kesäkurssilaisten kokemuksia Pro Lapinlahti mielenterveysseura ry:n toiminnasta",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/taalla-voi-olla-oma-itsensa-kesakurssilaisten-kokemuksia-pro-lapinlahti-mielenterveysseura-ryn-toiminnasta/",
-      "iso": "2026-08-24T12:35:29+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Street Food Siesta tuo yli 13 ruokavaunua Helsinkiin - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9hem4yaDJGdDhuc3plUGxtR2FIVzN5M0E1NEpETXdRb1RyTE1BbjFDaDkyWnZsLUpZX3RpTjVNVnpIenVsVjNqeEE5TmMzRDdpb1h3UUlnaHFWb1g4TTI0bQ?oc=5",
-      "iso": "2026-08-24T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Itämeripäivän etkot – rantaseikkailu Lapinlahdella",
-      "link": "https://www.ruoholahdensanomat.fi/itameripaivan-etkot-rantaseikkailu-lapinlahdella/",
-      "iso": "2026-08-21T16:35:52+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
