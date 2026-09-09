@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-09T05:59:00.432074+00:00",
+  "generated": "2026-09-09T11:08:30.322676+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Lapinlahti kuuluu kaikille – kerro se päättäjille valmiin kirjepohjan avulla!",
+      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahti-kuuluu-kaikille-kerro-se-paattajille-valmiin-kirjepohjan-avulla/",
+      "iso": "2026-09-09T10:22:36+00:00",
+      "src": "Lapinlahden lähde"
+    },
     {
       "title": "Kaikuja sairaalasta: Ensimmäinen lobotomialeikkaus",
       "link": "https://lapinlahdenlahde.fi/artikkelit/kaikuja-sairaalasta-ensimmainen-lobotomialeikkaus/",
@@ -22,7 +28,7 @@
       "src": "Google News"
     },
     {
-      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen | Paikalliset - Helsingin Uutiset",
+      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:28:41+00:00",
       "src": "Google News"
@@ -76,7 +82,7 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Nuori poika pyysi Miljaa halaamaan Ruoholahdessa – tilanne muuttui ahdistavaksi - is.fi",
+      "title": "Nuori poika pyysi Miljaa halaamaan Ruoholahdessa – tilanne muuttui ahdistavaksi - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzckFudXBWTzVZd3FKZ1JrSDd0eWtQb3BXblF4bUJ3ZXM1d2ROZ040S0xhR2ZkZGNvM3ZTMDFTU2dWTzFjQkxMX3VRQUdxdC1zcFVfSUVURlV6Z2cy?oc=5",
       "iso": "2026-09-02T16:16:00+00:00",
       "src": "Google News"
@@ -118,12 +124,6 @@
       "src": "Google News"
     },
     {
-      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 2 PES-Arkkitehdit Oy - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHlvWkFOWWNmZkhnbXExYVhYTnNEeHFIUVpvZV9zcy1qaFZHQXZwRFVnQ05XMWxyTU9HRGVaUkZIZWNBSnF5ckM3dEE2c2JKckJlejdfX21NS01DVXgwSmliaGhrNHgxaGpzOHF0ZXh4Qk9OMGpHTi1tVVVjNGJnaHhwbGRKbnpHV3dUVXY2UDFyWXNhTmlYa3hIOVl0ajJ2Y0RRQWtn?oc=5",
-      "iso": "2026-09-02T06:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jaettu puutarha – yhteisöviljelykerhon näyttely kertoo monimuotoisuudesta",
       "link": "https://lapinlahdenlahde.fi/artikkelit/jaettu-puutarha-yhteisoviljelykerhon-nayttely-kertoo-monimuotoisuudesta/",
       "iso": "2026-09-01T11:15:47+00:00",
@@ -140,6 +140,12 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468247",
       "iso": "2026-08-31T15:18:05+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Jätkäsaaren parvekkeelta asuntoon tunkeutunut jäi kiinni - epäillään törkeästä raiskauksesta! - alibi.fi",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV25MWFI0R3k1MzVpcmFfMGcwMHpsQWR5X2x6RUtNWmJqVnQ0Rm5mYnBCZ19Id2VXUWtPenFLMkExUWJ4Q3BnS1VkbGpZNFpvdV84XzhxbFB0RTFuY2kzZkZCMlZxR0d2alBxQkx3R21XYk1oQ2FXSnlpWFJ6NXlYcGtxNU9yRU9ZQmNVRVVJcjB2UXFTcFJEZ3lkRU5rbXY5OVRTc1ZpX3czR1hNSU9hNTVocUdyZ3c?oc=5",
+      "iso": "2026-08-31T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Raitiovaunulinjan 8 korvaava suora bussiyhteys tarvitaan",
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/lukijamatka-telakalle-jaanmurtajaa-katsomaan/",
       "iso": "2026-08-27T09:31:41+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Toimintaa Lähteellä: Kriisityövapaaehtoisen jokainen työvuoro on erilainen",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/toimintaa-lahteella-kriisityovapaaehtoisen-jokainen-tyovuoro-on-erilainen/",
-      "iso": "2026-08-25T09:08:45+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
