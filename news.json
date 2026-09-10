@@ -1,10 +1,16 @@
 {
-  "generated": "2026-09-10T15:09:53.761319+00:00",
+  "generated": "2026-09-10T18:27:14.605299+00:00",
   "count": 30,
   "failed": 0,
   "items": [
     {
-      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - helsinginuutiset.fi",
+      "title": "Kehuttu kebab-​ravintola suljettiin - uusi jo tilalla - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
+      "iso": "2026-09-10T17:40:31+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka | Paikalliset - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
       "iso": "2026-09-10T11:45:36+00:00",
       "src": "Google News"
@@ -14,6 +20,12 @@
       "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-rakennetaan-valiaikainen-leikkipaikka",
       "iso": "2026-09-10T11:05:16+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "KAAPELI on ylläpitänyt tiloja kulttuurin käytössä jo 35 vuotta - nyt sen mallista haetaan oppia kansainvälisesti",
+      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapeli-on-yllapitanyt-tiloja-kulttuurin-kaytossa-jo-35-vuotta-nyt-sen-mallista-haetaan-oppia-kansainvalisesti",
+      "iso": "2026-09-10T00:00:00+00:00",
+      "src": "Kaapelitehdas"
     },
     {
       "title": "Lapinlahti kuuluu kaikille – kerro se päättäjille valmiin kirjepohjan avulla!",
@@ -40,7 +52,7 @@
       "src": "Google News"
     },
     {
-      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - helsinginuutiset.fi",
+      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:28:41+00:00",
       "src": "Google News"
@@ -170,18 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/raitiovaunulinjan-8-korvaava-suora-bussiyhteys-tarvitaan/",
       "iso": "2026-08-30T14:08:51+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Naapuripäivät Ruohiksessa 10.-12.9.",
-      "link": "https://korttelikeskusruohis.fi/naapuripaivat-ruohiksessa-10-12-9/",
-      "iso": "2026-08-28T12:15:51+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
-      "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
-      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
-      "iso": "2026-08-28T10:33:37+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
