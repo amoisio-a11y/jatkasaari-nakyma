@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-10T11:38:56.971787+00:00",
+  "generated": "2026-09-10T15:09:53.761319+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - helsinginuutiset.fi",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
+      "iso": "2026-09-10T11:45:36+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Jätkäsaareen rakennetaan väliaikainen leikkipaikka",
       "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-rakennetaan-valiaikainen-leikkipaikka",
@@ -34,7 +40,7 @@
       "src": "Google News"
     },
     {
-      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
+      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:28:41+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
       "iso": "2026-08-28T10:33:37+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Helsingin kantakaupungissa suojellaan useita kymmeniä rakennuksia",
-      "link": "https://www.hel.fi/fi/uutiset/helsingin-kantakaupungissa-suojellaan-useita-kymmenia-rakennuksia",
-      "iso": "2026-08-28T08:08:42+00:00",
-      "src": "Helsingin kaupunki"
     }
   ]
 }
