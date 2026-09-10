@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-10T06:20:45.318369+00:00",
+  "generated": "2026-09-10T11:38:56.971787+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Jätkäsaareen rakennetaan väliaikainen leikkipaikka",
+      "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-rakennetaan-valiaikainen-leikkipaikka",
+      "iso": "2026-09-10T11:05:16+00:00",
+      "src": "Helsingin kaupunki"
+    },
     {
       "title": "Lapinlahti kuuluu kaikille – kerro se päättäjille valmiin kirjepohjan avulla!",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahti-kuuluu-kaikille-kerro-se-paattajille-valmiin-kirjepohjan-avulla/",
@@ -176,12 +182,6 @@
       "link": "https://www.hel.fi/fi/uutiset/helsingin-kantakaupungissa-suojellaan-useita-kymmenia-rakennuksia",
       "iso": "2026-08-28T08:08:42+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Ruohis Pop-Up Art Gallery: Taiteen viettely",
-      "link": "https://korttelikeskusruohis.fi/ruohis-pop-up-art-gallery-taiteen-viettely/",
-      "iso": "2026-08-27T11:33:33+00:00",
-      "src": "Korttelikeskus Ruohis"
     }
   ]
 }
