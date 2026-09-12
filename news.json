@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-12T05:47:14.183059+00:00",
+  "generated": "2026-09-12T10:04:34.938392+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
     {
       "title": "Kansainvälisen koulun laajennus valmis vuonna 2027",
@@ -124,6 +124,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Ruohis – Viinatunnelin salat -kierroksen ennakkoilmoittautuminen",
+      "link": "https://korttelikeskusruohis.fi/ruohis-viinatunnelin-salat-kierroksen-ennakkoilmoittautuminen/",
+      "iso": "2026-09-02T11:50:21+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
       "title": "Nuori poika pyysi Miljaa halaamaan Ruoholahdessa – tilanne muuttui ahdistavaksi - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzckFudXBWTzVZd3FKZ1JrSDd0eWtQb3BXblF4bUJ3ZXM1d2ROZ040S0xhR2ZkZGNvM3ZTMDFTU2dWTzFjQkxMX3VRQUdxdC1zcFVfSUVURlV6Z2cy?oc=5",
       "iso": "2026-09-02T07:00:00+00:00",
@@ -172,16 +178,10 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
-      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
-      "iso": "2026-08-28T10:33:37+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Helsingin kantakaupungissa suojellaan useita kymmeniä rakennuksia",
-      "link": "https://www.hel.fi/fi/uutiset/helsingin-kantakaupungissa-suojellaan-useita-kymmenia-rakennuksia",
-      "iso": "2026-08-28T08:08:42+00:00",
-      "src": "Helsingin kaupunki"
+      "title": "Naapuripäivät Ruohiksessa 10.-12.9.",
+      "link": "https://korttelikeskusruohis.fi/naapuripaivat-ruohiksessa-10-12-9/",
+      "iso": "2026-08-28T12:15:51+00:00",
+      "src": "Korttelikeskus Ruohis"
     }
   ]
 }
