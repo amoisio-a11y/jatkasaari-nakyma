@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-13T05:23:23.888687+00:00",
+  "generated": "2026-09-13T10:28:48.164854+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -10,13 +10,13 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Kehuttu kebab-ravintola suljettiin - uusi tilalla | Paikalliset - Helsingin Uutiset",
+      "title": "Kehuttu kebab-ravintola suljettiin - uusi tilalla | Paikalliset - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
       "iso": "2026-09-10T17:40:31+00:00",
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
+      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
       "iso": "2026-09-10T11:45:36+00:00",
       "src": "Google News"
@@ -52,13 +52,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
-      "iso": "2026-09-08T09:06:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
+      "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:28:41+00:00",
       "src": "Google News"
@@ -148,12 +142,6 @@
       "src": "Google News"
     },
     {
-      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 2 PES-Arkkitehdit Oy - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHlvWkFOWWNmZkhnbXExYVhYTnNEeHFIUVpvZV9zcy1qaFZHQXZwRFVnQ05XMWxyTU9HRGVaUkZIZWNBSnF5ckM3dEE2c2JKckJlejdfX21NS01DVXgwSmliaGhrNHgxaGpzOHF0ZXh4Qk9OMGpHTi1tVVVjNGJnaHhwbGRKbnpHV3dUVXY2UDFyWXNhTmlYa3hIOVl0ajJ2Y0RRQWtn?oc=5",
-      "iso": "2026-09-02T06:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jaettu puutarha – yhteisöviljelykerhon näyttely kertoo monimuotoisuudesta",
       "link": "https://lapinlahdenlahde.fi/artikkelit/jaettu-puutarha-yhteisoviljelykerhon-nayttely-kertoo-monimuotoisuudesta/",
       "iso": "2026-09-01T11:15:47+00:00",
@@ -182,6 +170,18 @@
       "link": "https://kaupunginosat.fi/jatkasaari/raitiovaunulinjan-8-korvaava-suora-bussiyhteys-tarvitaan/",
       "iso": "2026-08-30T14:08:51+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Naapuripäivät Ruohiksessa 10.-12.9.",
+      "link": "https://korttelikeskusruohis.fi/naapuripaivat-ruohiksessa-10-12-9/",
+      "iso": "2026-08-28T12:15:51+00:00",
+      "src": "Korttelikeskus Ruohis"
+    },
+    {
+      "title": "Lapinlahdesta nimettömän yrityksen pääkonttori – valtaosa Engelin rakennuksesta suljetaan kaupunkilaisilta",
+      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahdesta-nimettoman-yrityksen-paakonttori/",
+      "iso": "2026-08-28T10:33:37+00:00",
+      "src": "Lapinlahden lähde"
     }
   ]
 }
