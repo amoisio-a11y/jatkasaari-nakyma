@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T20:15:38.161965+00:00",
+  "generated": "2026-09-15T22:56:08.156043+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -160,12 +160,6 @@
       "src": "Google News"
     },
     {
-      "title": "YIT käynnistää Jätkäsaaren uinti- ja liikuntakeskuksen rakennustyöt Helsingissä – arvo YIT:lle 94 miljoonaa euroa - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTBTb3U4UGphbHBzY2FQVm5YU1VycFJVR3A5NDJQcVN3NEt2cVVZdExYWTBoMGt4MTl2bTYyOXdqdE1CSWZpQTNLWGtuTDVvblhtZkk3ZWcwN0hjZE5ucHNMWUp5NW1KbzdYUWZoaGhjU3VfRzZ1Q0ZYakc3WUViNllUekpDY3NKUkxTd2RJTDhsR3htVkRicllJUDZybGsyM3JrTllGRmJNSmNPNjdVSFkwSlpjc2RISThydzlwbDdPTkU1UGlkajlDU29sa05tT2JHemxwSjBtb2lLc0k4?oc=5",
-      "iso": "2026-09-02T06:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 3 PES-Arkkitehdit Oy - Cision News",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVZudllMWWdOMU92bnNEbzFnV0VDRDdzcUh2MDhDSzFVRDZJcEZXYndDMDViNDFwTzNhZUVxMnZmZTlOU3Z0TENqMnFFTVlPZ05hNVpHSnZLZWRwaGlDY2hfbVMtR1FYMjZUekJ1SzVlQjZsZTh1Qmd1VzNuM2c3N3NpSkwyVmYtc0dSbXJhNDd4UER6VWRRcGNpMmszdXBmTXVaTzZR?oc=5",
       "iso": "2026-09-02T06:00:00+00:00",
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/kolmekymppinen-paikallinen/",
       "iso": "2026-09-01T03:55:45+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468247",
+      "iso": "2026-08-31T15:18:05+00:00",
+      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
