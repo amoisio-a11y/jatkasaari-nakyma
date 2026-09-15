@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-15T06:45:03.591937+00:00",
+  "generated": "2026-09-15T12:12:36.846945+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Tiedote 15.9.2026: Kaikille avoimen Lapinlahden puolesta on julkaistu laaja vetoomus – allekirjoita!",
+      "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-15-9-2026-kaikille-avoimen-lapinlahden-puolesta-on-julkaistu-laaja-vetoomus-allekirjoita/",
+      "iso": "2026-09-15T10:01:24+00:00",
+      "src": "Lapinlahden lähde"
+    },
     {
       "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468512",
@@ -25,12 +31,6 @@
       "title": "Kehuttu kebab-​ravintola suljettiin - uusi tilalla - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
       "iso": "2026-09-10T17:40:31+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
-      "iso": "2026-09-10T11:45:36+00:00",
       "src": "Google News"
     },
     {
@@ -62,6 +62,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/hel-fi-hyvan-tuulen-fest-kokosi-ennatysmaaran-kavijoita-jatkasaaressa/",
       "iso": "2026-09-08T10:37:59+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
+      "iso": "2026-09-08T09:06:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
@@ -100,7 +106,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja - yle.fi",
+      "title": "Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RdmJsTU9VeTM3b0VZaGNsU1JjR0RRd0FFcXhfR1VoeDBnNVVLNlBEX0xMY0duN0I4Snh0NnlDaHBlQQ?oc=5",
       "iso": "2026-09-05T07:00:00+00:00",
       "src": "Google News"
@@ -160,6 +166,12 @@
       "src": "Google News"
     },
     {
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 2 PES-Arkkitehdit Oy - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHlvWkFOWWNmZkhnbXExYVhYTnNEeHFIUVpvZV9zcy1qaFZHQXZwRFVnQ05XMWxyTU9HRGVaUkZIZWNBSnF5ckM3dEE2c2JKckJlejdfX21NS01DVXgwSmliaGhrNHgxaGpzOHF0ZXh4Qk9OMGpHTi1tVVVjNGJnaHhwbGRKbnpHV3dUVXY2UDFyWXNhTmlYa3hIOVl0ajJ2Y0RRQWtn?oc=5",
+      "iso": "2026-09-02T06:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jaettu puutarha – yhteisöviljelykerhon näyttely kertoo monimuotoisuudesta",
       "link": "https://lapinlahdenlahde.fi/artikkelit/jaettu-puutarha-yhteisoviljelykerhon-nayttely-kertoo-monimuotoisuudesta/",
       "iso": "2026-09-01T11:15:47+00:00",
@@ -170,18 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/kolmekymppinen-paikallinen/",
       "iso": "2026-09-01T03:55:45+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468247",
-      "iso": "2026-08-31T15:18:05+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Jätkäsaaren parvekkeelta asuntoon tunkeutunut jäi kiinni - epäillään törkeästä raiskauksesta! - alibi.fi",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV25MWFI0R3k1MzVpcmFfMGcwMHpsQWR5X2x6RUtNWmJqVnQ0Rm5mYnBCZ19Id2VXUWtPenFLMkExUWJ4Q3BnS1VkbGpZNFpvdV84XzhxbFB0RTFuY2kzZkZCMlZxR0d2alBxQkx3R21XYk1oQ2FXSnlpWFJ6NXlYcGtxNU9yRU9ZQmNVRVVJcjB2UXFTcFJEZ3lkRU5rbXY5OVRTc1ZpX3czR1hNSU9hNTVocUdyZ3c?oc=5",
-      "iso": "2026-08-31T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
