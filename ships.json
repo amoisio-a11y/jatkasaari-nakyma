@@ -1,56 +1,6 @@
 {
-  "generated": "2026-09-16T18:15:08.349110Z",
+  "generated": "2026-09-16T21:18:28.878977Z",
   "arrivals": [
-    {
-      "name": "Megastar",
-      "agent": "Tallink Silja Oy",
-      "arrTime": "2026-09-15T22:03:00Z"
-    },
-    {
-      "name": "Finlandia",
-      "agent": "Eckerö Line Ab Oy",
-      "arrTime": "2026-09-16T05:16:00Z"
-    },
-    {
-      "name": "MyStar",
-      "agent": "Tallink Silja Oy",
-      "arrTime": "2026-09-16T06:30:00Z"
-    },
-    {
-      "name": "Megastar",
-      "agent": "Tallink Silja Oy",
-      "arrTime": "2026-09-16T09:30:00Z"
-    },
-    {
-      "name": "Finlandia",
-      "agent": "Eckerö Line Ab Oy",
-      "arrTime": "2026-09-16T11:17:00Z"
-    },
-    {
-      "name": "MyStar",
-      "agent": "Tallink Silja Oy",
-      "arrTime": "2026-09-16T12:30:00Z"
-    },
-    {
-      "name": "Victoria I",
-      "agent": "Tallink Silja Oy",
-      "arrTime": "2026-09-16T13:00:00Z"
-    },
-    {
-      "name": "Megastar",
-      "agent": "Tallink Silja Oy",
-      "arrTime": "2026-09-16T15:30:00Z"
-    },
-    {
-      "name": "Finlandia",
-      "agent": "Eckerö Line Ab Oy",
-      "arrTime": "2026-09-16T18:01:00Z"
-    },
-    {
-      "name": "MyStar",
-      "agent": "Tallink Silja Oy",
-      "arrTime": "2026-09-16T18:30:00Z"
-    },
     {
       "name": "Megastar",
       "agent": "Tallink Silja Oy",
@@ -200,6 +150,51 @@
       "name": "MyStar",
       "agent": "Tallink Silja Oy",
       "arrTime": "2026-09-19T18:30:00Z"
+    },
+    {
+      "name": "Megastar",
+      "agent": "Tallink Silja Oy",
+      "arrTime": "2026-09-19T21:30:00Z"
+    },
+    {
+      "name": "MyStar",
+      "agent": "Tallink Silja Oy",
+      "arrTime": "2026-09-20T06:30:00Z"
+    },
+    {
+      "name": "Megastar",
+      "agent": "Tallink Silja Oy",
+      "arrTime": "2026-09-20T09:30:00Z"
+    },
+    {
+      "name": "Finlandia",
+      "agent": "Eckerö Line Ab Oy",
+      "arrTime": "2026-09-20T11:15:00Z"
+    },
+    {
+      "name": "MyStar",
+      "agent": "Tallink Silja Oy",
+      "arrTime": "2026-09-20T12:30:00Z"
+    },
+    {
+      "name": "Victoria I",
+      "agent": "Tallink Silja Oy",
+      "arrTime": "2026-09-20T13:00:00Z"
+    },
+    {
+      "name": "Megastar",
+      "agent": "Tallink Silja Oy",
+      "arrTime": "2026-09-20T15:30:00Z"
+    },
+    {
+      "name": "Finlandia",
+      "agent": "Eckerö Line Ab Oy",
+      "arrTime": "2026-09-20T18:00:00Z"
+    },
+    {
+      "name": "MyStar",
+      "agent": "Tallink Silja Oy",
+      "arrTime": "2026-09-20T18:30:00Z"
     }
   ]
 }
