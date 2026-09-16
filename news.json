@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T11:32:09.328215+00:00",
+  "generated": "2026-09-16T15:33:06.019479+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -74,12 +74,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/hel-fi-hyvan-tuulen-fest-kokosi-ennatysmaaran-kavijoita-jatkasaaressa/",
       "iso": "2026-09-08T10:37:59+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
-      "iso": "2026-09-08T09:06:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
@@ -160,9 +154,9 @@
       "src": "Korttelikeskus Ruohis"
     },
     {
-      "title": "YIT käynnistää Jätkäsaaren uinti- ja liikuntakeskuksen rakennustyöt Helsingissä – arvo YIT:lle 94 miljoonaa euroa - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTBTb3U4UGphbHBzY2FQVm5YU1VycFJVR3A5NDJQcVN3NEt2cVVZdExYWTBoMGt4MTl2bTYyOXdqdE1CSWZpQTNLWGtuTDVvblhtZkk3ZWcwN0hjZE5ucHNMWUp5NW1KbzdYUWZoaGhjU3VfRzZ1Q0ZYakc3WUViNllUekpDY3NKUkxTd2RJTDhsR3htVkRicllJUDZybGsyM3JrTllGRmJNSmNPNjdVSFkwSlpjc2RISThydzlwbDdPTkU1UGlkajlDU29sa05tT2JHemxwSjBtb2lLc0k4?oc=5",
-      "iso": "2026-09-02T06:00:00+00:00",
+      "title": "Nuori poika pyysi Miljaa halaamaan Ruoholahdessa – tilanne muuttui ahdistavaksi - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzckFudXBWTzVZd3FKZ1JrSDd0eWtQb3BXblF4bUJ3ZXM1d2ROZ040S0xhR2ZkZGNvM3ZTMDFTU2dWTzFjQkxMX3VRQUdxdC1zcFVfSUVURlV6Z2cy?oc=5",
+      "iso": "2026-09-02T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/jaettu-puutarha-yhteisoviljelykerhon-nayttely-kertoo-monimuotoisuudesta/",
       "iso": "2026-09-01T11:15:47+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Kolmekymppinen paikallinen",
+      "link": "https://www.ruoholahdensanomat.fi/kolmekymppinen-paikallinen/",
+      "iso": "2026-09-01T03:55:45+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
