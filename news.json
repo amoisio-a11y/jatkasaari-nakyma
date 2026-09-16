@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-15T22:56:08.156043+00:00",
+  "generated": "2026-09-16T01:06:57.240647+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -34,12 +34,6 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
-      "iso": "2026-09-10T11:45:36+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaareen rakennetaan väliaikainen leikkipaikka",
       "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-rakennetaan-valiaikainen-leikkipaikka",
       "iso": "2026-09-10T11:05:16+00:00",
@@ -70,7 +64,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
+      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - hs.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
       "iso": "2026-09-08T09:06:00+00:00",
       "src": "Google News"
@@ -154,9 +148,9 @@
       "src": "Korttelikeskus Ruohis"
     },
     {
-      "title": "Nuori poika pyysi Miljaa halaamaan Ruoholahdessa – tilanne muuttui ahdistavaksi - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBzckFudXBWTzVZd3FKZ1JrSDd0eWtQb3BXblF4bUJ3ZXM1d2ROZ040S0xhR2ZkZGNvM3ZTMDFTU2dWTzFjQkxMX3VRQUdxdC1zcFVfSUVURlV6Z2cy?oc=5",
-      "iso": "2026-09-02T07:00:00+00:00",
+      "title": "YIT käynnistää Jätkäsaaren uinti- ja liikuntakeskuksen rakennustyöt Helsingissä – arvo YIT:lle 94 miljoonaa euroa - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTBTb3U4UGphbHBzY2FQVm5YU1VycFJVR3A5NDJQcVN3NEt2cVVZdExYWTBoMGt4MTl2bTYyOXdqdE1CSWZpQTNLWGtuTDVvblhtZkk3ZWcwN0hjZE5ucHNMWUp5NW1KbzdYUWZoaGhjU3VfRzZ1Q0ZYakc3WUViNllUekpDY3NKUkxTd2RJTDhsR3htVkRicllJUDZybGsyM3JrTllGRmJNSmNPNjdVSFkwSlpjc2RISThydzlwbDdPTkU1UGlkajlDU29sa05tT2JHemxwSjBtb2lLc0k4?oc=5",
+      "iso": "2026-09-02T06:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468247",
       "iso": "2026-08-31T15:18:05+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Jätkäsaaren parvekkeelta asuntoon tunkeutunut jäi kiinni - epäillään törkeästä raiskauksesta! - alibi.fi",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV25MWFI0R3k1MzVpcmFfMGcwMHpsQWR5X2x6RUtNWmJqVnQ0Rm5mYnBCZ19Id2VXUWtPenFLMkExUWJ4Q3BnS1VkbGpZNFpvdV84XzhxbFB0RTFuY2kzZkZCMlZxR0d2alBxQkx3R21XYk1oQ2FXSnlpWFJ6NXlYcGtxNU9yRU9ZQmNVRVVJcjB2UXFTcFJEZ3lkRU5rbXY5OVRTc1ZpX3czR1hNSU9hNTVocUdyZ3c?oc=5",
+      "iso": "2026-08-31T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
