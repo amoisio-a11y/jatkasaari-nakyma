@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-16T01:06:57.240647+00:00",
+  "generated": "2026-09-16T06:01:18.402285+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Suosituimmat annokset: Jaalaranta ja Halikarnas",
+      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-jaalaranta-ja-halikarnas/",
+      "iso": "2026-09-16T04:02:02+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Tiedote 15.9.2026: Kaikille avoimen Lapinlahden puolesta on julkaistu laaja vetoomus – allekirjoita!",
       "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-15-9-2026-kaikille-avoimen-lapinlahden-puolesta-on-julkaistu-laaja-vetoomus-allekirjoita/",
@@ -31,6 +37,12 @@
       "title": "Kehuttu kebab-​ravintola suljettiin - uusi tilalla - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
       "iso": "2026-09-10T17:40:31+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
+      "iso": "2026-09-10T11:45:36+00:00",
       "src": "Google News"
     },
     {
@@ -64,7 +76,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - hs.fi",
+      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
       "iso": "2026-09-08T09:06:00+00:00",
       "src": "Google News"
@@ -148,14 +160,14 @@
       "src": "Korttelikeskus Ruohis"
     },
     {
-      "title": "YIT käynnistää Jätkäsaaren uinti- ja liikuntakeskuksen rakennustyöt Helsingissä – arvo YIT:lle 94 miljoonaa euroa - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPOTBTb3U4UGphbHBzY2FQVm5YU1VycFJVR3A5NDJQcVN3NEt2cVVZdExYWTBoMGt4MTl2bTYyOXdqdE1CSWZpQTNLWGtuTDVvblhtZkk3ZWcwN0hjZE5ucHNMWUp5NW1KbzdYUWZoaGhjU3VfRzZ1Q0ZYakc3WUViNllUekpDY3NKUkxTd2RJTDhsR3htVkRicllJUDZybGsyM3JrTllGRmJNSmNPNjdVSFkwSlpjc2RISThydzlwbDdPTkU1UGlkajlDU29sa05tT2JHemxwSjBtb2lLc0k4?oc=5",
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 3 PES-Arkkitehdit Oy - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVZudllMWWdOMU92bnNEbzFnV0VDRDdzcUh2MDhDSzFVRDZJcEZXYndDMDViNDFwTzNhZUVxMnZmZTlOU3Z0TENqMnFFTVlPZ05hNVpHSnZLZWRwaGlDY2hfbVMtR1FYMjZUekJ1SzVlQjZsZTh1Qmd1VzNuM2c3N3NpSkwyVmYtc0dSbXJhNDd4UER6VWRRcGNpMmszdXBmTXVaTzZR?oc=5",
       "iso": "2026-09-02T06:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 3 PES-Arkkitehdit Oy - Cision News",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVVZudllMWWdOMU92bnNEbzFnV0VDRDdzcUh2MDhDSzFVRDZJcEZXYndDMDViNDFwTzNhZUVxMnZmZTlOU3Z0TENqMnFFTVlPZ05hNVpHSnZLZWRwaGlDY2hfbVMtR1FYMjZUekJ1SzVlQjZsZTh1Qmd1VzNuM2c3N3NpSkwyVmYtc0dSbXJhNDd4UER6VWRRcGNpMmszdXBmTXVaTzZR?oc=5",
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 2 PES-Arkkitehdit Oy - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHlvWkFOWWNmZkhnbXExYVhYTnNEeHFIUVpvZV9zcy1qaFZHQXZwRFVnQ05XMWxyTU9HRGVaUkZIZWNBSnF5ckM3dEE2c2JKckJlejdfX21NS01DVXgwSmliaGhrNHgxaGpzOHF0ZXh4Qk9OMGpHTi1tVVVjNGJnaHhwbGRKbnpHV3dUVXY2UDFyWXNhTmlYa3hIOVl0ajJ2Y0RRQWtn?oc=5",
       "iso": "2026-09-02T06:00:00+00:00",
       "src": "Google News"
     },
@@ -170,18 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/kolmekymppinen-paikallinen/",
       "iso": "2026-09-01T03:55:45+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468247",
-      "iso": "2026-08-31T15:18:05+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Jätkäsaaren parvekkeelta asuntoon tunkeutunut jäi kiinni - epäillään törkeästä raiskauksesta! - alibi.fi",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPV25MWFI0R3k1MzVpcmFfMGcwMHpsQWR5X2x6RUtNWmJqVnQ0Rm5mYnBCZ19Id2VXUWtPenFLMkExUWJ4Q3BnS1VkbGpZNFpvdV84XzhxbFB0RTFuY2kzZkZCMlZxR0d2alBxQkx3R21XYk1oQ2FXSnlpWFJ6NXlYcGtxNU9yRU9ZQmNVRVVJcjB2UXFTcFJEZ3lkRU5rbXY5OVRTc1ZpX3czR1hNSU9hNTVocUdyZ3c?oc=5",
-      "iso": "2026-08-31T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
