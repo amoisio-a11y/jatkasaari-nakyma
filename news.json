@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-16T22:11:33.429201+00:00",
+  "generated": "2026-09-17T00:31:53.896302+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -166,6 +166,12 @@
       "src": "Google News"
     },
     {
+      "title": "YIT Jätkäsaaren uinti ja liikuntakeskus 2 PES-Arkkitehdit Oy - Cision News",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWHlvWkFOWWNmZkhnbXExYVhYTnNEeHFIUVpvZV9zcy1qaFZHQXZwRFVnQ05XMWxyTU9HRGVaUkZIZWNBSnF5ckM3dEE2c2JKckJlejdfX21NS01DVXgwSmliaGhrNHgxaGpzOHF0ZXh4Qk9OMGpHTi1tVVVjNGJnaHhwbGRKbnpHV3dUVXY2UDFyWXNhTmlYa3hIOVl0ajJ2Y0RRQWtn?oc=5",
+      "iso": "2026-09-02T06:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jaettu puutarha – yhteisöviljelykerhon näyttely kertoo monimuotoisuudesta",
       "link": "https://lapinlahdenlahde.fi/artikkelit/jaettu-puutarha-yhteisoviljelykerhon-nayttely-kertoo-monimuotoisuudesta/",
       "iso": "2026-09-01T11:15:47+00:00",
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/kolmekymppinen-paikallinen/",
       "iso": "2026-09-01T03:55:45+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468247",
-      "iso": "2026-08-31T15:18:05+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
