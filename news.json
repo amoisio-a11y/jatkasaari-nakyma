@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T17:29:06.453897+00:00",
+  "generated": "2026-09-18T19:54:33.717730+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -118,12 +118,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
-      "iso": "2026-09-08T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:00:00+00:00",
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN080OV84emp0WGprdW42NTNwUDh6V1ZxMmFuWWhjSEJuY25zbmhYdm5MWFlER2FSU0dvMFRRdVVGTUlhT2JUQURKRGtrd0Z4emUwM1l3ZUY1WVVsZUZxQkN1MVgyR3hUaUM1emNCN2dNZF91ejdhaUF4U2FweFV3ZEVuUnZmVFNXa19lcUtJbE1Kb2hPNkRmR0hkWWxRQnFleDNkcG1sX3hEbE5kdkJpUWk1X3o?oc=5",
       "iso": "2026-09-03T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
+      "iso": "2026-09-02T13:31:11+00:00",
+      "src": "Kaupunginosat.fi"
     }
   ]
 }
