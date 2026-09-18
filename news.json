@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-18T09:35:00.846525+00:00",
+  "generated": "2026-09-18T13:51:41.948022+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Tiesitkö jo nämä asiat Lapinlahdesta?",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/tiesitko-jo-nama-asiat-lapinlahdesta/",
+      "iso": "2026-09-18T11:24:25+00:00",
+      "src": "Lapinlahden lähde"
+    },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468591",
@@ -14,12 +20,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/lasten-luontosuhde-ei-synny-itsestaan-uusi-opas-ja-vinkkikortit-kasvattajille-julkaistu/",
       "iso": "2026-09-17T10:49:29+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Poliisi tutkii Jätkäsaaressa kuolleiden tyttöjen sometilejä ja selvittää, voiko tapahtumiin liittyä ulkopuolisia - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5JSGhKaVFqOGgxRmg0blNfX0l0aXpmM0lJLVJabTRBbVlIanItMXFNRENWcG51Sk5ReVc3V0QyZ04teUpDWDlMdUREUDV4UHFqT3ZjX2NR?oc=5",
-      "iso": "2026-09-17T05:00:35+00:00",
-      "src": "Google News"
     },
     {
       "title": "Kaapelitehdas kokoaa kulttuuria graffitista nykytanssiin",
@@ -118,6 +118,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Asuminen | Vauvaperheen muutto keskeytyi likaisuuden ja ötököiden vuoksi Helsingin Jätkäsaaressa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9TZzB1dDF1OEg5MUk0TVdJbXdFc1FxQjJOZzNnNmo5RUN4enpVaHRtVmVkZkNNSVlXVThoMUEzSk1iRjRhZENVUjdsdUlTUkFObnFsZ2d2QmlHNENZUEE?oc=5",
+      "iso": "2026-09-08T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kaupunkifestivaali houkutteli ennätysyleisön Jätkäsaareen - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5fbGUtRGRrb1NlV3R3VXRTRVprWGJ1bV8td21ibm52eE5lcWxJMGFTU2Z0QzRkTHh1Zi1sTzQwNllTTXVDSjh0bWo1SkgwdmVwLW5fdllJLUJDQ1JWd2VVZg?oc=5",
       "iso": "2026-09-08T07:00:00+00:00",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPN080OV84emp0WGprdW42NTNwUDh6V1ZxMmFuWWhjSEJuY25zbmhYdm5MWFlER2FSU0dvMFRRdVVGTUlhT2JUQURKRGtrd0Z4emUwM1l3ZUY1WVVsZUZxQkN1MVgyR3hUaUM1emNCN2dNZF91ejdhaUF4U2FweFV3ZEVuUnZmVFNXa19lcUtJbE1Kb2hPNkRmR0hkWWxRQnFleDNkcG1sX3hEbE5kdkJpUWk1X3o?oc=5",
       "iso": "2026-09-03T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
-      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
-      "iso": "2026-09-02T13:31:11+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
