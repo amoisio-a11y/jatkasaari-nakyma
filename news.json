@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T01:22:47.862360+00:00",
+  "generated": "2026-09-20T06:41:39.167070+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -64,7 +64,7 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Lapti kehittää 115 senioriasunnon palvelutalon Helsingin Jätkäsaareen - kiinteistouutiset.fi",
+      "title": "Lapti kehittää 115 senioriasunnon palvelutalon Helsingin Jätkäsaareen - Kiinteistö-uutiset",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLTVhSkxsVGlIZkx6M25DVzVOeXpaOTFub2o2aXJvVng5S3hSaG5WWjNtS2p3Vm1FekhMQWtQdXZnLUgxamNFSWxabDN4bzRldEJjNFZEQkxpQjZlcjZmaVllTVN3cVJnbmg0Uk9DeWltV3VGVXZIcDNEU0l2ZmRJSV9reTZUcXdzOWs0Nm1QSzZPSDhUbXF0aklWUmxvcnp2?oc=5",
       "iso": "2026-09-14T05:00:48+00:00",
       "src": "Google News"
@@ -74,12 +74,6 @@
       "link": "https://www.ruoholahdensanomat.fi/kansanvalisen-koulun-laajennus-valmis-vuonna-2027/",
       "iso": "2026-09-11T03:08:04+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Kehuttu kebab-​ravintola suljettiin - uusi tilalla - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
-      "iso": "2026-09-10T17:40:31+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
@@ -92,6 +86,12 @@
       "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-rakennetaan-valiaikainen-leikkipaikka",
       "iso": "2026-09-10T11:05:16+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kehuttu kebab-​ravintola suljettiin - uusi tilalla - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
+      "iso": "2026-09-10T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "KAAPELI on ylläpitänyt tiloja kulttuurin käytössä jo 35 vuotta - nyt sen mallista haetaan oppia kansainvälisesti",
@@ -154,12 +154,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1RdmJsTU9VeTM3b0VZaGNsU1JjR0RRd0FFcXhfR1VoeDBnNVVLNlBEX0xMY0duN0I4Snh0NnlDaHBlQQ?oc=5",
-      "iso": "2026-09-05T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Hyvän tuulen fest on taas täällä",
       "link": "https://www.ruoholahdensanomat.fi/hyvan-tuulen-fest-on-taas-taalla/",
       "iso": "2026-09-04T11:00:07+00:00",
@@ -181,6 +175,12 @@
       "title": "Tervetuloa Hyvän tuulen festiin 5.9.2026",
       "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-fest/",
       "iso": "2026-09-02T13:31:11+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saukonpaadenrannan toimistorakennuksia koskeva varaus umpeutuu 31.12.2026",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskeva-varaus-umpeutuu-31-12-2026/",
+      "iso": "2026-09-02T13:30:10+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
