@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-20T06:41:39.167070+00:00",
+  "generated": "2026-09-20T11:49:30.371969+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -76,16 +76,16 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
-      "iso": "2026-09-10T11:45:36+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaareen rakennetaan väliaikainen leikkipaikka",
       "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-rakennetaan-valiaikainen-leikkipaikka",
       "iso": "2026-09-10T11:05:16+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
+      "iso": "2026-09-10T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Kehuttu kebab-​ravintola suljettiin - uusi tilalla - Helsingin Uutiset",
