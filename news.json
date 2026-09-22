@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T19:02:56.861385+00:00",
+  "generated": "2026-09-22T22:08:39.113611+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -10,9 +10,15 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä – joukkoon nousi viisi poimintaa Tampereelta - Aamulehti",
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Id3paWERsTnFLUTV2SkU0LXA0YTRJM2hDTHNESjVUWnFfOE9ZTTkyQ0k2Z3dNQnh2MC1Od1ZONkFkTUhhN3ZtTkE2NjJrMUlfelhvYmloNEhMWlJwYTBNdWdNVzRCekhERUE?oc=5",
+      "iso": "2026-09-21T19:16:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kahvilat | Suomen 30 parasta kahvilaa valittiin äänestyksessä - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNVIxM0Zzb29TMkI1MFFDUTRfUnV3aERqOWk3WlBZbm9ZWXE1dTVrSy0zRnZGT2FBd0VjR3kxeV9VMG16SGxNSjFqMjZhRlhIa3U4cExSaWU4Zw?oc=5",
-      "iso": "2026-09-21T17:49:18+00:00",
+      "iso": "2026-09-21T17:45:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/festit-kesaisessa-hyvantoivonpuistossa/",
       "iso": "2026-09-07T03:50:24+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Hyvän tuulen festiä vietettiin hyväntuulisissa tunnelmissa",
-      "link": "https://kaupunginosat.fi/jatkasaari/hyvan-tuulen-festia-vietettiin-hyvantuulisissa-tunnelmissa/",
-      "iso": "2026-09-06T07:40:03+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
