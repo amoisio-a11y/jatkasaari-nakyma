@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-23T00:32:22.116902+00:00",
+  "generated": "2026-09-23T05:11:51.144752+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" | Paikalliset - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iVFZZNWc2MmRoWWZQcE9VTEt4LVQ4ZG9PaUhFU3l5UnBncnp4ci1rcklXemRrQTN0M0ZhMFprRU9sdzQ1UjJaMHoxMkFDenY0aW1UZlp4em4xbnRkZ29PRw?oc=5",
+      "iso": "2026-09-23T03:45:00+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Yle.fi: Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja",
       "link": "https://kaupunginosat.fi/jatkasaari/yle-fi-jatkasaaren-aallonmurtaja-ei-ehka-kesta-luvattuja-saunoja-ja-pukukoppeja/",
@@ -176,12 +182,6 @@
       "link": "https://www.konservatorio.fi/uutiset/elakoon-helsinki-lied/",
       "iso": "2026-09-08T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Festit kesäisessä Hyväntoivonpuistossa",
-      "link": "https://www.ruoholahdensanomat.fi/festit-kesaisessa-hyvantoivonpuistossa/",
-      "iso": "2026-09-07T03:50:24+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
