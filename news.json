@@ -1,8 +1,26 @@
 {
-  "generated": "2026-09-24T15:22:20.756443+00:00",
+  "generated": "2026-09-24T19:23:33.992729+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Customer notice from Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=5193a99481",
+      "iso": "2026-09-24T19:07:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=85c6161f53",
+      "iso": "2026-09-24T19:06:32+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468709",
+      "iso": "2026-09-24T15:54:46+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
     {
       "title": "Sonckin talon ostaja on Lease Deal Group",
       "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
@@ -82,7 +100,7 @@
       "src": "Helsingin kaupunki"
     },
     {
-      "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle - sttinfo.fi",
+      "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle - STT Info",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkN1SlVta3lMLUtSM2ItRkpnVVJUNng3WXQzcGRHNFowODM5WGtpWnFfNkwtSURNaUlRNlExa1o0RExiUER5bUhsb0ZuSXRZZGJGcEozR1VRWDJKVWh2ZldvNGNxUXRwaHF5ZEtpMVdscWpmVnFDUWV4S2VmZTAzSlpkZjV2X0FUanhETkJGdV9ibFMyNlAxS0VkZjlwb3VhZTlQSjMtem53TkVrV1pMOV9sbnk2Ui16YlZLcWJQY185dw?oc=5",
       "iso": "2026-09-21T07:00:00+00:00",
       "src": "Google News"
@@ -164,24 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/kansanvalisen-koulun-laajennus-valmis-vuonna-2027/",
       "iso": "2026-09-11T03:08:04+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Jätkäsaareen rakennetaan väliaikainen leikkipaikka",
-      "link": "https://www.hel.fi/fi/uutiset/jatkasaareen-rakennetaan-valiaikainen-leikkipaikka",
-      "iso": "2026-09-10T11:05:16+00:00",
-      "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Jätkäsaareen tulee väliaikainen leikkipaikka - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9zNlVGLWRQUWk4anBVNm1WdGt5UVZyRW9CQW5fakV4Ylg0SkVjUks0TDYyclhLVjZZb1A4T2pfNlZ0WFNWWVVjUzBnODJKLXhwc3BsYnl5MWNpUjItb1FiSA?oc=5",
-      "iso": "2026-09-10T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Kehuttu kebab-​ravintola suljettiin - uusi tilalla - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
-      "iso": "2026-09-10T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
