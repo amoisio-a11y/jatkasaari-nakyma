@@ -1,8 +1,14 @@
 {
-  "generated": "2026-09-24T10:20:29.304735+00:00",
+  "generated": "2026-09-24T15:22:20.756443+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Sonckin talon ostaja on Lease Deal Group",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
+      "iso": "2026-09-24T11:23:04+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Lapinlahden peruskorjauksen valmistelu jatkuu yhteistyössä kaupunkilaisten kanssa",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
@@ -34,7 +40,7 @@
       "src": "Google News"
     },
     {
-      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - areena.yle.fi",
+      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - Yle Areena",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T09:37:13+00:00",
       "src": "Google News"
@@ -52,7 +58,7 @@
       "src": "Google News"
     },
     {
-      "title": "Kahvilat | Suomen 30 parasta kahvilaa valittiin äänestyksessä - HS.fi",
+      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNVIxM0Zzb29TMkI1MFFDUTRfUnV3aERqOWk3WlBZbm9ZWXE1dTVrSy0zRnZGT2FBd0VjR3kxeV9VMG16SGxNSjFqMjZhRlhIa3U4cExSaWU4Zw?oc=5",
       "iso": "2026-09-21T17:45:00+00:00",
       "src": "Google News"
@@ -76,7 +82,7 @@
       "src": "Helsingin kaupunki"
     },
     {
-      "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle - STT Info",
+      "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle - sttinfo.fi",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkN1SlVta3lMLUtSM2ItRkpnVVJUNng3WXQzcGRHNFowODM5WGtpWnFfNkwtSURNaUlRNlExa1o0RExiUER5bUhsb0ZuSXRZZGJGcEozR1VRWDJKVWh2ZldvNGNxUXRwaHF5ZEtpMVdscWpmVnFDUWV4S2VmZTAzSlpkZjV2X0FUanhETkJGdV9ibFMyNlAxS0VkZjlwb3VhZTlQSjMtem53TkVrV1pMOV9sbnk2Ui16YlZLcWJQY185dw?oc=5",
       "iso": "2026-09-21T07:00:00+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zaWEtXzF0c3lrZnpwS1RBZlJVbUgxbUlFZVBzSWlEbXhsaERtRnJWS0FkaHZLY1dXa3hLenFvdTkyYnQ2a0d6Q1h5RzBaampQanROTlJpRk92eVdjZVM0UQ?oc=5",
       "iso": "2026-09-10T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "KAAPELI on ylläpitänyt tiloja kulttuurin käytössä jo 35 vuotta - nyt sen mallista haetaan oppia kansainvälisesti",
-      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapeli-on-yllapitanyt-tiloja-kulttuurin-kaytossa-jo-35-vuotta-nyt-sen-mallista-haetaan-oppia-kansainvalisesti",
-      "iso": "2026-09-10T00:00:00+00:00",
-      "src": "Kaapelitehdas"
     }
   ]
 }
