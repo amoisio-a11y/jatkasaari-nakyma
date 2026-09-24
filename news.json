@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T19:23:33.992729+00:00",
+  "generated": "2026-09-24T22:37:31.446376+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -37,6 +37,12 @@
       "title": "Helsinki päätti 48 miljoonan euron uudesta pikaraitiotiestä – metroaseman uusi sisäänkäynti jää toteutumatta - Yle",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xVG83aGlFbFZId0lOZGxhckljWEV4d29KOUI5MkZPaG9rWWZWRnZWdmxCTEVuVkQzajVUNHIwVEJndw?oc=5",
       "iso": "2026-09-23T18:50:04+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "HU: Sarjapissaaja piinaa Helsingissä – asukas: Ainakin 15 tapausta - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MX0h3QUtCYkZxeHU3Zy1ObkhmYm9pd0syb2toLXN2dWc1OWlYdGNLcXdiRUZ3X3FDWkZjMXpjLUlnSXlBM0k4d2FUbEFLaDd5NHkxUGN5UENvV3JH?oc=5",
+      "iso": "2026-09-23T07:37:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468512",
       "iso": "2026-09-14T10:14:04+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Kansainvälisen koulun laajennus valmis vuonna 2027",
-      "link": "https://www.ruoholahdensanomat.fi/kansanvalisen-koulun-laajennus-valmis-vuonna-2027/",
-      "iso": "2026-09-11T03:08:04+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
