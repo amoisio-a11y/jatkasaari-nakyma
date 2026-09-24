@@ -1,8 +1,20 @@
 {
-  "generated": "2026-09-24T05:15:38.093805+00:00",
+  "generated": "2026-09-24T10:20:29.304735+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Lapinlahden peruskorjauksen valmistelu jatkuu yhteistyössä kaupunkilaisten kanssa",
+      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
+      "iso": "2026-09-24T08:05:05+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Helsinki päätti 48 miljoonan euron uudesta pikaraitiotiestä – metroaseman uusi sisäänkäynti jää toteutumatta - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xVG83aGlFbFZId0lOZGxhckljWEV4d29KOUI5MkZPaG9rWWZWRnZWdmxCTEVuVkQzajVUNHIwVEJndw?oc=5",
+      "iso": "2026-09-23T18:50:04+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Tule kuulemaan mitä Länsisatamassa tapahtuu lähitulevaisuudessa ja mistä asukkaat Jätkäsaaressa tykkäävät",
       "link": "https://kaupunginosat.fi/jatkasaari/tule-kuulemaan-mita-lansisatamassa-tapahtuu-lahitulevaisuudessa-ja-mista-asukkaat-jatkasaaressa-tykkaavat/",
@@ -22,7 +34,7 @@
       "src": "Google News"
     },
     {
-      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - Yle Areena",
+      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - areena.yle.fi",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T09:37:13+00:00",
       "src": "Google News"
@@ -170,18 +182,6 @@
       "link": "https://www.kaapelitehdas.fi/artikkelit/kaapeli-on-yllapitanyt-tiloja-kulttuurin-kaytossa-jo-35-vuotta-nyt-sen-mallista-haetaan-oppia-kansainvalisesti",
       "iso": "2026-09-10T00:00:00+00:00",
       "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Lapinlahti kuuluu kaikille – kerro se päättäjille valmiin kirjepohjan avulla!",
-      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahti-kuuluu-kaikille-kerro-se-paattajille-valmiin-kirjepohjan-avulla/",
-      "iso": "2026-09-09T10:22:36+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Kaikuja sairaalasta: Ensimmäinen lobotomialeikkaus",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/kaikuja-sairaalasta-ensimmainen-lobotomialeikkaus/",
-      "iso": "2026-09-08T10:46:56+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
