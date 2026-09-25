@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T05:47:27.100949+00:00",
+  "generated": "2026-09-25T11:07:22.322676+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -46,6 +46,12 @@
       "src": "Google News"
     },
     {
+      "title": "Helsinki lupasi pääkonttorin paikaksi kaupunginosan ainoan virkistysalueen - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yanI4NGp1ak05NlRPeVNVTzk0ZU1zdnFsaWhjSnlTQzl2d1k0dEhPNUg4QkJLTW16OEpRSEdhaUFMQQ?oc=5",
+      "iso": "2026-09-23T09:13:12+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "HU: Sarjapissaaja piinaa Helsingissä – asukas: Ainakin 15 tapausta - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MX0h3QUtCYkZxeHU3Zy1ObkhmYm9pd0syb2toLXN2dWc1OWlYdGNLcXdiRUZ3X3FDWkZjMXpjLUlnSXlBM0k4d2FUbEFLaDd5NHkxUGN5UENvV3JH?oc=5",
       "iso": "2026-09-23T07:37:00+00:00",
@@ -58,13 +64,13 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä | Paikalliset - Helsingin Uutiset",
+      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä | Paikalliset - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15T3p1UFVYNDJmcW16R3dUckFITktaMkE5V1Uzdm9ieGJMVktIcDg1VWo4d1hZSFN2NGs1aUN1M1kwZU1zcTFmbVptR2lrTkt0cUwxa3lfbmJtcEptVFczTA?oc=5",
       "iso": "2026-09-23T04:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" | Paikalliset - Helsingin Uutiset",
+      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" | Paikalliset - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iVFZZNWc2MmRoWWZQcE9VTEt4LVQ4ZG9PaUhFU3l5UnBncnp4ci1rcklXemRrQTN0M0ZhMFprRU9sdzQ1UjJaMHoxMkFDenY0aW1UZlp4em4xbnRkZ29PRw?oc=5",
       "iso": "2026-09-23T03:45:00+00:00",
       "src": "Google News"
@@ -100,7 +106,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - Helsingin Uutiset",
+      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - helsinginuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ucmdqc190MDdyQXhqSFExZURGSElOSXowQzN6akxlSkd0cXN0c1BLcGhkS2J0ZHpOaWNGRDdNdVBiRmdRNl9zWmtyWk9WZVBfaVdkSkEzTnNZeXZFS19EaA?oc=5",
       "iso": "2026-09-21T10:28:13+00:00",
       "src": "Google News"
@@ -112,7 +118,7 @@
       "src": "Helsingin kaupunki"
     },
     {
-      "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle - STT Info",
+      "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle - sttinfo.fi",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkN1SlVta3lMLUtSM2ItRkpnVVJUNng3WXQzcGRHNFowODM5WGtpWnFfNkwtSURNaUlRNlExa1o0RExiUER5bUhsb0ZuSXRZZGJGcEozR1VRWDJKVWh2ZldvNGNxUXRwaHF5ZEtpMVdscWpmVnFDUWV4S2VmZTAzSlpkZjV2X0FUanhETkJGdV9ibFMyNlAxS0VkZjlwb3VhZTlQSjMtem53TkVrV1pMOV9sbnk2Ui16YlZLcWJQY185dw?oc=5",
       "iso": "2026-09-21T07:00:00+00:00",
       "src": "Google News"
@@ -166,7 +172,7 @@
       "src": "Kaapelitehdas"
     },
     {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin kaupunki",
+      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - hel.fi",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
       "iso": "2026-09-16T07:00:00+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-jaalaranta-ja-halikarnas/",
       "iso": "2026-09-16T04:02:02+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Tiedote 15.9.2026: Kaikille avoimen Lapinlahden puolesta on julkaistu laaja vetoomus – allekirjoita!",
-      "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-15-9-2026-kaikille-avoimen-lapinlahden-puolesta-on-julkaistu-laaja-vetoomus-allekirjoita/",
-      "iso": "2026-09-15T10:01:24+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
