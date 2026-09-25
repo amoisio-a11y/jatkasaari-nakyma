@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-24T22:37:31.446376+00:00",
+  "generated": "2026-09-25T00:50:46.012260+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -32,6 +32,12 @@
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
       "iso": "2026-09-24T08:05:05+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
+      "iso": "2026-09-24T05:41:07+00:00",
+      "src": "Google News"
     },
     {
       "title": "Helsinki päätti 48 miljoonan euron uudesta pikaraitiotiestä – metroaseman uusi sisäänkäynti jää toteutumatta - Yle",
@@ -176,12 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-15-9-2026-kaikille-avoimen-lapinlahden-puolesta-on-julkaistu-laaja-vetoomus-allekirjoita/",
       "iso": "2026-09-15T10:01:24+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asukasilta 15.9.2026 kello 17:00 Clarionissa",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468512",
-      "iso": "2026-09-14T10:14:04+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
