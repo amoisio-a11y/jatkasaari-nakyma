@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-26T18:45:13.258141+00:00",
+  "generated": "2026-09-26T21:36:37.123113+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -70,13 +70,7 @@
       "src": "Google News"
     },
     {
-      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iVFZZNWc2MmRoWWZQcE9VTEt4LVQ4ZG9PaUhFU3l5UnBncnp4ci1rcklXemRrQTN0M0ZhMFprRU9sdzQ1UjJaMHoxMkFDenY0aW1UZlp4em4xbnRkZ29PRw?oc=5",
-      "iso": "2026-09-23T03:45:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - Yle Areena",
+      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - areena.yle.fi",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T09:37:13+00:00",
       "src": "Google News"
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-jaalaranta-ja-halikarnas/",
       "iso": "2026-09-16T04:02:02+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Tiedote 15.9.2026: Kaikille avoimen Lapinlahden puolesta on julkaistu laaja vetoomus – allekirjoita!",
+      "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-15-9-2026-kaikille-avoimen-lapinlahden-puolesta-on-julkaistu-laaja-vetoomus-allekirjoita/",
+      "iso": "2026-09-15T10:01:24+00:00",
+      "src": "Lapinlahden lähde"
     }
   ]
 }
