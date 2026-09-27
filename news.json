@@ -1,7 +1,7 @@
 {
-  "generated": "2026-09-27T18:55:47.551533+00:00",
+  "generated": "2026-09-27T21:50:28.335302+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
@@ -70,7 +70,13 @@
       "src": "Google News"
     },
     {
-      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - helsinginuutiset.fi",
+      "title": "Tule kuulemaan mitä Länsisatamassa tapahtuu lähitulevaisuudessa ja mistä asukkaat Jätkäsaaressa tykkäävät",
+      "link": "https://kaupunginosat.fi/jatkasaari/tule-kuulemaan-mita-lansisatamassa-tapahtuu-lahitulevaisuudessa-ja-mista-asukkaat-jatkasaaressa-tykkaavat/",
+      "iso": "2026-09-23T07:18:50+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15T3p1UFVYNDJmcW16R3dUckFITktaMkE5V1Uzdm9ieGJMVktIcDg1VWo4d1hZSFN2NGs1aUN1M1kwZU1zcTFmbVptR2lrTkt0cUwxa3lfbmJtcEptVFczTA?oc=5",
       "iso": "2026-09-23T04:00:00+00:00",
       "src": "Google News"
@@ -85,10 +91,10 @@
       "title": "Yle.fi: Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja",
       "link": "https://kaupunginosat.fi/jatkasaari/yle-fi-jatkasaaren-aallonmurtaja-ei-ehka-kesta-luvattuja-saunoja-ja-pukukoppeja/",
       "iso": "2026-09-22T06:38:01+00:00",
-      "src": "Jäkäsaari-seura"
+      "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä – joukkoon nousi viisi poimintaa Tampereelta - Aamulehti",
+      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä – joukkoon nousi viisi poimintaa Tampereelta - aamulehti.fi",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Id3paWERsTnFLUTV2SkU0LXA0YTRJM2hDTHNESjVUWnFfOE9ZTTkyQ0k2Z3dNQnh2MC1Od1ZONkFkTUhhN3ZtTkE2NjJrMUlfelhvYmloNEhMWlJwYTBNdWdNVzRCekhERUE?oc=5",
       "iso": "2026-09-21T19:16:00+00:00",
       "src": "Google News"
@@ -103,10 +109,10 @@
       "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle",
       "link": "https://kaupunginosat.fi/jatkasaari/jatkasaaren-uusi-maamerkki-nostaa-merenpinnan-taivaalle/",
       "iso": "2026-09-21T11:39:16+00:00",
-      "src": "Jäkäsaari-seura"
+      "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - helsinginuutiset.fi",
+      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ucmdqc190MDdyQXhqSFExZURGSElOSXowQzN6akxlSkd0cXN0c1BLcGhkS2J0ZHpOaWNGRDdNdVBiRmdRNl9zWmtyWk9WZVBfaVdkSkEzTnNZeXZFS19EaA?oc=5",
       "iso": "2026-09-21T10:28:13+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-jaalaranta-ja-halikarnas/",
       "iso": "2026-09-16T04:02:02+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Tiedote 15.9.2026: Kaikille avoimen Lapinlahden puolesta on julkaistu laaja vetoomus – allekirjoita!",
-      "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-15-9-2026-kaikille-avoimen-lapinlahden-puolesta-on-julkaistu-laaja-vetoomus-allekirjoita/",
-      "iso": "2026-09-15T10:01:24+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
