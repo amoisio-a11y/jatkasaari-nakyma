@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-27T21:50:28.335302+00:00",
+  "generated": "2026-09-28T00:17:33.568771+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -8,6 +8,12 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468767",
       "iso": "2026-09-27T16:26:45+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
+      "iso": "2026-09-27T04:00:35+00:00",
+      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin kaupunki",
@@ -44,12 +50,6 @@
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
       "iso": "2026-09-24T08:05:05+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-09-24T05:41:07+00:00",
-      "src": "Google News"
     },
     {
       "title": "Helsinki päätti 48 miljoonan euron uudesta pikaraitiotiestä – metroaseman uusi sisäänkäynti jää toteutumatta - Yle",
@@ -94,7 +94,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä – joukkoon nousi viisi poimintaa Tampereelta - aamulehti.fi",
+      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä – joukkoon nousi viisi poimintaa Tampereelta - Aamulehti",
       "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Id3paWERsTnFLUTV2SkU0LXA0YTRJM2hDTHNESjVUWnFfOE9ZTTkyQ0k2Z3dNQnh2MC1Od1ZONkFkTUhhN3ZtTkE2NjJrMUlfelhvYmloNEhMWlJwYTBNdWdNVzRCekhERUE?oc=5",
       "iso": "2026-09-21T19:16:00+00:00",
       "src": "Google News"
