@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T00:17:33.568771+00:00",
+  "generated": "2026-09-28T05:42:08.513666+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -94,13 +94,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä – joukkoon nousi viisi poimintaa Tampereelta - Aamulehti",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Id3paWERsTnFLUTV2SkU0LXA0YTRJM2hDTHNESjVUWnFfOE9ZTTkyQ0k2Z3dNQnh2MC1Od1ZONkFkTUhhN3ZtTkE2NjJrMUlfelhvYmloNEhMWlJwYTBNdWdNVzRCekhERUE?oc=5",
-      "iso": "2026-09-21T19:16:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä - HS.fi",
+      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä - hs.fi",
       "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ZNVIxM0Zzb29TMkI1MFFDUTRfUnV3aERqOWk3WlBZbm9ZWXE1dTVrSy0zRnZGT2FBd0VjR3kxeV9VMG16SGxNSjFqMjZhRlhIa3U4cExSaWU4Zw?oc=5",
       "iso": "2026-09-21T17:45:00+00:00",
       "src": "Google News"
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-jaalaranta-ja-halikarnas/",
       "iso": "2026-09-16T04:02:02+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Tiedote 15.9.2026: Kaikille avoimen Lapinlahden puolesta on julkaistu laaja vetoomus – allekirjoita!",
+      "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-15-9-2026-kaikille-avoimen-lapinlahden-puolesta-on-julkaistu-laaja-vetoomus-allekirjoita/",
+      "iso": "2026-09-15T10:01:24+00:00",
+      "src": "Lapinlahden lähde"
     }
   ]
 }
