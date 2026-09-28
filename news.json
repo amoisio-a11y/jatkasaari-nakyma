@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T12:00:48.392444+00:00",
+  "generated": "2026-09-28T19:36:00.417927+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -14,6 +14,12 @@
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
       "iso": "2026-09-28T08:56:51+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Maakunnallisten soitinten hakuaika on 1.-30.10.",
+      "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
+      "iso": "2026-09-28T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
     },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
@@ -94,7 +100,7 @@
       "src": "Google News"
     },
     {
-      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - Yle Areena",
+      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - areena.yle.fi",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T09:37:13+00:00",
       "src": "Google News"
@@ -174,12 +180,6 @@
     {
       "title": "Kaapelitehdas on suomalaisen muotoilun koti",
       "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-on-suomalaisen-muotoilun-koti",
-      "iso": "2026-09-17T00:00:00+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Kaapelitehdas kokoaa kulttuuria graffitista nykytanssiin",
-      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-kokoaa-kulttuuria-graffitista-nykytanssiin",
       "iso": "2026-09-17T00:00:00+00:00",
       "src": "Kaapelitehdas"
     }
