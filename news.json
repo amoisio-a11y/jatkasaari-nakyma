@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T16:47:22.959024+00:00",
+  "generated": "2026-09-29T21:15:44.116173+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -26,12 +26,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468767",
       "iso": "2026-09-27T16:26:45+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Jätkäsaareen aiotaan rakentaa uusi kelluva hyvinvointikeskus - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5VRGo1dEhZSmQ2WEEzaEt6SThjSWczWUtDbjVxYzAwQ01UTDcySVRzT0dhQVFqVjQ2MWFiMjNJRF9tZlZ6Y2ZZVHIteFlfeFRHS3BqdDR3?oc=5",
-      "iso": "2026-09-27T04:00:35+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin kaupunki",
@@ -94,7 +88,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - helsinginuutiset.fi",
+      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15T3p1UFVYNDJmcW16R3dUckFITktaMkE5V1Uzdm9ieGJMVktIcDg1VWo4d1hZSFN2NGs1aUN1M1kwZU1zcTFmbVptR2lrTkt0cUwxa3lfbmJtcEptVFczTA?oc=5",
       "iso": "2026-09-23T04:00:00+00:00",
       "src": "Google News"
@@ -136,7 +130,7 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - helsinginuutiset.fi",
+      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ucmdqc190MDdyQXhqSFExZURGSElOSXowQzN6akxlSkd0cXN0c1BLcGhkS2J0ZHpOaWNGRDdNdVBiRmdRNl9zWmtyWk9WZVBfaVdkSkEzTnNZeXZFS19EaA?oc=5",
       "iso": "2026-09-21T07:00:00+00:00",
       "src": "Google News"
@@ -180,6 +174,12 @@
     {
       "title": "Kaapelitehdas on suomalaisen muotoilun koti",
       "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-on-suomalaisen-muotoilun-koti",
+      "iso": "2026-09-17T00:00:00+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Kaapelitehdas kokoaa kulttuuria graffitista nykytanssiin",
+      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-kokoaa-kulttuuria-graffitista-nykytanssiin",
       "iso": "2026-09-17T00:00:00+00:00",
       "src": "Kaapelitehdas"
     }
