@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T01:19:28.428366+00:00",
+  "generated": "2026-10-01T07:30:14.403903+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -16,7 +16,7 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "STT:n toiminta uhkaa päättyä – 95 työpaikkaa vaarassa - verkkouutiset.fi",
+      "title": "STT:n toiminta uhkaa päättyä – 95 työpaikkaa vaarassa - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhoWVJWNDZ4N0ItaTZTeUZCQ2FqdnV1YmU1ZGJ1Z19ENVBaejZvalYwM1FRUXVycjZsUlV2Zi1aMnFrcW41WjJuQWVaRlJRaU5mTG1tZzF3a1FFZFVmWWpPSzhDU0U3UzRxMU0wYUFTcFhGR2FMaW50cDdRbS1tNHhDdG5rdGwzRWc?oc=5",
       "iso": "2026-09-30T10:21:44+00:00",
       "src": "Google News"
@@ -112,7 +112,13 @@
       "src": "Google News"
     },
     {
-      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - Yle Areena",
+      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" - helsinginuutiset.fi",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iVFZZNWc2MmRoWWZQcE9VTEt4LVQ4ZG9PaUhFU3l5UnBncnp4ci1rcklXemRrQTN0M0ZhMFprRU9sdzQ1UjJaMHoxMkFDenY0aW1UZlp4em4xbnRkZ29PRw?oc=5",
+      "iso": "2026-09-23T03:45:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - areena.yle.fi",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T09:37:13+00:00",
       "src": "Google News"
@@ -176,12 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/lasten-luontosuhde-ei-synny-itsestaan-uusi-opas-ja-vinkkikortit-kasvattajille-julkaistu/",
       "iso": "2026-09-17T10:49:29+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Kaapelitehdas kokoaa kulttuuria graffitista nykytanssiin",
-      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-kokoaa-kulttuuria-graffitista-nykytanssiin",
-      "iso": "2026-09-17T00:00:00+00:00",
-      "src": "Kaapelitehdas"
     }
   ]
 }
