@@ -1,8 +1,20 @@
 {
-  "generated": "2026-10-01T07:30:14.403903+00:00",
+  "generated": "2026-10-01T14:43:25.488386+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
+      "iso": "2026-10-01T13:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Customer notice from Jätkäsaaren Pysäköinti",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468785",
+      "iso": "2026-10-01T13:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468771",
@@ -106,19 +118,19 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - helsinginuutiset.fi",
+      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15T3p1UFVYNDJmcW16R3dUckFITktaMkE5V1Uzdm9ieGJMVktIcDg1VWo4d1hZSFN2NGs1aUN1M1kwZU1zcTFmbVptR2lrTkt0cUwxa3lfbmJtcEptVFczTA?oc=5",
       "iso": "2026-09-23T04:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" - helsinginuutiset.fi",
+      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iVFZZNWc2MmRoWWZQcE9VTEt4LVQ4ZG9PaUhFU3l5UnBncnp4ci1rcklXemRrQTN0M0ZhMFprRU9sdzQ1UjJaMHoxMkFDenY0aW1UZlp4em4xbnRkZ29PRw?oc=5",
       "iso": "2026-09-23T03:45:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - areena.yle.fi",
+      "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - Yle Areena",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T09:37:13+00:00",
       "src": "Google News"
@@ -148,7 +160,7 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - helsinginuutiset.fi",
+      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ucmdqc190MDdyQXhqSFExZURGSElOSXowQzN6akxlSkd0cXN0c1BLcGhkS2J0ZHpOaWNGRDdNdVBiRmdRNl9zWmtyWk9WZVBfaVdkSkEzTnNZeXZFS19EaA?oc=5",
       "iso": "2026-09-21T07:00:00+00:00",
       "src": "Google News"
@@ -169,18 +181,6 @@
       "title": "Tiesitkö jo nämä asiat Lapinlahdesta?",
       "link": "https://lapinlahdenlahde.fi/artikkelit/tiesitko-jo-nama-asiat-lapinlahdesta/",
       "iso": "2026-09-18T11:24:25+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468591",
-      "iso": "2026-09-17T13:32:43+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Lasten luontosuhde ei synny itsestään – uusi opas ja vinkkikortit kasvattajille julkaistu",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/lasten-luontosuhde-ei-synny-itsestaan-uusi-opas-ja-vinkkikortit-kasvattajille-julkaistu/",
-      "iso": "2026-09-17T10:49:29+00:00",
       "src": "Lapinlahden lähde"
     }
   ]
