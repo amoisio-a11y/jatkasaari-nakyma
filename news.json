@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T19:51:40.556077+00:00",
+  "generated": "2026-10-01T23:40:54.565299+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -100,16 +100,16 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "Helsinki päätti 48 miljoonan euron uudesta pikaraitiotiestä – metroaseman uusi sisäänkäynti jää toteutumatta - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xVG83aGlFbFZId0lOZGxhckljWEV4d29KOUI5MkZPaG9rWWZWRnZWdmxCTEVuVkQzajVUNHIwVEJndw?oc=5",
-      "iso": "2026-09-23T18:50:04+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Tule kuulemaan mitä Länsisatamassa tapahtuu lähitulevaisuudessa ja mistä asukkaat Jätkäsaaressa tykkäävät",
       "link": "https://kaupunginosat.fi/jatkasaari/tule-kuulemaan-mita-lansisatamassa-tapahtuu-lahitulevaisuudessa-ja-mista-asukkaat-jatkasaaressa-tykkaavat/",
       "iso": "2026-09-23T07:18:50+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Helsinki päätti 48 miljoonan euron uudesta pikaraitiotiestä – metroaseman uusi sisäänkäynti jää toteutumatta - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE0xVG83aGlFbFZId0lOZGxhckljWEV4d29KOUI5MkZPaG9rWWZWRnZWdmxCTEVuVkQzajVUNHIwVEJndw?oc=5",
+      "iso": "2026-09-23T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - Helsingin Uutiset",
