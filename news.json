@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T14:43:25.488386+00:00",
+  "generated": "2026-10-01T19:51:40.556077+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -106,12 +106,6 @@
       "src": "Google News"
     },
     {
-      "title": "Helsinki lupasi pääkonttorin paikaksi kaupunginosan ainoan virkistysalueen - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yanI4NGp1ak05NlRPeVNVTzk0ZU1zdnFsaWhjSnlTQzl2d1k0dEhPNUg4QkJLTW16OEpRSEdhaUFMQQ?oc=5",
-      "iso": "2026-09-23T09:13:12+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Tule kuulemaan mitä Länsisatamassa tapahtuu lähitulevaisuudessa ja mistä asukkaat Jätkäsaaressa tykkäävät",
       "link": "https://kaupunginosat.fi/jatkasaari/tule-kuulemaan-mita-lansisatamassa-tapahtuu-lahitulevaisuudessa-ja-mista-asukkaat-jatkasaaressa-tykkaavat/",
       "iso": "2026-09-23T07:18:50+00:00",
@@ -133,6 +127,12 @@
       "title": "Jättimäisiä pääkonttoreita suunnitellaan Jätkäsaareen – asukkaat vastustavat - Yle Areena",
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T09:37:13+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki lupasi pääkonttorin paikaksi kaupunginosan tärkeän virkistysalueen - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9yanI4NGp1ak05NlRPeVNVTzk0ZU1zdnFsaWhjSnlTQzl2d1k0dEhPNUg4QkJLTW16OEpRSEdhaUFMQQ?oc=5",
+      "iso": "2026-09-22T07:00:00+00:00",
       "src": "Google News"
     },
     {
