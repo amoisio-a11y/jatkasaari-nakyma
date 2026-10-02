@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-02T02:35:11.805267+00:00",
+  "generated": "2026-10-02T09:01:11.772306+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
@@ -34,6 +34,12 @@
       "src": "Google News"
     },
     {
+      "title": "Lähde lähialueen taideteoskierrokselle",
+      "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
+      "iso": "2026-09-30T07:23:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "Customer notice from Jätkäsaaren Pysäköinti",
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
       "iso": "2026-09-28T08:57:33+00:00",
@@ -58,7 +64,7 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - Helsingin kaupunki",
+      "title": "Jätkäsaaren siltaremontti etenee – liikennejärjestelyt muuttuvat - hel.fi",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
       "iso": "2026-09-25T07:00:00+00:00",
       "src": "Google News"
@@ -82,10 +88,22 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
+      "title": "Sonckin talon ostaja on Lease Deal Group",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
+      "iso": "2026-09-24T11:23:04+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "Lapinlahden peruskorjauksen valmistelu jatkuu yhteistyössä kaupunkilaisten kanssa",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
       "iso": "2026-09-24T08:05:05+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "HU: Sarjapissaaja piinaa Helsingissä – asukas: Ainakin 15 tapausta - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MX0h3QUtCYkZxeHU3Zy1ObkhmYm9pd0syb2toLXN2dWc1OWlYdGNLcXdiRUZ3X3FDWkZjMXpjLUlnSXlBM0k4d2FUbEFLaDd5NHkxUGN5UENvV3JH?oc=5",
+      "iso": "2026-09-23T07:37:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Tule kuulemaan mitä Länsisatamassa tapahtuu lähitulevaisuudessa ja mistä asukkaat Jätkäsaaressa tykkäävät",
@@ -164,24 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/tiesitko-jo-nama-asiat-lapinlahdesta/",
       "iso": "2026-09-18T11:24:25+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Lasten luontosuhde ei synny itsestään – uusi opas ja vinkkikortit kasvattajille julkaistu",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/lasten-luontosuhde-ei-synny-itsestaan-uusi-opas-ja-vinkkikortit-kasvattajille-julkaistu/",
-      "iso": "2026-09-17T10:49:29+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Kaapelitehdas kokoaa kulttuuria graffitista nykytanssiin",
-      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-kokoaa-kulttuuria-graffitista-nykytanssiin",
-      "iso": "2026-09-17T00:00:00+00:00",
-      "src": "Kaapelitehdas"
-    },
-    {
-      "title": "Kaapelitehdas nostaa katutaidetta esille sen eri muodoissa",
-      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-nostaa-katutaidetta-esille-sen-eri-muodoissa",
-      "iso": "2026-09-17T00:00:00+00:00",
-      "src": "Kaapelitehdas"
     }
   ]
 }
