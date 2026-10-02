@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-01T23:40:54.565299+00:00",
+  "generated": "2026-10-02T02:35:11.805267+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
       "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
@@ -32,12 +32,6 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhoWVJWNDZ4N0ItaTZTeUZCQ2FqdnV1YmU1ZGJ1Z19ENVBaejZvalYwM1FRUXVycjZsUlV2Zi1aMnFrcW41WjJuQWVaRlJRaU5mTG1tZzF3a1FFZFVmWWpPSzhDU0U3UzRxMU0wYUFTcFhGR2FMaW50cDdRbS1tNHhDdG5rdGwzRWc?oc=5",
       "iso": "2026-09-30T10:21:44+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Lähde lähialueen taideteoskierrokselle",
-      "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
-      "iso": "2026-09-30T07:23:24+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Customer notice from Jätkäsaaren Pysäköinti",
@@ -88,12 +82,6 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Sonckin talon ostaja on Lease Deal Group",
-      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
-      "iso": "2026-09-24T11:23:04+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
       "title": "Lapinlahden peruskorjauksen valmistelu jatkuu yhteistyössä kaupunkilaisten kanssa",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
       "iso": "2026-09-24T08:05:05+00:00",
@@ -115,12 +103,6 @@
       "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15T3p1UFVYNDJmcW16R3dUckFITktaMkE5V1Uzdm9ieGJMVktIcDg1VWo4d1hZSFN2NGs1aUN1M1kwZU1zcTFmbVptR2lrTkt0cUwxa3lfbmJtcEptVFczTA?oc=5",
       "iso": "2026-09-23T04:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Sarjapissaaja piinaa Hekan taloa Jätkäsaaressa, kerran jopa kakkaa – \"Ainakin 15 tapausta\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iVFZZNWc2MmRoWWZQcE9VTEt4LVQ4ZG9PaUhFU3l5UnBncnp4ci1rcklXemRrQTN0M0ZhMFprRU9sdzQ1UjJaMHoxMkFDenY0aW1UZlp4em4xbnRkZ29PRw?oc=5",
-      "iso": "2026-09-23T03:45:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +164,24 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/tiesitko-jo-nama-asiat-lapinlahdesta/",
       "iso": "2026-09-18T11:24:25+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Lasten luontosuhde ei synny itsestään – uusi opas ja vinkkikortit kasvattajille julkaistu",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/lasten-luontosuhde-ei-synny-itsestaan-uusi-opas-ja-vinkkikortit-kasvattajille-julkaistu/",
+      "iso": "2026-09-17T10:49:29+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Kaapelitehdas kokoaa kulttuuria graffitista nykytanssiin",
+      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-kokoaa-kulttuuria-graffitista-nykytanssiin",
+      "iso": "2026-09-17T00:00:00+00:00",
+      "src": "Kaapelitehdas"
+    },
+    {
+      "title": "Kaapelitehdas nostaa katutaidetta esille sen eri muodoissa",
+      "link": "https://www.kaapelitehdas.fi/artikkelit/kaapelitehdas-nostaa-katutaidetta-esille-sen-eri-muodoissa",
+      "iso": "2026-09-17T00:00:00+00:00",
+      "src": "Kaapelitehdas"
     }
   ]
 }
