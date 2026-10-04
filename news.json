@@ -1,14 +1,8 @@
 {
-  "generated": "2026-10-03T21:37:53.251193+00:00",
+  "generated": "2026-10-04T00:03:27.532649+00:00",
   "count": 30,
   "failed": 0,
   "items": [
-    {
-      "title": "Joukko puolialastomia ihmisiä pelmahti kadulle Helsingissä - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QThIRHdGMnhjcmhtakhlYTQxdENOOEl6TXB0MVpMUVFMR3lla1RsRnJNcHVucGRsMkNhaXhXSjMtMlMtZ21QUFRYN05EdDYteUxkck1KMVdtU2tM?oc=5",
-      "iso": "2026-10-03T20:02:15+00:00",
-      "src": "Google News"
-    },
     {
       "title": "Kaikuja sairaalasta: Lue potilaan vuonna 1890 kirjoittama satiirinen runo",
       "link": "https://lapinlahdenlahde.fi/artikkelit/kaikuja-sairaalasta-lue-potilaan-vuonna-1890-kirjoittama-runo/",
@@ -118,7 +112,7 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "HU: Sarjapissaaja piinaa Helsingissä – asukas: Ainakin 15 tapausta - Ilta-Sanomat",
+      "title": "HU: Sarjapissaaja piinaa Helsingissä – asukas: Ainakin 15 tapausta - is.fi",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9MX0h3QUtCYkZxeHU3Zy1ObkhmYm9pd0syb2toLXN2dWc1OWlYdGNLcXdiRUZ3X3FDWkZjMXpjLUlnSXlBM0k4d2FUbEFLaDd5NHkxUGN5UENvV3JH?oc=5",
       "iso": "2026-09-23T07:37:00+00:00",
       "src": "Google News"
@@ -182,6 +176,12 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468597",
       "iso": "2026-09-20T13:30:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Tiesitkö jo nämä asiat Lapinlahdesta?",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/tiesitko-jo-nama-asiat-lapinlahdesta/",
+      "iso": "2026-09-18T11:24:25+00:00",
+      "src": "Lapinlahden lähde"
     }
   ]
 }
