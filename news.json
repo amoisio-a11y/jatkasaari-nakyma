@@ -1,13 +1,19 @@
 {
-  "generated": "2026-10-07T13:47:14.349129+00:00",
+  "generated": "2026-10-07T19:44:40.207237+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "HIFK:n suosittu kuntofutis Jätkäsaaren liikuntahallilla sunnuntaisin - HIFK Fotboll",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pScFR3T0lGa1J6VTJVSVVEWWp4MndCV05mcmV0MWZyWmxzMkZONV9WTndLRXlTMm5XTDAtVE94OVJIRjFjbFdwLVlocEp6YVZUeUNBTWdob1JIbmJISFRDdzhIZC1MUHcwSnNzeHNobXkwbU5TV2JGQVBKWmtJT19jZGMxb1RkWVdIRVlnd1hTVTFGVzY2YW4xV0JYMnh3?oc=5",
       "iso": "2026-10-06T14:32:06+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Anna Hanskin Jätkäsaaren-baarissa jonoa avauspäivänä",
+      "link": "https://www.ruoholahdensanomat.fi/anna-hanskin-jatkasaaren-baarissa-jonoa-avauspaivana/",
+      "iso": "2026-10-06T10:34:01+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Metallikierrätyslava: MIELILAVA – kierrätä ja auta!",
@@ -76,6 +82,12 @@
       "src": "Google News"
     },
     {
+      "title": "Lähde lähialueen taideteoskierrokselle",
+      "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
+      "iso": "2026-09-30T07:23:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "Customer notice from Jätkäsaaren Pysäköinti",
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
       "iso": "2026-09-28T08:57:33+00:00",
@@ -124,6 +136,12 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
+      "title": "Sonckin talon ostaja on Lease Deal Group",
+      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
+      "iso": "2026-09-24T11:23:04+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "Lapinlahden peruskorjauksen valmistelu jatkuu yhteistyössä kaupunkilaisten kanssa",
       "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
       "iso": "2026-09-24T08:05:05+00:00",
@@ -164,24 +182,6 @@
       "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-ylla-kelluvat-veneet-saavat-avajaisensa-tilaisuus-on-avoin-kaikille",
       "iso": "2026-09-21T07:00:31+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Jätkäsaaren uusi maamerkki nostaa merenpinnan taivaalle - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZkN1SlVta3lMLUtSM2ItRkpnVVJUNng3WXQzcGRHNFowODM5WGtpWnFfNkwtSURNaUlRNlExa1o0RExiUER5bUhsb0ZuSXRZZGJGcEozR1VRWDJKVWh2ZldvNGNxUXRwaHF5ZEtpMVdscWpmVnFDUWV4S2VmZTAzSlpkZjV2X0FUanhETkJGdV9ibFMyNlAxS0VkZjlwb3VhZTlQSjMtem53TkVrV1pMOV9sbnk2Ui16YlZLcWJQY185dw?oc=5",
-      "iso": "2026-09-21T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaareen uusi maamerkki – 20-metrinen teos näkyy kauas - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Ucmdqc190MDdyQXhqSFExZURGSElOSXowQzN6akxlSkd0cXN0c1BLcGhkS2J0ZHpOaWNGRDdNdVBiRmdRNl9zWmtyWk9WZVBfaVdkSkEzTnNZeXZFS19EaA?oc=5",
-      "iso": "2026-09-21T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Suomen 30 parasta kahvilaa valittiin äänestyksessä – joukkoon nousi viisi poimintaa Tampereelta - Aamulehti",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1Id3paWERsTnFLUTV2SkU0LXA0YTRJM2hDTHNESjVUWnFfOE9ZTTkyQ0k2Z3dNQnh2MC1Od1ZONkFkTUhhN3ZtTkE2NjJrMUlfelhvYmloNEhMWlJwYTBNdWdNVzRCekhERUE?oc=5",
-      "iso": "2026-09-21T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
