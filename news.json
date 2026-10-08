@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-08T04:28:06.201614+00:00",
+  "generated": "2026-10-08T11:33:13.986920+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Kierrätä tavarasi Rööri-päivänä",
+      "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
+      "iso": "2026-10-08T06:12:02+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "HIFK:n suosittu kuntofutis Jätkäsaaren liikuntahallilla sunnuntaisin - HIFK Fotboll",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pScFR3T0lGa1J6VTJVSVVEWWp4MndCV05mcmV0MWZyWmxzMkZONV9WTndLRXlTMm5XTDAtVE94OVJIRjFjbFdwLVlocEp6YVZUeUNBTWdob1JIbmJISFRDdzhIZC1MUHcwSnNzeHNobXkwbU5TV2JGQVBKWmtJT19jZGMxb1RkWVdIRVlnd1hTVTFGVzY2YW4xV0JYMnh3?oc=5",
@@ -176,12 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/jatkasaaren-uusi-maamerkki-nostaa-merenpinnan-taivaalle/",
       "iso": "2026-09-21T11:39:16+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaaren yllä kelluvat veneet saavat avajaisensa – tilaisuus on avoin kaikille",
-      "link": "https://www.hel.fi/fi/uutiset/jatkasaaren-ylla-kelluvat-veneet-saavat-avajaisensa-tilaisuus-on-avoin-kaikille",
-      "iso": "2026-09-21T07:00:31+00:00",
-      "src": "Helsingin kaupunki"
     }
   ]
 }
