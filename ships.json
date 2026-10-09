@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T03:34:53.464422Z",
+  "generated": "2026-10-09T10:53:27.420040Z",
   "arrivals": [
     {
       "name": "MyStar",
@@ -9,17 +9,17 @@
     {
       "name": "Finlandia",
       "agent": "Eckerö Line Ab Oy",
-      "arrTime": "2026-10-09T05:15:00Z"
+      "arrTime": "2026-10-09T05:17:00Z"
     },
     {
       "name": "Megastar",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-10-09T06:30:00Z"
+      "arrTime": "2026-10-09T06:31:00Z"
     },
     {
       "name": "MyStar",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-10-09T09:30:00Z"
+      "arrTime": "2026-10-09T09:32:00Z"
     },
     {
       "name": "Finlandia",
