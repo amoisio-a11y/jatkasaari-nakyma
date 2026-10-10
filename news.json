@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-10T01:16:21.257726+00:00",
+  "generated": "2026-10-10T07:30:07.943485+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -8,6 +8,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82aFhVRGd6VHNvNjJEQkk5dTJGbUJqNWVoMmlOTXVQY1BfWTE3QTBTZWNKczlJbEZFUTdPYVhwU19uSjBIRU43WXVqVk9FMHNDRVFWNnZTVTZYVHR0SUFYTA?oc=5",
       "iso": "2026-10-09T12:01:43+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
+      "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
+      "iso": "2026-10-09T06:55:12+00:00",
+      "src": "Helsingin kaupunki"
     },
     {
       "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen - Helsingin kaupunki",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBRV2NDMngxcGJYNE1sbjRyUXdGdEFfN0l4aWdIM0Y0Vmp0Y1VMa3NCS3Y3NWVRNEluVHZNYmJJUmZCbENQYWdz?oc=5",
       "iso": "2026-09-22T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Yle.fi: Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja",
-      "link": "https://kaupunginosat.fi/jatkasaari/yle-fi-jatkasaaren-aallonmurtaja-ei-ehka-kesta-luvattuja-saunoja-ja-pukukoppeja/",
-      "iso": "2026-09-22T06:38:01+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
