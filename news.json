@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-12T17:43:11.957890+00:00",
+  "generated": "2026-10-12T23:46:34.363899+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Kiistelty maamerkki on nyt purettu Jätkäsaaressa – tämä rakennetaan tilalle | Paikalliset - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSjh6SmtCWDZpMzNobk5UaVBPYVBWVDRQNXhsMFQxcl9XSzY0MGpNWENmUExMWFl3aklsY0dOWnVZdW9qUGQtNV9LbzNsTEdqeE12R1NiWUxIYlZnWTlQTA?oc=5",
+      "iso": "2026-10-12T17:05:00+00:00",
+      "src": "Google News"
+    },
     {
       "title": "HU: Sarjapissaaja iski jälleen - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmFTdTA0TFNuY1RFT1E4U3JrUC1FR0JEQ2ZoenNXSWtmZm0tU082SHJsVmxzcHBEWUVpekZDRWlFT3ZFTWFMcXR6NGFkOTlRa1JodmJpSW9zMGtZ?oc=5",
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
       "iso": "2026-09-24T11:23:04+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Lapinlahden peruskorjauksen valmistelu jatkuu yhteistyössä kaupunkilaisten kanssa",
-      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
-      "iso": "2026-09-24T08:05:05+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
