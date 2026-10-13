@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-13T12:52:43.749023+00:00",
+  "generated": "2026-10-13T19:44:09.614229+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
+      "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
+      "iso": "2026-10-13T13:25:19+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Kiistelty maamerkki on nyt purettu Jätkäsaaressa – tämä rakennetaan tilalle | Paikalliset - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSjh6SmtCWDZpMzNobk5UaVBPYVBWVDRQNXhsMFQxcl9XSzY0MGpNWENmUExMWFl3aklsY0dOWnVZdW9qUGQtNV9LbzNsTEdqeE12R1NiWUxIYlZnWTlQTA?oc=5",
@@ -176,12 +182,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468709",
       "iso": "2026-09-24T15:54:46+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Sonckin talon ostaja on Lease Deal Group",
-      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
-      "iso": "2026-09-24T11:23:04+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
