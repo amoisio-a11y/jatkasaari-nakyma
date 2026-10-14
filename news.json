@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T23:26:54.084013+00:00",
+  "generated": "2026-10-14T02:04:22.222478+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -34,6 +34,12 @@
       "src": "Google News"
     },
     {
+      "title": "Jätkäsaaren siltaremontti etenee – meripenkerettä puretaan vaiheittain - Helsingin kaupunki",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
+      "iso": "2026-10-09T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
       "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
       "iso": "2026-10-09T06:55:12+00:00",
@@ -50,6 +56,12 @@
       "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
       "iso": "2026-10-08T06:12:02+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "HIFK:n suosittu kuntofutis Jätkäsaaren liikuntahallilla sunnuntaisin - HIFK Fotboll",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pScFR3T0lGa1J6VTJVSVVEWWp4MndCV05mcmV0MWZyWmxzMkZONV9WTndLRXlTMm5XTDAtVE94OVJIRjFjbFdwLVlocEp6YVZUeUNBTWdob1JIbmJISFRDdzhIZC1MUHcwSnNzeHNobXkwbU5TV2JGQVBKWmtJT19jZGMxb1RkWVdIRVlnd1hTVTFGVzY2YW4xV0JYMnh3?oc=5",
+      "iso": "2026-10-06T14:32:06+00:00",
+      "src": "Google News"
     },
     {
       "title": "Anna Hanskin Jätkäsaaren-baarissa jonoa avauspäivänä",
@@ -70,10 +82,28 @@
       "src": "Lapinlahden lähde"
     },
     {
+      "title": "Joukko puolialastomia ihmisiä pelmahti kadulle Helsingissä - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE91QThIRHdGMnhjcmhtakhlYTQxdENOOEl6TXB0MVpMUVFMR3lla1RsRnJNcHVucGRsMkNhaXhXSjMtMlMtZ21QUFRYN05EdDYteUxkck1KMVdtU2tM?oc=5",
+      "iso": "2026-10-03T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Kaikuja sairaalasta: Lue potilaan vuonna 1890 kirjoittama satiirinen runo",
       "link": "https://lapinlahdenlahde.fi/artikkelit/kaikuja-sairaalasta-lue-potilaan-vuonna-1890-kirjoittama-runo/",
       "iso": "2026-10-03T06:47:39+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Pikaraitiotie Länsisatamaan parantaa raitioliikenteen sujuvuutta ja kapasiteettia - Helsingin kaupunki",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUJ6YzVpMjFpckJ6T3V6dzBIaElyckxZU0pha3NRMDhEcVlYcFBLX1BJaGVWcXZwYTNCNVFTeklKZWQxU0dxbjNobHRLNTJ3MWItTW40SjJzbi1BcTIyN25PZW0xR1R0SUVBYWctT0hHX2dJTlVlQWRBZlJicF9IOVFGN2NzOGJ0dlFRdmdxeFA5WmxBdVVmQ04yU2lNd2VjdkRtdVhtN1VYR1l1XzBmRg?oc=5",
+      "iso": "2026-10-02T12:09:35+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Heikki Vestman: Vieraan vallan agenteille ei pidä antaa kotirauhan suojaa - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckVNWU9sbGxaUndHWGhLd2RXTDNJZzk1VUhUWGk4WEdoaTBGRy0zU1N6T005UWFrMC0tX2NfQzZHbmU3V0I3U0s2WXJ1eFplZy16bXFuanBfZno5X21MX1pZcWlNZU9SVUhYOXF5OGFNb0ljdnRNT2luWXBsYXZfZmx5NVI4N3RnR1A3cTJCV2ZPSm94TlJzY2JTeHJYYjV4bXdOVEpwUQ?oc=5",
+      "iso": "2026-10-02T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
@@ -152,36 +182,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468709",
       "iso": "2026-09-24T15:54:46+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Sonckin talon ostaja on Lease Deal Group",
-      "link": "https://www.ruoholahdensanomat.fi/sonckin-talon-ostaja-on-lease-deal-group/",
-      "iso": "2026-09-24T11:23:04+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Lapinlahden peruskorjauksen valmistelu jatkuu yhteistyössä kaupunkilaisten kanssa",
-      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-peruskorjauksen-valmistelu-jatkuu-yhteistyossa-kaupunkilaisten-kanssa/",
-      "iso": "2026-09-24T08:05:05+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Tule kuulemaan mitä Länsisatamassa tapahtuu lähitulevaisuudessa ja mistä asukkaat Jätkäsaaressa tykkäävät",
-      "link": "https://kaupunginosat.fi/jatkasaari/tule-kuulemaan-mita-lansisatamassa-tapahtuu-lahitulevaisuudessa-ja-mista-asukkaat-jatkasaaressa-tykkaavat/",
-      "iso": "2026-09-23T07:18:50+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Uusi näyttely Ruoholahdessa pohtii ihmisten välistä etäisyyttä - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15T3p1UFVYNDJmcW16R3dUckFITktaMkE5V1Uzdm9ieGJMVktIcDg1VWo4d1hZSFN2NGs1aUN1M1kwZU1zcTFmbVptR2lrTkt0cUwxa3lfbmJtcEptVFczTA?oc=5",
-      "iso": "2026-09-23T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Yle.fi: Jätkäsaaren aallonmurtaja ei ehkä kestä luvattuja saunoja ja pukukoppeja",
-      "link": "https://kaupunginosat.fi/jatkasaari/yle-fi-jatkasaaren-aallonmurtaja-ei-ehka-kesta-luvattuja-saunoja-ja-pukukoppeja/",
-      "iso": "2026-09-22T06:38:01+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
