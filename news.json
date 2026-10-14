@@ -1,8 +1,26 @@
 {
-  "generated": "2026-10-14T07:37:13.241359+00:00",
+  "generated": "2026-10-14T13:05:11.264398+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Kristian Wahlbeck: Miten ehkäistä itsemurhia tehokkaasti?",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/kristian-wahlbeck-miten-ehkaista-itsemurhia-tehokkaasti/",
+      "iso": "2026-10-14T10:25:14+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Helenin ydinenergiahankkeen infotilaisuudet",
+      "link": "https://kaupunginosat.fi/jatkasaari/helenin-ydinenergiahankkeen-infotilaisuudet/",
+      "iso": "2026-10-14T08:36:14+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaari-seuran talousarvio vuodelle 2027",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-talousarvio-vuodelle-2027/",
+      "iso": "2026-10-14T07:45:20+00:00",
+      "src": "Kaupunginosat.fi"
+    },
     {
       "title": "Jätkäsaari-seuran toimintasuunnitelma vuodelle 2027",
       "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-toimintasuunnitelma-vuodelle-2027/",
@@ -163,24 +181,6 @@
       "title": "Customer notice from Jätkäsaaren Pysäköinti",
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
       "iso": "2026-09-28T08:57:33+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
-      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
-      "iso": "2026-09-28T08:56:51+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Maakunnallisten soitinten hakuaika on 1.-30.10.",
-      "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
-      "iso": "2026-09-28T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468767",
-      "iso": "2026-09-27T16:26:45+00:00",
       "src": "Jätkäsaaren pysäköinti"
     }
   ]
