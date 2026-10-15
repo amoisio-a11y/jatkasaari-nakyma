@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T14:17:51.156945+00:00",
+  "generated": "2026-10-15T18:29:17.224222+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -50,12 +50,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Kiistelty maamerkki on nyt purettu Jätkäsaaressa – tämä rakennetaan tilalle | Paikalliset - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSjh6SmtCWDZpMzNobk5UaVBPYVBWVDRQNXhsMFQxcl9XSzY0MGpNWENmUExMWFl3aklsY0dOWnVZdW9qUGQtNV9LbzNsTEdqeE12R1NiWUxIYlZnWTlQTA?oc=5",
-      "iso": "2026-10-12T17:05:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "HU: Sarjapissaaja iski jälleen - Ilta-Sanomat",
@@ -178,10 +172,16 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "STT:n toiminta uhkaa päättyä – 95 työpaikkaa vaarassa - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhoWVJWNDZ4N0ItaTZTeUZCQ2FqdnV1YmU1ZGJ1Z19ENVBaejZvalYwM1FRUXVycjZsUlV2Zi1aMnFrcW41WjJuQWVaRlJRaU5mTG1tZzF3a1FFZFVmWWpPSzhDU0U3UzRxMU0wYUFTcFhGR2FMaW50cDdRbS1tNHhDdG5rdGwzRWc?oc=5",
-      "iso": "2026-09-30T07:00:00+00:00",
-      "src": "Google News"
+      "title": "Customer notice from Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
+      "iso": "2026-09-28T08:57:33+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
+      "iso": "2026-09-28T08:56:51+00:00",
+      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
