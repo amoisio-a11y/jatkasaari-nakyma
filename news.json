@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T03:05:49.516677+00:00",
+  "generated": "2026-10-16T08:10:04.994428+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -67,12 +67,6 @@
       "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT055eUpfa1RUT3lldDFuaHpGSVNoMXFMUWpJVERQTkJaRktqa2pxbWZNMUM4ZVFMSElvQzZVTnltWnJxeVRkWkd4dy1ueVNVMWphWnRTbzhfcUU3ZDV1cQ?oc=5",
       "iso": "2026-10-11T17:10:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren siltaremontti etenee – tämä on tilanne nyt - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82aFhVRGd6VHNvNjJEQkk5dTJGbUJqNWVoMmlOTXVQY1BfWTE3QTBTZWNKczlJbEZFUTdPYVhwU19uSjBIRU43WXVqVk9FMHNDRVFWNnZTVTZYVHR0SUFYTA?oc=5",
-      "iso": "2026-10-09T12:01:43+00:00",
       "src": "Google News"
     },
     {
@@ -172,16 +166,22 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "STT:n toiminta uhkaa päättyä – 95 työpaikkaa vaarassa - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhoWVJWNDZ4N0ItaTZTeUZCQ2FqdnV1YmU1ZGJ1Z19ENVBaejZvalYwM1FRUXVycjZsUlV2Zi1aMnFrcW41WjJuQWVaRlJRaU5mTG1tZzF3a1FFZFVmWWpPSzhDU0U3UzRxMU0wYUFTcFhGR2FMaW50cDdRbS1tNHhDdG5rdGwzRWc?oc=5",
-      "iso": "2026-09-30T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Customer notice from Jätkäsaaren Pysäköinti",
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
       "iso": "2026-09-28T08:57:33+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
+      "iso": "2026-09-28T08:56:51+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Maakunnallisten soitinten hakuaika on 1.-30.10.",
+      "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
+      "iso": "2026-09-28T05:00:00+00:00",
+      "src": "Helsingin konservatorio"
     }
   ]
 }
