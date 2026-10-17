@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T05:35:40.009483+00:00",
+  "generated": "2026-10-17T09:41:10.710650+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -62,6 +62,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Kiistelty maamerkki on nyt purettu Jätkäsaaressa – tämä rakennetaan tilalle - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSjh6SmtCWDZpMzNobk5UaVBPYVBWVDRQNXhsMFQxcl9XSzY0MGpNWENmUExMWFl3aklsY0dOWnVZdW9qUGQtNV9LbzNsTEdqeE12R1NiWUxIYlZnWTlQTA?oc=5",
+      "iso": "2026-10-12T17:05:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "HU: Sarjapissaaja iski jälleen - Ilta-Sanomat",
@@ -175,12 +181,6 @@
       "title": "Customer notice from Jätkäsaaren Pysäköinti",
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
       "iso": "2026-09-28T08:57:33+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
-      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
-      "iso": "2026-09-28T08:56:51+00:00",
       "src": "Jätkäsaaren pysäköinti"
     }
   ]
