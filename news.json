@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T18:43:24.791052+00:00",
+  "generated": "2026-10-17T21:01:27.951666+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -142,12 +142,6 @@
       "src": "Google News"
     },
     {
-      "title": "Heikki Vestman: Vieraan vallan agenteille ei pidä antaa kotirauhan suojaa - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNckVNWU9sbGxaUndHWGhLd2RXTDNJZzk1VUhUWGk4WEdoaTBGRy0zU1N6T005UWFrMC0tX2NfQzZHbmU3V0I3U0s2WXJ1eFplZy16bXFuanBfZno5X21MX1pZcWlNZU9SVUhYOXF5OGFNb0ljdnRNT2luWXBsYXZfZmx5NVI4N3RnR1A3cTJCV2ZPSm94TlJzY2JTeHJYYjV4bXdOVEpwUQ?oc=5",
-      "iso": "2026-10-02T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
       "iso": "2026-10-01T13:30:00+00:00",
@@ -182,6 +176,12 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhoWVJWNDZ4N0ItaTZTeUZCQ2FqdnV1YmU1ZGJ1Z19ENVBaejZvalYwM1FRUXVycjZsUlV2Zi1aMnFrcW41WjJuQWVaRlJRaU5mTG1tZzF3a1FFZFVmWWpPSzhDU0U3UzRxMU0wYUFTcFhGR2FMaW50cDdRbS1tNHhDdG5rdGwzRWc?oc=5",
       "iso": "2026-09-30T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Customer notice from Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
+      "iso": "2026-09-28T08:57:33+00:00",
+      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
