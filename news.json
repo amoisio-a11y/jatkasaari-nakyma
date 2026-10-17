@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-17T21:01:27.951666+00:00",
+  "generated": "2026-10-17T23:07:14.916907+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -7,12 +7,6 @@
       "title": "Jätkäsaaren Verkkokauppa.comiin odotetaan jonoja kello 10 – tässä syy - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uWk8wV25pNGRSVEI4WDhZRFlha0dMZEdtd2Jfa0lLZmhRNW9yUGt2LW1RbTFIUEM1T2YteWEzb0R2c2NRbWlwNW1KcjZBanhrLTVXVklvamp0cGd2blU3UA?oc=5",
       "iso": "2026-10-16T15:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Sosiaali-, terveys- ja pelastuslautakunnan 20.10. kokouksen ennakkotiedote - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONXFqdkdFUjdkOVlsY1k4YUdHSXRYNEpnXy1CRVY3MDlKYURiV2Nsb25Wc2lHT3FCLUFBZkJQbl9DOEZEMlhFWHp6OUl0aTZxZjFGWEg5WTg5QVVrc0xoZUwxaUs3bG5qQnBQSFJlUjR3bldLc0NFOHRWemoxVXluUmtaQ2pZRGJFa3BEZnF5RldyM2FwMGNDZVZPSjBfWlFiQ1VEVDVSQy1Nc3FwcHQxLTZUemk4VHJ2cjFybWF0VERpanZVYkVua3B3VUNOdm5CdVlxUA?oc=5",
-      "iso": "2026-10-16T11:33:55+00:00",
       "src": "Google News"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Customer notice from Jätkäsaaren Pysäköinti",
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
       "iso": "2026-09-28T08:57:33+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
+      "iso": "2026-09-28T08:56:51+00:00",
       "src": "Jätkäsaaren pysäköinti"
     }
   ]
