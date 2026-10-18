@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-18T14:05:43.648676+00:00",
+  "generated": "2026-10-18T17:22:25.082122+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -56,6 +56,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Kiistelty maamerkki on nyt purettu Jätkäsaaressa – tämä rakennetaan tilalle - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSjh6SmtCWDZpMzNobk5UaVBPYVBWVDRQNXhsMFQxcl9XSzY0MGpNWENmUExMWFl3aklsY0dOWnVZdW9qUGQtNV9LbzNsTEdqeE12R1NiWUxIYlZnWTlQTA?oc=5",
+      "iso": "2026-10-12T17:05:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "HU: Sarjapissaaja iski jälleen - Ilta-Sanomat",
@@ -176,12 +182,6 @@
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
       "iso": "2026-09-28T08:56:51+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Maakunnallisten soitinten hakuaika on 1.-30.10.",
-      "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
-      "iso": "2026-09-28T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
