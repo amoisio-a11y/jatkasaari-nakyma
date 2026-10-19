@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T08:56:51.362277+00:00",
+  "generated": "2026-10-19T16:15:38.733092+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -58,12 +58,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Kiistelty maamerkki on nyt purettu Jätkäsaaressa – tämä rakennetaan tilalle - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5sSjh6SmtCWDZpMzNobk5UaVBPYVBWVDRQNXhsMFQxcl9XSzY0MGpNWENmUExMWFl3aklsY0dOWnVZdW9qUGQtNV9LbzNsTEdqeE12R1NiWUxIYlZnWTlQTA?oc=5",
-      "iso": "2026-10-12T17:05:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "HU: Sarjapissaaja iski jälleen - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmFTdTA0TFNuY1RFT1E4U3JrUC1FR0JEQ2ZoenNXSWtmZm0tU082SHJsVmxzcHBEWUVpekZDRWlFT3ZFTWFMcXR6NGFkOTlRa1JodmJpSW9zMGtZ?oc=5",
       "iso": "2026-10-12T06:00:00+00:00",
@@ -72,7 +66,7 @@
     {
       "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT055eUpfa1RUT3lldDFuaHpGSVNoMXFMUWpJVERQTkJaRktqa2pxbWZNMUM4ZVFMSElvQzZVTnltWnJxeVRkWkd4dy1ueVNVMWphWnRTbzhfcUU3ZDV1cQ?oc=5",
-      "iso": "2026-10-11T17:10:00+00:00",
+      "iso": "2026-10-11T07:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
       "iso": "2026-09-28T05:00:00+00:00",
       "src": "Helsingin konservatorio"
+    },
+    {
+      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468767",
+      "iso": "2026-09-27T16:26:45+00:00",
+      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
