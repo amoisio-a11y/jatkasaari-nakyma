@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T19:15:29.911810+00:00",
+  "generated": "2026-10-20T22:22:13.000367+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -13,6 +13,12 @@
       "title": "Vastikerästejä lähes joka toisessa taloyhtiöissä, näin niihin voidaan puuttua - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejlTcHA3UVdOSVBTQ2w5ZkdOanJqRml5ZExETkhrNUZBMXFXTHV6NTJWZ2NWZ0lOcE9oUERnclFKai1IV2N5QVRxU010MXVnUzBxQ3FGMVhsRkN1aGNUOTV0RXh3RjI0elVuZWRTWlRETmFjcnd4UEdySVBYVE0tcXl3WFJqMVlOTldzUGZ5WDZCNVY3WTlYUV9LQnJfMWY5eVNJeXUyMHlYUjZx?oc=5",
       "iso": "2026-10-20T05:34:15+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaaren Verkkokauppa.comiin odotetaan jonoja kello 10 – tässä syy - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uWk8wV25pNGRSVEI4WDhZRFlha0dMZEdtd2Jfa0lLZmhRNW9yUGt2LW1RbTFIUEM1T2YteWEzb0R2c2NRbWlwNW1KcjZBanhrLTVXVklvamp0cGd2blU3UA?oc=5",
+      "iso": "2026-10-16T15:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
       "iso": "2026-09-28T08:56:51+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Maakunnallisten soitinten hakuaika on 1.-30.10.",
-      "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
-      "iso": "2026-09-28T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
