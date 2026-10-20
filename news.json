@@ -1,8 +1,14 @@
 {
-  "generated": "2026-10-20T05:06:26.542979+00:00",
+  "generated": "2026-10-20T10:03:21.473721+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Vastikerästejä lähes joka toisessa taloyhtiöissä, näin niihin voidaan puuttua - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejlTcHA3UVdOSVBTQ2w5ZkdOanJqRml5ZExETkhrNUZBMXFXTHV6NTJWZ2NWZ0lOcE9oUERnclFKai1IV2N5QVRxU010MXVnUzBxQ3FGMVhsRkN1aGNUOTV0RXh3RjI0elVuZWRTWlRETmFjcnd4UEdySVBYVE0tcXl3WFJqMVlOTldzUGZ5WDZCNVY3WTlYUV9LQnJfMWY5eVNJeXUyMHlYUjZx?oc=5",
+      "iso": "2026-10-20T05:34:15+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Jätkäsaaren Verkkokauppa.comiin odotetaan jonoja kello 10 – tässä syy - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1uWk8wV25pNGRSVEI4WDhZRFlha0dMZEdtd2Jfa0lLZmhRNW9yUGt2LW1RbTFIUEM1T2YteWEzb0R2c2NRbWlwNW1KcjZBanhrLTVXVklvamp0cGd2blU3UA?oc=5",
@@ -176,12 +182,6 @@
       "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
       "iso": "2026-09-28T05:00:00+00:00",
       "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468767",
-      "iso": "2026-09-27T16:26:45+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
