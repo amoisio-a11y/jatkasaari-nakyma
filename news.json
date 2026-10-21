@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-21T19:31:14.591384+00:00",
+  "generated": "2026-10-21T22:45:34.736632+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Meluisa paalutustyö alkanut Länsisatamassa – kestää tammikuulle",
@@ -86,6 +86,12 @@
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
       "iso": "2026-10-09T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
+      "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
+      "iso": "2026-10-09T06:55:12+00:00",
+      "src": "Helsingin kaupunki"
     },
     {
       "title": "Kierrätä tavarasi Rööri-päivänä",
@@ -176,12 +182,6 @@
       "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
       "iso": "2026-09-28T08:56:51+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Maakunnallisten soitinten hakuaika on 1.-30.10.",
-      "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
-      "iso": "2026-09-28T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
