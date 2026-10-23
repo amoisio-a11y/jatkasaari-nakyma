@@ -1,13 +1,25 @@
 {
-  "generated": "2026-10-22T23:29:33.601126+00:00",
+  "generated": "2026-10-23T01:49:24.260322+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Terveys | Helsinki osti kokeeksi terveysaseman terveysjätiltä, mutta nyt järjestelystä voi tulla pysyvä - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA1VlNDUkl5Y1NTbU9ZYmVYMTNZTjRrOEVvei11SFdENm5SRjkxckJXTURfQ2lUQjN5elUyQ09JNktDWGVaM19OT3U0MENULVVVbHNlYVhnX3ltYnJ5OUE?oc=5",
       "iso": "2026-10-22T04:54:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Meluisa paalutustyö alkanut Länsisatamassa – kestää tammikuulle",
+      "link": "https://www.ruoholahdensanomat.fi/meluisa-paalutustyo-alkanut-lansisatamassa-kestaa-tammikuulle/",
+      "iso": "2026-10-21T12:04:29+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Intohimoa Ruoholahdesta – runokirja antaa palaa",
+      "link": "https://www.ruoholahdensanomat.fi/intohimoa-ruoholahdesta-runokirja-antaa-palaa/",
+      "iso": "2026-10-20T10:20:54+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Vastikerästejä lähes joka toisessa taloyhtiöissä, näin niihin voidaan puuttua - Verkkouutiset",
@@ -58,6 +70,12 @@
       "src": "Google News"
     },
     {
+      "title": "Takavuosien iskelmätähtiä valo­kuvanneen töitä Uudessa Saunassa",
+      "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
+      "iso": "2026-10-14T05:24:35+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
@@ -88,10 +106,22 @@
       "src": "Helsingin kaupunki"
     },
     {
+      "title": "Kierrätä tavarasi Rööri-päivänä",
+      "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
+      "iso": "2026-10-08T06:12:02+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "HIFK:n suosittu kuntofutis Jätkäsaaren liikuntahallilla sunnuntaisin - HIFK Fotboll",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pScFR3T0lGa1J6VTJVSVVEWWp4MndCV05mcmV0MWZyWmxzMkZONV9WTndLRXlTMm5XTDAtVE94OVJIRjFjbFdwLVlocEp6YVZUeUNBTWdob1JIbmJISFRDdzhIZC1MUHcwSnNzeHNobXkwbU5TV2JGQVBKWmtJT19jZGMxb1RkWVdIRVlnd1hTVTFGVzY2YW4xV0JYMnh3?oc=5",
       "iso": "2026-10-06T14:32:06+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Anna Hanskin Jätkäsaaren-baarissa jonoa avauspäivänä",
+      "link": "https://www.ruoholahdensanomat.fi/anna-hanskin-jatkasaaren-baarissa-jonoa-avauspaivana/",
+      "iso": "2026-10-06T10:34:01+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Metallikierrätyslava: MIELILAVA – kierrätä ja auta!",
@@ -148,40 +178,10 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "Customer notice from Jätkäsaaren Pysäköinti",
-      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
-      "iso": "2026-09-28T08:57:33+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
-      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
-      "iso": "2026-09-28T08:56:51+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Maakunnallisten soitinten hakuaika on 1.-30.10.",
-      "link": "https://www.konservatorio.fi/uutiset/maakunnallisten-soitinten-hakuaika-on-1-30-10/",
-      "iso": "2026-09-28T05:00:00+00:00",
-      "src": "Helsingin konservatorio"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468767",
-      "iso": "2026-09-27T16:26:45+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Helsinki | Rekasta irtosi perävaunu, jumitti liikennettä Länsiväylällä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOYjRlVF8wTEY2WDVISVRXekJJdndCX1BHY0JJQnkyRlVYWjl2VEpmN3llUWM5UGkzSWFnVDN2TVg1VnVSSG1KTGpGcm9KNHVFRklGb3FlQzg2NlQ4RkE?oc=5",
-      "iso": "2026-09-27T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Customer notice from Jätkäsaaren Pysäköinti",
-      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=5193a99481",
-      "iso": "2026-09-24T19:07:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
+      "title": "Lähde lähialueen taideteoskierrokselle",
+      "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
+      "iso": "2026-09-30T07:23:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
