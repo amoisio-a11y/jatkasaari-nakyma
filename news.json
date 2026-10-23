@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-23T06:57:19.824527+00:00",
+  "generated": "2026-10-23T12:26:29.617364+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Jätkäsaarta, Viikkiä ja Tapiolaa yhdistää synkkä ilmiö – näin yhden kiinteistön omistaja ohjeistaa asukkaita - mtvuutiset.fi",
@@ -100,6 +100,12 @@
       "src": "Google News"
     },
     {
+      "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
+      "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
+      "iso": "2026-10-09T06:55:12+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
       "title": "Kierrätä tavarasi Rööri-päivänä",
       "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
       "iso": "2026-10-08T06:12:02+00:00",
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
       "iso": "2026-09-30T07:23:24+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Customer notice from Jätkäsaaren Pysäköinti",
-      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
-      "iso": "2026-09-28T08:57:33+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
