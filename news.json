@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T23:30:55.557216+00:00",
+  "generated": "2026-10-24T01:59:23.930193+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -124,12 +124,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "HIFK:n suosittu kuntofutis Jätkäsaaren liikuntahallilla sunnuntaisin - HIFK Fotboll",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pScFR3T0lGa1J6VTJVSVVEWWp4MndCV05mcmV0MWZyWmxzMkZONV9WTndLRXlTMm5XTDAtVE94OVJIRjFjbFdwLVlocEp6YVZUeUNBTWdob1JIbmJISFRDdzhIZC1MUHcwSnNzeHNobXkwbU5TV2JGQVBKWmtJT19jZGMxb1RkWVdIRVlnd1hTVTFGVzY2YW4xV0JYMnh3?oc=5",
-      "iso": "2026-10-06T14:32:06+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Anna Hanskin Jätkäsaaren-baarissa jonoa avauspäivänä",
       "link": "https://www.ruoholahdensanomat.fi/anna-hanskin-jatkasaaren-baarissa-jonoa-avauspaivana/",
       "iso": "2026-10-06T10:34:01+00:00",
@@ -140,6 +134,12 @@
       "link": "https://lapinlahdenlahde.fi/uutiset/metallikierratyslava-mielilava-kierrata-ja-auta/",
       "iso": "2026-10-06T08:40:48+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "HIFK:n suosittu kuntofutis Jätkäsaaren liikuntahallilla sunnuntaisin - HIFK Fotboll",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pScFR3T0lGa1J6VTJVSVVEWWp4MndCV05mcmV0MWZyWmxzMkZONV9WTndLRXlTMm5XTDAtVE94OVJIRjFjbFdwLVlocEp6YVZUeUNBTWdob1JIbmJISFRDdzhIZC1MUHcwSnNzeHNobXkwbU5TV2JGQVBKWmtJT19jZGMxb1RkWVdIRVlnd1hTVTFGVzY2YW4xV0JYMnh3?oc=5",
+      "iso": "2026-10-06T07:00:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Puheenvuoro: Pelastetaan Lapinlahti suhmuroinnilta",
