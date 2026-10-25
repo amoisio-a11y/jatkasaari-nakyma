@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-25T06:31:39.613466+00:00",
+  "generated": "2026-10-25T12:00:04.668819+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -19,6 +19,12 @@
       "title": "Jätkäsaarta, Viikkiä ja Tapiolaa yhdistää synkkä ilmiö – näin yhden kiinteistön omistaja ohjeistaa asukkaita - mtvuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTEg4ZTdSVkZSM01oekJ0S0tiTnFaTVZUdnpESF9RUy04Z284MWdvbGRIU0N5ZDRYN0dzLW9HMWxqY2lHYzlsVS05ZXJ4WExrQWRCRC1ET0JCWEJTVE0tM3ZING5jTWFYVVVubmg1OGpuTkdiak9XcmRMdWZhUEgxelVxaTgteWc5LW1xTk5aQ0k4ME8zQ0FZaWdnQlFrcFRlZHl0cGFVVVVBa3JoTzdGQ3RnZ2I5S3UxVWl4bTZ5a0VFWnZTZGlhVG1vNldHVVdmeDl3ZU9helBEV3dMT2VyeHZpbw?oc=5",
       "iso": "2026-10-23T03:18:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Terveys | Helsinki osti kokeeksi terveysaseman terveysjätiltä, mutta nyt järjestelystä voi tulla pysyvä - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNnhvM1F2T2xKWEZVanl6b203NGQwOVR0WjFSTWwtQjZKYnFObFlRZFJUeW5RajR2SlFUdzNZMTRLY2otclcyeVFRb09NSFlXTzZWajIxVW1pUEgzVmRXUXJNNE9xbjUxZXZIRGJB?oc=5",
+      "iso": "2026-10-22T04:54:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468771",
       "iso": "2026-09-30T13:30:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Ihmisiä Lähteellä: Paula Piispanen",
-      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-paula-piispanen/",
-      "iso": "2026-09-30T10:46:11+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
