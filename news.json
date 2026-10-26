@@ -1,8 +1,26 @@
 {
-  "generated": "2026-10-26T06:49:40.555641+00:00",
+  "generated": "2026-10-26T13:52:16.528247+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
+    {
+      "title": "Ruoholahden terveysaseman toiminta halutaan kilpailuttaa uudelleen - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nSkg3M0NENzNBYjFzTHE4ejZLdUY2MVcteFBBN2xHTlVxVWQ3ekNxWGdqN3ZLTzRYMjV2UFZwbW9mdw?oc=5",
+      "iso": "2026-10-26T11:49:29+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Tiedote: Siiri Nordinin uusi single “Lapinlahti” ilmestyy 6.11.2026",
+      "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-siiri-nordinin-uusi-single-lapinlahti-ilmestyy-6-11-2026/",
+      "iso": "2026-10-26T10:03:06+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Metalli­mies Jätkäsaaresta",
+      "link": "https://www.ruoholahdensanomat.fi/metallimies-jatkasaaresta/",
+      "iso": "2026-10-26T07:45:42+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469269",
@@ -164,24 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUJ6YzVpMjFpckJ6T3V6dzBIaElyckxZU0pha3NRMDhEcVlYcFBLX1BJaGVWcXZwYTNCNVFTeklKZWQxU0dxbjNobHRLNTJ3MWItTW40SjJzbi1BcTIyN25PZW0xR1R0SUVBYWctT0hHX2dJTlVlQWRBZlJicF9IOVFGN2NzOGJ0dlFRdmdxeFA5WmxBdVVmQ04yU2lNd2VjdkRtdVhtN1VYR1l1XzBmRg?oc=5",
       "iso": "2026-10-02T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
-      "iso": "2026-10-01T13:30:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Customer notice from Jätkäsaaren Pysäköinti",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468785",
-      "iso": "2026-10-01T13:30:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468771",
-      "iso": "2026-09-30T13:30:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
