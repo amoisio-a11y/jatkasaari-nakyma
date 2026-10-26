@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-26T13:52:16.528247+00:00",
+  "generated": "2026-10-26T19:43:52.573625+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Ruoholahden terveysaseman toiminta halutaan kilpailuttaa uudelleen - Yle",
@@ -37,12 +37,6 @@
       "title": "Jätkäsaarta, Viikkiä ja Tapiolaa yhdistää synkkä ilmiö – näin yhden kiinteistön omistaja ohjeistaa asukkaita - mtvuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTEg4ZTdSVkZSM01oekJ0S0tiTnFaTVZUdnpESF9RUy04Z284MWdvbGRIU0N5ZDRYN0dzLW9HMWxqY2lHYzlsVS05ZXJ4WExrQWRCRC1ET0JCWEJTVE0tM3ZING5jTWFYVVVubmg1OGpuTkdiak9XcmRMdWZhUEgxelVxaTgteWc5LW1xTk5aQ0k4ME8zQ0FZaWdnQlFrcFRlZHl0cGFVVVVBa3JoTzdGQ3RnZ2I5S3UxVWl4bTZ5a0VFWnZTZGlhVG1vNldHVVdmeDl3ZU9helBEV3dMT2VyeHZpbw?oc=5",
       "iso": "2026-10-23T03:18:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Terveys | Helsinki osti kokeeksi terveysaseman terveysjätiltä, mutta nyt järjestelystä voi tulla pysyvä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNnhvM1F2T2xKWEZVanl6b203NGQwOVR0WjFSTWwtQjZKYnFObFlRZFJUeW5RajR2SlFUdzNZMTRLY2otclcyeVFRb09NSFlXTzZWajIxVW1pUEgzVmRXUXJNNE9xbjUxZXZIRGJB?oc=5",
-      "iso": "2026-10-22T04:54:00+00:00",
       "src": "Google News"
     },
     {
@@ -130,12 +124,6 @@
       "src": "Google News"
     },
     {
-      "title": "Mies putosi mereen Helsingissä – piti kiinni laudasta henkensä edestä, kunnes apu ehti paikalle - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OSi1Hazh1bnZhOXUxc1ZUNDhvX2hnamxUTGNjTnRDaHdndFFRM2pOOHNFRE9yaVJPNDdEeU1vSFpadw?oc=5",
-      "iso": "2026-10-09T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
       "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
       "iso": "2026-10-09T06:55:12+00:00",
@@ -182,6 +170,18 @@
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUJ6YzVpMjFpckJ6T3V6dzBIaElyckxZU0pha3NRMDhEcVlYcFBLX1BJaGVWcXZwYTNCNVFTeklKZWQxU0dxbjNobHRLNTJ3MWItTW40SjJzbi1BcTIyN25PZW0xR1R0SUVBYWctT0hHX2dJTlVlQWRBZlJicF9IOVFGN2NzOGJ0dlFRdmdxeFA5WmxBdVVmQ04yU2lNd2VjdkRtdVhtN1VYR1l1XzBmRg?oc=5",
       "iso": "2026-10-02T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
+      "iso": "2026-10-01T13:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Customer notice from Jätkäsaaren Pysäköinti",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468785",
+      "iso": "2026-10-01T13:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
