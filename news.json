@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T14:31:55.859925+00:00",
+  "generated": "2026-10-27T19:39:10.733030+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -43,12 +43,6 @@
       "title": "Jätkäsaarta, Viikkiä ja Tapiolaa yhdistää synkkä ilmiö – näin yhden kiinteistön omistaja ohjeistaa asukkaita - mtvuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNTEg4ZTdSVkZSM01oekJ0S0tiTnFaTVZUdnpESF9RUy04Z284MWdvbGRIU0N5ZDRYN0dzLW9HMWxqY2lHYzlsVS05ZXJ4WExrQWRCRC1ET0JCWEJTVE0tM3ZING5jTWFYVVVubmg1OGpuTkdiak9XcmRMdWZhUEgxelVxaTgteWc5LW1xTk5aQ0k4ME8zQ0FZaWdnQlFrcFRlZHl0cGFVVVVBa3JoTzdGQ3RnZ2I5S3UxVWl4bTZ5a0VFWnZTZGlhVG1vNldHVVdmeDl3ZU9helBEV3dMT2VyeHZpbw?oc=5",
       "iso": "2026-10-23T03:18:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Terveys | Helsinki osti kokeeksi terveysaseman terveysjätiltä, mutta nyt järjestelystä voi tulla pysyvä - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNnhvM1F2T2xKWEZVanl6b203NGQwOVR0WjFSTWwtQjZKYnFObFlRZFJUeW5RajR2SlFUdzNZMTRLY2otclcyeVFRb09NSFlXTzZWajIxVW1pUEgzVmRXUXJNNE9xbjUxZXZIRGJB?oc=5",
-      "iso": "2026-10-22T04:54:00+00:00",
       "src": "Google News"
     },
     {
@@ -112,18 +106,6 @@
       "src": "Google News"
     },
     {
-      "title": "Iso pelastustehtävä Helsingissä – Ihminen roikkui laudanpätkästä laiturin edustalla - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Yc01TaHhKVWZqLVNpemUtcHFtc2JWNHhyYi16VEtxc0JMOW1JTUY4TzQyMl9FWUpMY3JTNm9nd2o1OFBIbnY0b2hoTzFqeXNER2pCYTBlM193TkphajEtWDFnT0RNOVJvdGtFVjJ1VlduZThHOUdfVndOZw?oc=5",
-      "iso": "2026-10-09T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Mies putosi mereen Helsingissä – piti kiinni laudasta henkensä edestä, kunnes apu ehti paikalle - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OSi1Hazh1bnZhOXUxc1ZUNDhvX2hnamxUTGNjTnRDaHdndFFRM2pOOHNFRE9yaVJPNDdEeU1vSFpadw?oc=5",
-      "iso": "2026-10-09T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
       "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
       "iso": "2026-10-09T06:55:12+00:00",
@@ -182,6 +164,24 @@
       "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-paula-piispanen/",
       "iso": "2026-09-30T10:46:11+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Lähde lähialueen taideteoskierrokselle",
+      "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
+      "iso": "2026-09-30T07:23:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Customer notice from Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6cca431afd",
+      "iso": "2026-09-28T08:57:33+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://us19.campaign-archive.com/?u=1cd168fa114e46f98ff0f0155&id=6010761f7c",
+      "iso": "2026-09-28T08:56:51+00:00",
+      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
