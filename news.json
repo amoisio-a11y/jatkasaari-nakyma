@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T23:23:16.430449+00:00",
+  "generated": "2026-10-27T02:17:52.095802+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -40,6 +40,12 @@
       "src": "Google News"
     },
     {
+      "title": "Terveys | Helsinki osti kokeeksi terveysaseman terveysjätiltä, mutta nyt järjestelystä voi tulla pysyvä - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NNnhvM1F2T2xKWEZVanl6b203NGQwOVR0WjFSTWwtQjZKYnFObFlRZFJUeW5RajR2SlFUdzNZMTRLY2otclcyeVFRb09NSFlXTzZWajIxVW1pUEgzVmRXUXJNNE9xbjUxZXZIRGJB?oc=5",
+      "iso": "2026-10-22T04:54:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Meluisa paalutustyö alkanut Länsisatamassa – kestää tammikuulle",
       "link": "https://www.ruoholahdensanomat.fi/meluisa-paalutustyo-alkanut-lansisatamassa-kestaa-tammikuulle/",
       "iso": "2026-10-21T12:04:29+00:00",
@@ -50,12 +56,6 @@
       "link": "https://www.ruoholahdensanomat.fi/intohimoa-ruoholahdesta-runokirja-antaa-palaa/",
       "iso": "2026-10-20T10:20:54+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Vastikerästejä lähes joka toisessa taloyhtiöissä, näin niihin voidaan puuttua - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNejlTcHA3UVdOSVBTQ2w5ZkdOanJqRml5ZExETkhrNUZBMXFXTHV6NTJWZ2NWZ0lOcE9oUERnclFKai1IV2N5QVRxU010MXVnUzBxQ3FGMVhsRkN1aGNUOTV0RXh3RjI0elVuZWRTWlRETmFjcnd4UEdySVBYVE0tcXl3WFJqMVlOTldzUGZ5WDZCNVY3WTlYUV9LQnJfMWY5eVNJeXUyMHlYUjZx?oc=5",
-      "iso": "2026-10-20T05:34:15+00:00",
-      "src": "Google News"
     },
     {
       "title": "Kristian Wahlbeck: Miten ehkäistä itsemurhia tehokkaasti?",
@@ -82,12 +82,6 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "KL: Ekonomisti ehdottaa roskapankkia Suomen asuntokriisiin - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT2dzSDg2NnUtNEZ1UnVvRkFQanF1UUdtSVhQVmdEWG9mWFMtWk5RZjQ1TzNpUHVXWUFKY3V3RmVXd0NrWG84Tm1hQVdZMTJ5Umd3MHJuNkRKbm4xQ01IMnVfcVFYTVJlYUZEcHJMVE9yS1lvZWp5OC1xYzFkY1hGUlh3MGVLdGp1WVJuWjhFQTI3S2c?oc=5",
-      "iso": "2026-10-14T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Tervetuloa Jätkäsaari-seuran syyskokoukseen maanantaina 16.11.2026 klo 18",
       "link": "https://kaupunginosat.fi/jatkasaari/tervetuloa-jatkasaari-seuran-syyskokoukseen-maanantaina-16-11-2026-klo-18/",
       "iso": "2026-10-14T06:32:18+00:00",
@@ -106,20 +100,14 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "HU: Sarjapissaaja iski jälleen - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4wYmFTdTA0TFNuY1RFT1E4U3JrUC1FR0JEQ2ZoenNXSWtmZm0tU082SHJsVmxzcHBEWUVpekZDRWlFT3ZFTWFMcXR6NGFkOTlRa1JodmJpSW9zMGtZ?oc=5",
-      "iso": "2026-10-12T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT055eUpfa1RUT3lldDFuaHpGSVNoMXFMUWpJVERQTkJaRktqa2pxbWZNMUM4ZVFMSElvQzZVTnltWnJxeVRkWkd4dy1ueVNVMWphWnRTbzhfcUU3ZDV1cQ?oc=5",
       "iso": "2026-10-11T07:00:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaaren siltaremontti etenee – meripenkerettä puretaan vaiheittain - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
+      "title": "Mies putosi mereen Helsingissä – piti kiinni laudasta henkensä edestä, kunnes apu ehti paikalle - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OSi1Hazh1bnZhOXUxc1ZUNDhvX2hnamxUTGNjTnRDaHdndFFRM2pOOHNFRE9yaVJPNDdEeU1vSFpadw?oc=5",
       "iso": "2026-10-09T07:00:00+00:00",
       "src": "Google News"
     },
@@ -148,12 +136,6 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "HIFK:n suosittu kuntofutis Jätkäsaaren liikuntahallilla sunnuntaisin - HIFK Fotboll",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3pScFR3T0lGa1J6VTJVSVVEWWp4MndCV05mcmV0MWZyWmxzMkZONV9WTndLRXlTMm5XTDAtVE94OVJIRjFjbFdwLVlocEp6YVZUeUNBTWdob1JIbmJISFRDdzhIZC1MUHcwSnNzeHNobXkwbU5TV2JGQVBKWmtJT19jZGMxb1RkWVdIRVlnd1hTVTFGVzY2YW4xV0JYMnh3?oc=5",
-      "iso": "2026-10-06T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Puheenvuoro: Pelastetaan Lapinlahti suhmuroinnilta",
       "link": "https://lapinlahdenlahde.fi/artikkelit/puheenvuoro-pelastetaan-lapinlahti-suhmuroinnilta/",
       "iso": "2026-10-05T11:09:46+00:00",
@@ -166,12 +148,6 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "Pikaraitiotie Länsisatamaan parantaa raitioliikenteen sujuvuutta ja kapasiteettia - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNQUJ6YzVpMjFpckJ6T3V6dzBIaElyckxZU0pha3NRMDhEcVlYcFBLX1BJaGVWcXZwYTNCNVFTeklKZWQxU0dxbjNobHRLNTJ3MWItTW40SjJzbi1BcTIyN25PZW0xR1R0SUVBYWctT0hHX2dJTlVlQWRBZlJicF9IOVFGN2NzOGJ0dlFRdmdxeFA5WmxBdVVmQ04yU2lNd2VjdkRtdVhtN1VYR1l1XzBmRg?oc=5",
-      "iso": "2026-10-02T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
       "iso": "2026-10-01T13:30:00+00:00",
@@ -182,6 +158,30 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468785",
       "iso": "2026-10-01T13:30:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468771",
+      "iso": "2026-09-30T13:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Ihmisiä Lähteellä: Paula Piispanen",
+      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-paula-piispanen/",
+      "iso": "2026-09-30T10:46:11+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Lähde lähialueen taideteoskierrokselle",
+      "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
+      "iso": "2026-09-30T07:23:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "STT:n toiminta uhkaa päättyä – 95 työpaikkaa vaarassa - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhoWVJWNDZ4N0ItaTZTeUZCQ2FqdnV1YmU1ZGJ1Z19ENVBaejZvalYwM1FRUXVycjZsUlV2Zi1aMnFrcW41WjJuQWVaRlJRaU5mTG1tZzF3a1FFZFVmWWpPSzhDU0U3UzRxMU0wYUFTcFhGR2FMaW50cDdRbS1tNHhDdG5rdGwzRWc?oc=5",
+      "iso": "2026-09-30T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
