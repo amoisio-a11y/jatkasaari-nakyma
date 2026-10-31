@@ -1,7 +1,7 @@
 {
-  "generated": "2026-10-31T04:31:27.754572+00:00",
+  "generated": "2026-10-31T10:32:54.276807+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Ay-liitto vaatii STT:n tilalle uutta tietotoimistoa – esittää Yle-veron korotusta - Verkkouutiset",
@@ -91,13 +91,25 @@
       "title": "Helenin ydinenergiahankkeen infotilaisuudet",
       "link": "https://kaupunginosat.fi/jatkasaari/helenin-ydinenergiahankkeen-infotilaisuudet/",
       "iso": "2026-10-14T08:36:14+00:00",
-      "src": "Jäkäsaari-seura"
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaari-seuran talousarvio vuodelle 2027",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-talousarvio-vuodelle-2027/",
+      "iso": "2026-10-14T07:45:20+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Jätkäsaari-seuran toimintasuunnitelma vuodelle 2027",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-toimintasuunnitelma-vuodelle-2027/",
+      "iso": "2026-10-14T07:10:58+00:00",
+      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Tervetuloa Jätkäsaari-seuran syyskokoukseen maanantaina 16.11.2026 klo 18",
       "link": "https://kaupunginosat.fi/jatkasaari/tervetuloa-jatkasaari-seuran-syyskokoukseen-maanantaina-16-11-2026-klo-18/",
       "iso": "2026-10-14T06:32:18+00:00",
-      "src": "Jäkäsaari-seura"
+      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Takavuosien iskelmätähtiä valo­kuvanneen töitä Uudessa Saunassa",
@@ -109,7 +121,7 @@
       "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
-      "src": "Jäkäsaari-seura"
+      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
@@ -170,18 +182,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468771",
       "iso": "2026-09-30T13:30:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Ihmisiä Lähteellä: Paula Piispanen",
-      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-paula-piispanen/",
-      "iso": "2026-09-30T10:46:11+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Lähde lähialueen taideteoskierrokselle",
-      "link": "https://www.ruoholahdensanomat.fi/lahde-lahialueen-taideteoskierrokselle/",
-      "iso": "2026-09-30T07:23:24+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
