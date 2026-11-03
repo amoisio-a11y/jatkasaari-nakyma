@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-03T09:50:22.436207+00:00",
+  "generated": "2026-11-03T17:31:10.121078+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Lapinlahden satamatunnelin asemakaava etenee korkeimpaan hallinto-oikeuteen",
+      "link": "https://lapinlahdenlahde.fi/uutiset/lapinlahden-satamatunnelin-asemakaava-etenee-korkeimpaan-hallinto-oikeuteen/",
+      "iso": "2026-11-03T13:16:36+00:00",
+      "src": "Lapinlahden lähde"
+    },
     {
       "title": "KahviKaveri täydentää Ruohiksen palvelutarjonnan",
       "link": "https://korttelikeskusruohis.fi/kahvikaveri-taydentaa-ruohiksen-palvelutarjonnan/",
@@ -22,12 +28,6 @@
       "src": "Google News"
     },
     {
-      "title": "Helsingissä ehdotetaan asukaspysäköinnin laajentamista Kalasatamaan ja Jätkäsaareen - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wQVA1V1Fmb25aU3c0cVkyVnhrc1ZmYXRMdF9GYzZoMEV4VlJPZlFHRmVob0VfN2VLeTcySDNleVlkOHU0V0dzUVEwMVo5RUdmbG8tV3NVbEZPZTFMWWFqRw?oc=5",
-      "iso": "2026-10-30T10:28:19+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Lulu Ranne STT:n lopettamisesta: Palveluille ei ollut riittävää kysyntää - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTdudmpYcjRiRVhyZG4xc0szMHhLaDJXcFc2NldUYnN5Sk9lOHpmUHkzZWdybm1peHdLUkZxQ1B0Vk9Sa2dVS3o5QVlhN21DQkdGdVpfT0xQQWxOWlJGd0VNeWdQbDJ6RVpLS1p0QVlEbkt6RXJqWU5nNjFSVnlrM1hncWFmR21SRDY2eXFXWEtOTDdRYVE2VVFwcjFFSGJaeEtlYw?oc=5",
       "iso": "2026-10-29T14:23:05+00:00",
@@ -38,12 +38,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/puheenvuoro-kaupunkilaisten-lapinlahdestako-yksityiskartano/",
       "iso": "2026-10-28T12:43:09+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Ruoholahden terveysaseman toiminta halutaan kilpailuttaa uudelleen - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nSkg3M0NENzNBYjFzTHE4ejZLdUY2MVcteFBBN2xHTlVxVWQ3ekNxWGdqN3ZLTzRYMjV2UFZwbW9mdw?oc=5",
-      "iso": "2026-10-26T11:49:29+00:00",
-      "src": "Google News"
     },
     {
       "title": "Tiedote: Siiri Nordinin uusi single “Lapinlahti” ilmestyy 6.11.2026",
@@ -142,6 +136,18 @@
       "src": "Google News"
     },
     {
+      "title": "Mies putosi mereen Helsingissä – piti kiinni laudasta henkensä edestä, kunnes apu ehti paikalle - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OSi1Hazh1bnZhOXUxc1ZUNDhvX2hnamxUTGNjTnRDaHdndFFRM2pOOHNFRE9yaVJPNDdEeU1vSFpadw?oc=5",
+      "iso": "2026-10-09T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Iso pelastustehtävä Helsingissä – Ihminen roikkui laudanpätkästä laiturin edustalla - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Yc01TaHhKVWZqLVNpemUtcHFtc2JWNHhyYi16VEtxc0JMOW1JTUY4TzQyMl9FWUpMY3JTNm9nd2o1OFBIbnY0b2hoTzFqeXNER2pCYTBlM193TkphajEtWDFnT0RNOVJvdGtFVjJ1VlduZThHOUdfVndOZw?oc=5",
+      "iso": "2026-10-09T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
       "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
       "iso": "2026-10-09T06:55:12+00:00",
@@ -176,12 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/kaikuja-sairaalasta-lue-potilaan-vuonna-1890-kirjoittama-runo/",
       "iso": "2026-10-03T06:47:39+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
-      "iso": "2026-10-01T13:30:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
