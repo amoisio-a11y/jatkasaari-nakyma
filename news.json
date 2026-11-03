@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-03T02:17:36.826562+00:00",
+  "generated": "2026-11-03T09:50:22.436207+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "KahviKaveri täydentää Ruohiksen palvelutarjonnan",
@@ -52,6 +52,12 @@
       "src": "Lapinlahden lähde"
     },
     {
+      "title": "Metalli­mies Jätkäsaaresta",
+      "link": "https://www.ruoholahdensanomat.fi/metallimies-jatkasaaresta/",
+      "iso": "2026-10-26T07:45:42+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "Tervetuloa Muuri-ihmisketjuun Lapinlahden puolesta 14.11.2026",
       "link": "https://lapinlahdenlahde.fi/uutiset/tervetuloa-muuri-ihmisketjuun-lapinlahden-puolesta-14-11-2026/",
       "iso": "2026-10-25T13:13:37+00:00",
@@ -70,10 +76,22 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
+      "title": "Meluisa paalutustyö alkanut Länsisatamassa – kestää tammikuulle",
+      "link": "https://www.ruoholahdensanomat.fi/meluisa-paalutustyo-alkanut-lansisatamassa-kestaa-tammikuulle/",
+      "iso": "2026-10-21T12:04:29+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "Tilhet lentävät nyt parvina kuolemaansa – pääkaupunkiseudulla jo yli 250 tilhikuolemaa - mtvuutiset.fi",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPVGFSbEhFbjlrNVlRMHdQeC1lY3hadXVYSTlaWTF5eGg4VVFDbWZSN2dHNlNiWC1tMFg5REE3X0xFX1g0Wm5ORWdVc3dPOXR4T0NhT0dfdEs3bG9YLUVIdldSQUxSVk5FM29ORm1yS3otVFpzZjZXdUVrQ3lLblpaMVFrbzNrclFuSy1ZUnZXWmNTUnhTNHZFUkx4NEMyVWpyejEwemlnMUlnYmJUOFBvSXBGdUNwOFotQWw0MjRaUFNxLXN4R2s0?oc=5",
       "iso": "2026-10-21T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Intohimoa Ruoholahdesta – runokirja antaa palaa",
+      "link": "https://www.ruoholahdensanomat.fi/intohimoa-ruoholahdesta-runokirja-antaa-palaa/",
+      "iso": "2026-10-20T10:20:54+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Kristian Wahlbeck: Miten ehkäistä itsemurhia tehokkaasti?",
@@ -106,6 +124,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Takavuosien iskelmätähtiä valo­kuvanneen töitä Uudessa Saunassa",
+      "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
+      "iso": "2026-10-14T05:24:35+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
       "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
@@ -118,22 +142,22 @@
       "src": "Google News"
     },
     {
-      "title": "Iso pelastustehtävä Helsingissä – Ihminen roikkui laudanpätkästä laiturin edustalla - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1Yc01TaHhKVWZqLVNpemUtcHFtc2JWNHhyYi16VEtxc0JMOW1JTUY4TzQyMl9FWUpMY3JTNm9nd2o1OFBIbnY0b2hoTzFqeXNER2pCYTBlM193TkphajEtWDFnT0RNOVJvdGtFVjJ1VlduZThHOUdfVndOZw?oc=5",
-      "iso": "2026-10-09T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Mies putosi mereen Helsingissä – piti kiinni laudasta henkensä edestä, kunnes apu ehti paikalle - Yle",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9OSi1Hazh1bnZhOXUxc1ZUNDhvX2hnamxUTGNjTnRDaHdndFFRM2pOOHNFRE9yaVJPNDdEeU1vSFpadw?oc=5",
-      "iso": "2026-10-09T07:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
       "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
       "iso": "2026-10-09T06:55:12+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kierrätä tavarasi Rööri-päivänä",
+      "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
+      "iso": "2026-10-08T06:12:02+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Anna Hanskin Jätkäsaaren-baarissa jonoa avauspäivänä",
+      "link": "https://www.ruoholahdensanomat.fi/anna-hanskin-jatkasaaren-baarissa-jonoa-avauspaivana/",
+      "iso": "2026-10-06T10:34:01+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Metallikierrätyslava: MIELILAVA – kierrätä ja auta!",
@@ -158,30 +182,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
       "iso": "2026-10-01T13:30:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Customer notice from Jätkäsaaren Pysäköinti",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468785",
-      "iso": "2026-10-01T13:30:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468771",
-      "iso": "2026-09-30T13:30:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Ihmisiä Lähteellä: Paula Piispanen",
-      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-paula-piispanen/",
-      "iso": "2026-09-30T10:46:11+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "STT:n toiminta uhkaa päättyä – 95 työpaikkaa vaarassa - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPWHhoWVJWNDZ4N0ItaTZTeUZCQ2FqdnV1YmU1ZGJ1Z19ENVBaejZvalYwM1FRUXVycjZsUlV2Zi1aMnFrcW41WjJuQWVaRlJRaU5mTG1tZzF3a1FFZFVmWWpPSzhDU0U3UzRxMU0wYUFTcFhGR2FMaW50cDdRbS1tNHhDdG5rdGwzRWc?oc=5",
-      "iso": "2026-09-30T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
