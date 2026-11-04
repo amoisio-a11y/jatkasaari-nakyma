@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T17:44:28.354946+00:00",
+  "generated": "2026-11-04T22:54:42.916393+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -14,6 +14,12 @@
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUV9KNlc0Skt1MWx1cHA0Tm5JUVg0Q2ZubVFZdmR3cG81Nk1maEhLWTBVWUFlSFQ0aFgwUUNsdDE5V3UwcmUtNHVacTVLLU5PbEZCQnlSRWJJVXBuNXhEeFJHZjBObnVwV1ZfRC1VRlFNV21qT2R0SkF6T0NzTWZoUjI3dm5hb3VyZFJLcVhyNWs?oc=5",
       "iso": "2026-11-04T08:52:04+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Länsisataman rakennustyöt etenevät – lähialueelle kantautuu ajoittaista melua",
+      "link": "https://www.hel.fi/fi/uutiset/lansisataman-rakennustyot-etenevat-lahialueelle-kantautuu-ajoittaista-melua",
+      "iso": "2026-11-04T08:04:20+00:00",
+      "src": "Helsingin kaupunki"
     },
     {
       "title": "Suosituimmat annokset: kebab-lautanen ja poronkäristys",
@@ -175,12 +181,6 @@
       "title": "Metallikierrätyslava: MIELILAVA – kierrätä ja auta!",
       "link": "https://lapinlahdenlahde.fi/uutiset/metallikierratyslava-mielilava-kierrata-ja-auta/",
       "iso": "2026-10-06T08:40:48+00:00",
-      "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Puheenvuoro: Pelastetaan Lapinlahti suhmuroinnilta",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/puheenvuoro-pelastetaan-lapinlahti-suhmuroinnilta/",
-      "iso": "2026-10-05T11:09:46+00:00",
       "src": "Lapinlahden lähde"
     }
   ]
