@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T18:29:55.991350+00:00",
+  "generated": "2026-11-05T23:50:01.106665+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
       "title": "Lyhytvuokrauksen sääntöjä selkeytetään – ”naapureiden asumisrauhaa on kunnioitettava” - Verkkouutiset",
@@ -73,7 +73,7 @@
       "title": "Näin Puita Jätkäsaaren kaduille -Omastadihanke näkyy Jätkäsaaren kaduilla",
       "link": "https://kaupunginosat.fi/jatkasaari/nain-puita-jatkasaaren-kaduille-omastadihanke-nakyy-jatkasaaren-kaduilla/",
       "iso": "2026-11-01T07:22:35+00:00",
-      "src": "Kaupunginosat.fi"
+      "src": "Jäkäsaari-seura"
     },
     {
       "title": "Ay-liitto vaatii STT:n tilalle uutta tietotoimistoa – esittää Yle-veron korotusta - Verkkouutiset",
@@ -145,25 +145,13 @@
       "title": "Helenin ydinenergiahankkeen infotilaisuudet",
       "link": "https://kaupunginosat.fi/jatkasaari/helenin-ydinenergiahankkeen-infotilaisuudet/",
       "iso": "2026-10-14T08:36:14+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaari-seuran talousarvio vuodelle 2027",
-      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-talousarvio-vuodelle-2027/",
-      "iso": "2026-10-14T07:45:20+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaari-seuran toimintasuunnitelma vuodelle 2027",
-      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-toimintasuunnitelma-vuodelle-2027/",
-      "iso": "2026-10-14T07:10:58+00:00",
-      "src": "Kaupunginosat.fi"
+      "src": "Jäkäsaari-seura"
     },
     {
       "title": "Tervetuloa Jätkäsaari-seuran syyskokoukseen maanantaina 16.11.2026 klo 18",
       "link": "https://kaupunginosat.fi/jatkasaari/tervetuloa-jatkasaari-seuran-syyskokoukseen-maanantaina-16-11-2026-klo-18/",
       "iso": "2026-10-14T06:32:18+00:00",
-      "src": "Kaupunginosat.fi"
+      "src": "Jäkäsaari-seura"
     },
     {
       "title": "Takavuosien iskelmätähtiä valo­kuvanneen töitä Uudessa Saunassa",
@@ -175,13 +163,25 @@
       "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
-      "src": "Kaupunginosat.fi"
+      "src": "Jäkäsaari-seura"
     },
     {
       "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT055eUpfa1RUT3lldDFuaHpGSVNoMXFMUWpJVERQTkJaRktqa2pxbWZNMUM4ZVFMSElvQzZVTnltWnJxeVRkWkd4dy1ueVNVMWphWnRTbzhfcUU3ZDV1cQ?oc=5",
       "iso": "2026-10-11T07:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
+      "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
+      "iso": "2026-10-09T06:55:12+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Kierrätä tavarasi Rööri-päivänä",
+      "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
+      "iso": "2026-10-08T06:12:02+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
