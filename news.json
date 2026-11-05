@@ -1,8 +1,26 @@
 {
-  "generated": "2026-11-05T03:07:46.380428+00:00",
+  "generated": "2026-11-05T10:54:10.662970+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469509",
+      "iso": "2026-11-05T10:32:46+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Ulkoistettu terveysasema jäi jälleen pöydälle Helsingissä – ”Tulokset ovat olleet hyviä\" | Paikalliset - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V2lfTGJMeUJNdi13Mm9raElLdjNUNFZmQ0tPVUFaaXJVOTFYRjM4STJjaE9vN3BhS0ZHTXNfckhkeHJLVTJTb1lBN08ySFRNR1dYVVFVY1dLSFVvamdhcA?oc=5",
+      "iso": "2026-11-05T05:30:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaaren katutaideteoksia odottaa asentamista varastossa",
+      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-katutaideteoksia-odottaa-asentamista-varastossa/",
+      "iso": "2026-11-05T05:00:42+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "HS: Helsingin viestinnässä on 200 työntekijää, silti viestintää ostetaan sadoilla tuhansilla - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlJEdG1SRk82amV0Z0IzakdPQTlhdnpvcnF3SjRkUl9IX04zeUM1b2w4VEFrTUpQRWJPVkxmcVhLdmhiM3RKNi1iQmtJMDBweVM4Q1FUSEhET3IzbGl6Nk1TS1U3cVFLVk9GZS03dUJOM2dHdmRSTC1jcUF0MkI3N2NMUVVPWGNmTTNQUDl5YTRuNms1YmhybFlLbHI1NDUzNUdoX0lxcG9KeFdtVW9iRTdFdVNLZ2VJRHBzNkxYdw?oc=5",
@@ -164,24 +182,6 @@
       "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
       "iso": "2026-10-09T06:55:12+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Kierrätä tavarasi Rööri-päivänä",
-      "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
-      "iso": "2026-10-08T06:12:02+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Anna Hanskin Jätkäsaaren-baarissa jonoa avauspäivänä",
-      "link": "https://www.ruoholahdensanomat.fi/anna-hanskin-jatkasaaren-baarissa-jonoa-avauspaivana/",
-      "iso": "2026-10-06T10:34:01+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Metallikierrätyslava: MIELILAVA – kierrätä ja auta!",
-      "link": "https://lapinlahdenlahde.fi/uutiset/metallikierratyslava-mielilava-kierrata-ja-auta/",
-      "iso": "2026-10-06T08:40:48+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
