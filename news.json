@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-05T23:50:01.106665+00:00",
+  "generated": "2026-11-06T05:05:10.964280+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 2,
   "items": [
     {
       "title": "Lyhytvuokrauksen sääntöjä selkeytetään – ”naapureiden asumisrauhaa on kunnioitettava” - Verkkouutiset",
@@ -70,12 +70,6 @@
       "src": "Korttelikeskus Ruohis"
     },
     {
-      "title": "Näin Puita Jätkäsaaren kaduille -Omastadihanke näkyy Jätkäsaaren kaduilla",
-      "link": "https://kaupunginosat.fi/jatkasaari/nain-puita-jatkasaaren-kaduille-omastadihanke-nakyy-jatkasaaren-kaduilla/",
-      "iso": "2026-11-01T07:22:35+00:00",
-      "src": "Jäkäsaari-seura"
-    },
-    {
       "title": "Ay-liitto vaatii STT:n tilalle uutta tietotoimistoa – esittää Yle-veron korotusta - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPYW5DYVBNWXlWOFpua1BKTzFydnlqZFp6V1FjeXdpaUZ3dVprVHhsOUNrbURzNFlhNUh4eGswNHFaZDVUXzF1dWZ0ZWFjaHE5bUpUcW01Sk9OMzBXSEM1SXNKWVRGUjhVUzZIem1LTlNXMjQtVGQ4dmJIZThsYWNDeDFlMGlMeXJQT2k3c2ZNNmJuTUNPci05bEM2WENseVpNTU5sQkEtTFVCc2lxTHpz?oc=5",
       "iso": "2026-10-30T11:31:02+00:00",
@@ -142,28 +136,10 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "Helenin ydinenergiahankkeen infotilaisuudet",
-      "link": "https://kaupunginosat.fi/jatkasaari/helenin-ydinenergiahankkeen-infotilaisuudet/",
-      "iso": "2026-10-14T08:36:14+00:00",
-      "src": "Jäkäsaari-seura"
-    },
-    {
-      "title": "Tervetuloa Jätkäsaari-seuran syyskokoukseen maanantaina 16.11.2026 klo 18",
-      "link": "https://kaupunginosat.fi/jatkasaari/tervetuloa-jatkasaari-seuran-syyskokoukseen-maanantaina-16-11-2026-klo-18/",
-      "iso": "2026-10-14T06:32:18+00:00",
-      "src": "Jäkäsaari-seura"
-    },
-    {
       "title": "Takavuosien iskelmätähtiä valo­kuvanneen töitä Uudessa Saunassa",
       "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
       "iso": "2026-10-14T05:24:35+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
-      "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
-      "iso": "2026-10-13T13:25:19+00:00",
-      "src": "Jäkäsaari-seura"
     },
     {
       "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
@@ -182,6 +158,30 @@
       "link": "https://www.ruoholahdensanomat.fi/kierrata-tavarasi-roori-paivana/",
       "iso": "2026-10-08T06:12:02+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Anna Hanskin Jätkäsaaren-baarissa jonoa avauspäivänä",
+      "link": "https://www.ruoholahdensanomat.fi/anna-hanskin-jatkasaaren-baarissa-jonoa-avauspaivana/",
+      "iso": "2026-10-06T10:34:01+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Metallikierrätyslava: MIELILAVA – kierrätä ja auta!",
+      "link": "https://lapinlahdenlahde.fi/uutiset/metallikierratyslava-mielilava-kierrata-ja-auta/",
+      "iso": "2026-10-06T08:40:48+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Puheenvuoro: Pelastetaan Lapinlahti suhmuroinnilta",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/puheenvuoro-pelastetaan-lapinlahti-suhmuroinnilta/",
+      "iso": "2026-10-05T11:09:46+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Kaikuja sairaalasta: Lue potilaan vuonna 1890 kirjoittama satiirinen runo",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/kaikuja-sairaalasta-lue-potilaan-vuonna-1890-kirjoittama-runo/",
+      "iso": "2026-10-03T06:47:39+00:00",
+      "src": "Lapinlahden lähde"
     }
   ]
 }
