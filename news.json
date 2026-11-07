@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-07T11:31:40.368916+00:00",
+  "generated": "2026-11-07T16:59:33.488684+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 2,
   "items": [
     {
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
@@ -46,12 +46,6 @@
       "src": "Google News"
     },
     {
-      "title": "Jätkäsaaren katutaideteoksia odottaa asentamista varastossa",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-katutaideteoksia-odottaa-asentamista-varastossa/",
-      "iso": "2026-11-05T05:00:42+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
       "title": "HS: Helsingin viestinnässä on 200 työntekijää, silti viestintää ostetaan sadoilla tuhansilla - Verkkouutiset",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlJEdG1SRk82amV0Z0IzakdPQTlhdnpvcnF3SjRkUl9IX04zeUM1b2w4VEFrTUpQRWJPVkxmcVhLdmhiM3RKNi1iQmtJMDBweVM4Q1FUSEhET3IzbGl6Nk1TS1U3cVFLVk9GZS03dUJOM2dHdmRSTC1jcUF0MkI3N2NMUVVPWGNmTTNQUDl5YTRuNms1YmhybFlLbHI1NDUzNUdoX0lxcG9KeFdtVW9iRTdFdVNLZ2VJRHBzNkxYdw?oc=5",
       "iso": "2026-11-04T13:32:10+00:00",
@@ -62,12 +56,6 @@
       "link": "https://www.hel.fi/fi/uutiset/lansisataman-rakennustyot-etenevat-lahialueelle-kantautuu-ajoittaista-melua",
       "iso": "2026-11-04T08:04:20+00:00",
       "src": "Helsingin kaupunki"
-    },
-    {
-      "title": "Suosituimmat annokset: kebab-lautanen ja poronkäristys",
-      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-kebab-lautanen-ja-poronkaristys/",
-      "iso": "2026-11-04T07:50:24+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Synkkiä satuja konserttisalissa",
@@ -82,22 +70,10 @@
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "KahviKaveri täydentää Ruohiksen palvelutarjonnan",
-      "link": "https://korttelikeskusruohis.fi/kahvikaveri-taydentaa-ruohiksen-palvelutarjonnan/",
-      "iso": "2026-11-02T11:38:52+00:00",
-      "src": "Korttelikeskus Ruohis"
-    },
-    {
       "title": "Näin Puita Jätkäsaaren kaduille -Omastadihanke näkyy Jätkäsaaren kaduilla",
       "link": "https://kaupunginosat.fi/jatkasaari/nain-puita-jatkasaaren-kaduille-omastadihanke-nakyy-jatkasaaren-kaduilla/",
       "iso": "2026-11-01T07:22:35+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Lulu Ranne STT:n lopettamisesta: Palveluille ei ollut riittävää kysyntää - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYTdudmpYcjRiRVhyZG4xc0szMHhLaDJXcFc2NldUYnN5Sk9lOHpmUHkzZWdybm1peHdLUkZxQ1B0Vk9Sa2dVS3o5QVlhN21DQkdGdVpfT0xQQWxOWlJGd0VNeWdQbDJ6RVpLS1p0QVlEbkt6RXJqWU5nNjFSVnlrM1hncWFmR21SRDY2eXFXWEtOTDdRYVE2VVFwcjFFSGJaeEtlYw?oc=5",
-      "iso": "2026-10-29T14:23:05+00:00",
-      "src": "Google News"
     },
     {
       "title": "Puheenvuoro: Kaupunkilaisten Lapinlahdestako yksityiskartano?",
@@ -110,12 +86,6 @@
       "link": "https://lapinlahdenlahde.fi/uutiset/tiedote-siiri-nordinin-uusi-single-lapinlahti-ilmestyy-6-11-2026/",
       "iso": "2026-10-26T10:03:06+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Metalli­mies Jätkäsaaresta",
-      "link": "https://www.ruoholahdensanomat.fi/metallimies-jatkasaaresta/",
-      "iso": "2026-10-26T07:45:42+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Tervetuloa tuhatpäiseen Muuri-ihmisketjuun Lapinlahden puolesta 14.11.2026",
@@ -134,18 +104,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197",
       "iso": "2026-10-23T12:42:03+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Meluisa paalutustyö alkanut Länsisatamassa – kestää tammikuulle",
-      "link": "https://www.ruoholahdensanomat.fi/meluisa-paalutustyo-alkanut-lansisatamassa-kestaa-tammikuulle/",
-      "iso": "2026-10-21T12:04:29+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Intohimoa Ruoholahdesta – runokirja antaa palaa",
-      "link": "https://www.ruoholahdensanomat.fi/intohimoa-ruoholahdesta-runokirja-antaa-palaa/",
-      "iso": "2026-10-20T10:20:54+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     },
     {
       "title": "Kristian Wahlbeck: Miten ehkäistä itsemurhia tehokkaasti?",
@@ -178,10 +136,52 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Takavuosien iskelmätähtiä valo­kuvanneen töitä Uudessa Saunassa",
-      "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
-      "iso": "2026-10-14T05:24:35+00:00",
-      "src": "Jätkäsaari Ruoholahti"
+      "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
+      "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
+      "iso": "2026-10-13T13:25:19+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT055eUpfa1RUT3lldDFuaHpGSVNoMXFMUWpJVERQTkJaRktqa2pxbWZNMUM4ZVFMSElvQzZVTnltWnJxeVRkWkd4dy1ueVNVMWphWnRTbzhfcUU3ZDV1cQ?oc=5",
+      "iso": "2026-10-11T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Satamavaraston viimeiset vaiheet – kuvasarja näyttää Jätkäsaaren Bunkkerin purkamisen",
+      "link": "https://www.hel.fi/fi/uutiset/satamavaraston-viimeiset-vaiheet-kuvasarja-nayttaa-jatkasaaren-bunkkerin-purkamisen",
+      "iso": "2026-10-09T06:55:12+00:00",
+      "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Metallikierrätyslava: MIELILAVA – kierrätä ja auta!",
+      "link": "https://lapinlahdenlahde.fi/uutiset/metallikierratyslava-mielilava-kierrata-ja-auta/",
+      "iso": "2026-10-06T08:40:48+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Puheenvuoro: Pelastetaan Lapinlahti suhmuroinnilta",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/puheenvuoro-pelastetaan-lapinlahti-suhmuroinnilta/",
+      "iso": "2026-10-05T11:09:46+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Kaikuja sairaalasta: Lue potilaan vuonna 1890 kirjoittama satiirinen runo",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/kaikuja-sairaalasta-lue-potilaan-vuonna-1890-kirjoittama-runo/",
+      "iso": "2026-10-03T06:47:39+00:00",
+      "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Kundmeddelande från Jätkäsaaren Pysäköinti",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468784",
+      "iso": "2026-10-01T13:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Customer notice from Jätkäsaaren Pysäköinti",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/jtksaaren-pyskinnin-asukasilta-1592026-kello-1700-clarionissa-17468785",
+      "iso": "2026-10-01T13:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
