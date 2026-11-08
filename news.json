@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-08T13:11:42.473087+00:00",
+  "generated": "2026-11-08T18:21:15.689502+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469511",
+      "iso": "2026-11-08T14:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
     {
       "title": "Osallistu paikalliseen kirjoituskilpailuun",
       "link": "https://www.ruoholahdensanomat.fi/osallistu-paikalliseen-kirjoituskilpailuun/",
@@ -34,12 +40,6 @@
       "src": "Google News"
     },
     {
-      "title": "Lyhytvuokrauksen sääntöjä selkeytetään – ”naapureiden asumisrauhaa on kunnioitettava” - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeTNyYVpnSlhtekg2SkNXT0U4c3RoR1VFdmN1MnJwMDRSbFk2dzNWZDM4NHFpNTdYZjFsUm4wRk15bU9QX1lzWkJtR2FkZGVHM0FYRXVVaEZsZWRSTlNKRVY1R25HV1k3RGZOdGUxZE9mZU1XenlEb3VQQVJTejRuek80UHh4OXZ0X1RtRGVDWGtFaldWTWptNmhmV3pRRTNUeFdhZWhQNG01WUNRTWVXenowNA?oc=5",
-      "iso": "2026-11-05T14:22:11+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469509",
       "iso": "2026-11-05T10:32:46+00:00",
@@ -56,6 +56,12 @@
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-katutaideteoksia-odottaa-asentamista-varastossa/",
       "iso": "2026-11-05T05:00:42+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "HS: Helsingin viestinnässä on 200 työntekijää, silti viestintää ostetaan sadoilla tuhansilla - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlJEdG1SRk82amV0Z0IzakdPQTlhdnpvcnF3SjRkUl9IX04zeUM1b2w4VEFrTUpQRWJPVkxmcVhLdmhiM3RKNi1iQmtJMDBweVM4Q1FUSEhET3IzbGl6Nk1TS1U3cVFLVk9GZS03dUJOM2dHdmRSTC1jcUF0MkI3N2NMUVVPWGNmTTNQUDl5YTRuNms1YmhybFlLbHI1NDUzNUdoX0lxcG9KeFdtVW9iRTdFdVNLZ2VJRHBzNkxYdw?oc=5",
+      "iso": "2026-11-04T13:32:10+00:00",
+      "src": "Google News"
     },
     {
       "title": "Länsisataman rakennustyöt etenevät – lähialueelle kantautuu ajoittaista melua",
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
       "iso": "2026-10-14T05:24:35+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
-      "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
-      "iso": "2026-10-13T13:25:19+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
