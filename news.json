@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-08T05:59:18.351722+00:00",
+  "generated": "2026-11-08T13:11:42.473087+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Osallistu paikalliseen kirjoituskilpailuun",
+      "link": "https://www.ruoholahdensanomat.fi/osallistu-paikalliseen-kirjoituskilpailuun/",
+      "iso": "2026-11-08T06:03:33+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
@@ -176,12 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
       "iso": "2026-10-13T13:25:19+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Sarjapissaaja piinaa yhä Hekan talossa Jätkäsaaressa – tapaus oli jo vähällä selvitä - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XT055eUpfa1RUT3lldDFuaHpGSVNoMXFMUWpJVERQTkJaRktqa2pxbWZNMUM4ZVFMSElvQzZVTnltWnJxeVRkWkd4dy1ueVNVMWphWnRTbzhfcUU3ZDV1cQ?oc=5",
-      "iso": "2026-10-11T07:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
