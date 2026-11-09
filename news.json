@@ -1,13 +1,25 @@
 {
-  "generated": "2026-11-09T09:04:20.020743+00:00",
+  "generated": "2026-11-09T19:47:43.193170+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Vielä on syksyä jäljellä, samoin syyskonsertteja!",
+      "link": "https://www.konservatorio.fi/uutiset/viela-on-syksya-jaljella-samoin-syyskonsertteja/",
+      "iso": "2026-11-09T06:00:00+00:00",
+      "src": "Helsingin konservatorio"
+    },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469511",
       "iso": "2026-11-08T14:30:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Tervetuloa tuhatpäiseen Muuri-ihmisketjuun Lapinlahden puolesta 14.11.2026",
+      "link": "https://lapinlahdenlahde.fi/uutiset/tervetuloa-muuri-ihmisketjuun-lapinlahden-puolesta-14-11-2026/",
+      "iso": "2026-11-08T13:13:37+00:00",
+      "src": "Lapinlahden lähde"
     },
     {
       "title": "Osallistu paikalliseen kirjoituskilpailuun",
@@ -38,12 +50,6 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469509",
       "iso": "2026-11-05T10:32:46+00:00",
       "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Ulkoistettu terveysasema jäi jälleen pöydälle Helsingissä – ”Tulokset ovat olleet hyviä\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V2lfTGJMeUJNdi13Mm9raElLdjNUNFZmQ0tPVUFaaXJVOTFYRjM4STJjaE9vN3BhS0ZHTXNfckhkeHJLVTJTb1lBN08ySFRNR1dYVVFVY1dLSFVvamdhcA?oc=5",
-      "iso": "2026-11-05T05:30:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaaren katutaideteoksia odottaa asentamista varastossa",
@@ -110,12 +116,6 @@
       "link": "https://www.ruoholahdensanomat.fi/metallimies-jatkasaaresta/",
       "iso": "2026-10-26T07:45:42+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Tervetuloa tuhatpäiseen Muuri-ihmisketjuun Lapinlahden puolesta 14.11.2026",
-      "link": "https://lapinlahdenlahde.fi/uutiset/tervetuloa-muuri-ihmisketjuun-lapinlahden-puolesta-14-11-2026/",
-      "iso": "2026-10-25T13:13:37+00:00",
-      "src": "Lapinlahden lähde"
     },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
