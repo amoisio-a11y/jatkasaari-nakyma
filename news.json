@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-09T01:49:27.754704+00:00",
+  "generated": "2026-11-09T09:04:20.020743+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -25,12 +25,6 @@
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SS3pJeVZtb1N0QVZmcTdOQkdNQUMzR3FGQjZ0MzV5c1JKWHRGYkh6N0VJZE45RWVLUDhROGptcWxaVHdMSk95ZFZFZzltR0tOeXFSZFBoMjR1WUlDTWZmTThzTFlqUXRqdWR1ZDVR?oc=5",
       "iso": "2026-11-06T13:42:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Roborock avaa ensimmäisen oman Suomen-myymälänsä Helsinkiin 13. marraskuuta – avajaisissa luvassa yllättävä käänteinen ämpäritarjous - Mobiili.fi",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNckJnR3RrNm9xUGRoQnNLR1ZVa2M5bVA5U3laNXdUMXNMZWJrQVlOc0x3US1CX2dMOWNZeWJ4dFdHVVlJc1ZieFNNRnNCSWZpaUpqZ2c1QUNaV0p2d1A0QVVfbW11VTBEMk42Z3dQZ29CcllqU1RxY2p1M2s4bXAxa25vMFZWdnNGc0NSRERva1JNQlZRT1dKXzJYeFBqbE9pa1E4RjVpTjBabU9nOERJelZsOWhFcHcyUGpyR2R0LXRLUDdNNmtRVkRKcDdCTHhQQ3IzVDAtMlZSZm5Fci15TThmMVh0TmppSFlrbXBad1B6Zw?oc=5",
-      "iso": "2026-11-06T09:19:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
       "iso": "2026-10-14T05:24:35+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
+      "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
+      "iso": "2026-10-13T13:25:19+00:00",
+      "src": "Kaupunginosat.fi"
     }
   ]
 }
