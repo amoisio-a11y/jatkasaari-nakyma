@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T02:31:47.219508+00:00",
+  "generated": "2026-11-10T10:26:11.590712+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -58,12 +58,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "HS: Helsingin viestinnässä on 200 työntekijää, silti viestintää ostetaan sadoilla tuhansilla - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlJEdG1SRk82amV0Z0IzakdPQTlhdnpvcnF3SjRkUl9IX04zeUM1b2w4VEFrTUpQRWJPVkxmcVhLdmhiM3RKNi1iQmtJMDBweVM4Q1FUSEhET3IzbGl6Nk1TS1U3cVFLVk9GZS03dUJOM2dHdmRSTC1jcUF0MkI3N2NMUVVPWGNmTTNQUDl5YTRuNms1YmhybFlLbHI1NDUzNUdoX0lxcG9KeFdtVW9iRTdFdVNLZ2VJRHBzNkxYdw?oc=5",
-      "iso": "2026-11-04T13:32:10+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Länsisataman rakennustyöt etenevät – lähialueelle kantautuu ajoittaista melua",
       "link": "https://www.hel.fi/fi/uutiset/lansisataman-rakennustyot-etenevat-lahialueelle-kantautuu-ajoittaista-melua",
       "iso": "2026-11-04T08:04:20+00:00",
@@ -98,6 +92,12 @@
       "link": "https://kaupunginosat.fi/jatkasaari/nain-puita-jatkasaaren-kaduille-omastadihanke-nakyy-jatkasaaren-kaduilla/",
       "iso": "2026-11-01T07:22:35+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Joulu saapuu Ruohikseen la 21.11.",
+      "link": "https://korttelikeskusruohis.fi/joulu-saapuu-ruohikseen-la-21-11/",
+      "iso": "2026-10-29T12:29:26+00:00",
+      "src": "Korttelikeskus Ruohis"
     },
     {
       "title": "Puheenvuoro: Kaupunkilaisten Lapinlahdestako yksityiskartano?",
