@@ -1,8 +1,26 @@
 {
-  "generated": "2026-11-10T18:04:05.225410+00:00",
+  "generated": "2026-11-10T23:20:01.547263+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Ilmoitus avunhuudoista käynnisti mittavat etsinnät Helsingin Ruoholahdessa - Tilannemedia",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmxpSFp2MEV4ZDRUazBtaXFjQmpUSnFFbmVETTVzTFJlWEF1ZE5peVBVV2R0dV9OWXR3d1djNzNrQ0pBSmtONGNndVowc2pkWVNxUmQ4d3czNmhZNE9wMFFmN0VQSHRxQ1lDOXlVUVNPaXJlam9mWnoxeEoyOUFWM1hGNUt0Y1NtQTFlaTE0RUlLOGhfbnFUZTVTM3hicEk0?oc=5",
+      "iso": "2026-11-10T21:55:21+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Pelastuslaitos etsii jotain vedestä Ruoho­lahdessa - cedarnews.net",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUEtcEdValhQWUlTVWlOZDFPeVVVRkZSaVBQeFl5a0hVRG1DY2ZVdjNFdm5FRU50ajk2QlRvUVR2WjliOHQ5OVFsWUdJNUxSMDlLU2ZvUVo3MDBoY3dTcGpiRFcxRDE0eTlmWTIzcGp3QUNoTGozMDVWWnc4RmNvd0NEZWRHU2E1SEJ1NVFiRUhIWXloS3ZQVVNXR08?oc=5",
+      "iso": "2026-11-10T20:46:42+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Helsinki | Pelastuslaitos etsii jotain vedestä Ruoholahdessa - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11V05HYnFMb0hJY0NOM1VBNXN5MUhSS29OLUJEUjRiZkpOTEFVM0Q5dDZ2WXk5UVhVVFQyejctWm1oQXVJWmZZMHl1VVlpUjdqOE96Vzd5Z3JmdWlwVUE?oc=5",
+      "iso": "2026-11-10T20:46:00+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Ilman vapaaehtoisia ei olisi Lapinlahtea",
       "link": "https://lapinlahdenlahde.fi/artikkelit/ilman-vapaaehtoisia-ei-olisi-lapinlahtea/",
@@ -36,12 +54,6 @@
     {
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
-      "iso": "2026-11-06T13:42:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SS3pJeVZtb1N0QVZmcTdOQkdNQUMzR3FGQjZ0MzV5c1JKWHRGYkh6N0VJZE45RWVLUDhROGptcWxaVHdMSk95ZFZFZzltR0tOeXFSZFBoMjR1WUlDTWZmTThzTFlqUXRqdWR1ZDVR?oc=5",
       "iso": "2026-11-06T13:42:00+00:00",
       "src": "Google News"
     },
@@ -170,18 +182,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-toimintasuunnitelma-vuodelle-2027/",
       "iso": "2026-10-14T07:10:58+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Tervetuloa Jätkäsaari-seuran syyskokoukseen maanantaina 16.11.2026 klo 18",
-      "link": "https://kaupunginosat.fi/jatkasaari/tervetuloa-jatkasaari-seuran-syyskokoukseen-maanantaina-16-11-2026-klo-18/",
-      "iso": "2026-10-14T06:32:18+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Takavuosien iskelmätähtiä valo­kuvanneen töitä Uudessa Saunassa",
-      "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
-      "iso": "2026-10-14T05:24:35+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
