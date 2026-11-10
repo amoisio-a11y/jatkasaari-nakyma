@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-10T10:26:11.590712+00:00",
+  "generated": "2026-11-10T18:04:05.225410+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Ilman vapaaehtoisia ei olisi Lapinlahtea",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/ilman-vapaaehtoisia-ei-olisi-lapinlahtea/",
+      "iso": "2026-11-10T16:34:53+00:00",
+      "src": "Lapinlahden lähde"
+    },
     {
       "title": "Vielä on syksyä jäljellä, samoin syyskonsertteja!",
       "link": "https://www.konservatorio.fi/uutiset/viela-on-syksya-jaljella-samoin-syyskonsertteja/",
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/takavuosien-iskelmatahtia-valokuvanneen-toita-uudessa-saunassa/",
       "iso": "2026-10-14T05:24:35+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "HSL:n vastine Jätkäsaari-seuran kannanottoon",
-      "link": "https://kaupunginosat.fi/jatkasaari/hsln-vastine-jatkasaari-seuran-kannanottoon/",
-      "iso": "2026-10-13T13:25:19+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
