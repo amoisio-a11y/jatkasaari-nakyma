@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T02:54:21.230810+00:00",
+  "generated": "2026-11-11T10:18:42.354086+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -10,15 +10,15 @@
       "src": "Google News"
     },
     {
-      "title": "Helsinki | Pelastuslaitos etsii jotain vedestä Ruoho­lahdessa - cedarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUEtcEdValhQWUlTVWlOZDFPeVVVRkZSaVBQeFl5a0hVRG1DY2ZVdjNFdm5FRU50ajk2QlRvUVR2WjliOHQ5OVFsWUdJNUxSMDlLU2ZvUVo3MDBoY3dTcGpiRFcxRDE0eTlmWTIzcGp3QUNoTGozMDVWWnc4RmNvd0NEZWRHU2E1SEJ1NVFiRUhIWXloS3ZQVVNXR08?oc=5",
-      "iso": "2026-11-10T20:46:42+00:00",
+      "title": "Isot yölliset pelastusoperaatiot Helsingissä ja Espoossa – Tästä oli kyse - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53SWlfR196bC1ybk9EeEZIcVdxUVVER3A2REJBWFp4ZlAtSkZfM3ZGbEFfd3l6QnY0dUFfY0h0N0dBWWFMQnI5bmRMNUlueE9PWEZ6am12YXFZd3lkTXc2emUzeXFKcklSYlp2MGxaVVo3amdFNnJ3dFgyRQ?oc=5",
+      "iso": "2026-11-10T21:11:39+00:00",
       "src": "Google News"
     },
     {
-      "title": "Helsinki | Pelastuslaitos etsi ihmistä vedestä Jätkäsaaressa: ketään ei löytynyt - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11V05HYnFMb0hJY0NOM1VBNXN5MUhSS29OLUJEUjRiZkpOTEFVM0Q5dDZ2WXk5UVhVVFQyejctWm1oQXVJWmZZMHl1VVlpUjdqOE96Vzd5Z3JmdWlwVUE?oc=5",
-      "iso": "2026-11-10T20:46:00+00:00",
+      "title": "Helsinki | Pelastuslaitos etsii jotain vedestä Ruoho­lahdessa - cedarnews.net",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUEtcEdValhQWUlTVWlOZDFPeVVVRkZSaVBQeFl5a0hVRG1DY2ZVdjNFdm5FRU50ajk2QlRvUVR2WjliOHQ5OVFsWUdJNUxSMDlLU2ZvUVo3MDBoY3dTcGpiRFcxRDE0eTlmWTIzcGp3QUNoTGozMDVWWnc4RmNvd0NEZWRHU2E1SEJ1NVFiRUhIWXloS3ZQVVNXR08?oc=5",
+      "iso": "2026-11-10T20:46:42+00:00",
       "src": "Google News"
     },
     {
@@ -26,6 +26,12 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/ilman-vapaaehtoisia-ei-olisi-lapinlahtea/",
       "iso": "2026-11-10T16:34:53+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Helsinki | Pelastuslaitos etsi ihmistä vedestä Jätkäsaaressa: ketään ei löytynyt - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11V05HYnFMb0hJY0NOM1VBNXN5MUhSS29OLUJEUjRiZkpOTEFVM0Q5dDZ2WXk5UVhVVFQyejctWm1oQXVJWmZZMHl1VVlpUjdqOE96Vzd5Z3JmdWlwVUE?oc=5",
+      "iso": "2026-11-09T20:27:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Vielä on syksyä jäljellä, samoin syyskonsertteja!",
@@ -58,12 +64,6 @@
       "src": "Google News"
     },
     {
-      "title": "Rattijuoppo kaahasi poliisia karkuun – matka päättyi piikkimattoon - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRjJJZm1wRXU0eFJrVDlTR25EWTlFbThSTldpT2FNMXJRbTBsaUdBSXdxb0YzSkZhcmY0QXlFVUx2eWZvWWdTRUV5OTJjRXhSUUJPa1NDRWZMYWhL?oc=5",
-      "iso": "2026-11-06T06:25:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469509",
       "iso": "2026-11-05T10:32:46+00:00",
@@ -74,6 +74,12 @@
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-katutaideteoksia-odottaa-asentamista-varastossa/",
       "iso": "2026-11-05T05:00:42+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "HS: Helsingin viestinnässä on 200 työntekijää, silti viestintää ostetaan sadoilla tuhansilla - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlJEdG1SRk82amV0Z0IzakdPQTlhdnpvcnF3SjRkUl9IX04zeUM1b2w4VEFrTUpQRWJPVkxmcVhLdmhiM3RKNi1iQmtJMDBweVM4Q1FUSEhET3IzbGl6Nk1TS1U3cVFLVk9GZS03dUJOM2dHdmRSTC1jcUF0MkI3N2NMUVVPWGNmTTNQUDl5YTRuNms1YmhybFlLbHI1NDUzNUdoX0lxcG9KeFdtVW9iRTdFdVNLZ2VJRHBzNkxYdw?oc=5",
+      "iso": "2026-11-04T13:32:10+00:00",
+      "src": "Google News"
     },
     {
       "title": "Länsisataman rakennustyöt etenevät – lähialueelle kantautuu ajoittaista melua",
@@ -175,12 +181,6 @@
       "title": "Jätkäsaari-seuran talousarvio vuodelle 2027",
       "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-talousarvio-vuodelle-2027/",
       "iso": "2026-10-14T07:45:20+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaari-seuran toimintasuunnitelma vuodelle 2027",
-      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-toimintasuunnitelma-vuodelle-2027/",
-      "iso": "2026-10-14T07:10:58+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
