@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-11T17:58:37.462816+00:00",
+  "generated": "2026-11-12T00:21:54.651582+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Terveydenhoito | Helsinkiläisen terveysaseman ulkoistamisesta tuli kiistakapula, vaikka kokemukset ovat hyviä - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KR0R1UEtiWGV1Z01HaU1nSlRVUXZJbEx6clp0MGtiaDQ0UUVsSUVHVzd0N1RlTDR1SGFIS2FwV2hTeFMxX19WTFFTT3lHbnZQemQ1SUpaaGd3VnpjVFE?oc=5",
+      "iso": "2026-11-11T18:12:00+00:00",
+      "src": "Google News"
+    },
     {
       "title": "Ilmoitus avunhuudoista käynnisti mittavat etsinnät Helsingin Ruoholahdessa - Tilannemedia",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQmxpSFp2MEV4ZDRUazBtaXFjQmpUSnFFbmVETTVzTFJlWEF1ZE5peVBVV2R0dV9OWXR3d1djNzNrQ0pBSmtONGNndVowc2pkWVNxUmQ4d3czNmhZNE9wMFFmN0VQSHRxQ1lDOXlVUVNPaXJlam9mWnoxeEoyOUFWM1hGNUt0Y1NtQTFlaTE0RUlLOGhfbnFUZTVTM3hicEk0?oc=5",
@@ -22,16 +28,16 @@
       "src": "Google News"
     },
     {
-      "title": "Helsinki | Pelastuslaitos etsi ihmistä vedestä Jätkäsaaressa: ketään ei löytynyt - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11V05HYnFMb0hJY0NOM1VBNXN5MUhSS29OLUJEUjRiZkpOTEFVM0Q5dDZ2WXk5UVhVVFQyejctWm1oQXVJWmZZMHl1VVlpUjdqOE96Vzd5Z3JmdWlwVUE?oc=5",
-      "iso": "2026-11-10T20:46:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Ilman vapaaehtoisia ei olisi Lapinlahtea",
       "link": "https://lapinlahdenlahde.fi/artikkelit/ilman-vapaaehtoisia-ei-olisi-lapinlahtea/",
       "iso": "2026-11-10T16:34:53+00:00",
       "src": "Lapinlahden lähde"
+    },
+    {
+      "title": "Helsinki | Pelastuslaitos etsi ihmistä vedestä Jätkäsaaressa: ketään ei löytynyt - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11V05HYnFMb0hJY0NOM1VBNXN5MUhSS29OLUJEUjRiZkpOTEFVM0Q5dDZ2WXk5UVhVVFQyejctWm1oQXVJWmZZMHl1VVlpUjdqOE96Vzd5Z3JmdWlwVUE?oc=5",
+      "iso": "2026-11-09T21:41:00+00:00",
+      "src": "Google News"
     },
     {
       "title": "Vielä on syksyä jäljellä, samoin syyskonsertteja!",
@@ -142,6 +148,12 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
+      "title": "Ruoholahden terveysaseman toiminta halutaan kilpailuttaa uudelleen - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nSkg3M0NENzNBYjFzTHE4ejZLdUY2MVcteFBBN2xHTlVxVWQ3ekNxWGdqN3ZLTzRYMjV2UFZwbW9mdw?oc=5",
+      "iso": "2026-10-26T07:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469269",
       "iso": "2026-10-23T13:30:00+00:00",
@@ -170,18 +182,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/kristian-wahlbeck-miten-ehkaista-itsemurhia-tehokkaasti/",
       "iso": "2026-10-14T10:25:14+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Helenin ydinenergiahankkeen infotilaisuudet",
-      "link": "https://kaupunginosat.fi/jatkasaari/helenin-ydinenergiahankkeen-infotilaisuudet/",
-      "iso": "2026-10-14T08:36:14+00:00",
-      "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Jätkäsaari-seuran talousarvio vuodelle 2027",
-      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-talousarvio-vuodelle-2027/",
-      "iso": "2026-10-14T07:45:20+00:00",
-      "src": "Kaupunginosat.fi"
     }
   ]
 }
