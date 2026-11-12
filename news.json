@@ -1,10 +1,16 @@
 {
-  "generated": "2026-11-12T00:21:54.651582+00:00",
+  "generated": "2026-11-12T07:30:36.039975+00:00",
   "count": 30,
   "failed": 0,
   "items": [
     {
-      "title": "Terveydenhoito | Helsinkiläisen terveysaseman ulkoistamisesta tuli kiistakapula, vaikka kokemukset ovat hyviä - HS.fi",
+      "title": "Saukonpaadenrannan toimistorakennuksia koskevaan varaukseen ei ole vielä haettu jatkoaikaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevaan-varaukseen-ei-ole-viela-haettu-jatkoaikaa/",
+      "iso": "2026-11-12T07:30:24+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Terveydenhoito | Tuhansien helsinkiläisten terveysasemasta tuli vasemmiston ja oikeiston kiistakapula - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KR0R1UEtiWGV1Z01HaU1nSlRVUXZJbEx6clp0MGtiaDQ0UUVsSUVHVzd0N1RlTDR1SGFIS2FwV2hTeFMxX19WTFFTT3lHbnZQemQ1SUpaaGd3VnpjVFE?oc=5",
       "iso": "2026-11-11T18:12:00+00:00",
       "src": "Google News"
@@ -22,9 +28,9 @@
       "src": "Google News"
     },
     {
-      "title": "Helsinki | Pelastuslaitos etsii jotain vedestä Ruoho­lahdessa - cedarnews.net",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQLUEtcEdValhQWUlTVWlOZDFPeVVVRkZSaVBQeFl5a0hVRG1DY2ZVdjNFdm5FRU50ajk2QlRvUVR2WjliOHQ5OVFsWUdJNUxSMDlLU2ZvUVo3MDBoY3dTcGpiRFcxRDE0eTlmWTIzcGp3QUNoTGozMDVWWnc4RmNvd0NEZWRHU2E1SEJ1NVFiRUhIWXloS3ZQVVNXR08?oc=5",
-      "iso": "2026-11-10T20:46:42+00:00",
+      "title": "Helsinki | Pelastuslaitos etsi ihmistä vedestä Jätkäsaaressa: ketään ei löytynyt - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11V05HYnFMb0hJY0NOM1VBNXN5MUhSS29OLUJEUjRiZkpOTEFVM0Q5dDZ2WXk5UVhVVFQyejctWm1oQXVJWmZZMHl1VVlpUjdqOE96Vzd5Z3JmdWlwVUE?oc=5",
+      "iso": "2026-11-10T20:46:00+00:00",
       "src": "Google News"
     },
     {
@@ -32,12 +38,6 @@
       "link": "https://lapinlahdenlahde.fi/artikkelit/ilman-vapaaehtoisia-ei-olisi-lapinlahtea/",
       "iso": "2026-11-10T16:34:53+00:00",
       "src": "Lapinlahden lähde"
-    },
-    {
-      "title": "Helsinki | Pelastuslaitos etsi ihmistä vedestä Jätkäsaaressa: ketään ei löytynyt - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE11V05HYnFMb0hJY0NOM1VBNXN5MUhSS29OLUJEUjRiZkpOTEFVM0Q5dDZ2WXk5UVhVVFQyejctWm1oQXVJWmZZMHl1VVlpUjdqOE96Vzd5Z3JmdWlwVUE?oc=5",
-      "iso": "2026-11-09T21:41:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Vielä on syksyä jäljellä, samoin syyskonsertteja!",
@@ -67,6 +67,12 @@
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
       "iso": "2026-11-06T13:42:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Rattijuoppo kaahasi poliisia karkuun – matka päättyi piikkimattoon - Ilta-Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRjJJZm1wRXU0eFJrVDlTR25EWTlFbThSTldpT2FNMXJRbTBsaUdBSXdxb0YzSkZhcmY0QXlFVUx2eWZvWWdTRUV5OTJjRXhSUUJPa1NDRWZMYWhL?oc=5",
+      "iso": "2026-11-06T06:25:00+00:00",
       "src": "Google News"
     },
     {
@@ -176,12 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/intohimoa-ruoholahdesta-runokirja-antaa-palaa/",
       "iso": "2026-10-20T10:20:54+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Kristian Wahlbeck: Miten ehkäistä itsemurhia tehokkaasti?",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/kristian-wahlbeck-miten-ehkaista-itsemurhia-tehokkaasti/",
-      "iso": "2026-10-14T10:25:14+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
