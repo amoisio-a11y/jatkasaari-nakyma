@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T17:59:44.599036+00:00",
+  "generated": "2026-11-13T23:27:43.799819+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -118,6 +118,12 @@
       "src": "Helsingin kaupunki"
     },
     {
+      "title": "HS: Helsingin viestinnässä on 200 työntekijää, silti viestintää ostetaan sadoilla tuhansilla - Verkkouutiset",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUlJEdG1SRk82amV0Z0IzakdPQTlhdnpvcnF3SjRkUl9IX04zeUM1b2w4VEFrTUpQRWJPVkxmcVhLdmhiM3RKNi1iQmtJMDBweVM4Q1FUSEhET3IzbGl6Nk1TS1U3cVFLVk9GZS03dUJOM2dHdmRSTC1jcUF0MkI3N2NMUVVPWGNmTTNQUDl5YTRuNms1YmhybFlLbHI1NDUzNUdoX0lxcG9KeFdtVW9iRTdFdVNLZ2VJRHBzNkxYdw?oc=5",
+      "iso": "2026-11-04T08:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Suosituimmat annokset: kebab-lautanen ja poronkäristys",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-kebab-lautanen-ja-poronkaristys/",
       "iso": "2026-11-04T07:50:24+00:00",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nSkg3M0NENzNBYjFzTHE4ejZLdUY2MVcteFBBN2xHTlVxVWQ3ekNxWGdqN3ZLTzRYMjV2UFZwbW9mdw?oc=5",
       "iso": "2026-10-26T07:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469269",
-      "iso": "2026-10-23T13:30:00+00:00",
-      "src": "Jätkäsaaren pysäköinti"
     }
   ]
 }
