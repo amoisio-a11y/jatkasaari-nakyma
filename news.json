@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T02:46:18.265773+00:00",
+  "generated": "2026-11-13T10:30:17.497850+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -85,12 +85,6 @@
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
       "iso": "2026-11-06T13:42:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Rattijuoppo kaahasi poliisia karkuun – matka päättyi piikkimattoon - Ilta-Sanomat",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRjJJZm1wRXU0eFJrVDlTR25EWTlFbThSTldpT2FNMXJRbTBsaUdBSXdxb0YzSkZhcmY0QXlFVUx2eWZvWWdTRUV5OTJjRXhSUUJPa1NDRWZMYWhL?oc=5",
-      "iso": "2026-11-06T06:25:00+00:00",
       "src": "Google News"
     },
     {
@@ -182,6 +176,12 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197",
       "iso": "2026-10-23T12:42:03+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Meluisa paalutustyö alkanut Länsisatamassa – kestää tammikuulle",
+      "link": "https://www.ruoholahdensanomat.fi/meluisa-paalutustyo-alkanut-lansisatamassa-kestaa-tammikuulle/",
+      "iso": "2026-10-21T12:04:29+00:00",
+      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
