@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T10:49:10.028883+00:00",
+  "generated": "2026-11-14T16:51:46.487256+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -38,12 +38,6 @@
       "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevaan-varaukseen-ei-ole-viela-haettu-jatkoaikaa/",
       "iso": "2026-11-12T07:30:24+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Terveydenhoito | Tuhansien helsinkiläisten terveysasemasta tuli vasemmiston ja oikeiston kiistakapula - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KR0R1UEtiWGV1Z01HaU1nSlRVUXZJbEx6clp0MGtiaDQ0UUVsSUVHVzd0N1RlTDR1SGFIS2FwV2hTeFMxX19WTFFTT3lHbnZQemQ1SUpaaGd3VnpjVFE?oc=5",
-      "iso": "2026-11-11T18:12:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Naapurustoglögit 2.12.2026 yli 65-vuotiaille",
@@ -182,6 +176,12 @@
       "link": "https://www.ruoholahdensanomat.fi/metallimies-jatkasaaresta/",
       "iso": "2026-10-26T07:45:42+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Ruoholahden terveysaseman toiminta halutaan kilpailuttaa uudelleen - Yle",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE5nSkg3M0NENzNBYjFzTHE4ejZLdUY2MVcteFBBN2xHTlVxVWQ3ekNxWGdqN3ZLTzRYMjV2UFZwbW9mdw?oc=5",
+      "iso": "2026-10-26T07:00:00+00:00",
+      "src": "Google News"
     }
   ]
 }
