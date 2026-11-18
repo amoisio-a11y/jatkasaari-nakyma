@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-18T01:07:42.453069Z",
+  "generated": "2026-11-18T08:28:54.455846Z",
   "arrivals": [
     {
       "name": "MyStar",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-11-17T22:30:00Z"
+      "arrTime": "2026-11-17T22:33:00Z"
     },
     {
       "name": "Finlandia",
@@ -14,7 +14,7 @@
     {
       "name": "Megastar",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-11-18T07:30:00Z"
+      "arrTime": "2026-11-18T07:32:00Z"
     },
     {
       "name": "MyStar",
