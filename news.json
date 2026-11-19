@@ -1,12 +1,18 @@
 {
-  "generated": "2026-11-19T13:03:14.002359+00:00",
+  "generated": "2026-11-19T21:33:02.750054+00:00",
   "count": 30,
-  "failed": 0,
+  "failed": 1,
   "items": [
     {
-      "title": "Vihreät kertoi kantansa: Ruoholahden ulkoistettu terveysasema saa jatkaa | Paikalliset - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HbUR0TWFyWFNucXg4MzQtUllSYXRVcENFZ1loRi11WWx1cm9feV8xUXRGbVBWcUNEcWNrY0k2RlA0MW5YMUhoajlCTUJ2RjdpZTFpM3p3eWtrSkM5Q0NOQQ?oc=5",
-      "iso": "2026-11-19T06:58:27+00:00",
+      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
+      "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469678",
+      "iso": "2026-11-19T14:30:00+00:00",
+      "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Vihreiden kanta Ruoholahden ulkoistetun terveysaseman ulkoistamisen jatkosta herättää kritiikkiä - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xeHg1UWxYenVPcnNNbkRuZERiVnRtZVJJeXg5eDdtYUV0S0w2YlFkRmhLS25aNGQtX2F2a09lV2xZeUFQNnB6V1pNU08yOGE4OFAyZ29Yd293YTF0ZWw0SQ?oc=5",
+      "iso": "2026-11-19T13:08:47+00:00",
       "src": "Google News"
     },
     {
@@ -22,7 +28,7 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Näkökulma | Ruoholahden terveysaseman kohtalo on nyt vihreiden käsissä | Paikalliset - Helsingin Uutiset",
+      "title": "Näkökulma | Ruoholahden terveysaseman kohtalo on nyt vihreiden käsissä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByRlZhR1NxR0x3RDdIelRKbzgtX3poRG1HU3JQX2p0WlJJM3ExZm55SVI2MWo0NGhnZ2JRdE9oQTEyR0ZTR0o3YV93dzZFSkNqM3J3WVFKSk1neTZUeTNfdw?oc=5",
       "iso": "2026-11-18T13:15:00+00:00",
       "src": "Google News"
@@ -44,12 +50,6 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Zm1RaWJfcW45cjktblZnel9MNW9vSllSSEFmc2k5Uk1valNYVnZZNldhbVdrVmo5UkQybWpIakJoQ1QweTZiZ2M2ZERqMjM2d1o0cEhsVVlyeVA1Ym5vag?oc=5",
       "iso": "2026-11-17T13:47:01+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Lapinlahden tulevien ratkaisujen valmistelu jatkuu vuoropuhelussa alueen toimijoiden kanssa",
-      "link": "https://www.hel.fi/fi/uutiset/lapinlahden-tulevien-ratkaisujen-valmistelu-jatkuu-vuoropuhelussa-alueen-toimijoiden-kanssa",
-      "iso": "2026-11-17T12:00:11+00:00",
-      "src": "Helsingin kaupunki"
     },
     {
       "title": "Jätkäsaari on hyvän tuulen saari, jossa parasta ovat merellisyys, puistot ja ihmiset",
@@ -172,16 +172,16 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Länsisataman rakennustyöt etenevät – lähialueelle kantautuu ajoittaista melua",
-      "link": "https://www.hel.fi/fi/uutiset/lansisataman-rakennustyot-etenevat-lahialueelle-kantautuu-ajoittaista-melua",
-      "iso": "2026-11-04T08:04:20+00:00",
-      "src": "Helsingin kaupunki"
-    },
-    {
       "title": "Suosituimmat annokset: kebab-lautanen ja poronkäristys",
       "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-kebab-lautanen-ja-poronkaristys/",
       "iso": "2026-11-04T07:50:24+00:00",
       "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Synkkiä satuja konserttisalissa",
+      "link": "https://www.konservatorio.fi/uutiset/synkkia-satuja-konserttisalissa/",
+      "iso": "2026-11-04T06:00:00+00:00",
+      "src": "Helsingin konservatorio"
     }
   ]
 }
