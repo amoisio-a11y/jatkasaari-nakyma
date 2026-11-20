@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-20T10:31:08.333727+00:00",
+  "generated": "2026-11-20T18:50:24.196975+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Pääkonttorista neuvotellaan suljettujen ovien takana: Lapinlahden alue ansaitsee avointa yhteissuunnittelua",
+      "link": "https://lapinlahdenlahde.fi/uutiset/paakonttorista-neuvotellaan-suljettujen-ovien-takana-lapinlahden-alue-ansaitsee-avointa-yhteissuunnittelua/",
+      "iso": "2026-11-20T12:20:48+00:00",
+      "src": "Lapinlahden lähde"
+    },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469678",
@@ -13,6 +19,12 @@
       "title": "Vihreät kertoi kantansa: Ruoholahden ulkoistettu terveysasema saa jatkaa | Paikalliset - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HbUR0TWFyWFNucXg4MzQtUllSYXRVcENFZ1loRi11WWx1cm9feV8xUXRGbVBWcUNEcWNrY0k2RlA0MW5YMUhoajlCTUJ2RjdpZTFpM3p3eWtrSkM5Q0NOQQ?oc=5",
       "iso": "2026-11-19T06:58:27+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Nopea hoitoonpääsy, korkea asiakastyytyväisyys ja hyödyt kaupungin omien terveyspalvelujen kehittämisen kannalta ratkaisivat vihreiden kannan Ruoholahden terveysasemasta - STT Info",
+      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPWTFlYzFxWVgzdEQycUNXSDhXWURST2FUUENoWXpTMHdtOEh5T3ctOEQ0d09XOVNra3RrZ2JSNXNJUzllaVlva2dHenVhQ3k5TFNCZnRzWmNralVqdXlmLVJxREVaTWtrUGtiUmNDdXlqU21LME0yYXpjbWN5QmNyYUJjRkh2RThreHpOb1M3c1VZR3FEYTNZcEZMWlh3Y2dxWjdwdW5tUnVKN0Itc1BmOXVQN2xiaXNDVXhPdE96NjlUSkpreDNKSzNuR3NTUUNCZEpkWWlwcE1OaV9seWRXMVkwU0FJYnhiMWxDVmdjMGMyU2Fkc0NjU3RueG9QUHJvLWFVajhHdVN6VE03TWxEdXYtdGx3MjYxSVltZ1VfOXRSdDZOVmMtZk9JVWFLSE5DZXU2dF93Q0doZDVycVo5cm1adThCWEt4UlVjYmoxUEY2UTZCUF9ySw?oc=5",
+      "iso": "2026-11-19T05:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -100,6 +112,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Terveydenhoito | Tuhansien helsinkiläisten terveysasemasta tuli vasemmiston ja oikeiston kiistakapula - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KR0R1UEtiWGV1Z01HaU1nSlRVUXZJbEx6clp0MGtiaDQ0UUVsSUVHVzd0N1RlTDR1SGFIS2FwV2hTeFMxX19WTFFTT3lHbnZQemQ1SUpaaGd3VnpjVFE?oc=5",
+      "iso": "2026-11-11T18:12:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Naapurustoglögit 2.12.2026 yli 65-vuotiaille",
       "link": "https://kaupunginosat.fi/jatkasaari/naapurustoglogit-2-12-2026-yli-65-vuotiaille/",
       "iso": "2026-11-11T09:16:00+00:00",
@@ -164,24 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
       "iso": "2026-11-06T08:00:00+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469509",
-      "iso": "2026-11-05T10:32:46+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Ulkoistettu terveysasema jäi jälleen pöydälle Helsingissä – ”Tulokset ovat olleet hyviä\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V2lfTGJMeUJNdi13Mm9raElLdjNUNFZmQ0tPVUFaaXJVOTFYRjM4STJjaE9vN3BhS0ZHTXNfckhkeHJLVTJTb1lBN08ySFRNR1dYVVFVY1dLSFVvamdhcA?oc=5",
-      "iso": "2026-11-05T08:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren katutaideteoksia odottaa asentamista varastossa",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-katutaideteoksia-odottaa-asentamista-varastossa/",
-      "iso": "2026-11-05T05:00:42+00:00",
-      "src": "Jätkäsaari Ruoholahti"
     }
   ]
 }
