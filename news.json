@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-20T02:36:47.865013+00:00",
+  "generated": "2026-11-20T10:31:08.333727+00:00",
   "count": 30,
-  "failed": 1,
+  "failed": 0,
   "items": [
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
@@ -13,12 +13,6 @@
       "title": "Vihreät kertoi kantansa: Ruoholahden ulkoistettu terveysasema saa jatkaa | Paikalliset - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HbUR0TWFyWFNucXg4MzQtUllSYXRVcENFZ1loRi11WWx1cm9feV8xUXRGbVBWcUNEcWNrY0k2RlA0MW5YMUhoajlCTUJ2RjdpZTFpM3p3eWtrSkM5Q0NOQQ?oc=5",
       "iso": "2026-11-19T06:58:27+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Nopea hoitoonpääsy, korkea asiakastyytyväisyys ja hyödyt kaupungin omien terveyspalvelujen kehittämisen kannalta ratkaisivat vihreiden kannan Ruoholahden terveysasemasta - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPWTFlYzFxWVgzdEQycUNXSDhXWURST2FUUENoWXpTMHdtOEh5T3ctOEQ0d09XOVNra3RrZ2JSNXNJUzllaVlva2dHenVhQ3k5TFNCZnRzWmNralVqdXlmLVJxREVaTWtrUGtiUmNDdXlqU21LME0yYXpjbWN5QmNyYUJjRkh2RThreHpOb1M3c1VZR3FEYTNZcEZMWlh3Y2dxWjdwdW5tUnVKN0Itc1BmOXVQN2xiaXNDVXhPdE96NjlUSkpreDNKSzNuR3NTUUNCZEpkWWlwcE1OaV9seWRXMVkwU0FJYnhiMWxDVmdjMGMyU2Fkc0NjU3RueG9QUHJvLWFVajhHdVN6VE03TWxEdXYtdGx3MjYxSVltZ1VfOXRSdDZOVmMtZk9JVWFLSE5DZXU2dF93Q0doZDVycVo5cm1adThCWEt4UlVjYmoxUEY2UTZCUF9ySw?oc=5",
-      "iso": "2026-11-19T05:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -50,6 +44,12 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE95Zm1RaWJfcW45cjktblZnel9MNW9vSllSSEFmc2k5Uk1valNYVnZZNldhbVdrVmo5UkQybWpIakJoQ1QweTZiZ2M2ZERqMjM2d1o0cEhsVVlyeVA1Ym5vag?oc=5",
       "iso": "2026-11-17T13:47:01+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Lapinlahden tulevien ratkaisujen valmistelu jatkuu vuoropuhelussa alueen toimijoiden kanssa",
+      "link": "https://www.hel.fi/fi/uutiset/lapinlahden-tulevien-ratkaisujen-valmistelu-jatkuu-vuoropuhelussa-alueen-toimijoiden-kanssa",
+      "iso": "2026-11-17T12:00:11+00:00",
+      "src": "Helsingin kaupunki"
     },
     {
       "title": "Jätkäsaari on hyvän tuulen saari, jossa parasta ovat merellisyys, puistot ja ihmiset",
@@ -100,16 +100,16 @@
       "src": "Kaupunginosat.fi"
     },
     {
-      "title": "Terveydenhoito | Tuhansien helsinkiläisten terveysasemasta tuli vasemmiston ja oikeiston kiistakapula - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1KR0R1UEtiWGV1Z01HaU1nSlRVUXZJbEx6clp0MGtiaDQ0UUVsSUVHVzd0N1RlTDR1SGFIS2FwV2hTeFMxX19WTFFTT3lHbnZQemQ1SUpaaGd3VnpjVFE?oc=5",
-      "iso": "2026-11-11T18:12:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Naapurustoglögit 2.12.2026 yli 65-vuotiaille",
       "link": "https://kaupunginosat.fi/jatkasaari/naapurustoglogit-2-12-2026-yli-65-vuotiaille/",
       "iso": "2026-11-11T09:16:00+00:00",
       "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Helsingin Ruoholahdessa oli laaja meripelastustehtävä – mitään hätään viittaavaa ei löydetty - Etelä-Suomen Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JbmpqOUNpalAxZ3NJU3ZyNGowb3pVX0ExWjBtd0pkMW1OalVXUnFzZEdLazRKaUpQX0x2MmRoYzI0Q0VyVzdSQkhVOEU0QUIxOV9TWlV3?oc=5",
+      "iso": "2026-11-10T21:47:36+00:00",
+      "src": "Google News"
     },
     {
       "title": "Ilman vapaaehtoisia ei olisi Lapinlahtea",
@@ -126,6 +126,12 @@
     {
       "title": "Iso operaatio Ruoholahdessa – ihmistä etsittiin merestä - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tY3J4UE1JanNJLTNsOXNGVEZlQl91R0lCazY0QlNDSE1SYzZWOHViZGg2VEUxSWpsZEt0dWMzcHIxYzk0bm44dWtNVHdWa09fMUZXcHNva2VmU1lm?oc=5",
+      "iso": "2026-11-10T08:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Isot yölliset pelastusoperaatiot Helsingissä ja Espoossa – Tästä oli kyse - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53SWlfR196bC1ybk9EeEZIcVdxUVVER3A2REJBWFp4ZlAtSkZfM3ZGbEFfd3l6QnY0dUFfY0h0N0dBWWFMQnI5bmRMNUlueE9PWEZ6am12YXFZd3lkTXc2emUzeXFKcklSYlp2MGxaVVo3amdFNnJ3dFgyRQ?oc=5",
       "iso": "2026-11-10T08:00:00+00:00",
       "src": "Google News"
     },
@@ -166,22 +172,16 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
+      "title": "Ulkoistettu terveysasema jäi jälleen pöydälle Helsingissä – ”Tulokset ovat olleet hyviä\" - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V2lfTGJMeUJNdi13Mm9raElLdjNUNFZmQ0tPVUFaaXJVOTFYRjM4STJjaE9vN3BhS0ZHTXNfckhkeHJLVTJTb1lBN08ySFRNR1dYVVFVY1dLSFVvamdhcA?oc=5",
+      "iso": "2026-11-05T08:00:00+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Jätkäsaaren katutaideteoksia odottaa asentamista varastossa",
       "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-katutaideteoksia-odottaa-asentamista-varastossa/",
       "iso": "2026-11-05T05:00:42+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Suosituimmat annokset: kebab-lautanen ja poronkäristys",
-      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-kebab-lautanen-ja-poronkaristys/",
-      "iso": "2026-11-04T07:50:24+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Synkkiä satuja konserttisalissa",
-      "link": "https://www.konservatorio.fi/uutiset/synkkia-satuja-konserttisalissa/",
-      "iso": "2026-11-04T06:00:00+00:00",
-      "src": "Helsingin konservatorio"
     }
   ]
 }
