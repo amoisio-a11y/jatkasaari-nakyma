@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-21T15:38:13.121559+00:00",
+  "generated": "2026-11-21T21:09:58.327130+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -130,6 +130,12 @@
       "src": "Kaupunginosat.fi"
     },
     {
+      "title": "Helsingin Ruoholahdessa oli laaja meripelastustehtävä – mitään hätään viittaavaa ei löydetty - Etelä-Suomen Sanomat",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JbmpqOUNpalAxZ3NJU3ZyNGowb3pVX0ExWjBtd0pkMW1OalVXUnFzZEdLazRKaUpQX0x2MmRoYzI0Q0VyVzdSQkhVOEU0QUIxOV9TWlV3?oc=5",
+      "iso": "2026-11-10T21:47:36+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Ilman vapaaehtoisia ei olisi Lapinlahtea",
       "link": "https://lapinlahdenlahde.fi/artikkelit/ilman-vapaaehtoisia-ei-olisi-lapinlahtea/",
       "iso": "2026-11-10T16:34:53+00:00",
@@ -144,6 +150,12 @@
     {
       "title": "Iso operaatio Ruoholahdessa – ihmistä etsittiin merestä - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tY3J4UE1JanNJLTNsOXNGVEZlQl91R0lCazY0QlNDSE1SYzZWOHViZGg2VEUxSWpsZEt0dWMzcHIxYzk0bm44dWtNVHdWa09fMUZXcHNva2VmU1lm?oc=5",
+      "iso": "2026-11-10T08:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Isot yölliset pelastusoperaatiot Helsingissä ja Espoossa – Tästä oli kyse - Iltalehti",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53SWlfR196bC1ybk9EeEZIcVdxUVVER3A2REJBWFp4ZlAtSkZfM3ZGbEFfd3l6QnY0dUFfY0h0N0dBWWFMQnI5bmRMNUlueE9PWEZ6am12YXFZd3lkTXc2emUzeXFKcklSYlp2MGxaVVo3amdFNnJ3dFgyRQ?oc=5",
       "iso": "2026-11-10T08:00:00+00:00",
       "src": "Google News"
     },
@@ -170,18 +182,6 @@
       "link": "https://www.ruoholahdensanomat.fi/osallistu-paikalliseen-kirjoituskilpailuun/",
       "iso": "2026-11-08T06:03:33+00:00",
       "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
-      "iso": "2026-11-06T08:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SS3pJeVZtb1N0QVZmcTdOQkdNQUMzR3FGQjZ0MzV5c1JKWHRGYkh6N0VJZE45RWVLUDhROGptcWxaVHdMSk95ZFZFZzltR0tOeXFSZFBoMjR1WUlDTWZmTThzTFlqUXRqdWR1ZDVR?oc=5",
-      "iso": "2026-11-06T08:00:00+00:00",
-      "src": "Google News"
     }
   ]
 }
