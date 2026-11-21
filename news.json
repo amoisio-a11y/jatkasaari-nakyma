@@ -1,8 +1,14 @@
 {
-  "generated": "2026-11-21T00:35:38.267620+00:00",
+  "generated": "2026-11-21T07:42:43.270628+00:00",
   "count": 30,
   "failed": 0,
   "items": [
+    {
+      "title": "Pubivisa täyttää lähibaarin",
+      "link": "https://www.ruoholahdensanomat.fi/pubivisa-tayttaa-lahibaarin/",
+      "iso": "2026-11-21T07:01:00+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
     {
       "title": "Pääkonttorista neuvotellaan suljettujen ovien takana: Lapinlahden alue ansaitsee avointa yhteissuunnittelua",
       "link": "https://lapinlahdenlahde.fi/uutiset/paakonttorista-neuvotellaan-suljettujen-ovien-takana-lapinlahden-alue-ansaitsee-avointa-yhteissuunnittelua/",
@@ -37,12 +43,6 @@
       "title": "Näkökulma | Ruoholahden terveysaseman kohtalo on nyt vihreiden käsissä - Helsingin Uutiset",
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByRlZhR1NxR0x3RDdIelRKbzgtX3poRG1HU3JQX2p0WlJJM3ExZm55SVI2MWo0NGhnZ2JRdE9oQTEyR0ZTR0o3YV93dzZFSkNqM3J3WVFKSk1neTZUeTNfdw?oc=5",
       "iso": "2026-11-18T13:15:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren siltaremontti etenee – meripenkerettä puretaan vaiheittain - Helsingin kaupunki",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
-      "iso": "2026-11-18T08:00:00+00:00",
       "src": "Google News"
     },
     {
@@ -142,12 +142,6 @@
       "src": "Google News"
     },
     {
-      "title": "Isot yölliset pelastusoperaatiot Helsingissä ja Espoossa – Tästä oli kyse - Iltalehti",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE53SWlfR196bC1ybk9EeEZIcVdxUVVER3A2REJBWFp4ZlAtSkZfM3ZGbEFfd3l6QnY0dUFfY0h0N0dBWWFMQnI5bmRMNUlueE9PWEZ6am12YXFZd3lkTXc2emUzeXFKcklSYlp2MGxaVVo3amdFNnJ3dFgyRQ?oc=5",
-      "iso": "2026-11-10T08:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Iso operaatio Ruoholahdessa – ihmistä etsittiin merestä - Ilta-Sanomat",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9tY3J4UE1JanNJLTNsOXNGVEZlQl91R0lCazY0QlNDSE1SYzZWOHViZGg2VEUxSWpsZEt0dWMzcHIxYzk0bm44dWtNVHdWa09fMUZXcHNva2VmU1lm?oc=5",
       "iso": "2026-11-10T08:00:00+00:00",
@@ -180,6 +174,12 @@
     {
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
+      "iso": "2026-11-06T08:00:00+00:00",
+      "src": "Google News"
+    },
+    {
+      "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9SS3pJeVZtb1N0QVZmcTdOQkdNQUMzR3FGQjZ0MzV5c1JKWHRGYkh6N0VJZE45RWVLUDhROGptcWxaVHdMSk95ZFZFZzltR0tOeXFSZFBoMjR1WUlDTWZmTThzTFlqUXRqdWR1ZDVR?oc=5",
       "iso": "2026-11-06T08:00:00+00:00",
       "src": "Google News"
     }
