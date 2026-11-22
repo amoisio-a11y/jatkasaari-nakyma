@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-22T16:34:25.607029+00:00",
+  "generated": "2026-11-22T22:02:54.241200+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -28,22 +28,10 @@
       "src": "Google News"
     },
     {
-      "title": "Nopea hoitoonpääsy, korkea asiakastyytyväisyys ja hyödyt kaupungin omien terveyspalvelujen kehittämisen kannalta ratkaisivat vihreiden kannan Ruoholahden terveysasemasta - STT Info",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPWTFlYzFxWVgzdEQycUNXSDhXWURST2FUUENoWXpTMHdtOEh5T3ctOEQ0d09XOVNra3RrZ2JSNXNJUzllaVlva2dHenVhQ3k5TFNCZnRzWmNralVqdXlmLVJxREVaTWtrUGtiUmNDdXlqU21LME0yYXpjbWN5QmNyYUJjRkh2RThreHpOb1M3c1VZR3FEYTNZcEZMWlh3Y2dxWjdwdW5tUnVKN0Itc1BmOXVQN2xiaXNDVXhPdE96NjlUSkpreDNKSzNuR3NTUUNCZEpkWWlwcE1OaV9seWRXMVkwU0FJYnhiMWxDVmdjMGMyU2Fkc0NjU3RueG9QUHJvLWFVajhHdVN6VE03TWxEdXYtdGx3MjYxSVltZ1VfOXRSdDZOVmMtZk9JVWFLSE5DZXU2dF93Q0doZDVycVo5cm1adThCWEt4UlVjYmoxUEY2UTZCUF9ySw?oc=5",
-      "iso": "2026-11-19T05:00:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Jätkäsaari-seuran syyskokouksen päätöksiä",
       "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-syyskokouksen-paatoksia/",
       "iso": "2026-11-18T17:42:58+00:00",
       "src": "Kaupunginosat.fi"
-    },
-    {
-      "title": "Näkökulma | Ruoholahden terveysaseman kohtalo on nyt vihreiden käsissä - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFByRlZhR1NxR0x3RDdIelRKbzgtX3poRG1HU3JQX2p0WlJJM3ExZm55SVI2MWo0NGhnZ2JRdE9oQTEyR0ZTR0o3YV93dzZFSkNqM3J3WVFKSk1neTZUeTNfdw?oc=5",
-      "iso": "2026-11-18T13:15:00+00:00",
-      "src": "Google News"
     },
     {
       "title": "Jätkäsaari-seuran hallitus 2027",
@@ -182,6 +170,18 @@
       "link": "https://www.hel.fi/fi/uutiset/lansisataman-rakennustyot-etenevat-lahialueelle-kantautuu-ajoittaista-melua",
       "iso": "2026-11-04T08:04:20+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Suosituimmat annokset: kebab-lautanen ja poronkäristys",
+      "link": "https://www.ruoholahdensanomat.fi/suosituimmat-annokset-kebab-lautanen-ja-poronkaristys/",
+      "iso": "2026-11-04T07:50:24+00:00",
+      "src": "Jätkäsaari Ruoholahti"
+    },
+    {
+      "title": "Synkkiä satuja konserttisalissa",
+      "link": "https://www.konservatorio.fi/uutiset/synkkia-satuja-konserttisalissa/",
+      "iso": "2026-11-04T06:00:00+00:00",
+      "src": "Helsingin konservatorio"
     }
   ]
 }
