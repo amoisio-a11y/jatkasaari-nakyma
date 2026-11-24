@@ -1,7 +1,7 @@
 {
-  "generated": "2026-11-23T22:50:40.753073+00:00",
+  "generated": "2026-11-24T06:44:02.922522+00:00",
   "count": 30,
-  "failed": 2,
+  "failed": 0,
   "items": [
     {
       "title": "Pubivisa täyttää lähibaarin",
@@ -22,16 +22,28 @@
       "src": "Jätkäsaaren pysäköinti"
     },
     {
-      "title": "Vihreät kertoi kantansa: Ruoholahden ulkoistettu terveysasema saa jatkaa | Paikalliset - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HbUR0TWFyWFNucXg4MzQtUllSYXRVcENFZ1loRi11WWx1cm9feV8xUXRGbVBWcUNEcWNrY0k2RlA0MW5YMUhoajlCTUJ2RjdpZTFpM3p3eWtrSkM5Q0NOQQ?oc=5",
-      "iso": "2026-11-19T06:58:27+00:00",
-      "src": "Google News"
+      "title": "Jätkäsaari-seuran syyskokouksen päätöksiä",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-syyskokouksen-paatoksia/",
+      "iso": "2026-11-18T17:42:58+00:00",
+      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Jätkäsaaren siltaremontti etenee – meripenkerettä puretaan vaiheittain - Helsingin kaupunki",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9xeDM3UHh6bGFMNnBZXzVpX0FEZ2U1RjM4NnZaWFMzSEkwMkx3X1pzY3R3czZpV0R5SGJ4VHdnUDFMQ0ZqNkMxUF9HVWdzVUJfVlVuaWNVWVdZU01oS2VWVUgxYUktTkI4clRoVWo3QVVsVVpwWDRn?oc=5",
       "iso": "2026-11-18T08:00:00+00:00",
       "src": "Google News"
+    },
+    {
+      "title": "Jätkäsaari-seuran hallitus 2027",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-seuran-hallitus-2027/",
+      "iso": "2026-11-18T07:41:24+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Näin Länsisatama uudistuu lähitulevaisuudessa",
+      "link": "https://kaupunginosat.fi/jatkasaari/nain-lansisatama-uudistuu-lahitulevaisuudessa/",
+      "iso": "2026-11-17T14:23:37+00:00",
+      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Helsinki teetti pika-​arvion kiis­tel­lystä terveys­a­se­masta – hinta lähes 20 000 euroa - Helsingin Uutiset",
@@ -44,6 +56,12 @@
       "link": "https://www.hel.fi/fi/uutiset/lapinlahden-tulevien-ratkaisujen-valmistelu-jatkuu-vuoropuhelussa-alueen-toimijoiden-kanssa",
       "iso": "2026-11-17T12:00:11+00:00",
       "src": "Helsingin kaupunki"
+    },
+    {
+      "title": "Jätkäsaari on hyvän tuulen saari, jossa parasta ovat merellisyys, puistot ja ihmiset",
+      "link": "https://kaupunginosat.fi/jatkasaari/jatkasaari-on-hyvan-tuulen-saari-jossa-parasta-ovat-merellisyys-puistot-ja-ihmiset/",
+      "iso": "2026-11-16T16:20:00+00:00",
+      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
@@ -74,6 +92,24 @@
       "link": "https://jatkasaarenroori.fi/2026/11/12/osallistu-roorin-asiakaskyselyyn-ja-voita-4/",
       "iso": "2026-11-12T07:51:40+00:00",
       "src": "Rööri"
+    },
+    {
+      "title": "Tervetuloa Jätkäsaari-seuran syyskokoukseen maanantaina 16.11.2026 klo 18",
+      "link": "https://kaupunginosat.fi/jatkasaari/tervetuloa-jatkasaari-seuran-syyskokoukseen-maanantaina-16-11-2026-klo-18/",
+      "iso": "2026-11-12T07:32:18+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Saukonpaadenrannan toimistorakennuksia koskevaan varaukseen ei ole vielä haettu jatkoaikaa",
+      "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevaan-varaukseen-ei-ole-viela-haettu-jatkoaikaa/",
+      "iso": "2026-11-12T07:30:24+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Naapurustoglögit 2.12.2026 yli 65-vuotiaille",
+      "link": "https://kaupunginosat.fi/jatkasaari/naapurustoglogit-2-12-2026-yli-65-vuotiaille/",
+      "iso": "2026-11-11T09:16:00+00:00",
+      "src": "Kaupunginosat.fi"
     },
     {
       "title": "Helsingin Ruoholahdessa oli laaja meripelastustehtävä – mitään hätään viittaavaa ei löydetty - Etelä-Suomen Sanomat",
@@ -130,12 +166,6 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Roborock avaa ensimmäisen oman Suomen-myymälänsä Helsinkiin 13. marraskuuta – avajaisissa luvassa yllättävä käänteinen ämpäritarjous - Mobiili.fi",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNckJnR3RrNm9xUGRoQnNLR1ZVa2M5bVA5U3laNXdUMXNMZWJrQVlOc0x3US1CX2dMOWNZeWJ4dFdHVVlJc1ZieFNNRnNCSWZpaUpqZ2c1QUNaV0p2d1A0QVVfbW11VTBEMk42Z3dQZ29CcllqU1RxY2p1M2s4bXAxa25vMFZWdnNGc0NSRERva1JNQlZRT1dKXzJYeFBqbE9pa1E4RjVpTjBabU9nOERJelZsOWhFcHcyUGpyR2R0LXRLUDdNNmtRVkRKcDdCTHhQQ3IzVDAtMlZSZm5Fci15TThmMVh0TmppSFlrbXBad1B6Zw?oc=5",
-      "iso": "2026-11-06T09:19:00+00:00",
-      "src": "Google News"
-    },
-    {
       "title": "Terveydenhuolto | Ruoholahden terveysaseman ulkoistus on ollut menestys, mutta jatko on vaakalaudalla - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1VYnpJMVpiRmFOeHVLaW5MY202SV91U2l1N0pidFVFeWVzM1U5SHNyZ1RaR2NxVHBSdjdkbDhNRzE5V3AzdDlvRm1KNm5EUEk2VU1RX3FJNmI2UVdCZkE?oc=5",
       "iso": "2026-11-06T08:00:00+00:00",
@@ -152,36 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0zRjJJZm1wRXU0eFJrVDlTR25EWTlFbThSTldpT2FNMXJRbTBsaUdBSXdxb0YzSkZhcmY0QXlFVUx2eWZvWWdTRUV5OTJjRXhSUUJPa1NDRWZMYWhL?oc=5",
       "iso": "2026-11-06T06:26:42+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren Pysäköinnin asiakastiedote",
-      "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469509",
-      "iso": "2026-11-05T10:32:46+00:00",
-      "src": "Jätkäsaaren pysäköinti"
-    },
-    {
-      "title": "Lyhytvuokrauksen sääntöjä selkeytetään – ”naapureiden asumisrauhaa on kunnioitettava” - Verkkouutiset",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNeTNyYVpnSlhtekg2SkNXT0U4c3RoR1VFdmN1MnJwMDRSbFk2dzNWZDM4NHFpNTdYZjFsUm4wRk15bU9QX1lzWkJtR2FkZGVHM0FYRXVVaEZsZWRSTlNKRVY1R25HV1k3RGZOdGUxZE9mZU1XenlEb3VQQVJTejRuek80UHh4OXZ0X1RtRGVDWGtFaldWTWptNmhmV3pRRTNUeFdhZWhQNG01WUNRTWVXenowNA?oc=5",
-      "iso": "2026-11-05T08:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Ulkoistettu terveysasema jäi jälleen pöydälle Helsingissä – ”Tulokset ovat olleet hyviä\" - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE81V2lfTGJMeUJNdi13Mm9raElLdjNUNFZmQ0tPVUFaaXJVOTFYRjM4STJjaE9vN3BhS0ZHTXNfckhkeHJLVTJTb1lBN08ySFRNR1dYVVFVY1dLSFVvamdhcA?oc=5",
-      "iso": "2026-11-05T05:30:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "Jätkäsaaren katutaideteoksia odottaa asentamista varastossa",
-      "link": "https://www.ruoholahdensanomat.fi/jatkasaaren-katutaideteoksia-odottaa-asentamista-varastossa/",
-      "iso": "2026-11-05T05:00:42+00:00",
-      "src": "Jätkäsaari Ruoholahti"
-    },
-    {
-      "title": "Länsisataman rakennustyöt etenevät – lähialueelle kantautuu ajoittaista melua",
-      "link": "https://www.hel.fi/fi/uutiset/lansisataman-rakennustyot-etenevat-lahialueelle-kantautuu-ajoittaista-melua",
-      "iso": "2026-11-04T08:04:20+00:00",
-      "src": "Helsingin kaupunki"
     }
   ]
 }
