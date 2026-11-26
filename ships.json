@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T11:09:06.930505Z",
+  "generated": "2026-11-26T20:07:15.309964Z",
   "arrivals": [
     {
       "name": "Megastar",
@@ -24,7 +24,7 @@
     {
       "name": "Finlandia",
       "agent": "Eckerö Line Ab Oy",
-      "arrTime": "2026-11-26T12:15:00Z"
+      "arrTime": "2026-11-26T12:16:00Z"
     },
     {
       "name": "MyStar",
@@ -34,22 +34,22 @@
     {
       "name": "Victoria I",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-11-26T14:00:00Z"
+      "arrTime": "2026-11-26T13:58:00Z"
     },
     {
       "name": "Megastar",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-11-26T16:30:00Z"
+      "arrTime": "2026-11-26T16:34:00Z"
     },
     {
       "name": "Finlandia",
       "agent": "Eckerö Line Ab Oy",
-      "arrTime": "2026-11-26T19:00:00Z"
+      "arrTime": "2026-11-26T18:59:00Z"
     },
     {
       "name": "MyStar",
       "agent": "Tallink Silja Oy",
-      "arrTime": "2026-11-26T19:30:00Z"
+      "arrTime": "2026-11-26T19:31:00Z"
     },
     {
       "name": "Megastar",
