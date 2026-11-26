@@ -1,14 +1,8 @@
 {
-  "generated": "2026-11-26T03:07:47.884280+00:00",
+  "generated": "2026-11-26T12:29:57.388370+00:00",
   "count": 30,
   "failed": 0,
   "items": [
-    {
-      "title": "Ihmisiä Lähteellä: Niina Into",
-      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-niina-into/",
-      "iso": "2026-11-25T14:36:48+00:00",
-      "src": "Lapinlahden lähde"
-    },
     {
       "title": "Terveysaseman ulkoistamiselle jatkoa Helsingissä - Lääkärilehti",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0lSYXl3N1p2dlpmbTlfMGtVNjRjRWFBbG5zbWNRVzlpdVZGeXA4WDlTTVVQbkFRa2NFOFJCS2JqQjJJcDJQR3pMMWV0am12c0hMZWVHM3FSRV9oS19Sb245SG1admxtbjRoQm5NcElsUEYzeDBzQUxneU4zVW0xdkJ4eEtsME01T1FfOFRjOEgtUWFZcER0TnJKXzlYT0FqRU5qaGh3RUxZNGJnTXg0NDZpcHVqa04xSU52eVAyc0E?oc=5",
@@ -40,22 +34,28 @@
       "src": "Google News"
     },
     {
+      "title": "Kiistelty terveysasema jatkaa yksityisen pyörittämänä | Paikalliset - Helsingin Uutiset",
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42NGp6aWxIVjkyMmVJSmlFSTJmUjhxSlVsX3ItbXZmZFdWTzlINERtSDVadnkwVldaMDJ3ZUFBT3dZMkVQMGtaeGxJd0tKYmZkaVdITDlWVUVnOUJZLW5zVQ?oc=5",
+      "iso": "2026-11-24T16:13:34+00:00",
+      "src": "Google News"
+    },
+    {
       "title": "Terveys | Terveysjätti saa todennäköisesti jatkaa terveysaseman pyörittämistä Helsingin Ruoholahdessa - HS.fi",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rZGd2bXlMMU5hbGxZaU9mV3FsNmxQa1VVV21VaXJjZVlaZjRLY1BqT2RvSkhuZFoyajlFQ05PbWR2ME50Y1FvOFlySl9ZY1lFbmY3M0xPVnBRenpSVEE?oc=5",
       "iso": "2026-11-24T13:11:00+00:00",
       "src": "Google News"
     },
     {
-      "title": "Ihmisiä Lähteellä: Pekka Järvilehto",
-      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-pekka-jarvilehto/",
-      "iso": "2026-11-24T09:24:28+00:00",
+      "title": "Pääkonttorista neuvotellaan suljettujen ovien takana: Lapinlahden alue ansaitsee avointa yhteissuunnittelua",
+      "link": "https://lapinlahdenlahde.fi/uutiset/paakonttorista-neuvotellaan-suljettujen-ovien-takana-lapinlahden-alue-ansaitsee-avointa-yhteissuunnittelua/",
+      "iso": "2026-11-22T12:20:48+00:00",
       "src": "Lapinlahden lähde"
     },
     {
-      "title": "Kiistelty terveysasema jatkaa yksityisen pyörittämänä | Paikalliset - Helsingin Uutiset",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42NGp6aWxIVjkyMmVJSmlFSTJmUjhxSlVsX3ItbXZmZFdWTzlINERtSDVadnkwVldaMDJ3ZUFBT3dZMkVQMGtaeGxJd0tKYmZkaVdITDlWVUVnOUJZLW5zVQ?oc=5",
-      "iso": "2026-11-22T22:00:00+00:00",
-      "src": "Google News"
+      "title": "Ihmisiä Lähteellä: Niina Into",
+      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-niina-into/",
+      "iso": "2026-11-21T14:36:48+00:00",
+      "src": "Lapinlahden lähde"
     },
     {
       "title": "Pubivisa täyttää lähibaarin",
@@ -64,9 +64,9 @@
       "src": "Jätkäsaari Ruoholahti"
     },
     {
-      "title": "Pääkonttorista neuvotellaan suljettujen ovien takana: Lapinlahden alue ansaitsee avointa yhteissuunnittelua",
-      "link": "https://lapinlahdenlahde.fi/uutiset/paakonttorista-neuvotellaan-suljettujen-ovien-takana-lapinlahden-alue-ansaitsee-avointa-yhteissuunnittelua/",
-      "iso": "2026-11-20T12:20:48+00:00",
+      "title": "”Viikoittainen tietoinen hetki luonnossa teki todella hyvää” – osallistujien kokemuksia Pro Lapinlahden kesäkurssista",
+      "link": "https://lapinlahdenlahde.fi/artikkelit/viikoittainen-tietoinen-hetki-luonnossa-teki-todella-hyvaa-osallistujien-kokemuksia-pro-lapinlahden-kesakurssista/",
+      "iso": "2026-11-20T06:59:14+00:00",
       "src": "Lapinlahden lähde"
     },
     {
@@ -74,6 +74,12 @@
       "link": "https://mailchi.mp/jatkasaarenpysakointi/17469197-17469678",
       "iso": "2026-11-19T14:30:00+00:00",
       "src": "Jätkäsaaren pysäköinti"
+    },
+    {
+      "title": "Ihmisiä Lähteellä: Pekka Järvilehto",
+      "link": "https://lapinlahdenlahde.fi/ihmisia-lahteella/ihmisia-lahteella-pekka-jarvilehto/",
+      "iso": "2026-11-19T09:24:28+00:00",
+      "src": "Lapinlahden lähde"
     },
     {
       "title": "Vihreät kertoi kantansa: Ruoholahden ulkoistettu terveysasema saa jatkaa | Paikalliset - Helsingin Uutiset",
@@ -176,12 +182,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JbmpqOUNpalAxZ3NJU3ZyNGowb3pVX0ExWjBtd0pkMW1OalVXUnFzZEdLazRKaUpQX0x2MmRoYzI0Q0VyVzdSQkhVOEU0QUIxOV9TWlV3?oc=5",
       "iso": "2026-11-10T21:47:36+00:00",
       "src": "Google News"
-    },
-    {
-      "title": "Ilman vapaaehtoisia ei olisi Lapinlahtea",
-      "link": "https://lapinlahdenlahde.fi/artikkelit/ilman-vapaaehtoisia-ei-olisi-lapinlahtea/",
-      "iso": "2026-11-10T16:34:53+00:00",
-      "src": "Lapinlahden lähde"
     }
   ]
 }
