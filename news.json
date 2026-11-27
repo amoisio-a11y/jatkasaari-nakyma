@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T13:29:11.048695+00:00",
+  "generated": "2026-11-27T22:16:01.686038+00:00",
   "count": 30,
   "failed": 0,
   "items": [
@@ -13,12 +13,6 @@
       "title": "Terveysaseman ulkoistamiselle jatkoa Helsingissä - Lääkärilehti",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQd0lSYXl3N1p2dlpmbTlfMGtVNjRjRWFBbG5zbWNRVzlpdVZGeXA4WDlTTVVQbkFRa2NFOFJCS2JqQjJJcDJQR3pMMWV0am12c0hMZWVHM3FSRV9oS19Sb245SG1admxtbjRoQm5NcElsUEYzeDBzQUxneU4zVW0xdkJ4eEtsME01T1FfOFRjOEgtUWFZcER0TnJKXzlYT0FqRU5qaGh3RUxZNGJnTXg0NDZpcHVqa04xSU52eVAyc0E?oc=5",
       "iso": "2026-11-25T13:00:00+00:00",
-      "src": "Google News"
-    },
-    {
-      "title": "KAS asumisoikeus palauttaa Jätkäsaaren aso-kohteen lisäkorotuksia lautakunnan ratkaisun jälkeen - Traders Union",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMExrWXVyUFZGT3F2Z041RkYxYkJJRmY3emowanAwWnZucUlnbXM4TWwwQ3IwTVc5U3pmZGlvb3VCTlllX2lXWk8yWW01NEI1NmtVa3FSN3JXQnFuT2xUbE1TSWl0TzNkSmt0RGx6eHdhQnF4ZmpMXzdnU2FlWGVsdDIwQkpfTUhxNmU4T0h0RE1BcUV2aVBaUjZLeDFDOGc?oc=5",
-      "iso": "2026-11-25T11:21:25+00:00",
       "src": "Google News"
     },
     {
@@ -181,6 +175,12 @@
       "title": "Saukonpaadenrannan toimistorakennuksia koskevaan varaukseen ei ole vielä haettu jatkoaikaa",
       "link": "https://kaupunginosat.fi/jatkasaari/saukonpaadenrannan-toimistorakennuksia-koskevaan-varaukseen-ei-ole-viela-haettu-jatkoaikaa/",
       "iso": "2026-11-12T07:30:24+00:00",
+      "src": "Kaupunginosat.fi"
+    },
+    {
+      "title": "Naapurustoglögit 2.12.2026 yli 65-vuotiaille",
+      "link": "https://kaupunginosat.fi/jatkasaari/naapurustoglogit-2-12-2026-yli-65-vuotiaille/",
+      "iso": "2026-11-11T09:16:00+00:00",
       "src": "Kaupunginosat.fi"
     }
   ]
